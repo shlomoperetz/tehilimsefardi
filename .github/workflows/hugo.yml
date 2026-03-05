@@ -1,23 +1,15 @@
 name: Deploy Hugo site to Pages
-
 on:
   push:
     branches: ["main"]
   workflow_dispatch:
-
 permissions:
   contents: read
   pages: write
   id-token: write
-
 concurrency:
   group: "pages"
   cancel-in-progress: false
-
-defaults:
-  run:
-    shell: bash
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -30,19 +22,12 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
       - name: Build with Hugo
-        env:
-          HUGO_ENVIRONMENT: production
-          HUGO_BASEURL: https://tehilimsefardi.com/
         run: hugo --minify --baseURL "https://tehilimsefardi.com/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-
   deploy:
     environment:
       name: github-pages
