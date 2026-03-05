@@ -1,0 +1,270 @@
+/* ================================
+   TEHILIM SEFARDÍ — Base Styles
+   ================================ */
+
+:root {
+  --color-bg: #fdfaf5;
+  --color-text: #1a1a1a;
+  --color-text-muted: #666;
+  --color-he: #1a1a1a;
+  --color-translit: #555;
+  --color-es: #222;
+  --color-accent: #8b6914;
+  --color-border: #e8e0d0;
+  --font-he: 'Times New Roman', 'David', serif;
+  --font-body: Georgia, 'Times New Roman', serif;
+  --font-ui: system-ui, -apple-system, sans-serif;
+  --max-width: 720px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ——— Header ——— */
+header {
+  border-bottom: 1px solid var(--color-border);
+  padding: 1rem 2rem;
+}
+
+nav {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.site-title {
+  font-family: var(--font-he);
+  font-size: 1.1rem;
+  color: var(--color-accent);
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+
+.site-title:hover {
+  opacity: 0.8;
+}
+
+/* ——— Main ——— */
+main {
+  flex: 1;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 3rem 2rem;
+  width: 100%;
+}
+
+/* ——— Home ——— */
+.home .intro {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.home h1 {
+  font-family: var(--font-he);
+  font-size: 3.5rem;
+  color: var(--color-accent);
+  direction: rtl;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  color: var(--color-text-muted);
+  font-style: italic;
+  font-size: 1rem;
+}
+
+.psalm-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(52px, 1fr));
+  gap: 0.5rem;
+}
+
+.psalm-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.6rem 0.4rem;
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  text-decoration: none;
+  color: var(--color-text);
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  transition: all 0.15s ease;
+  background: white;
+}
+
+.psalm-link:hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+  background: #fdf6e3;
+}
+
+/* ——— Psalm page ——— */
+.psalm-header {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.psalm-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+}
+
+.psalm-nav a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+.psalm-nav a:hover {
+  text-decoration: underline;
+}
+
+.psalm-title {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.psalm-number-he {
+  font-family: var(--font-he);
+  font-size: 1.8rem;
+  color: var(--color-accent);
+  direction: rtl;
+}
+
+.psalm-label {
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  font-weight: normal;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.psalm-subtitle-he {
+  text-align: center;
+  direction: rtl;
+  font-family: var(--font-he);
+  font-size: 1rem;
+  color: var(--color-text-muted);
+  margin-top: 0.75rem;
+}
+
+.psalm-subtitle-es {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  margin-top: 0.25rem;
+}
+
+/* ——— Verses ——— */
+.verses {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.verse {
+  display: grid;
+  grid-template-columns: 2rem 1fr;
+  gap: 0 1rem;
+  align-start: start;
+}
+
+.verse-number {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  padding-top: 0.3rem;
+  text-align: right;
+}
+
+.verse-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.verse-he {
+  font-family: var(--font-he);
+  font-size: 1.4rem;
+  line-height: 1.8;
+  color: var(--color-he);
+  direction: rtl;
+  text-align: right;
+}
+
+.verse-translit {
+  font-size: 0.95rem;
+  color: var(--color-translit);
+  line-height: 1.5;
+}
+
+.verse-es {
+  font-size: 1rem;
+  color: var(--color-es);
+  line-height: 1.6;
+}
+
+/* ——— Footer ——— */
+.psalm-footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+}
+
+footer {
+  border-top: 1px solid var(--color-border);
+  padding: 1.5rem 2rem;
+  text-align: center;
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+/* ——— Responsive ——— */
+@media (max-width: 600px) {
+  main {
+    padding: 2rem 1.25rem;
+  }
+
+  .verse {
+    grid-template-columns: 1.5rem 1fr;
+    gap: 0 0.75rem;
+  }
+
+  .verse-he {
+    font-size: 1.25rem;
+  }
+
+  .home h1 {
+    font-size: 2.5rem;
+  }
+}
