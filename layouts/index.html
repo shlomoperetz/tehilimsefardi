@@ -7,7 +7,7 @@
 
   <div class="psalm-grid">
     {{ range $i := seq 150 }}
-    <a href="{{ (printf "/tehilim/%03d/" $i) | relURL }}" class="psalm-link">
+    <a href="{{ printf "/tehilimsefardi/tehilim/%03d/" $i }}" class="psalm-link">
       {{ $i }}
     </a>
     {{ end }}
