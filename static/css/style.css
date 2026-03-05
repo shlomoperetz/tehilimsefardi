@@ -41,7 +41,7 @@ body {
 a { color: var(--gold); text-decoration: none; }
 a:hover { opacity: 0.8; }
 
-/* ——— Topbar ——— */
+/* --- Topbar --- */
 header.topbar {
   position: sticky;
   top: 0;
@@ -66,7 +66,7 @@ header.topbar {
   color: var(--gold);
 }
 
-/* ——— Page ——— */
+/* --- Page --- */
 .page {
   max-width: var(--maxw);
   margin: 0 auto;
@@ -74,7 +74,7 @@ header.topbar {
   direction: rtl;
 }
 
-/* ——— Home ——— */
+/* --- Home --- */
 .home-intro {
   text-align: center;
   margin: 2rem 0 2.5rem;
@@ -128,7 +128,7 @@ header.topbar {
   opacity: 1;
 }
 
-/* ——— Nav ——— */
+/* --- Nav --- */
 .psalm-nav {
   display: flex;
   justify-content: space-between;
@@ -148,7 +148,7 @@ header.topbar {
   margin-top: 2.5rem;
 }
 
-/* ——— Cabecera salmo ——— */
+/* --- Cabecera salmo --- */
 .psalm-header {
   text-align: center;
   margin-bottom: 2rem;
@@ -189,7 +189,7 @@ header.topbar {
   direction: ltr;
 }
 
-/* ——— Cuerpo del salmo — flujo continuo ——— */
+/* --- Cuerpo del salmo --- */
 .psalm-body {
   direction: rtl;
 }
@@ -235,7 +235,7 @@ header.topbar {
   line-height: 1.6;
 }
 
-/* ——— Footer ——— */
+/* --- Footer --- */
 footer {
   border-top: 1px solid var(--border);
   padding: 1.25rem var(--pad);
@@ -246,7 +246,7 @@ footer {
   direction: ltr;
 }
 
-/* ——— Mobile ——— */
+/* --- Mobile --- */
 @media (max-width: 520px) {
   :root { --pad: 16px; --font: 20px; }
   .home-title { font-size: 2.4rem; }
