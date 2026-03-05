@@ -1,0 +1,342 @@
+/* ================================
+   TEHILIM SEFARDÍ — Mobile First
+   ================================ */
+
+:root {
+  --text-color: #1a1a1a;
+  --muted-color: #888;
+  --accent-color: #b8973a;
+  --bg-color: #fafaf8;
+  --border-color: #e0ddd6;
+  --font-he: 'Noto Serif Hebrew', serif;
+  --font-body: Georgia, serif;
+  --font-ui: system-ui, -apple-system, sans-serif;
+  --max-width: 720px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 17px;
+  line-height: 1.7;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--bg-color);
+  color: var(--text-color);
+  font-family: var(--font-body);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ——— Header ——— */
+header {
+  border-bottom: 1px solid var(--border-color);
+  padding: 0.85rem 1.25rem;
+}
+
+nav {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.site-title {
+  font-family: var(--font-he);
+  font-size: 1.05rem;
+  color: var(--accent-color);
+  text-decoration: none;
+  letter-spacing: 0.01em;
+}
+
+.site-title:hover {
+  opacity: 0.8;
+}
+
+/* ——— Main ——— */
+main {
+  flex: 1;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 2rem 1.25rem;
+  width: 100%;
+}
+
+/* ——— Home ——— */
+.home .intro {
+  text-align: center;
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.home h1 {
+  font-family: var(--font-he);
+  font-size: 2.8rem;
+  color: var(--accent-color);
+  direction: rtl;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  color: var(--muted-color);
+  font-style: italic;
+  font-size: 0.95rem;
+}
+
+.psalm-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(48px, 1fr));
+  gap: 0.45rem;
+}
+
+.psalm-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.65rem 0.3rem;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  text-decoration: none;
+  color: var(--text-color);
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  background: white;
+  transition: all 0.15s ease;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+.psalm-link:hover,
+.psalm-link:active {
+  border-color: var(--accent-color);
+  color: var(--accent-color);
+  background: #fdf6e3;
+}
+
+/* ——— Psalm page ——— */
+.psalm-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.psalm-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.25rem;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+}
+
+.psalm-nav a {
+  color: var(--accent-color);
+  text-decoration: none;
+  padding: 0.3rem 0;
+}
+
+.psalm-nav a:hover {
+  text-decoration: underline;
+}
+
+.psalm-title {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.psalm-number-he {
+  font-family: var(--font-he);
+  font-size: 1.6rem;
+  color: var(--accent-color);
+  direction: rtl;
+}
+
+.psalm-label {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--muted-color);
+  font-weight: normal;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.psalm-subtitle-he {
+  text-align: center;
+  direction: rtl;
+  font-family: var(--font-he);
+  font-size: 1rem;
+  color: var(--muted-color);
+  margin-top: 0.75rem;
+}
+
+.psalm-subtitle-es {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--muted-color);
+  margin-top: 0.25rem;
+}
+
+/* ——— Clases del siddur ——— */
+
+.prayer-block {
+  margin-bottom: 2rem;
+}
+
+.prayer-title {
+  font-family: var(--font-he);
+  font-weight: 600;
+  text-align: center;
+  margin: 1.5rem 0 0.5rem;
+  direction: rtl;
+  font-size: 1.1rem;
+}
+
+.prayer-text {
+  font-family: var(--font-he);
+  font-weight: 400;
+  font-style: normal;
+  line-height: 2.2;
+  direction: rtl;
+  text-align: justify;
+  font-size: 1.3rem;
+}
+
+.instruction {
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--muted-color);
+  direction: rtl;
+  margin: 0.4rem 0;
+}
+
+.inline-instruction {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  font-style: italic;
+  color: var(--muted-color);
+}
+
+.source-ref {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  color: var(--muted-color);
+  opacity: 0.75;
+}
+
+.kavana {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--muted-color);
+  text-align: center;
+  font-style: italic;
+  direction: rtl;
+}
+
+/* ——— Verses ——— */
+.verses {
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+}
+
+.verse {
+  display: grid;
+  grid-template-columns: 1.5rem 1fr;
+  gap: 0 0.75rem;
+  align-items: start;
+}
+
+.verse-number {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  color: var(--muted-color);
+  padding-top: 0.4rem;
+  text-align: right;
+}
+
+.verse-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.verse-he {
+  font-family: var(--font-he);
+  font-size: 1.3rem;
+  line-height: 1.9;
+  color: var(--text-color);
+  direction: rtl;
+  text-align: right;
+}
+
+.verse-translit {
+  font-size: 0.9rem;
+  color: var(--muted-color);
+  line-height: 1.5;
+  font-style: italic;
+}
+
+.verse-es {
+  font-size: 0.95rem;
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+/* ——— Footer ——— */
+.psalm-footer {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color);
+}
+
+footer {
+  border-top: 1px solid var(--border-color);
+  padding: 1.25rem;
+  text-align: center;
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  color: var(--muted-color);
+}
+
+/* ——— Desktop ——— */
+@media (min-width: 600px) {
+  html {
+    font-size: 18px;
+  }
+
+  main {
+    padding: 3rem 2rem;
+  }
+
+  header {
+    padding: 1rem 2rem;
+  }
+
+  .home h1 {
+    font-size: 3.5rem;
+  }
+
+  .verse {
+    grid-template-columns: 2rem 1fr;
+    gap: 0 1rem;
+  }
+
+  .verse-he {
+    font-size: 1.4rem;
+  }
+
+  .prayer-text {
+    font-size: 1.4rem;
+  }
+}
