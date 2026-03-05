@@ -220,6 +220,7 @@ header.topbar {
 }
 
 .verse {
+  direction: ltr;
   display: grid;
   grid-template-columns: 1.6rem 1fr;
   gap: 0 0.6rem;
@@ -378,6 +379,7 @@ footer {
   }
 
   .verse {
+  direction: ltr;
     grid-template-columns: 1.2rem 1fr;
   }
 }
