@@ -1,16 +1,11 @@
 {{ define "main" }}
-<section class="home">
-  <div class="intro">
-    <h1>תְּהִלִּים</h1>
-    <p class="subtitle">Libro de los Salmos · Con transliteración sefardí</p>
-  </div>
-
-  <div class="psalm-grid">
-    {{ range $i := seq 150 }}
-    <a href="{{ printf "/tehilim/%03d/" $i }}" class="psalm-link">
-      {{ $i }}
-    </a>
-    {{ end }}
-  </div>
-</section>
+<div class="home-intro">
+  <h1 class="home-title">תְּהִלִּים</h1>
+  <p class="home-subtitle">Libro de los Salmos · Transliteración sefardí</p>
+</div>
+<div class="psalm-grid">
+  {{ range $i := seq 150 }}
+  <a href="{{ printf "/tehilim/%03d/" $i }}" class="psalm-link">{{ $i }}</a>
+  {{ end }}
+</div>
 {{ end }}
