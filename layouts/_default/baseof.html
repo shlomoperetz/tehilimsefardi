@@ -8,7 +8,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Hebrew:wght@400;600;700&family=Assistant:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="{{ "css/tehilim2.css" | relURL }}">
+  {{- $css := resources.Get "css/tehilim.css" | fingerprint -}}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" crossorigin="anonymous">
 </head>
 <body>
   <header class="topbar">
