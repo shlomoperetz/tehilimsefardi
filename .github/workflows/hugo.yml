@@ -36,6 +36,7 @@ jobs:
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
+          HUGO_BASEURL: https://tehilimsefardi.com/
         run: hugo --minify --baseURL "https://tehilimsefardi.com/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
