@@ -1,0 +1,56 @@
+{{ define "main" }}
+<article>
+  <header class="psalm-header">
+    <div class="psalm-nav">
+      {{ if .PrevInSection }}
+        <a href="{{ .PrevInSection.Permalink }}" class="nav-prev">← {{ .PrevInSection.Params.number }}</a>
+      {{ else }}
+        <span></span>
+      {{ end }}
+      <a href="/" class="nav-home">Todos los Salmos</a>
+      {{ if .NextInSection }}
+        <a href="{{ .NextInSection.Permalink }}" class="nav-next">{{ .NextInSection.Params.number }} →</a>
+      {{ else }}
+        <span></span>
+      {{ end }}
+    </div>
+    <span class="psalm-number-he">{{ .Params.number_he }}</span>
+    <span class="psalm-label">Salmo {{ .Params.number }}</span>
+    {{ if .Params.subtitle_he }}
+      <p class="psalm-subtitle-he">{{ .Params.subtitle_he }}</p>
+    {{ end }}
+    {{ if .Params.subtitle_es }}
+      <p class="psalm-subtitle-es">{{ .Params.subtitle_es }}</p>
+    {{ end }}
+  </header>
+
+  <div class="verses">
+    {{ range .Params.verses }}
+    <div class="verse">
+      <div class="verse-content">
+        <p class="verse-he">{{ .he }}</p>
+        {{ if .translit }}<p class="verse-translit">{{ .translit }}</p>{{ end }}
+        {{ if .es }}<p class="verse-es">{{ .es }}</p>{{ end }}
+      </div>
+      <span class="verse-number">{{ .num }}</span>
+    </div>
+    {{ end }}
+  </div>
+
+  <footer class="psalm-footer">
+    <div class="psalm-nav">
+      {{ if .PrevInSection }}
+        <a href="{{ .PrevInSection.Permalink }}" class="nav-prev">← Salmo {{ .PrevInSection.Params.number }}</a>
+      {{ else }}
+        <span></span>
+      {{ end }}
+      <a href="/" class="nav-home">Todos los Salmos</a>
+      {{ if .NextInSection }}
+        <a href="{{ .NextInSection.Permalink }}" class="nav-next">Salmo {{ .NextInSection.Params.number }} →</a>
+      {{ else }}
+        <span></span>
+      {{ end }}
+    </div>
+  </footer>
+</article>
+{{ end }}
