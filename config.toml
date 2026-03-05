@@ -1,7 +1,6 @@
 baseURL = "https://tehilimsefardi.com/"
 languageCode = "es"
 title = "Tehilim Sefardí"
-theme = ""
 
 [params]
   description = "Libro de Salmos en hebreo con traducción al español y transliteración sefardí"
