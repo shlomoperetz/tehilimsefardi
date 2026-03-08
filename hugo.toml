@@ -1,0 +1,23 @@
+baseURL = "https://tehilimsefardi.com/"
+languageCode = "he"
+title = "תהילים ספרדי"
+theme = "minithilim"
+enableRedirects = true
+
+[params]
+  description = "תְּהִלִּים · נֻסַח סְפָרַד"
+  author = "Shlomo Peretz"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[outputFormats]
+  [outputFormats.JSON]
+    mediaType = "application/json"
+    baseName = "index"
+    isPlainText = true

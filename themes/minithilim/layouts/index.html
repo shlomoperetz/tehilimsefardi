@@ -1,0 +1,151 @@
+{{ define "main" }}
+<div class="landing">
+
+  <div class="landing-logo">
+    <div class="landing-title">סִדּוּר סְפָרַדִי</div>
+    <div class="landing-subtitle">נֻסַח סְפָרַד · יוֹם חוֹל</div>
+  </div>
+
+  <div class="landing-now" id="landingNow">
+    <div class="landing-now-label" id="landingLabel">טוֹעֵן זְמַנִּים...</div>
+    <a class="landing-enter" id="landingEnter" href="/weekday/shacharit/">
+      <span id="landingPrayerName">שַׁחֲרִית</span>
+      <span class="landing-arrow">←</span>
+    </a>
+  </div>
+
+  <div class="landing-shabbat" id="landingShabbat" style="display:none">
+    <div class="landing-shabbat-text">שַׁבָּת שָׁלוֹם</div>
+    <div class="landing-shabbat-sub">הַסִּדּוּר יַחֲזֹר לְמוֹצָאֵי שַׁבָּת</div>
+  </div>
+
+  <nav class="landing-nav">
+    <a href="/weekday/shacharit/">שַׁחֲרִית</a>
+    <a href="/weekday/mincha/">מִנְחָה</a>
+    <a href="/weekday/arvit/">עַרְבִית</a>
+  </nav>
+
+</div>
+
+<script>
+(function() {
+  const PRAYERS = {
+    shacharit: { path: '/weekday/shacharit/', name: 'שַׁחֲרִית' },
+    mincha:    { path: '/weekday/mincha/',    name: 'מִנְחָה'   },
+    arvit:     { path: '/weekday/arvit/',     name: 'עַרְבִית'  },
+  };
+
+  const FOUR_HOURS = 4 * 60 * 60 * 1000; // 4 horas en milisegundos
+
+  function toMin(isoStr) {
+    if (!isoStr) return null;
+    const d = new Date(isoStr);
+    return d.getHours() * 60 + d.getMinutes();
+  }
+
+  function fixedPrayer(t) {
+    if (t >= 360 && t < 750)  return 'shacharit';
+    if (t >= 750 && t < 1170) return 'mincha';
+    return 'arvit';
+  }
+
+  function isShabbatTime(sunset, tzait) {
+    const now = new Date();
+    const day = now.getDay();
+    const t   = now.getHours() * 60 + now.getMinutes();
+    const s   = sunset || 18 * 60;
+    const tz  = tzait  || 19 * 60 + 30;
+    if (day === 5 && t >= s - 18) return true;
+    if (day === 6 && t < tz)      return true;
+    return false;
+  }
+
+  function setLanding(key, label) {
+    const p = PRAYERS[key];
+    document.getElementById('landingLabel').textContent   = label;
+    document.getElementById('landingPrayerName').textContent = p.name;
+    document.getElementById('landingEnter').href          = p.path;
+    document.getElementById('landingNow').style.display   = '';
+    document.getElementById('landingShabbat').style.display = 'none';
+
+    // marcar activo en nav
+    document.querySelectorAll('.landing-nav a').forEach(a => {
+      a.classList.toggle('active', a.getAttribute('href') === p.path);
+    });
+  }
+
+  function setShabbat() {
+    document.getElementById('landingNow').style.display     = 'none';
+    document.getElementById('landingShabbat').style.display = '';
+  }
+
+  async function detectPrayerByTime() {
+    const now = new Date();
+    const t   = now.getHours() * 60 + now.getMinutes();
+
+    // Intentar ubicación + zmanim
+    let zmanim = null;
+    try {
+      const cached = localStorage.getItem('siddur_location');
+      if (cached) {
+        const { lat, lng } = JSON.parse(cached);
+        const date = now.toISOString().split('T')[0];
+        const res  = await fetch(
+          `https://www.hebcal.com/zmanim?cfg=json&latitude=${lat}&longitude=${lng}&date=${date}&sec=1`,
+          { signal: AbortSignal.timeout(3000) }
+        );
+        const data = await res.json();
+        const z    = data.times;
+        zmanim = {
+          alot:    toMin(z.alotHaShachar),
+          chatzot: toMin(z.chatzot),
+          sunset:  toMin(z.sunset),
+          tzait:   toMin(z.tzeitHakochavim),
+        };
+      }
+    } catch(e) {}
+
+    // Shabbat check
+    if (isShabbatTime(zmanim?.sunset, zmanim?.tzait)) {
+      return { isShabbat: true };
+    }
+
+    // Determinar oración por hora
+    let key;
+    if (zmanim && zmanim.alot && zmanim.chatzot && zmanim.tzait) {
+      if (t >= zmanim.alot && t < zmanim.chatzot)  key = 'shacharit';
+      else if (t >= zmanim.chatzot && t < zmanim.tzait) key = 'mincha';
+      else key = 'arvit';
+    } else {
+      key = fixedPrayer(t);
+    }
+
+    return { isShabbat: false, prayer: key };
+  }
+
+  async function init() {
+    // LÓGICA HÍBRIDA: última visita vs detección por hora
+    const lastPrayer = localStorage.getItem('siddur_last_prayer');
+    const lastTime = localStorage.getItem('siddur_last_time');
+    const now = Date.now();
+
+    // Si visitó algo hace menos de 4 horas, continuar ahí
+    if (lastPrayer && lastTime && (now - parseInt(lastTime)) < FOUR_HOURS) {
+      setLanding(lastPrayer, 'המשך מהמקום שעצרת');
+      return;
+    }
+
+    // Primera vez hoy o pasaron 4+ horas: detectar por hora
+    const result = await detectPrayerByTime();
+    
+    if (result.isShabbat) {
+      setShabbat();
+    } else {
+      setLanding(result.prayer, 'עכשיו מתפללים');
+    }
+  }
+
+  init();
+})();
+</script>
+{{ end }}

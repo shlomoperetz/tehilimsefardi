@@ -1,0 +1,13 @@
+{{- $pages := where .Site.RegularPages "Section" "tehilim" -}}
+[
+{{- range $i, $p := $pages -}}
+{{- if $i }},{{ end }}
+{
+  "number": {{ $p.Params.number | default 0 }},
+  "title": {{ $p.Title | jsonify }},
+  "permalink": {{ $p.Permalink | jsonify }},
+  "categories": {{ $p.Params.categories | jsonify }},
+  "content": {{ $p.Plain | truncate 300 | jsonify }}
+}
+{{- end }}
+]

@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="card">
+  <h1 class="title">{{ .Title }}</h1>
+  <div class="tehilim-grid">
+    {{ range sort .Pages "Params.number" }}
+    <a href="{{ .Permalink }}" class="tehilim-item">
+      <span class="tehilim-num">{{ .Params.number }}</span>
+      <span class="tehilim-name">{{ .Title }}</span>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

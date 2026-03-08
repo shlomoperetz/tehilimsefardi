@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Hebrew:wght@100..900&family=Assistant:wght@300;400;600&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
+    <link rel="stylesheet" href="{{ "css/site.css" | relURL }}?v={{ now.Unix }}">
+    <link rel="stylesheet" href="{{ "css/layout.css" | relURL }}?v={{ now.Unix }}">
+    <link rel="stylesheet" href="{{ "css/tehilim.css" | relURL }}?v={{ now.Unix }}">
+  </head>
+  <body>
+    <header class="topbar">
+      <nav class="controls">
+        <button class="btn" onclick="toggleDarkMode()" title="Cambiar tema">◐</button>
+        <button class="btn" onclick="adjustFont(-1)">A−</button>
+        <button class="btn" onclick="adjustFont(1)">A+</button>
+        <button class="btn" onclick="toggleTranslit()" id="translitBtn" title="Transliteración">ת</button>
+      </nav>
+      <div class="brand">
+        <a href="/" class="title">תְּהִלִּים סְפָרַדִי</a>
+        <div class="byline">by Shlomo Peretz</div>
+      </div>
+    </header>
+
+    <main class="main-content" id="mainContent">
+      <div class="page">
+        {{ block "main" . }}{{ end }}
+      </div>
+    </main>
+
+    <nav class="bottombar" aria-label="Tehilim navigation">
+      <a class="bbtn {{ if eq .RelPermalink "/" }}active{{ end }}" href="/">בַּיִת</a>
+      <a class="bbtn {{ if in .RelPermalink "/tehilim/" }}active{{ end }}" href="/tehilim/">תְּהִלִּים</a>
+      <a class="bbtn {{ if in .RelPermalink "/categories/" }}active{{ end }}" href="/categories/">נוֹשְׂאִים</a>
+      <a class="bbtn" href="#" onclick="openSearch()">🔍</a>
+    </nav>
+
+    <!-- Search overlay -->
+    <div id="searchOverlay" onclick="closeSearch()" style="display:none"></div>
+    <div id="searchPanel" style="display:none">
+      <div class="search-header">
+        <input type="search" id="searchInput" placeholder="חפש מזמור..." oninput="doSearch(this.value)" />
+        <button onclick="closeSearch()">×</button>
+      </div>
+      <div id="searchResults"></div>
+    </div>
+
+    <script src="{{ "js/ui.js" | relURL }}?v={{ now.Unix }}" defer></script>
+    <script src="{{ "js/tehilim.js" | relURL }}?v={{ now.Unix }}" defer></script>
+  </body>
+</html>

@@ -1,0 +1,33 @@
+{{ define "main" }}
+<article class="card tehilim-single" data-page>
+  <div class="tehilim-header">
+    <span class="tehilim-number">{{ .Params.number }}</span>
+    <h1 class="title">{{ .Title }}</h1>
+    {{ with .Params.categories }}
+    <div class="tehilim-cats">
+      {{ range . }}<a href="/categories/{{ . | urlize }}/" class="cat-tag">{{ . }}</a>{{ end }}
+    </div>
+    {{ end }}
+  </div>
+
+  {{ if .Params.transliteration }}
+  <div class="translit-block" id="translitBlock" style="display:none">
+    <div class="translit-text">{{ .Params.transliteration }}</div>
+  </div>
+  {{ end }}
+
+  <div class="content tehilim-text" id="content">
+    {{ .Content }}
+  </div>
+
+  <nav class="tehilim-nav">
+    {{ with .PrevInSection }}
+    <a href="{{ .Permalink }}" class="nav-prev">← מזמור {{ .Params.number }}</a>
+    {{ end }}
+    <a href="/tehilim/" class="nav-list">כָּל הַמְּזָמוֹרִים</a>
+    {{ with .NextInSection }}
+    <a href="{{ .Permalink }}" class="nav-next">מזמור {{ .Params.number }} →</a>
+    {{ end }}
+  </nav>
+</article>
+{{ end }}
