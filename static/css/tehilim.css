@@ -1058,8 +1058,8 @@ body.is-landing .text-controls {
 }
 
 /* === FIX: estado inicial cantilaciones === */
-.cantil-off { display: none; }
-.cantil-on  { display: block; }
+.cantil-off { display: none !important; }
+.cantil-on  { display: block !important; }
 
 /* === LANDING: más contraste, búsqueda más fina === */
 .landing-main-title {
@@ -1161,3 +1161,9 @@ body.is-landing .text-controls {
 .brand-title {
   color: var(--accent) !important;
 }
+
+/* Estado cantilaciones via clase en body */
+body.cantil-off .cantil-on  { display: none !important; }
+body.cantil-off .cantil-off { display: block !important; }
+body:not(.cantil-off) .cantil-on  { display: block !important; }
+body:not(.cantil-off) .cantil-off { display: none !important; }

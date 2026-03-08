@@ -47,15 +47,10 @@ document.addEventListener('click', (e) => {
 // === CANTILACIONES ===
 function toggleCantil() {
   const btn = document.getElementById('btnCantil');
-  const on  = document.querySelectorAll('.cantil-on');
-  const off = document.querySelectorAll('.cantil-off');
-  // cantil-on visible = cantilaciones activas (estado normal)
-  // botón activo = sin cantilaciones (plain)
-  const showingCantil = on.length && getComputedStyle(on[0]).display !== 'none';
-  on.forEach(el  => el.style.display = showingCantil ? 'none' : '');
-  off.forEach(el => el.style.display = showingCantil ? '' : 'none');
-  btn?.classList.toggle('active', showingCantil);
-  localStorage.setItem('cantil', showingCantil ? '0' : '1');
+  const isOff = document.body.classList.contains('cantil-off');
+  document.body.classList.toggle('cantil-off', !isOff);
+  btn?.classList.toggle('active', !isOff);
+  localStorage.setItem('cantil', isOff ? '1' : '0');
 }
 
 // === TRANSLITERACIÓN ===
@@ -98,12 +93,8 @@ function toggleHe() {
     btn?.classList.add('active');
     localStorage.setItem('showHe', '0');
   } else {
-    // Restaurar hebreo respetando estado de cantilaciones
-    const cantilOff = localStorage.getItem('cantil') === '0';
-    document.querySelectorAll('.cantil-on').forEach(el =>
-      el.style.display = cantilOff ? 'none' : '');
-    document.querySelectorAll('.cantil-off').forEach(el =>
-      el.style.display = cantilOff ? '' : 'none');
+    // Restaurar hebreo — CSS maneja cantilaciones via body.cantil-off
+    document.querySelectorAll('.verse-he').forEach(el => el.style.display = '');
     document.body.classList.remove('he-hidden');
     btn?.classList.remove('active');
     localStorage.setItem('showHe', '1');
@@ -175,13 +166,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Cantilaciones (por defecto ON)
   if (localStorage.getItem('cantil') === '0') {
-    document.querySelectorAll('.cantil-on').forEach(el => el.style.display = 'none');
-    document.querySelectorAll('.cantil-off').forEach(el => el.style.display = 'block');
+    document.body.classList.add('cantil-off');
     document.getElementById('btnCantil')?.classList.add('active');
-  } else {
-    // Estado por defecto: cantilaciones visibles, plain oculto
-    document.querySelectorAll('.cantil-off').forEach(el => el.style.display = 'none');
-    document.querySelectorAll('.cantil-on').forEach(el => el.style.display = '');
   }
 
   // Transliteración (por defecto OFF)
