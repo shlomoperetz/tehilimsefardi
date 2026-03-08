@@ -10,11 +10,13 @@ function toggleDarkMode() {
   root.classList.toggle('light-mode', isDark);
   localStorage.setItem('theme', isDark ? 'light' : 'dark');
   updateThemeIcon();
+  forceSingleCol = localStorage.getItem('forceSingle') === '1';
   loadViewState();
   if (localStorage.getItem('cantil') === '0') {
     document.body.classList.add('cantil-off');
     document.getElementById('btnCantil')?.classList.add('active');
   }
+  forceSingleCol = localStorage.getItem('forceSingle') === '1';
   loadViewState();
   if (localStorage.getItem('cantil') === '0') {
     document.body.classList.add('cantil-off');
@@ -100,7 +102,9 @@ function applyViewState() {
 
   // Layout
   if (!container) return;
-  container.classList.toggle('two-col', isTwoCol);
+  const forceS = typeof forceSingleCol !== 'undefined' && forceSingleCol;
+  container.classList.toggle('two-col', isTwoCol && !forceS);
+  document.getElementById('btnCols')?.classList.toggle('active', isTwoCol && !forceS);
   // data-layout para CSS: he-es, he-tr, tr-es
   container.dataset.layout = active.sort((a,b) =>
     ['he','tr','es'].indexOf(a) - ['he','tr','es'].indexOf(b)).join('-');
@@ -176,7 +180,9 @@ function applyViewState() {
 
   // Layout
   if (!container) return;
-  container.classList.toggle('two-col', isTwoCol);
+  const forceS = typeof forceSingleCol !== 'undefined' && forceSingleCol;
+  container.classList.toggle('two-col', isTwoCol && !forceS);
+  document.getElementById('btnCols')?.classList.toggle('active', isTwoCol && !forceS);
   // data-layout para CSS: he-es, he-tr, tr-es
   container.dataset.layout = active.sort((a,b) =>
     ['he','tr','es'].indexOf(a) - ['he','tr','es'].indexOf(b)).join('-');
@@ -203,6 +209,17 @@ function toggleCantil() {
   const isOff = document.body.classList.toggle('cantil-off');
   btn?.classList.toggle('active', isOff);
   localStorage.setItem('cantil', isOff ? '0' : '1');
+}
+
+
+// === DOS COLUMNAS (layout manual) ===
+let forceSingleCol = false;
+function toggleCols() {
+  const btn = document.getElementById('btnCols');
+  forceSingleCol = !forceSingleCol;
+  btn?.classList.toggle('active', !forceSingleCol);
+  applyViewState();
+  localStorage.setItem('forceSingle', forceSingleCol ? '1' : '0');
 }
 
 // === BÚSQUEDA ===
@@ -252,11 +269,13 @@ document.addEventListener('keydown', e => {
 // === RESTAURAR ESTADOS AL CARGAR ===
 document.addEventListener('DOMContentLoaded', () => {
   updateThemeIcon();
+  forceSingleCol = localStorage.getItem('forceSingle') === '1';
   loadViewState();
   if (localStorage.getItem('cantil') === '0') {
     document.body.classList.add('cantil-off');
     document.getElementById('btnCantil')?.classList.add('active');
   }
+  forceSingleCol = localStorage.getItem('forceSingle') === '1';
   loadViewState();
   if (localStorage.getItem('cantil') === '0') {
     document.body.classList.add('cantil-off');
