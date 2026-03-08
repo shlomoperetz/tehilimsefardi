@@ -44,14 +44,6 @@ document.addEventListener('click', (e) => {
   }
 });
 
-// === CANTILACIONES ===
-function toggleCantil() {
-  const btn = document.getElementById('btnCantil');
-  const isOff = document.body.classList.contains('cantil-off');
-  document.body.classList.toggle('cantil-off', !isOff);
-  btn?.classList.toggle('active', !isOff);
-  localStorage.setItem('cantil', isOff ? '1' : '0');
-}
 
 // === TRANSLITERACIÓN ===
 function toggleTranslit() {
@@ -150,10 +142,6 @@ document.addEventListener('DOMContentLoaded', () => {
   if (fs) document.documentElement.style.setProperty('--font', fs + 'px');
 
   // Cantilaciones (por defecto ON)
-  if (localStorage.getItem('cantil') === '0') {
-    document.body.classList.add('cantil-off');
-    document.getElementById('btnCantil')?.classList.add('active');
-  }
 
   // Transliteración (por defecto OFF)
   if (localStorage.getItem('translit') === '1') {
