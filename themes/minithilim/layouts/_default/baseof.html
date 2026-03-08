@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="{{ "css/layout.css" | relURL }}?v={{ now.Unix }}">
     <link rel="stylesheet" href="{{ "css/tehilim.css" | relURL }}?v={{ now.Unix }}">
   </head>
-  <body>
+  <body class="{{ if .IsHome }}is-landing{{ end }}">
     <header class="topbar">
 
       <a href="/" class="brand">
