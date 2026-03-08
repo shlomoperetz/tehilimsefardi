@@ -10,6 +10,11 @@ function toggleDarkMode() {
   root.classList.toggle('light-mode', isDark);
   localStorage.setItem('theme', isDark ? 'light' : 'dark');
   updateThemeIcon();
+  loadViewState();
+  if (localStorage.getItem('cantil') === '0') {
+    document.body.classList.add('cantil-off');
+    document.getElementById('btnCantil')?.classList.add('active');
+  }
 }
 function updateThemeIcon() {
   const dark = document.documentElement.classList.contains('dark-mode');
@@ -43,34 +48,80 @@ document.addEventListener('click', (e) => {
   }
 });
 
-// === TRANSLITERACIÓN ===
-function toggleTranslit() {
-  const btn = document.getElementById('btnTranslit');
-  const els = document.querySelectorAll('.verse-translit');
-  const hidden = els.length && els[0].classList.contains('tr-visible') === false;
-  els.forEach(el => el.classList.toggle('tr-visible', hidden));
-  btn?.classList.toggle('active', hidden);
-  localStorage.setItem('translit', hidden ? '1' : '0');
+
+// === VISTA: he / tr / es — min1, max2 ===
+let viewState = { he: true, tr: false, es: true };
+let viewHistory = ['he', 'es'];
+
+function toggleView(key) {
+  const active = Object.keys(viewState).filter(k => viewState[k]);
+  if (viewState[key]) {
+    if (active.length === 1) return; // no se puede desactivar el último
+    viewState[key] = false;
+    viewHistory = viewHistory.filter(k => k !== key);
+  } else {
+    if (active.length >= 2) {
+      const oldest = viewHistory.shift();
+      viewState[oldest] = false;
+    }
+    viewState[key] = true;
+    viewHistory.push(key);
+  }
+  applyViewState();
+  saveViewState();
 }
 
-// === ESPAÑOL ===
-function toggleEs() {
-  const btn = document.getElementById('btnEs');
-  const els = document.querySelectorAll('.verse-es');
-  const hidden = els.length && els[0].style.display === 'none';
-  els.forEach(el => el.style.display = hidden ? '' : 'none');
-  btn?.classList.toggle('active', hidden);
-  localStorage.setItem('showEs', hidden ? '1' : '0');
-}
-
-// === DOS COLUMNAS ===
-function toggleCols() {
-  const btn = document.getElementById('btnCols');
+function applyViewState() {
+  const active = Object.keys(viewState).filter(k => viewState[k]);
+  const isTwoCol = active.length === 2;
   const container = document.getElementById('tehilimVerses');
+
+  // Botones
+  document.getElementById('btnHe')?.classList.toggle('active', viewState.he);
+  document.getElementById('btnTranslit')?.classList.toggle('active', viewState.tr);
+  document.getElementById('btnEs')?.classList.toggle('active', viewState.es);
+
+  // Cantilaciones: visible solo si hebreo activo
+  const btnCantil = document.getElementById('btnCantil');
+  if (btnCantil) btnCantil.style.display = viewState.he ? '' : 'none';
+
+  // Visibilidad de elementos
+  document.querySelectorAll('.verse-he').forEach(el =>
+    el.style.display = viewState.he ? '' : 'none');
+  document.querySelectorAll('.verse-translit').forEach(el =>
+    el.style.display = viewState.tr ? '' : 'none');
+  document.querySelectorAll('.verse-es').forEach(el =>
+    el.style.display = viewState.es ? '' : 'none');
+
+  // Layout
   if (!container) return;
-  const isTwo = container.classList.toggle('two-col');
-  btn?.classList.toggle('active', isTwo);
-  localStorage.setItem('twoCols', isTwo ? '1' : '0');
+  container.classList.toggle('two-col', isTwoCol);
+  // data-layout para CSS: he-es, he-tr, tr-es
+  container.dataset.layout = active.sort((a,b) =>
+    ['he','tr','es'].indexOf(a) - ['he','tr','es'].indexOf(b)).join('-');
+}
+
+function saveViewState() {
+  localStorage.setItem('viewState', JSON.stringify(viewState));
+  localStorage.setItem('viewHistory', JSON.stringify(viewHistory));
+}
+
+function loadViewState() {
+  const saved = localStorage.getItem('viewState');
+  const savedH = localStorage.getItem('viewHistory');
+  if (saved) {
+    viewState = JSON.parse(saved);
+    viewHistory = savedH ? JSON.parse(savedH) : Object.keys(viewState).filter(k => viewState[k]);
+  }
+  applyViewState();
+}
+
+// === CANTILACIONES ===
+function toggleCantil() {
+  const btn = document.getElementById('btnCantil');
+  const isOff = document.body.classList.toggle('cantil-off');
+  btn?.classList.toggle('active', isOff);
+  localStorage.setItem('cantil', isOff ? '0' : '1');
 }
 
 // === BÚSQUEDA ===
@@ -120,29 +171,13 @@ document.addEventListener('keydown', e => {
 // === RESTAURAR ESTADOS AL CARGAR ===
 document.addEventListener('DOMContentLoaded', () => {
   updateThemeIcon();
+  loadViewState();
+  if (localStorage.getItem('cantil') === '0') {
+    document.body.classList.add('cantil-off');
+    document.getElementById('btnCantil')?.classList.add('active');
+  }
 
   const fs = localStorage.getItem('fontSize');
   if (fs) document.documentElement.style.setProperty('--font', fs + 'px');
 
-  // Transliteración (por defecto OFF)
-  if (localStorage.getItem('translit') === '1') {
-    document.querySelectorAll('.verse-translit').forEach(el => el.classList.add('tr-visible'));
-    document.getElementById('btnTranslit')?.classList.add('active');
-  }
-
-  // Español (por defecto ON)
-  const showEs = localStorage.getItem('showEs');
-  if (showEs === null || showEs === '1') {
-    document.querySelectorAll('.verse-es').forEach(el => el.style.display = '');
-    document.getElementById('btnEs')?.classList.add('active');
-  } else {
-    document.querySelectorAll('.verse-es').forEach(el => el.style.display = 'none');
-  }
-
-  // Dos columnas (por defecto ON)
-  const twoCols = localStorage.getItem('twoCols');
-  if (twoCols === null || twoCols === '1') {
-    document.getElementById('tehilimVerses')?.classList.add('two-col');
-    document.getElementById('btnCols')?.classList.add('active');
-  }
 });

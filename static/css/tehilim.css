@@ -1195,3 +1195,28 @@ body:not(.cantil-off) .cantil-off { display: none !important; }
 #tehilimVerses.two-col .verse-es.hidden ~ .verse-translit.tr-visible {
   grid-column: 1;
 }
+
+/* === LAYOUTS DOS COLUMNAS AUTOMÁTICOS === */
+
+/* he + es: hebreo derecha, español izquierda */
+#tehilimVerses.two-col[data-layout="he-es"] .verse-he { grid-column: 2; grid-row: 1; }
+#tehilimVerses.two-col[data-layout="he-es"] .verse-es { grid-column: 1; grid-row: 1; }
+#tehilimVerses.two-col[data-layout="he-es"] .verse-translit { display: none !important; }
+
+/* he + tr: hebreo derecha, translit izquierda */
+#tehilimVerses.two-col[data-layout="he-tr"] .verse-he { grid-column: 2; grid-row: 1; }
+#tehilimVerses.two-col[data-layout="he-tr"] .verse-translit { grid-column: 1; grid-row: 1; text-align: left; font-size: 0.85em; align-self: center; }
+#tehilimVerses.two-col[data-layout="he-tr"] .verse-es { display: none !important; }
+
+/* tr + es: translit derecha, español izquierda */
+#tehilimVerses.two-col[data-layout="tr-es"] .verse-translit { grid-column: 2; grid-row: 1; text-align: right; direction: ltr; }
+#tehilimVerses.two-col[data-layout="tr-es"] .verse-es { grid-column: 1; grid-row: 1; }
+#tehilimVerses.two-col[data-layout="tr-es"] .verse-he { display: none !important; }
+
+/* Botón טַ compacto pegado a א */
+.tbar-sub {
+  margin-left: -4px !important;
+  border-left: none !important;
+  padding-left: 6px !important;
+  font-size: 0.85em !important;
+}
