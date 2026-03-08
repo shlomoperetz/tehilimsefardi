@@ -701,3 +701,56 @@ nav.bottombar .bbtn.active {
   .tbar-sep { display: none !important; }
   #btnCantil { display: none !important; }
 }
+
+/* ===== FIX DEFINITIVO: dos columnas por verso ===== */
+.tehilim-verses.two-col {
+  display: block !important;
+}
+.tehilim-verses.two-col .verse {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto;
+  gap: 0;
+  margin-bottom: 0.6em;
+  border-bottom: 1px solid rgba(128,128,128,0.07);
+  padding-bottom: 0.6em;
+}
+/* Hebreo: siempre columna derecha */
+.tehilim-verses.two-col .verse-he {
+  grid-column: 2;
+  grid-row: 1;
+  direction: rtl;
+  text-align: right;
+  padding: 0.6em 1em !important;
+  border-right: 2px solid rgba(212,175,55,0.15);
+}
+/* Español: siempre columna izquierda, misma fila */
+.tehilim-verses.two-col .verse-es {
+  grid-column: 1;
+  grid-row: 1;
+  direction: ltr;
+  text-align: left;
+  padding: 0.6em 1em !important;
+  display: flex !important;
+  align-items: center;
+  font-size: 0.8em;
+  color: var(--muted);
+  line-height: 1.6;
+}
+/* Transliteración: fila completa debajo */
+.tehilim-verses.two-col .verse-translit {
+  grid-column: 1 / -1;
+  grid-row: 2;
+  text-align: center;
+  padding: 0.3em 1em !important;
+  font-size: 0.72em;
+  font-style: italic;
+  color: var(--muted);
+  opacity: 0.65;
+}
+/* Responsive */
+@media (max-width: 600px) {
+  .tehilim-verses.two-col .verse {
+    display: block !important;
+  }
+}

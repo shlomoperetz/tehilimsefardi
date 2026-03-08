@@ -243,3 +243,33 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('btnCols')?.classList.add('active');
   }
 });
+
+// Protección: si se oculta hebreo y no hay ES visible, mostrar ES automáticamente
+function safeToggleHe() {
+  const btn = document.getElementById('btnHe');
+  const verses = document.querySelectorAll('.verse-he');
+  const isVisible = verses.length && verses[0].style.display !== 'none';
+
+  if (isVisible) {
+    // Verificar que haya al menos otra cosa visible
+    const esVisible = document.querySelectorAll('.verse-es')[0]?.style.display !== 'none';
+    const trVisible = document.querySelectorAll('.verse-translit')[0]?.style.display !== 'none';
+    if (!esVisible && !trVisible) {
+      // Activar ES automáticamente
+      document.querySelectorAll('.verse-es').forEach(el => el.style.display = '');
+      document.getElementById('btnEs')?.classList.add('active');
+      localStorage.setItem('showEs', '1');
+    }
+    verses.forEach(el => el.style.display = 'none');
+    document.body.classList.add('he-hidden');
+    btn?.classList.add('active');
+    localStorage.setItem('showHe', '0');
+  } else {
+    verses.forEach(el => el.style.display = '');
+    document.body.classList.remove('he-hidden');
+    btn?.classList.remove('active');
+    localStorage.setItem('showHe', '1');
+  }
+}
+// Reemplazar toggleHe
+window.toggleHe = safeToggleHe;
