@@ -1,6 +1,5 @@
-
 // ============================================
-// TEHILIM.JS — versión limpia
+// TEHILIM.JS
 // ============================================
 
 // === DARK MODE ===
@@ -44,7 +43,6 @@ document.addEventListener('click', (e) => {
   }
 });
 
-
 // === TRANSLITERACIÓN ===
 function toggleTranslit() {
   const btn = document.getElementById('btnTranslit');
@@ -63,19 +61,6 @@ function toggleEs() {
   els.forEach(el => el.style.display = hidden ? '' : 'none');
   btn?.classList.toggle('active', hidden);
   localStorage.setItem('showEs', hidden ? '1' : '0');
-}
-
-    els.forEach(el => el.style.display = 'none');
-    document.body.classList.add('he-hidden');
-    btn?.classList.add('active');
-    localStorage.setItem('showHe', '0');
-  } else {
-    // Restaurar hebreo — CSS maneja cantilaciones via body.cantil-off
-    document.querySelectorAll('.verse-he').forEach(el => el.style.display = '');
-    document.body.classList.remove('he-hidden');
-    btn?.classList.remove('active');
-    localStorage.setItem('showHe', '1');
-  }
 }
 
 // === DOS COLUMNAS ===
@@ -134,19 +119,17 @@ document.addEventListener('keydown', e => {
 
 // === RESTAURAR ESTADOS AL CARGAR ===
 document.addEventListener('DOMContentLoaded', () => {
-  // Tema
   updateThemeIcon();
 
-  // Fuente
   const fs = localStorage.getItem('fontSize');
   if (fs) document.documentElement.style.setProperty('--font', fs + 'px');
-
-  // Cantilaciones (por defecto ON)
 
   // Transliteración (por defecto OFF)
   if (localStorage.getItem('translit') === '1') {
     document.querySelectorAll('.verse-translit').forEach(el => el.style.display = '');
     document.getElementById('btnTranslit')?.classList.add('active');
+  } else {
+    document.querySelectorAll('.verse-translit').forEach(el => el.style.display = 'none');
   }
 
   // Español (por defecto ON)
@@ -154,13 +137,8 @@ document.addEventListener('DOMContentLoaded', () => {
   if (showEs === null || showEs === '1') {
     document.querySelectorAll('.verse-es').forEach(el => el.style.display = '');
     document.getElementById('btnEs')?.classList.add('active');
-  }
-
-  // Hebreo (por defecto ON)
-  if (localStorage.getItem('showHe') === '0') {
-    document.querySelectorAll('.verse-he').forEach(el => el.style.display = 'none');
-    document.body.classList.add('he-hidden');
-    document.getElementById('btnHe')?.classList.add('active');
+  } else {
+    document.querySelectorAll('.verse-es').forEach(el => el.style.display = 'none');
   }
 
   // Dos columnas (por defecto ON)
