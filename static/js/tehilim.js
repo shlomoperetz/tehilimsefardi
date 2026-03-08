@@ -112,3 +112,33 @@ function doSearch(query) {
   if (localStorage.getItem('translit') === '1') toggleTranslit();
   if (localStorage.getItem('showEs') === '1') toggleEs();
 })();
+
+function updateThemeIcon() {
+  const dark = document.documentElement.classList.contains('dark-mode');
+  const sun  = document.getElementById('iconSun');
+  const moon = document.getElementById('iconMoon');
+  if (sun)  sun.style.display  = dark ? '' : 'none';
+  if (moon) moon.style.display = dark ? 'none' : '';
+}
+
+// Sobreescribir toggleDarkMode para actualizar icono
+const _toggleDark = toggleDarkMode;
+function toggleDarkMode() {
+  const root = document.documentElement;
+  const isDark = root.classList.contains('dark-mode');
+  root.classList.toggle('dark-mode', !isDark);
+  root.classList.toggle('light-mode', isDark);
+  localStorage.setItem('theme', isDark ? 'light' : 'dark');
+  updateThemeIcon();
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  updateThemeIcon();
+  // Marcar botones activos según estado guardado
+  if (localStorage.getItem('cantil') === '0')
+    document.getElementById('btnCantil')?.classList.add('active');
+  if (localStorage.getItem('translit') === '1')
+    document.getElementById('btnTranslit')?.classList.add('active');
+  if (localStorage.getItem('showEs') === '1')
+    document.getElementById('btnEs')?.classList.add('active');
+});
