@@ -174,3 +174,63 @@
 .landing-enter:hover { opacity: 0.85; text-decoration: none; }
 .landing-nav { display: flex; justify-content: center; gap: 1.5em; margin-top: 1.5em; }
 .landing-nav a { color: var(--muted); font-size: 0.85em; }
+
+/* ===== TIPOGRAFÍA ESPAÑOL ===== */
+.verse-es {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 0.78em;
+  color: var(--muted);
+  direction: ltr;
+  text-align: left;
+  padding: 4px 0 8px 0;
+  border-bottom: 1px solid rgba(212,175,55,0.1);
+  line-height: 1.6;
+  font-style: italic;
+}
+.verse-translit {
+  font-family: "Assistant", "Segoe UI", sans-serif;
+  font-size: 0.75em;
+  color: var(--muted);
+  direction: ltr;
+  text-align: left;
+  padding: 4px 0 6px 0;
+  line-height: 1.6;
+  opacity: 0.85;
+}
+.verse {
+  margin-bottom: 0.8em;
+  padding-bottom: 0.4em;
+}
+.verse-he {
+  line-height: 2;
+}
+
+/* Landing en español */
+.landing-subtitle {
+  font-family: "Assistant", "Segoe UI", sans-serif;
+  font-size: 1em;
+  letter-spacing: 0.03em;
+}
+.landing-enter {
+  font-family: "Assistant", "Segoe UI", sans-serif;
+  font-size: 1.1em;
+  letter-spacing: 0.02em;
+}
+.landing-nav a {
+  font-family: "Assistant", "Segoe UI", sans-serif;
+  font-size: 1em;
+}
+
+/* Bottombar en español */
+.bottombar .bbtn {
+  font-family: "Assistant", "Segoe UI", sans-serif;
+  font-size: 0.85em;
+}
+
+/* Botón idioma */
+#langBtn {
+  font-family: var(--he-font);
+  font-size: 0.9em;
+  opacity: 0.7;
+}
+#langBtn:hover { opacity: 1; }

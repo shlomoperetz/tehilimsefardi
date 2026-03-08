@@ -1,37 +1,30 @@
-// ===== i18n UI =====
 const STRINGS = {
   he: {
-    home: "בַּיִת",
-    psalms: "תְּהִלִּים",
-    topics: "נוֹשְׂאִים",
+    home: "בַּיִת", psalms: "תְּהִלִּים", topics: "נוֹשְׂאִים",
     search_placeholder: "חפש מזמור...",
     all_psalms: "כָּל הַמְּזָמוֹרִים",
-    prev: "← מזמור",
-    next: "מזמור →",
+    nav_list: "כָּל הַמְּזָמוֹרִים",
+    prev: "מזמור", next: "מזמור",
     read: "קְרָא תְּהִלִּים",
     subtitle: "נֻסַח סְפָרַד · מִזְמוֹרֵי דָּוִד",
+    landing_all: "כָּל הַמְּזָמוֹרִים",
+    landing_topics: "לְפִי נוֹשֵׂא",
     not_found: "לא נמצא",
-    btn_cantil: "טַ",
-    btn_translit: "tr",
-    btn_es: "ES",
     title_cantil: "ניקוד וטעמים",
-    title_translit: "תעתיק",
+    title_translit: "תעתיק ספרדי",
     title_es: "תרגום",
   },
   es: {
-    home: "Inicio",
-    psalms: "Salmos",
-    topics: "Temas",
-    search_placeholder: "Buscar salmo...",
+    home: "Inicio", psalms: "Salmos", topics: "Temas",
+    search_placeholder: "Buscar salmo por número o tema...",
     all_psalms: "Todos los salmos",
-    prev: "← Salmo",
-    next: "Salmo →",
+    nav_list: "Todos los salmos",
+    prev: "Salmo", next: "Salmo",
     read: "Leer Tehilim",
     subtitle: "Nusaj Sefardí · Salmos de David",
+    landing_all: "Todos los salmos",
+    landing_topics: "Por tema",
     not_found: "No encontrado",
-    btn_cantil: "טַ",
-    btn_translit: "tr",
-    btn_es: "ES",
     title_cantil: "Cantilaciones",
     title_translit: "Transliteración",
     title_es: "Traducción",
@@ -45,44 +38,47 @@ function t(key) {
 }
 
 function applyLang() {
+  const set = (id, key) => { const el = document.getElementById(id); if (el) el.textContent = t(key); };
+  const attr = (id, attr, key) => { const el = document.getElementById(id); if (el) el[attr] = t(key); };
+
   // Bottombar
-  const q = (sel, key) => {
-    const el = document.querySelector(sel);
-    if (el) el.textContent = t(key);
-  };
-  q('#nav-home',   'home');
-  q('#nav-psalms', 'psalms');
-  q('#nav-topics', 'topics');
+  set('nav-home',   'home');
+  set('nav-psalms', 'psalms');
+  set('nav-topics', 'topics');
+
+  // Landing
+  set('landing-subtitle',   'subtitle');
+  set('landing-enter-text', 'read');
+  set('landing-all',        'landing_all');
+  set('landing-topics',     'landing_topics');
 
   // Search
-  const inp = document.getElementById('searchInput');
-  if (inp) inp.placeholder = t('search_placeholder');
+  attr('searchInput', 'placeholder', 'search_placeholder');
 
-  // Botones topbar
-  const bCantil = document.getElementById('translitBtn');
+  // Botones topbar títulos
+  const bCantil   = document.getElementById('translitBtn');
   const bTranslit = document.getElementById('translBtn');
-  const bEs = document.getElementById('esBtn');
-  if (bCantil)  { bCantil.title  = t('title_cantil');  }
-  if (bTranslit){ bTranslit.title = t('title_translit');}
-  if (bEs)      { bEs.title      = t('title_es');      }
+  const bEs       = document.getElementById('esBtn');
+  if (bCantil)   bCantil.title   = t('title_cantil');
+  if (bTranslit) bTranslit.title = t('title_translit');
+  if (bEs)       bEs.title       = t('title_es');
 
-  // Nav del salmo
-  document.querySelectorAll('.nav-list').forEach(el => el.textContent = t('all_psalms'));
+  // Nav salmo
+  document.querySelectorAll('.nav-list').forEach(el => el.textContent = t('nav_list'));
   document.querySelectorAll('.nav-prev').forEach(el => {
     const num = el.dataset.num;
-    el.textContent = t('prev') + ' ' + num;
+    el.textContent = '← ' + t('prev') + ' ' + num;
   });
   document.querySelectorAll('.nav-next').forEach(el => {
     const num = el.dataset.num;
-    el.textContent = t('next').replace('→', '').trim() + ' ' + num + ' →';
+    el.textContent = t('next') + ' ' + num + ' →';
   });
 
-  // Toggle botón de idioma
+  // Botón idioma
   const langBtn = document.getElementById('langBtn');
   if (langBtn) langBtn.textContent = currentLang === 'es' ? 'עב' : 'ES';
 
-  // dir del body: hebreo = RTL, español = LTR para UI... pero mantenemos RTL por el texto
-  document.documentElement.lang = currentLang === 'he' ? 'he' : 'es';
+  document.documentElement.lang = currentLang;
 }
 
 function toggleLang() {
