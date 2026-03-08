@@ -1173,3 +1173,10 @@ body:not(.cantil-off) .cantil-off { display: none !important; }
   color: var(--accent) !important;
   opacity: 1 !important;
 }
+
+/* === Transliteración y traducción alineadas igual === */
+.verse-translit,
+.verse-es {
+  text-align: left !important;
+  direction: ltr !important;
+}
