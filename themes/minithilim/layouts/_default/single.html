@@ -33,11 +33,11 @@
 
   <nav class="tehilim-nav">
     {{ with .PrevInSection }}
-    <a href="{{ .Permalink }}" class="nav-prev">← {{ .Params.number }}</a>
+    <a href="{{ .Permalink }}" class="nav-prev" data-num="{{ .Params.number }}">← Salmo {{ .Params.number }}</a>
     {{ end }}
-    <a href="/tehilim/" class="nav-list">כָּל הַמְּזָמוֹרִים</a>
+    <a href="/tehilim/" class="nav-list">Todos los salmos</a>
     {{ with .NextInSection }}
-    <a href="{{ .Permalink }}" class="nav-next">{{ .Params.number }} →</a>
+    <a href="{{ .Permalink }}" class="nav-next" data-num="{{ .Params.number }}">Salmo {{ .Params.number }} →</a>
     {{ end }}
   </nav>
 

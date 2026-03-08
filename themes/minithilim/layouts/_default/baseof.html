@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="he" dir="rtl">
+<html lang="es" dir="rtl">
   <head>
     <meta charset="utf-8" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,12 +16,13 @@
         <button class="btn" onclick="toggleDarkMode()" title="Tema">◐</button>
         <button class="btn" onclick="adjustFont(-1)">A−</button>
         <button class="btn" onclick="adjustFont(1)">A+</button>
-        <button class="btn" id="translitBtn" onclick="toggleCantil()" title="Cantilaciones">טַ</button>
-        <button class="btn" id="translBtn" onclick="toggleTranslit()" title="Transliteración">tr</button>
-        <button class="btn" id="esBtn" onclick="toggleEs()" title="Español">ES</button>
+        <button class="btn" id="translitBtn" onclick="toggleCantil()">טַ</button>
+        <button class="btn" id="translBtn" onclick="toggleTranslit()">tr</button>
+        <button class="btn" id="esBtn" onclick="toggleEs()">ES</button>
+        <button class="btn" id="langBtn" onclick="toggleLang()" title="שפה / Idioma">עב</button>
       </nav>
       <div class="brand">
-        <a href="/" class="title">תְּהִלִּים סְפָרַדִי</a>
+        <a href="/" class="title">Tehilim Sefardí</a>
         <div class="byline">by Shlomo Peretz</div>
       </div>
     </header>
@@ -32,22 +33,23 @@
       </div>
     </main>
 
-    <nav class="bottombar" aria-label="Tehilim navigation">
-      <a class="bbtn {{ if eq .RelPermalink "/" }}active{{ end }}" href="/">בַּיִת</a>
-      <a class="bbtn {{ if in .RelPermalink "/tehilim/" }}active{{ end }}" href="/tehilim/">תְּהִלִּים</a>
-      <a class="bbtn {{ if in .RelPermalink "/categories/" }}active{{ end }}" href="/categories/">נוֹשְׂאִים</a>
+    <nav class="bottombar" aria-label="Navegación">
+      <a class="bbtn {{ if eq .RelPermalink "/" }}active{{ end }}" href="/" id="nav-home">Inicio</a>
+      <a class="bbtn {{ if in .RelPermalink "/tehilim/" }}active{{ end }}" href="/tehilim/" id="nav-psalms">Salmos</a>
+      <a class="bbtn {{ if in .RelPermalink "/categories/" }}active{{ end }}" href="/categories/" id="nav-topics">Temas</a>
       <a class="bbtn" href="#" onclick="openSearch();return false;">🔍</a>
     </nav>
 
     <div id="searchOverlay" onclick="closeSearch()" style="display:none"></div>
     <div id="searchPanel" style="display:none">
       <div class="search-header">
-        <input type="search" id="searchInput" placeholder="חפש מזמור..." oninput="doSearch(this.value)" />
+        <input type="search" id="searchInput" placeholder="Buscar salmo..." oninput="doSearch(this.value)" />
         <button onclick="closeSearch()">×</button>
       </div>
       <div id="searchResults"></div>
     </div>
 
     <script src="{{ "js/tehilim.js" | relURL }}?v={{ now.Unix }}" defer></script>
+    <script src="{{ "js/i18n.js" | relURL }}?v={{ now.Unix }}" defer></script>
   </body>
 </html>
