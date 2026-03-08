@@ -2,10 +2,50 @@
 <html lang="es" dir="rtl">
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- SEO básico -->
+    <title>{{ if .Title }}{{ .Title }} | {{ end }}Tehilim Sefardí — Salmos en Español</title>
+    <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+    <meta name="keywords" content="{{ site.Params.keywords }}">
+    <meta name="author" content="{{ site.Params.author }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Tehilim Sefardí">
+    <meta property="og:title" content="{{ if .Title }}{{ .Title }} | {{ end }}Tehilim Sefardí">
+    <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:locale" content="es_ES">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ if .Title }}{{ .Title }} | {{ end }}Tehilim Sefardí">
+    <meta name="twitter:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+
+    <!-- Schema.org -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Tehilim Sefardí",
+      "url": "https://tehilimsefardi.com",
+      "description": "{{ site.Params.description }}",
+      "inLanguage": "es",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://tehilimsefardi.com/tehilim/{search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+
+    <!-- Fuentes -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Hebrew:wght@100..900&family=Assistant:wght@300;400;600&display=swap" rel="stylesheet">
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
+
+    <!-- CSS -->
     <link rel="stylesheet" href="{{ "css/site.css" | relURL }}?v={{ now.Unix }}">
     <link rel="stylesheet" href="{{ "css/layout.css" | relURL }}?v={{ now.Unix }}">
     <link rel="stylesheet" href="{{ "css/tehilim.css" | relURL }}?v={{ now.Unix }}">
@@ -13,13 +53,13 @@
   <body>
     <header class="topbar">
       <nav class="controls">
-        <button class="btn" onclick="toggleDarkMode()" title="Tema">◐</button>
+        <button class="btn" onclick="toggleDarkMode()" title="Cambiar tema">◐</button>
         <button class="btn" onclick="adjustFont(-1)">A−</button>
         <button class="btn" onclick="adjustFont(1)">A+</button>
         <button class="btn" id="translitBtn" onclick="toggleCantil()">טַ</button>
         <button class="btn" id="translBtn" onclick="toggleTranslit()">tr</button>
         <button class="btn" id="esBtn" onclick="toggleEs()">ES</button>
-        <button class="btn" id="langBtn" onclick="toggleLang()" title="שפה / Idioma">עב</button>
+        <button class="btn" id="langBtn" onclick="toggleLang()" title="Idioma / שפה">עב</button>
       </nav>
       <div class="brand">
         <a href="/" class="title">Tehilim Sefardí</a>

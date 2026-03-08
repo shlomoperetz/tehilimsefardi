@@ -1,0 +1,19 @@
+{{ if .Params.number }}
+<meta name="description" content="Salmo {{ .Params.number }} — {{ .Title }} — en hebreo con traducción al español y transliteración sefaradí. Tehilim Sefardí.">
+<meta property="og:title" content="Salmo {{ .Params.number }}: {{ .Title }} — Tehilim Sefardí">
+<meta property="og:description" content="Salmo {{ .Params.number }} en hebreo, español y transliteración sefaradí.">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "Salmo {{ .Params.number }}: {{ .Title }}",
+  "url": "{{ .Permalink }}",
+  "inLanguage": ["he", "es"],
+  "isPartOf": {
+    "@type": "Book",
+    "name": "Tehilim — Salmos de David",
+    "url": "https://tehilimsefardi.com/tehilim/"
+  }
+}
+</script>
+{{ end }}

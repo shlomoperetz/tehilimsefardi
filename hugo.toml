@@ -5,8 +5,10 @@ theme = "minithilim"
 enableRedirects = true
 
 [params]
-  description = "Los Salmos de David en hebreo con traducción al español y transliteración sefaradí. Nusaj Sefard."
+  description = "Los Salmos de David en hebreo con traducción al español y transliteración sefaradí. Para judíos hispanohablantes, baalei teshuvá y conversos al judaísmo."
+  keywords = "tehilim español, salmos judaismo, salmos hebreo español, tehilim traduccion, judaismo en español, baal teshuva, conversos judaismo, salmos david hebreo, nusaj sefarad, rezar salmos español, tehilim sefardi"
   author = "Shlomo Peretz"
+  og_image = "/img/og-tehilim.png"
 
 [markup]
   [markup.goldmark]
