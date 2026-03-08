@@ -13,10 +13,12 @@
   <body>
     <header class="topbar">
       <nav class="controls">
-        <button class="btn" onclick="toggleDarkMode()" title="Cambiar tema">◐</button>
+        <button class="btn" onclick="toggleDarkMode()" title="Tema">◐</button>
         <button class="btn" onclick="adjustFont(-1)">A−</button>
         <button class="btn" onclick="adjustFont(1)">A+</button>
-        <button class="btn" onclick="toggleTranslit()" id="translitBtn" title="Transliteración">ת</button>
+        <button class="btn" id="translitBtn" onclick="toggleCantil()" title="Cantilaciones">טַ</button>
+        <button class="btn" id="translBtn" onclick="toggleTranslit()" title="Transliteración">tr</button>
+        <button class="btn" id="esBtn" onclick="toggleEs()" title="Español">ES</button>
       </nav>
       <div class="brand">
         <a href="/" class="title">תְּהִלִּים סְפָרַדִי</a>
@@ -34,10 +36,9 @@
       <a class="bbtn {{ if eq .RelPermalink "/" }}active{{ end }}" href="/">בַּיִת</a>
       <a class="bbtn {{ if in .RelPermalink "/tehilim/" }}active{{ end }}" href="/tehilim/">תְּהִלִּים</a>
       <a class="bbtn {{ if in .RelPermalink "/categories/" }}active{{ end }}" href="/categories/">נוֹשְׂאִים</a>
-      <a class="bbtn" href="#" onclick="openSearch()">🔍</a>
+      <a class="bbtn" href="#" onclick="openSearch();return false;">🔍</a>
     </nav>
 
-    <!-- Search overlay -->
     <div id="searchOverlay" onclick="closeSearch()" style="display:none"></div>
     <div id="searchPanel" style="display:none">
       <div class="search-header">
@@ -47,7 +48,6 @@
       <div id="searchResults"></div>
     </div>
 
-    <script src="{{ "js/ui.js" | relURL }}?v={{ now.Unix }}" defer></script>
     <script src="{{ "js/tehilim.js" | relURL }}?v={{ now.Unix }}" defer></script>
   </body>
 </html>

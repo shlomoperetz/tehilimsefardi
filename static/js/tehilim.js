@@ -1,20 +1,13 @@
 // ===== TEHILIM.JS =====
 
-// Dark mode (heredado del siddur)
 function toggleDarkMode() {
   const root = document.documentElement;
-  if (root.classList.contains('dark-mode')) {
-    root.classList.remove('dark-mode');
-    root.classList.add('light-mode');
-    localStorage.setItem('theme', 'light');
-  } else {
-    root.classList.remove('light-mode');
-    root.classList.add('dark-mode');
-    localStorage.setItem('theme', 'dark');
-  }
+  const isDark = root.classList.contains('dark-mode');
+  root.classList.toggle('dark-mode', !isDark);
+  root.classList.toggle('light-mode', isDark);
+  localStorage.setItem('theme', isDark ? 'light' : 'dark');
 }
 
-// Font size
 function adjustFont(delta) {
   const root = document.documentElement;
   const current = parseFloat(getComputedStyle(root).getPropertyValue('--font')) || 22;
@@ -23,15 +16,34 @@ function adjustFont(delta) {
   localStorage.setItem('fontSize', next);
 }
 
-// Transliteración sefaradí
-function toggleTranslit() {
+// Toggle cantilaciones
+function toggleCantil() {
   const btn = document.getElementById('translitBtn');
-  const block = document.getElementById('translitBlock');
-  if (!block) return;
-  const visible = block.style.display !== 'none';
-  block.style.display = visible ? 'none' : 'block';
-  btn.classList.toggle('active', !visible);
-  localStorage.setItem('translit', !visible ? '1' : '0');
+  const on  = document.querySelectorAll('.cantil-on');
+  const off = document.querySelectorAll('.cantil-off');
+  const showing = on[0] && on[0].style.display !== 'none';
+  on.forEach(el  => el.style.display = showing ? 'none' : '');
+  off.forEach(el => el.style.display = showing ? '' : 'none');
+  btn.classList.toggle('active', showing);
+  localStorage.setItem('cantil', showing ? '0' : '1');
+}
+
+// Toggle transliteración
+function toggleTranslit() {
+  const els = document.querySelectorAll('.verse-translit');
+  if (!els.length) return;
+  const showing = els[0].style.display !== 'none';
+  els.forEach(el => el.style.display = showing ? 'none' : 'block');
+  localStorage.setItem('translit', showing ? '0' : '1');
+}
+
+// Toggle español
+function toggleEs() {
+  const els = document.querySelectorAll('.verse-es');
+  if (!els.length) return;
+  const showing = els[0].style.display !== 'none';
+  els.forEach(el => el.style.display = showing ? 'none' : 'block');
+  localStorage.setItem('showEs', showing ? '0' : '1');
 }
 
 // Búsqueda
@@ -41,16 +53,14 @@ async function loadSearchIndex() {
   try {
     const res = await fetch('/index.json');
     searchIndex = await res.json();
-  } catch(e) {
-    searchIndex = [];
-  }
+  } catch(e) { searchIndex = []; }
 }
 
 function openSearch() {
   document.getElementById('searchOverlay').style.display = 'block';
   document.getElementById('searchPanel').style.display = 'block';
   document.getElementById('searchInput').focus();
-  if (searchIndex.length === 0) loadSearchIndex();
+  if (!searchIndex.length) loadSearchIndex();
 }
 
 function closeSearch() {
@@ -64,15 +74,12 @@ function doSearch(query) {
   const q = query.trim();
   const results = document.getElementById('searchResults');
   if (!q) { results.innerHTML = ''; return; }
-
-  // Buscar por número
   const num = parseInt(q);
   let hits = [];
   if (!isNaN(num)) {
     hits = searchIndex.filter(p => p.number === num);
   }
-  // Buscar por texto/título
-  if (hits.length === 0) {
+  if (!hits.length) {
     const ql = q.toLowerCase();
     hits = searchIndex.filter(p =>
       (p.title && p.title.toLowerCase().includes(ql)) ||
@@ -80,39 +87,28 @@ function doSearch(query) {
       (p.content && p.content.toLowerCase().includes(ql))
     ).slice(0, 10);
   }
-
-  if (hits.length === 0) {
+  if (!hits.length) {
     results.innerHTML = '<div style="padding:1em;color:var(--muted);text-align:center">לא נמצא</div>';
     return;
   }
-
   results.innerHTML = hits.map(p => `
     <div class="search-result-item" onclick="location.href='${p.permalink}'">
       <span style="color:#d4af37;font-weight:700;margin-inline-end:8px">${p.number || ''}</span>
       <span>${p.title || ''}</span>
-      ${p.categories ? `<span style="font-size:0.7em;color:var(--muted);margin-inline-start:8px">${p.categories.join(', ')}</span>` : ''}
     </div>
   `).join('');
 }
 
-// Modo lectura completa (fullscreen)
-function toggleReadingMode() {
-  document.body.classList.toggle('reading-mode');
-}
-
-// Restaurar preferencias al cargar
+// Restaurar preferencias
 (function init() {
   const theme = localStorage.getItem('theme');
-  if (theme === 'dark') document.documentElement.classList.add('dark-mode');
+  if (theme === 'dark')  document.documentElement.classList.add('dark-mode');
   if (theme === 'light') document.documentElement.classList.add('light-mode');
 
   const fontSize = localStorage.getItem('fontSize');
   if (fontSize) document.documentElement.style.setProperty('--font', fontSize + 'px');
 
-  const translit = localStorage.getItem('translit');
-  if (translit === '1') {
-    const block = document.getElementById('translitBlock');
-    const btn = document.getElementById('translitBtn');
-    if (block) { block.style.display = 'block'; btn?.classList.add('active'); }
-  }
+  if (localStorage.getItem('cantil') === '0') toggleCantil();
+  if (localStorage.getItem('translit') === '1') toggleTranslit();
+  if (localStorage.getItem('showEs') === '1') toggleEs();
 })();
