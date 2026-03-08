@@ -677,3 +677,176 @@ body.is-landing .text-controls {
   opacity: 1;
   color: var(--accent);
 }
+
+/* ============================================
+   LANDING V3 — dos bloques, flujo natural
+   ============================================ */
+.landing-wrap {
+  min-height: calc(100vh - 130px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3em 1.5em 5em;
+  max-width: 620px;
+  margin: 0 auto;
+  gap: 0;
+}
+
+/* --- BLOQUE IDENTIDAD --- */
+.landing-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding-bottom: 2.5em;
+  gap: 0.7em;
+  width: 100%;
+}
+.landing-he-title {
+  font-family: var(--he-font);
+  font-size: clamp(2em, 5vw, 3em);
+  font-weight: 300;
+  color: var(--fg);
+  opacity: 0.18;
+  line-height: 1;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.1em;
+}
+.landing-main-title {
+  font-family: var(--ui-font);
+  font-size: clamp(1.7em, 4vw, 2.4em);
+  font-weight: 700;
+  color: var(--fg);
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+  margin: 0;
+}
+.landing-desc {
+  font-family: var(--ui-font);
+  font-size: 0.92em;
+  color: var(--muted);
+  line-height: 1.7;
+  margin: 0;
+  max-width: 420px;
+}
+.landing-cta-row {
+  display: flex;
+  align-items: center;
+  gap: 1.2em;
+  margin-top: 0.8em;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.landing-cta-primary {
+  font-family: var(--ui-font);
+  font-size: 0.95em;
+  font-weight: 600;
+  color: #fff;
+  background: var(--accent);
+  padding: 0.65em 1.6em;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: opacity 0.15s, transform 0.15s;
+  letter-spacing: 0.01em;
+}
+.landing-cta-primary:hover {
+  opacity: 0.85;
+  transform: translateY(-1px);
+}
+.landing-cta-secondary {
+  font-family: var(--ui-font);
+  font-size: 0.88em;
+  color: var(--muted);
+  text-decoration: none;
+  opacity: 0.6;
+  transition: opacity 0.15s;
+  letter-spacing: 0.01em;
+}
+.landing-cta-secondary:hover { opacity: 1; }
+
+/* --- DIVISOR --- */
+.landing-divider {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  margin: 0.5em 0 2em;
+}
+.landing-divider::before,
+.landing-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--border);
+}
+.landing-divider span {
+  font-family: var(--ui-font);
+  font-size: 0.7em;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--muted);
+  opacity: 0.5;
+  white-space: nowrap;
+}
+
+/* --- SALMO DEL DÍA --- */
+.landing-daily {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  color: var(--fg);
+  width: 100%;
+  gap: 0.8em;
+  padding: 1.5em;
+  border-radius: 14px;
+  transition: background 0.15s;
+}
+.landing-daily:hover {
+  background: rgba(212,175,55,0.04);
+}
+.landing-daily-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.8em;
+}
+.landing-daily-num {
+  font-family: var(--ui-font);
+  font-size: 0.75em;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: 0.08em;
+}
+.landing-daily-title-es {
+  font-family: var(--ui-font);
+  font-size: 0.8em;
+  color: var(--muted);
+  font-style: italic;
+}
+.landing-daily-he {
+  font-family: var(--he-font);
+  font-size: clamp(1.1em, 3vw, 1.5em);
+  font-weight: 400;
+  line-height: 1.8;
+  color: var(--fg);
+  opacity: 0.9;
+  max-width: 500px;
+}
+.landing-daily-es {
+  font-family: var(--ui-font);
+  font-size: 0.85em;
+  color: var(--muted);
+  font-style: italic;
+  line-height: 1.7;
+  max-width: 420px;
+}
+.landing-daily-link {
+  font-family: var(--ui-font);
+  font-size: 0.8em;
+  color: var(--accent);
+  opacity: 0.7;
+  margin-top: 0.4em;
+  transition: opacity 0.15s;
+}
+.landing-daily:hover .landing-daily-link { opacity: 1; }

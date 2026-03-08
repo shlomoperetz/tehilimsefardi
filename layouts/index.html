@@ -8,48 +8,46 @@
 
 <div class="landing-wrap">
 
-  <div class="landing-top">
-    <span class="landing-book" dir="rtl">תְּהִלִּים</span>
-    <span class="landing-day-label" id="landing-day-label">Salmo del día</span>
+  <!-- BLOQUE IDENTIDAD -->
+  <div class="landing-hero">
+    <div class="landing-he-title" dir="rtl">תְּהִלִּים</div>
+    <h1 class="landing-main-title" id="landing-title">Los Salmos de David</h1>
+    <p class="landing-desc" id="landing-desc">En hebreo, con transliteración sefaradí y traducción al español.<br>Para rezar, estudiar y meditar.</p>
+    <div class="landing-cta-row">
+      <a href="/tehilim/" class="landing-cta-primary" id="landing-enter">Ver todos los salmos</a>
+      <a href="/acerca/normas/" class="landing-cta-secondary" id="landing-normas">Cómo usar este sitio</a>
+    </div>
   </div>
 
+  <!-- DIVISOR -->
+  <div class="landing-divider">
+    <span id="landing-day-label">Salmo del día</span>
+  </div>
+
+  <!-- SALMO DEL DÍA -->
   {{ if $data }}
-  <div class="landing-psalm">
+  <a href="{{ $url }}" class="landing-daily">
 
-    <a href="{{ $url }}" class="landing-psalm-link">
-
-      <div class="landing-psalm-num">{{ $num }}</div>
-
-      <div class="landing-psalm-title-he" dir="rtl">
-        {{ $data.title_he }}
-      </div>
-
+    <div class="landing-daily-meta">
+      <span class="landing-daily-num">{{ $num }}</span>
       {{ if $data.title_es }}
-      <div class="landing-psalm-title-es">
-        {{ $data.title_es }}
-      </div>
+      <span class="landing-daily-title-es">{{ $data.title_es }}</span>
       {{ end }}
+    </div>
 
-      {{ with index $data.verses 0 }}
-        {{ if .he }}
-        <div class="landing-verse-he" dir="rtl">{{ .he | safeHTML }}</div>
-        {{ end }}
-        {{ if .es }}
-        <div class="landing-verse-es">{{ .es }}</div>
-        {{ end }}
+    {{ with index $data.verses 0 }}
+      {{ if .he }}
+      <div class="landing-daily-he" dir="rtl">{{ .he | safeHTML }}</div>
       {{ end }}
+      {{ if .es }}
+      <div class="landing-daily-es">{{ .es }}</div>
+      {{ end }}
+    {{ end }}
 
-      <span class="landing-read" id="landing-read">Leer el salmo completo →</span>
+    <span class="landing-daily-link" id="landing-read">Leer el salmo completo →</span>
 
-    </a>
-
-  </div>
+  </a>
   {{ end }}
-
-  <nav class="landing-nav">
-    <a href="/tehilim/" id="landing-all">Todos los salmos</a>
-    <a href="/categories/" id="landing-topics">Por tema</a>
-  </nav>
 
 </div>
 {{ end }}
