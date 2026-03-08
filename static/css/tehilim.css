@@ -1019,3 +1019,40 @@ body.is-landing .text-controls {
   margin-top: 0.2em;
 }
 .landing-verse-preview:hover .lvp-link { opacity: 1; }
+
+/* === LANDING: título más pequeño, tiles primero en móvil === */
+.landing-wrap {
+  padding-top: 1.2em !important;
+  gap: 1em !important;
+}
+.landing-head {
+  padding-top: 0 !important;
+}
+.landing-main-title {
+  font-size: 1em !important;
+  font-weight: 600 !important;
+  opacity: 0.5;
+}
+.landing-desc {
+  font-size: 0.75em !important;
+  opacity: 0.4 !important;
+}
+@media (max-width: 640px) {
+  .landing-wrap {
+    padding-top: 0.8em !important;
+    gap: 0.9em !important;
+  }
+  .landing-head {
+    order: 3;
+    margin-top: 0.5em;
+  }
+  .landing-search {
+    order: 1;
+  }
+  .landing-tiles {
+    order: 2;
+  }
+  .landing-verse-preview {
+    order: 4;
+  }
+}
