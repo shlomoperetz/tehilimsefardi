@@ -30,14 +30,17 @@
 
         <!-- Controles de texto -->
         <div class="text-controls" id="textControls">
-          <button class="tbar-btn" onclick="adjustFont(-1)" title="Reducir texto">A−</button>
-          <button class="tbar-btn" onclick="adjustFont(1)" title="Aumentar texto">A+</button>
-          <div class="tbar-sep"></div>
-          <button class="tbar-btn tbar-toggle" id="btnHe" onclick="toggleHe()" title="Hebreo">א</button>
+          <div class="font-popover-wrap">
+            <button class="tbar-btn" onclick="toggleFontMenu()" title="Tamaño de texto">A</button>
+            <div class="font-popover">
+              <button onclick="adjustFont(1)">A+ Mayor</button>
+              <button onclick="adjustFont(-1)">A− Menor</button>
+            </div>
+          </div>
           <div class="tbar-sep"></div>
           <button class="tbar-btn tbar-toggle" id="btnCantil" onclick="toggleCantil()" title="Cantilaciones">טַ</button>
           <button class="tbar-btn tbar-toggle" id="btnTranslit" onclick="toggleTranslit()" title="Transliteración">tr</button>
-          <button class="tbar-btn tbar-toggle" id="btnEs" onclick="toggleEs()" title="Traducción">ES</button>
+          <button class="tbar-btn tbar-toggle" id="btnEs" onclick="toggleEs()" title="Traducción al español">ES</button>
           <button class="tbar-btn tbar-toggle" id="btnCols" onclick="toggleCols()" title="Dos columnas">▥</button>
         </div>
 

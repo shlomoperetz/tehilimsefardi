@@ -574,3 +574,130 @@ nav.bottombar .bbtn.active {
     display: block;
   }
 }
+
+/* ===== FIX: espacio entre versos ===== */
+.verse {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+.verse-he, .verse-es, .verse-translit {
+  padding: 0.3em 0 !important;
+  line-height: 1.7;
+}
+.verse + .verse {
+  margin-top: 1.4em !important;
+}
+
+/* ===== FIX: botones activos claros ===== */
+.tbar-toggle.active {
+  background: rgba(212,175,55,0.18) !important;
+  color: #d4af37 !important;
+  opacity: 1 !important;
+  box-shadow: inset 0 0 0 1.5px rgba(212,175,55,0.4);
+}
+.tbar-toggle:not(.active) {
+  opacity: 0.5;
+}
+.tbar-toggle:not(.active):hover {
+  opacity: 0.85;
+  background: rgba(128,128,128,0.1) !important;
+}
+
+/* ===== FIX: botón טַ desactivado cuando hebreo oculto ===== */
+.he-hidden #btnCantil {
+  opacity: 0.2 !important;
+  pointer-events: none;
+  cursor: not-allowed;
+}
+
+/* ===== FIX: dos columnas simétricas ===== */
+.tehilim-verses.two-col {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  direction: ltr;
+}
+.tehilim-verses.two-col .verse {
+  display: contents;
+}
+/* Hebreo: columna derecha */
+.tehilim-verses.two-col .verse-he {
+  grid-column: 2;
+  direction: rtl;
+  text-align: right;
+  padding: 1em 1.2em !important;
+  border-right: 2px solid rgba(212,175,55,0.15);
+  border-bottom: 1px solid rgba(128,128,128,0.06);
+  display: flex !important;
+  align-items: center;
+  justify-content: flex-end;
+}
+/* Español: columna izquierda, misma fila que su hebreo */
+.tehilim-verses.two-col .verse-es {
+  grid-column: 1;
+  grid-row: auto;
+  direction: ltr;
+  text-align: left;
+  padding: 1em 1.2em !important;
+  border-bottom: 1px solid rgba(128,128,128,0.06);
+  display: flex !important;
+  align-items: center;
+  font-size: 0.8em;
+  color: var(--muted);
+  line-height: 1.6;
+}
+/* Transliteración: fila completa entre versos */
+.tehilim-verses.two-col .verse-translit {
+  grid-column: 1 / -1;
+  direction: ltr;
+  text-align: center;
+  padding: 0.35em 1em !important;
+  font-size: 0.72em;
+  color: var(--muted);
+  opacity: 0.65;
+  border-bottom: 1px solid rgba(128,128,128,0.04);
+  font-style: italic;
+}
+
+/* ===== TOPBAR: botón A con popover ===== */
+.font-popover-wrap {
+  position: relative;
+}
+.font-popover {
+  display: none;
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--bg);
+  border: 1px solid rgba(128,128,128,0.15);
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  padding: 8px;
+  display: none;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 100px;
+  z-index: 500;
+  white-space: nowrap;
+}
+.font-popover.open { display: flex; }
+.font-popover button {
+  background: none;
+  border: none;
+  padding: 6px 12px;
+  cursor: pointer;
+  color: var(--fg);
+  font-family: var(--ui-font);
+  font-size: 13px;
+  border-radius: 6px;
+  text-align: center;
+}
+.font-popover button:hover {
+  background: rgba(212,175,55,0.1);
+}
+
+@media (max-width: 480px) {
+  .tbar-sep { display: none !important; }
+  #btnCantil { display: none !important; }
+}

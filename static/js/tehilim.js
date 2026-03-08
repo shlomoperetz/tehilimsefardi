@@ -179,3 +179,67 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 });
+
+// ===== FONT POPOVER =====
+function toggleFontMenu() {
+  document.querySelector('.font-popover')?.classList.toggle('open');
+}
+document.addEventListener('click', (e) => {
+  if (!e.target.closest('.font-popover-wrap')) {
+    document.querySelector('.font-popover')?.classList.remove('open');
+  }
+});
+
+// ===== TOGGLE HEBREO: añade clase he-hidden al body =====
+const _toggleHe2 = toggleHe;
+function toggleHe() {
+  const btn = document.getElementById('btnHe');
+  const verses = document.querySelectorAll('.verse-he');
+  const hidden = verses.length && verses[0].style.display === 'none';
+  verses.forEach(el => el.style.display = hidden ? '' : 'none');
+  document.body.classList.toggle('he-hidden', !hidden);
+  btn?.classList.toggle('active', !hidden);
+  localStorage.setItem('showHe', hidden ? '1' : '0');
+}
+
+// ===== RESTAURAR ESTADOS =====
+document.addEventListener('DOMContentLoaded', () => {
+  const cantil = localStorage.getItem('cantil');
+  const translit = localStorage.getItem('translit');
+  const showEs = localStorage.getItem('showEs');
+  const twoCols = localStorage.getItem('twoCols');
+  const showHe = localStorage.getItem('showHe');
+
+  // Hebreo oculto
+  if (showHe === '0') {
+    document.querySelectorAll('.verse-he').forEach(el => el.style.display = 'none');
+    document.getElementById('btnHe')?.classList.add('active');
+    document.body.classList.add('he-hidden');
+  } else {
+    document.getElementById('btnHe')?.classList.remove('active');
+  }
+
+  // Cantilaciones: activo = sin cantilaciones (plain)
+  if (cantil === '0') {
+    document.getElementById('btnCantil')?.classList.add('active');
+  }
+
+  // Transliteración
+  if (translit === '1') {
+    document.getElementById('btnTranslit')?.classList.add('active');
+    document.querySelectorAll('.verse-translit').forEach(el => el.style.display = '');
+  }
+
+  // Español
+  if (showEs === '1') {
+    document.getElementById('btnEs')?.classList.add('active');
+    document.querySelectorAll('.verse-es').forEach(el => el.style.display = '');
+  }
+
+  // Dos columnas
+  if (twoCols === '1') {
+    const container = document.getElementById('tehilimVerses');
+    if (container) container.classList.add('two-col');
+    document.getElementById('btnCols')?.classList.add('active');
+  }
+});
