@@ -447,3 +447,76 @@ header.topbar {
   .text-controls .tbar-btn:nth-child(2) { display: none; }
   .tbar-sep:first-of-type { display: none; }
 }
+
+/* ===== TOPBAR: botones más grandes ===== */
+.tbar-btn {
+  min-width: 38px !important;
+  height: 38px !important;
+  font-size: 14px !important;
+  border-radius: 10px !important;
+  padding: 0 8px !important;
+}
+.text-controls {
+  gap: 4px !important;
+  padding: 5px 10px !important;
+  border-radius: 12px !important;
+}
+.tbar-sep {
+  margin: 0 6px !important;
+}
+
+/* Brand con byline */
+.brand {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  text-decoration: none;
+}
+.brand-byline {
+  font-family: var(--ui-font);
+  font-size: 11px;
+  color: var(--muted);
+  opacity: 0.6;
+  letter-spacing: 0.02em;
+  font-weight: 400;
+}
+
+/* ===== BOTTOMBAR elegante ===== */
+nav.bottombar {
+  font-family: "Assistant", "Segoe UI", sans-serif !important;
+  height: 64px !important;
+  border-top: 1px solid rgba(128,128,128,0.1);
+  background: rgba(255,255,255,0.97) !important;
+  backdrop-filter: blur(12px);
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+:root.dark-mode nav.bottombar {
+  background: rgba(10,10,10,0.97) !important;
+}
+nav.bottombar .bbtn {
+  font-family: "Assistant", "Segoe UI", sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.02em;
+  color: var(--muted) !important;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 10px;
+  transition: color 0.15s, background 0.15s;
+  opacity: 0.7;
+}
+nav.bottombar .bbtn:hover {
+  opacity: 1;
+  background: rgba(212,175,55,0.08);
+  color: var(--fg) !important;
+}
+nav.bottombar .bbtn.active {
+  color: var(--fg) !important;
+  font-weight: 600 !important;
+  opacity: 1;
+  border-bottom: 2px solid #d4af37;
+  border-radius: 0;
+}
