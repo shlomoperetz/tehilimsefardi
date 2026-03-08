@@ -1167,3 +1167,9 @@ body.cantil-off .cantil-on  { display: none !important; }
 body.cantil-off .cantil-off { display: block !important; }
 body:not(.cantil-off) .cantil-on  { display: block !important; }
 body:not(.cantil-off) .cantil-off { display: none !important; }
+
+/* === Landing title en dorado === */
+.landing-main-title {
+  color: var(--accent) !important;
+  opacity: 1 !important;
+}
