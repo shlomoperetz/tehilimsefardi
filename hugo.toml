@@ -1,11 +1,11 @@
 baseURL = "https://tehilimsefardi.com/"
-languageCode = "he"
-title = "תהילים ספרדי"
+languageCode = "es"
+title = "Tehilim Sefardí"
 theme = "minithilim"
 enableRedirects = true
 
 [params]
-  description = "תְּהִלִּים · נֻסַח סְפָרַד"
+  description = "Los Salmos de David en hebreo con traducción al español y transliteración sefaradí. Nusaj Sefard."
   author = "Shlomo Peretz"
 
 [markup]
