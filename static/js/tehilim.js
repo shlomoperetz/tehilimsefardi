@@ -15,6 +15,11 @@ function toggleDarkMode() {
     document.body.classList.add('cantil-off');
     document.getElementById('btnCantil')?.classList.add('active');
   }
+  loadViewState();
+  if (localStorage.getItem('cantil') === '0') {
+    document.body.classList.add('cantil-off');
+    document.getElementById('btnCantil')?.classList.add('active');
+  }
 }
 function updateThemeIcon() {
   const dark = document.documentElement.classList.contains('dark-mode');
@@ -47,6 +52,82 @@ document.addEventListener('click', (e) => {
     document.querySelector('.font-popover')?.classList.remove('open');
   }
 });
+
+
+// === VISTA: he / tr / es — min1, max2 ===
+let viewState = { he: true, tr: false, es: true };
+let viewHistory = ['he', 'es'];
+
+function toggleView(key) {
+  const active = Object.keys(viewState).filter(k => viewState[k]);
+  if (viewState[key]) {
+    if (active.length === 1) return; // no se puede desactivar el último
+    viewState[key] = false;
+    viewHistory = viewHistory.filter(k => k !== key);
+  } else {
+    if (active.length >= 2) {
+      const oldest = viewHistory.shift();
+      viewState[oldest] = false;
+    }
+    viewState[key] = true;
+    viewHistory.push(key);
+  }
+  applyViewState();
+  saveViewState();
+}
+
+function applyViewState() {
+  const active = Object.keys(viewState).filter(k => viewState[k]);
+  const isTwoCol = active.length === 2;
+  const container = document.getElementById('tehilimVerses');
+
+  // Botones
+  document.getElementById('btnHe')?.classList.toggle('active', viewState.he);
+  document.getElementById('btnTranslit')?.classList.toggle('active', viewState.tr);
+  document.getElementById('btnEs')?.classList.toggle('active', viewState.es);
+
+  // Cantilaciones: visible solo si hebreo activo
+  const btnCantil = document.getElementById('btnCantil');
+  if (btnCantil) btnCantil.style.display = viewState.he ? '' : 'none';
+
+  // Visibilidad de elementos
+  document.querySelectorAll('.verse-he').forEach(el =>
+    el.style.display = viewState.he ? '' : 'none');
+  document.querySelectorAll('.verse-translit').forEach(el =>
+    el.style.display = viewState.tr ? '' : 'none');
+  document.querySelectorAll('.verse-es').forEach(el =>
+    el.style.display = viewState.es ? '' : 'none');
+
+  // Layout
+  if (!container) return;
+  container.classList.toggle('two-col', isTwoCol);
+  // data-layout para CSS: he-es, he-tr, tr-es
+  container.dataset.layout = active.sort((a,b) =>
+    ['he','tr','es'].indexOf(a) - ['he','tr','es'].indexOf(b)).join('-');
+}
+
+function saveViewState() {
+  localStorage.setItem('viewState', JSON.stringify(viewState));
+  localStorage.setItem('viewHistory', JSON.stringify(viewHistory));
+}
+
+function loadViewState() {
+  const saved = localStorage.getItem('viewState');
+  const savedH = localStorage.getItem('viewHistory');
+  if (saved) {
+    viewState = JSON.parse(saved);
+    viewHistory = savedH ? JSON.parse(savedH) : Object.keys(viewState).filter(k => viewState[k]);
+  }
+  applyViewState();
+}
+
+// === CANTILACIONES ===
+function toggleCantil() {
+  const btn = document.getElementById('btnCantil');
+  const isOff = document.body.classList.toggle('cantil-off');
+  btn?.classList.toggle('active', isOff);
+  localStorage.setItem('cantil', isOff ? '0' : '1');
+}
 
 
 // === VISTA: he / tr / es — min1, max2 ===
@@ -171,6 +252,11 @@ document.addEventListener('keydown', e => {
 // === RESTAURAR ESTADOS AL CARGAR ===
 document.addEventListener('DOMContentLoaded', () => {
   updateThemeIcon();
+  loadViewState();
+  if (localStorage.getItem('cantil') === '0') {
+    document.body.classList.add('cantil-off');
+    document.getElementById('btnCantil')?.classList.add('active');
+  }
   loadViewState();
   if (localStorage.getItem('cantil') === '0') {
     document.body.classList.add('cantil-off');
