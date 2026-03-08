@@ -1134,3 +1134,11 @@ body.is-landing .text-controls {
   color: var(--muted);
   font-style: italic;
 }
+
+/* Titulo: mostrar segun idioma activo */
+.psalm-title-he { display: block; }
+.psalm-title-es { display: none; }
+
+/* Cuando hebreo inactivo y ES activo */
+body.show-es-only .psalm-title-he { display: none; }
+body.show-es-only .psalm-title-es { display: block; }

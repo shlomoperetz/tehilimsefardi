@@ -3,13 +3,11 @@
 {{ $data := index .Site.Data.tehilim $num }}
 <article class="card tehilim-single" data-page>
 
-  <div class="tehilim-header">
-    <span class="tehilim-number">{{ .Params.number }}</span>
-    <h1 class="title">{{ .Title }}</h1>
-    {{ with .Params.categories }}
-    <div class="tehilim-cats">
-      {{ range . }}<a href="/categories/{{ . | urlize }}/" class="cat-tag">{{ . }}</a>{{ end }}
-    </div>
+  <div class="tehilim-header psalm-header">
+    <div class="psalm-number">{{ .Params.number }}</div>
+    {{ if $data }}
+    <h1 class="psalm-title-he title-he-show">{{ $data.title_he }}</h1>
+    <h1 class="psalm-title-es title-es-show">{{ $data.title_es }}</h1>
     {{ end }}
   </div>
 
