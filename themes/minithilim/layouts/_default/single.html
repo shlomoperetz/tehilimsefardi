@@ -17,15 +17,14 @@
   <div class="tehilim-verses" id="tehilimVerses">
     {{ range $data.verses }}
     <div class="verse" id="v{{ .num }}">
-      <div class="verse-he cantil-on">{{ .he | safeHTML }}</div>
-      <div class="verse-he cantil-off" style="display:none">{{ .he_plain }}</div>
+      <div class="verse-he cantil-on"><sup class="verse-num">{{ .num }}</sup>{{ .he | safeHTML }}</div>
+      <div class="verse-he cantil-off" style="display:none"><sup class="verse-num">{{ .num }}</sup>{{ .he_plain }}</div>
       {{ if .translit }}
-      <div class="verse-translit" style="display:none"><em>{{ .translit }}</em></div>
+      <div class="verse-translit" style="display:none"><sup class="verse-num">{{ .num }}</sup>{{ .translit }}</div>
       {{ end }}
       {{ if .es }}
-      <div class="verse-es" style="display:none">{{ .es }}</div>
+      <div class="verse-es" style="display:none"><sup class="verse-num-es">{{ .num }}</sup>{{ .es }}</div>
       {{ end }}
-      <span class="verse-num">{{ .num }}</span>
     </div>
     {{ end }}
   </div>

@@ -234,3 +234,58 @@
   opacity: 0.7;
 }
 #langBtn:hover { opacity: 1; }
+
+/* ===== GRID LTR para hispanohablantes ===== */
+.tehilim-grid {
+  direction: ltr !important;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 10px;
+  margin-top: 0.5em;
+}
+.tehilim-item {
+  direction: ltr;
+  padding: 12px 8px;
+  min-height: 80px;
+  justify-content: flex-start;
+  border-radius: 10px;
+}
+.tehilim-name {
+  font-size: 0.6em;
+  line-height: 1.3;
+  text-align: center;
+  margin-top: 4px;
+  font-family: var(--ui-font);
+  hyphens: auto;
+  word-break: break-word;
+}
+
+/* Números de verso como superíndice */
+sup.verse-num {
+  font-size: 0.55em;
+  color: #d4af37;
+  font-weight: 700;
+  vertical-align: super;
+  margin-inline-end: 3px;
+  font-family: var(--ui-font);
+  line-height: 1;
+}
+sup.verse-num-es {
+  font-size: 0.6em;
+  color: rgba(212,175,55,0.6);
+  font-weight: 600;
+  vertical-align: super;
+  margin-inline-end: 3px;
+  font-family: var(--ui-font);
+}
+
+/* Signos de puntuación españoles - forzar LTR en títulos */
+.tehilim-name,
+.verse-es,
+.verse-translit,
+.tehilim-nav a,
+.landing-subtitle,
+.landing-enter,
+.landing-nav a,
+.bbtn {
+  unicode-bidi: plaintext;
+}

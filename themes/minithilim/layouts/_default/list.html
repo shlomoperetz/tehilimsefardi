@@ -1,6 +1,5 @@
 {{ define "main" }}
 <div class="card">
-  <h1 class="title">{{ .Title }}</h1>
   <div class="tehilim-grid">
     {{ range sort .Pages "Params.number" }}
     {{ $num := printf "%03d" .Params.number }}
