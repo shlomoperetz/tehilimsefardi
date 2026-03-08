@@ -138,57 +138,13 @@ sup.verse-num-es {
 }
 
 /* === VERSOS — VISTA DOS COLUMNAS === */
-#tehilimVerses.two-col {
-  direction: ltr;
-}
-#tehilimVerses.two-col .verse {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: auto;
-  gap: 0;
-  margin-bottom: 0;
-  padding: 0.5em 0;
-  border-bottom: 1px solid var(--border);
-  align-items: center;
-}
-#tehilimVerses.two-col .verse-he {
-  grid-column: 2;
-  grid-row: 1;
-  direction: rtl;
-  text-align: right;
-  padding: 0.4em 1em;
-  border-right: 2px solid rgba(212,175,55,0.2);
-  font-size: calc(var(--font, 22px) * 0.9);
-  line-height: 1.7;
-  margin: 0;
-}
-#tehilimVerses.two-col .verse-es {
-  grid-column: 1;
-  grid-row: 1;
-  direction: ltr;
-  text-align: left;
-  padding: 0.4em 1em;
-  font-size: 0.82em;
-  line-height: 1.6;
-  margin: 0;
-  color: var(--muted);
-  font-style: italic;
-  align-self: center;
-}
-#tehilimVerses.two-col .verse-translit {
-  grid-column: 1 / -1;
-  grid-row: 2;
-  text-align: left;
-  padding: 0.2em 1em;
-  font-size: 0.7em;
-  font-style: italic;
-  color: var(--muted);
-  opacity: 0.6;
-}
+
+
+
+
+
 @media (max-width: 600px) {
-  #tehilimVerses.two-col .verse {
-    display: block;
-  }
+  
 }
 
 /* === TOPBAR === */
@@ -531,20 +487,8 @@ body.is-landing .text-controls {
 .landing-nav a:hover { color: var(--accent); }
 
 /* === 3 OPCIONES ACTIVAS: transliteración bien integrada === */
-#tehilimVerses.two-col .verse {
-  grid-template-rows: 1fr auto;
-}
-#tehilimVerses.two-col .verse-translit {
-  grid-column: 1 / -1;
-  grid-row: 2;
-  text-align: left;
-  padding: 0.3em 1em 0.5em;
-  font-size: 0.7em;
-  font-style: italic;
-  color: var(--muted);
-  opacity: 0.6;
-  border-top: 1px dashed var(--border);
-}
+
+
 
 /* === LANDING SALMO DEL DÍA === */
 .landing-wrap {
