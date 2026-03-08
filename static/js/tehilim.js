@@ -73,21 +73,6 @@ function toggleEs() {
   localStorage.setItem('showEs', hidden ? '1' : '0');
 }
 
-// === HEBREO ===
-function toggleHe() {
-  const btn = document.getElementById('btnHe');
-  const els = document.querySelectorAll('.verse-he');
-  const isVisible = els.length && els[0].style.display !== 'none';
-
-  if (isVisible) {
-    // Si no hay nada más visible, activar ES primero
-    const esVis = [...document.querySelectorAll('.verse-es')].some(el => el.style.display !== 'none');
-    const trVis = [...document.querySelectorAll('.verse-translit')].some(el => el.style.display !== 'none');
-    if (!esVis && !trVis) {
-      document.querySelectorAll('.verse-es').forEach(el => el.style.display = '');
-      document.getElementById('btnEs')?.classList.add('active');
-      localStorage.setItem('showEs', '1');
-    }
     els.forEach(el => el.style.display = 'none');
     document.body.classList.add('he-hidden');
     btn?.classList.add('active');
