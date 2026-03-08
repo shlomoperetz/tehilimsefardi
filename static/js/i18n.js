@@ -89,3 +89,27 @@ function toggleLang() {
 }
 
 document.addEventListener('DOMContentLoaded', applyLang);
+
+// Actualizar títulos en la cuadrícula de salmos
+function applyLangToGrid() {
+  document.querySelectorAll('.tehilim-name[data-title-es]').forEach(el => {
+    el.textContent = currentLang === 'he'
+      ? el.dataset.titleHe
+      : el.dataset.titleEs;
+  });
+}
+
+// Sobreescribir applyLang para incluir grid
+const _applyLang = applyLang;
+document.addEventListener('DOMContentLoaded', () => {
+  applyLang();
+  applyLangToGrid();
+});
+
+const _toggleLang = toggleLang;
+function toggleLang() {
+  currentLang = currentLang === 'es' ? 'he' : 'es';
+  localStorage.setItem('ui_lang', currentLang);
+  applyLang();
+  applyLangToGrid();
+}

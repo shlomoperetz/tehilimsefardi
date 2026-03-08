@@ -3,9 +3,15 @@
   <h1 class="title">{{ .Title }}</h1>
   <div class="tehilim-grid">
     {{ range sort .Pages "Params.number" }}
+    {{ $num := printf "%03d" .Params.number }}
+    {{ $data := index $.Site.Data.tehilim $num }}
     <a href="{{ .Permalink }}" class="tehilim-item">
       <span class="tehilim-num">{{ .Params.number }}</span>
-      <span class="tehilim-name">{{ .Title }}</span>
+      <span class="tehilim-name"
+        data-title-he="{{ .Title }}"
+        data-title-es="{{ if $data }}{{ $data.title_es }}{{ else }}Salmo {{ .Params.number }}{{ end }}">
+        {{ if $data }}{{ $data.title_es }}{{ else }}{{ .Title }}{{ end }}
+      </span>
     </a>
     {{ end }}
   </div>
