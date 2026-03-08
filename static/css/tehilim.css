@@ -1056,3 +1056,7 @@ body.is-landing .text-controls {
     order: 4;
   }
 }
+
+/* === FIX: estado inicial cantilaciones === */
+.cantil-off { display: none; }
+.cantil-on  { display: block; }
