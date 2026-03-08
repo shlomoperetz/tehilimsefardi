@@ -98,7 +98,12 @@ function toggleHe() {
     btn?.classList.add('active');
     localStorage.setItem('showHe', '0');
   } else {
-    els.forEach(el => el.style.display = '');
+    // Restaurar hebreo respetando estado de cantilaciones
+    const cantilOff = localStorage.getItem('cantil') === '0';
+    document.querySelectorAll('.cantil-on').forEach(el =>
+      el.style.display = cantilOff ? 'none' : '');
+    document.querySelectorAll('.cantil-off').forEach(el =>
+      el.style.display = cantilOff ? '' : 'none');
     document.body.classList.remove('he-hidden');
     btn?.classList.remove('active');
     localStorage.setItem('showHe', '1');
