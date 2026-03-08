@@ -171,7 +171,6 @@ sup.verse-num-es {
   font-size: 0.82em;
   line-height: 1.6;
   margin: 0;
-  display: block !important;
   color: var(--muted);
   font-style: italic;
   align-self: center;
@@ -1179,4 +1178,20 @@ body:not(.cantil-off) .cantil-off { display: none !important; }
 .verse-es {
   text-align: left !important;
   direction: ltr !important;
+}
+
+/* two-col: translit ocupa columna ES cuando español oculto */
+#tehilimVerses.two-col .verse-translit {
+  display: none;
+}
+#tehilimVerses.two-col .verse-translit.tr-visible {
+  display: block;
+  grid-column: 1;
+  grid-row: 1;
+  text-align: left;
+  align-self: center;
+}
+#tehilimVerses.two-col .verse-es[style*="display: none"] ~ .verse-translit.tr-visible,
+#tehilimVerses.two-col .verse-es.hidden ~ .verse-translit.tr-visible {
+  grid-column: 1;
 }

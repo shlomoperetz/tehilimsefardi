@@ -47,8 +47,8 @@ document.addEventListener('click', (e) => {
 function toggleTranslit() {
   const btn = document.getElementById('btnTranslit');
   const els = document.querySelectorAll('.verse-translit');
-  const hidden = els.length && els[0].style.display === 'none';
-  els.forEach(el => el.style.display = hidden ? '' : 'none');
+  const hidden = els.length && els[0].classList.contains('tr-visible') === false;
+  els.forEach(el => el.classList.toggle('tr-visible', hidden));
   btn?.classList.toggle('active', hidden);
   localStorage.setItem('translit', hidden ? '1' : '0');
 }
@@ -126,10 +126,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Transliteración (por defecto OFF)
   if (localStorage.getItem('translit') === '1') {
-    document.querySelectorAll('.verse-translit').forEach(el => el.style.display = '');
+    document.querySelectorAll('.verse-translit').forEach(el => el.classList.add('tr-visible'));
     document.getElementById('btnTranslit')?.classList.add('active');
-  } else {
-    document.querySelectorAll('.verse-translit').forEach(el => el.style.display = 'none');
   }
 
   // Español (por defecto ON)
