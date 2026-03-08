@@ -1156,3 +1156,8 @@ body.is-landing .text-controls {
 .landing-tile:nth-child(odd) {
   border-color: rgba(212,175,55,0.2) !important;
 }
+
+/* === Brand title en dorado === */
+.brand-title {
+  color: var(--accent) !important;
+}
