@@ -546,3 +546,134 @@ body.is-landing .text-controls {
   opacity: 0.6;
   border-top: 1px dashed var(--border);
 }
+
+/* === LANDING SALMO DEL DÍA === */
+.landing-wrap {
+  min-height: calc(100vh - 130px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2em 1em 5em;
+  gap: 0;
+}
+
+/* Título hebreo grande arriba */
+.landing-top {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2.5em;
+  gap: 0.4em;
+}
+.landing-book {
+  font-family: var(--he-font);
+  font-size: clamp(1.6em, 4vw, 2.4em);
+  font-weight: 300;
+  color: var(--fg);
+  opacity: 0.25;
+  letter-spacing: 0.05em;
+  line-height: 1;
+}
+.landing-day-label {
+  font-family: var(--ui-font);
+  font-size: 0.72em;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--muted);
+  opacity: 0.5;
+}
+
+/* Tarjeta del salmo */
+.landing-psalm {
+  width: 100%;
+  max-width: 560px;
+}
+.landing-psalm-link {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  color: var(--fg);
+  padding: 2.5em 2em;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  gap: 0.6em;
+  text-align: center;
+}
+.landing-psalm-link:hover {
+  border-color: rgba(212,175,55,0.4);
+  box-shadow: 0 4px 24px rgba(212,175,55,0.08);
+}
+.landing-psalm-num {
+  font-family: var(--ui-font);
+  font-size: 0.75em;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: 0.1em;
+  margin-bottom: 0.2em;
+}
+.landing-psalm-title-he {
+  font-family: var(--he-font);
+  font-size: 1.4em;
+  font-weight: 400;
+  color: var(--fg);
+  line-height: 1.4;
+}
+.landing-psalm-title-es {
+  font-family: var(--ui-font);
+  font-size: 0.78em;
+  color: var(--muted);
+  letter-spacing: 0.04em;
+  margin-bottom: 0.8em;
+}
+.landing-verse-he {
+  font-family: var(--he-font);
+  font-size: clamp(1em, 2.5vw, 1.3em);
+  line-height: 1.8;
+  color: var(--fg);
+  opacity: 0.85;
+  margin-bottom: 0.4em;
+  padding: 0 0.5em;
+}
+.landing-verse-es {
+  font-family: var(--ui-font);
+  font-size: 0.82em;
+  color: var(--muted);
+  font-style: italic;
+  line-height: 1.7;
+  max-width: 420px;
+  margin-bottom: 1em;
+}
+.landing-read {
+  font-family: var(--ui-font);
+  font-size: 0.82em;
+  color: var(--accent);
+  letter-spacing: 0.03em;
+  margin-top: 0.5em;
+  opacity: 0.8;
+}
+.landing-psalm-link:hover .landing-read {
+  opacity: 1;
+}
+
+/* Nav inferior */
+.landing-nav {
+  display: flex;
+  gap: 2.5em;
+  margin-top: 2em;
+}
+.landing-nav a {
+  font-family: var(--ui-font);
+  font-size: 0.88em;
+  color: var(--muted);
+  text-decoration: none;
+  opacity: 0.6;
+  transition: opacity 0.15s, color 0.15s;
+  letter-spacing: 0.02em;
+}
+.landing-nav a:hover {
+  opacity: 1;
+  color: var(--accent);
+}

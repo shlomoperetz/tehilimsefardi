@@ -1,13 +1,55 @@
 {{ define "main" }}
+{{ $day := now.YearDay }}
+{{ $num := mod $day 150 | int }}
+{{ if eq $num 0 }}{{ $num = 150 }}{{ end }}
+{{ $key := printf "%03d" $num }}
+{{ $data := index .Site.Data.tehilim $key }}
+{{ $url := printf "/tehilim/%s/" $key }}
+
 <div class="landing-wrap">
-  <div class="landing-title" id="landing-title">Tehilim Sefardí</div>
-  <div class="landing-subtitle" id="landing-subtitle">Nusaj Sefaradí · Salmos de David</div>
-  <a href="/tehilim/001/" class="landing-enter" id="landing-enter">
-    <span id="landing-enter-text">→ Leer Tehilim</span>
-  </a>
+
+  <div class="landing-top">
+    <span class="landing-book" dir="rtl">תְּהִלִּים</span>
+    <span class="landing-day-label" id="landing-day-label">Salmo del día</span>
+  </div>
+
+  {{ if $data }}
+  <div class="landing-psalm">
+
+    <a href="{{ $url }}" class="landing-psalm-link">
+
+      <div class="landing-psalm-num">{{ $num }}</div>
+
+      <div class="landing-psalm-title-he" dir="rtl">
+        {{ $data.title_he }}
+      </div>
+
+      {{ if $data.title_es }}
+      <div class="landing-psalm-title-es">
+        {{ $data.title_es }}
+      </div>
+      {{ end }}
+
+      {{ with index $data.verses 0 }}
+        {{ if .he }}
+        <div class="landing-verse-he" dir="rtl">{{ .he | safeHTML }}</div>
+        {{ end }}
+        {{ if .es }}
+        <div class="landing-verse-es">{{ .es }}</div>
+        {{ end }}
+      {{ end }}
+
+      <span class="landing-read" id="landing-read">Leer el salmo completo →</span>
+
+    </a>
+
+  </div>
+  {{ end }}
+
   <nav class="landing-nav">
     <a href="/tehilim/" id="landing-all">Todos los salmos</a>
     <a href="/categories/" id="landing-topics">Por tema</a>
   </nav>
+
 </div>
 {{ end }}
