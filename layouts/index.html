@@ -8,44 +8,63 @@
 
 <div class="landing-wrap">
 
-  <!-- BLOQUE IDENTIDAD -->
-  <div class="landing-hero">
-    <h1 class="landing-main-title" id="landing-title">Los Salmos de David</h1>
-    <p class="landing-desc" id="landing-desc">En hebreo, con transliteración sefaradí y traducción al español.<br>Para rezar, estudiar y meditar.</p>
-    <div class="landing-cta-row">
-      <a href="/tehilim/" class="landing-cta-primary" id="landing-enter">Ver todos los salmos</a>
-      <a href="/acerca/normas/" class="landing-cta-secondary" id="landing-normas">Cómo usar este sitio</a>
-    </div>
+  <!-- TÍTULO COMPACT -->
+  <div class="landing-head">
+    <h1 class="landing-main-title" id="landing-title">Tehilim Sefardí</h1>
+    <p class="landing-desc" id="landing-desc">Los Salmos de David en hebreo, transliteración sefaradí y español</p>
   </div>
 
-  <!-- DIVISOR -->
-  <div class="landing-divider">
-    <span id="landing-day-label">Salmo del día</span>
+  <!-- BÚSQUEDA CENTRAL -->
+  <div class="landing-search" onclick="openSearch()">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="opacity:0.4;flex-shrink:0">
+      <circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+    </svg>
+    <span id="landing-search-placeholder">Buscar salmo por número o tema…</span>
   </div>
 
-  <!-- SALMO DEL DÍA -->
+  <!-- ACCESOS RÁPIDOS -->
+  <div class="landing-tiles">
+
+    <a href="{{ $url }}" class="landing-tile landing-tile-day">
+      <span class="tile-icon">תְּהִלִּים</span>
+      <span class="tile-label" id="tile-daily">Salmo del día</span>
+      <span class="tile-sub">Salmo {{ $num }}{{ if $data }}{{ if $data.title_es }} · {{ $data.title_es }}{{ end }}{{ end }}</span>
+    </a>
+
+    <a href="/categories/" class="landing-tile">
+      <span class="tile-icon-es">Por ocasión</span>
+      <span class="tile-label" id="tile-topics">Duelo · Amor · Protección</span>
+      <span class="tile-sub" id="tile-topics-sub">Salmos por tema</span>
+    </a>
+
+    <a href="/tehilim/" class="landing-tile">
+      <span class="tile-icon-es">1 — 150</span>
+      <span class="tile-label" id="tile-all">Todos los salmos</span>
+      <span class="tile-sub" id="tile-all-sub">Lista completa</span>
+    </a>
+
+    <a href="/tehilim/001/" class="landing-tile">
+      <span class="tile-icon-es">Salmo 1</span>
+      <span class="tile-label" id="tile-start">Empezar desde el principio</span>
+      <span class="tile-sub" id="tile-start-sub">Dichoso el hombre…</span>
+    </a>
+
+  </div>
+
+  <!-- SALMO DEL DÍA: verso preview -->
   {{ if $data }}
-  <a href="{{ $url }}" class="landing-daily">
-
-    <div class="landing-daily-meta">
-      <span class="landing-daily-num">{{ $num }}</span>
-      {{ if $data.title_es }}
-      <span class="landing-daily-title-es">{{ $data.title_es }}</span>
-      {{ end }}
+  {{ with index $data.verses 0 }}
+  {{ if .he }}
+  <a href="{{ $url }}" class="landing-verse-preview">
+    <div class="landing-verse-divider">
+      <span id="landing-day-label">Salmo del día · {{ $num }}</span>
     </div>
-
-    {{ with index $data.verses 0 }}
-      {{ if .he }}
-      <div class="landing-daily-he" dir="rtl">{{ .he | safeHTML }}</div>
-      {{ end }}
-      {{ if .es }}
-      <div class="landing-daily-es">{{ .es }}</div>
-      {{ end }}
-    {{ end }}
-
-    <span class="landing-daily-link" id="landing-read">Leer el salmo completo →</span>
-
+    <div class="lvp-he" dir="rtl">{{ .he | safeHTML }}</div>
+    {{ if .es }}<div class="lvp-es">{{ .es }}</div>{{ end }}
+    <span class="lvp-link" id="landing-read">Leer el salmo completo →</span>
   </a>
+  {{ end }}
+  {{ end }}
   {{ end }}
 
 </div>
