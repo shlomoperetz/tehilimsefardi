@@ -1,268 +1,128 @@
-/* ===== TEHILIM ESPECÍFICO ===== */
 
-/* Grid de salmos en la lista */
+/* ============================================
+   TEHILIM.CSS — versión limpia
+   ============================================ */
+
+/* === VARIABLES === */
+:root {
+  --accent: #d4af37;
+  --accent-soft: rgba(212,175,55,0.15);
+  --border: rgba(128,128,128,0.1);
+  --maxw: 780px;
+}
+
+/* === GRID DE SALMOS === */
 .tehilim-grid {
+  direction: ltr;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
-  gap: 8px;
-  margin-top: 1.2em;
-  direction: rtl;
-}
-.tehilim-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 10px 6px;
-  border: 1px solid rgba(212,175,55,0.25);
-  border-radius: 8px;
-  text-decoration: none;
-  color: var(--fg);
-  transition: background 0.15s, border-color 0.15s;
-}
-.tehilim-item:hover {
-  background: rgba(212,175,55,0.1);
-  border-color: rgba(212,175,55,0.6);
-  text-decoration: none;
-}
-.tehilim-num {
-  font-size: 1.2em;
-  font-weight: 700;
-  color: #d4af37;
-}
-.tehilim-name {
-  font-size: 0.55em;
-  color: var(--muted);
-  text-align: center;
-  margin-top: 2px;
-}
-
-/* Header del salmo individual */
-.tehilim-header {
-  border-bottom: 1px solid rgba(212,175,55,0.2);
-  padding-bottom: 0.8em;
-  margin-bottom: 1em;
-}
-.tehilim-number {
-  display: inline-block;
-  font-size: 0.75em;
-  font-weight: 700;
-  color: #d4af37;
-  background: rgba(212,175,55,0.1);
-  border-radius: 50%;
-  width: 2em;
-  height: 2em;
-  line-height: 2em;
-  text-align: center;
-  margin-bottom: 0.3em;
-}
-
-/* Categorías */
-.tehilim-cats { margin-top: 0.4em; }
-.cat-tag {
-  display: inline-block;
-  font-size: 0.6em;
-  padding: 2px 10px;
-  border: 1px solid rgba(212,175,55,0.4);
-  border-radius: 20px;
-  color: var(--muted);
-  margin-inline-end: 6px;
-  text-decoration: none;
-}
-.cat-tag:hover { background: rgba(212,175,55,0.1); text-decoration: none; }
-
-/* Texto del salmo - versos */
-.tehilim-text p { margin: 0.5em 0; }
-.verse-num {
-  font-size: 0.6em;
-  color: #d4af37;
-  vertical-align: super;
-  margin-inline-end: 4px;
-  font-weight: 600;
-}
-
-/* Transliteración */
-.translit-block {
-  background: rgba(212,175,55,0.06);
-  border-right: 3px solid #d4af37;
-  padding: 0.8em 1em;
-  margin: 1em 0;
-  border-radius: 0 8px 8px 0;
-  direction: ltr;
-  text-align: left;
-  font-family: var(--ui-font);
-  font-size: 0.8em;
-  color: var(--muted);
-  line-height: 1.7;
-}
-#translitBtn.active { color: #d4af37; }
-
-/* Navegación entre salmos */
-.tehilim-nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-top: 2em;
-  padding-top: 1em;
-  border-top: 1px solid rgba(128,128,128,0.15);
-  font-size: 0.75em;
-  font-family: var(--ui-font);
-}
-.tehilim-nav a { color: var(--muted); }
-.tehilim-nav .nav-list { color: #d4af37; }
-
-/* Search overlay */
-#searchOverlay {
-  position: fixed; inset: 0;
-  background: rgba(0,0,0,0.4);
-  z-index: 300;
-}
-#searchPanel {
-  position: fixed;
-  top: 0; left: 0; right: 0;
-  background: var(--bg);
-  z-index: 301;
-  padding: 1em;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.2);
-  max-height: 80vh;
-  overflow-y: auto;
-}
-.search-header {
-  display: flex;
-  gap: 8px;
-  margin-bottom: 1em;
-}
-.search-header input {
-  flex: 1;
-  padding: 10px 14px;
-  font-size: 1em;
-  border: 1px solid rgba(212,175,55,0.4);
-  border-radius: 8px;
-  background: var(--bg);
-  color: var(--fg);
-  direction: rtl;
-  font-family: var(--he-font);
-}
-.search-header button {
-  background: none; border: none;
-  font-size: 1.5em; cursor: pointer; color: var(--muted);
-}
-.search-result-item {
-  padding: 10px;
-  border-bottom: 1px solid rgba(128,128,128,0.1);
-  cursor: pointer;
-}
-.search-result-item:hover { background: rgba(212,175,55,0.08); }
-
-/* Landing */
-.landing { text-align: center; padding: 3em 1em; }
-.landing-title { font-size: 2em; font-weight: 700; }
-.landing-subtitle { color: var(--muted); font-size: 0.85em; margin-top: 0.4em; }
-.landing-actions { margin: 2em 0; }
-.landing-enter {
-  display: inline-flex;
-  align-items: center;
-  gap: 10px;
-  background: #d4af37;
-  color: #000;
-  padding: 14px 28px;
-  border-radius: 30px;
-  font-size: 1em;
-  font-weight: 600;
-  text-decoration: none;
-  transition: opacity 0.2s;
-}
-.landing-enter:hover { opacity: 0.85; text-decoration: none; }
-.landing-nav { display: flex; justify-content: center; gap: 1.5em; margin-top: 1.5em; }
-.landing-nav a { color: var(--muted); font-size: 0.85em; }
-
-/* ===== TIPOGRAFÍA ESPAÑOL ===== */
-.verse-es {
-  font-family: "Georgia", "Times New Roman", serif;
-  font-size: 0.78em;
-  color: var(--muted);
-  direction: ltr;
-  text-align: left;
-  padding: 4px 0 8px 0;
-  border-bottom: 1px solid rgba(212,175,55,0.1);
-  line-height: 1.6;
-  font-style: italic;
-}
-.verse-translit {
-  font-family: "Assistant", "Segoe UI", sans-serif;
-  font-size: 0.75em;
-  color: var(--muted);
-  direction: ltr;
-  text-align: left;
-  padding: 4px 0 6px 0;
-  line-height: 1.6;
-  opacity: 0.85;
-}
-.verse {
-  margin-bottom: 0.8em;
-  padding-bottom: 0.4em;
-}
-.verse-he {
-  line-height: 2;
-}
-
-/* Landing en español */
-.landing-subtitle {
-  font-family: "Assistant", "Segoe UI", sans-serif;
-  font-size: 1em;
-  letter-spacing: 0.03em;
-}
-.landing-enter {
-  font-family: "Assistant", "Segoe UI", sans-serif;
-  font-size: 1.1em;
-  letter-spacing: 0.02em;
-}
-.landing-nav a {
-  font-family: "Assistant", "Segoe UI", sans-serif;
-  font-size: 1em;
-}
-
-/* Bottombar en español */
-.bottombar .bbtn {
-  font-family: "Assistant", "Segoe UI", sans-serif;
-  font-size: 0.85em;
-}
-
-/* Botón idioma */
-#langBtn {
-  font-family: var(--he-font);
-  font-size: 0.9em;
-  opacity: 0.7;
-}
-#langBtn:hover { opacity: 1; }
-
-/* ===== GRID LTR para hispanohablantes ===== */
-.tehilim-grid {
-  direction: ltr !important;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
   gap: 10px;
   margin-top: 0.5em;
 }
 .tehilim-item {
-  direction: ltr;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   padding: 12px 8px;
   min-height: 80px;
-  justify-content: flex-start;
   border-radius: 10px;
+  text-decoration: none;
+  color: var(--fg);
+  border: 1px solid var(--border);
+  transition: background 0.15s, border-color 0.15s;
+}
+.tehilim-item:hover {
+  background: var(--accent-soft);
+  border-color: rgba(212,175,55,0.3);
+}
+.tehilim-num {
+  font-size: 1.1em;
+  font-weight: 700;
+  color: var(--accent);
+  font-family: var(--ui-font);
 }
 .tehilim-name {
-  font-size: 0.6em;
+  font-size: 0.62em;
   line-height: 1.3;
   text-align: center;
   margin-top: 4px;
   font-family: var(--ui-font);
   hyphens: auto;
   word-break: break-word;
+  color: var(--muted);
 }
 
-/* Números de verso como superíndice */
+/* === SALMO INDIVIDUAL === */
+.tehilim-header {
+  text-align: center;
+  margin-bottom: 2em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid var(--border);
+  position: relative;
+}
+.tehilim-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 0.85em;
+  font-weight: 700;
+  font-family: var(--ui-font);
+  margin-bottom: 0.5em;
+}
+h1.title {
+  font-family: var(--he-font);
+  font-size: 2em;
+  font-weight: 400;
+  direction: rtl;
+  text-align: center;
+  margin: 0.2em 0 0;
+}
+
+/* === VERSOS — VISTA NORMAL === */
+.tehilim-verses {
+  direction: rtl;
+}
+.verse {
+  margin-bottom: 1.6em;
+}
+.verse-he {
+  font-family: var(--he-font);
+  font-size: var(--font, 22px);
+  direction: rtl;
+  text-align: right;
+  line-height: 1.8;
+  color: var(--fg);
+}
+.verse-translit {
+  font-family: var(--ui-font);
+  font-size: 0.78em;
+  direction: ltr;
+  text-align: center;
+  color: var(--muted);
+  font-style: italic;
+  margin-top: 0.3em;
+  line-height: 1.5;
+}
+.verse-es {
+  font-family: var(--ui-font);
+  font-size: 0.82em;
+  direction: ltr;
+  text-align: left;
+  color: var(--muted);
+  font-style: italic;
+  margin-top: 0.3em;
+  line-height: 1.6;
+}
+
+/* Número de verso superíndice */
 sup.verse-num {
-  font-size: 0.55em;
-  color: #d4af37;
+  font-size: 0.5em;
+  color: var(--accent);
   font-weight: 700;
   vertical-align: super;
   margin-inline-end: 3px;
@@ -270,27 +130,69 @@ sup.verse-num {
   line-height: 1;
 }
 sup.verse-num-es {
-  font-size: 0.6em;
-  color: rgba(212,175,55,0.6);
-  font-weight: 600;
+  font-size: 0.55em;
+  color: rgba(212,175,55,0.5);
   vertical-align: super;
   margin-inline-end: 3px;
   font-family: var(--ui-font);
 }
 
-/* Signos de puntuación españoles - forzar LTR en títulos */
-.tehilim-name,
-.verse-es,
-.verse-translit,
-.tehilim-nav a,
-.landing-subtitle,
-.landing-enter,
-.landing-nav a,
-.bbtn {
-  unicode-bidi: plaintext;
+/* === VERSOS — VISTA DOS COLUMNAS === */
+#tehilimVerses.two-col {
+  direction: ltr;
+}
+#tehilimVerses.two-col .verse {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  gap: 0;
+  margin-bottom: 0;
+  padding: 0.5em 0;
+  border-bottom: 1px solid var(--border);
+  align-items: center;
+}
+#tehilimVerses.two-col .verse-he {
+  grid-column: 2;
+  grid-row: 1;
+  direction: rtl;
+  text-align: right;
+  padding: 0.4em 1em;
+  border-right: 2px solid rgba(212,175,55,0.2);
+  font-size: calc(var(--font, 22px) * 0.9);
+  line-height: 1.7;
+  margin: 0;
+}
+#tehilimVerses.two-col .verse-es {
+  grid-column: 1;
+  grid-row: 1;
+  direction: ltr;
+  text-align: left;
+  padding: 0.4em 1em;
+  font-size: 0.82em;
+  line-height: 1.6;
+  margin: 0;
+  display: block !important;
+  color: var(--muted);
+  font-style: italic;
+  align-self: center;
+}
+#tehilimVerses.two-col .verse-translit {
+  grid-column: 1 / -1;
+  grid-row: 2;
+  text-align: center;
+  padding: 0.2em 1em;
+  font-size: 0.7em;
+  font-style: italic;
+  color: var(--muted);
+  opacity: 0.6;
+}
+@media (max-width: 600px) {
+  #tehilimVerses.two-col .verse {
+    display: block;
+  }
 }
 
-/* ===== TOPBAR NUEVA ===== */
+/* === TOPBAR === */
 header.topbar {
   display: flex;
   align-items: center;
@@ -299,7 +201,7 @@ header.topbar {
   height: 56px;
   background: rgba(255,255,255,0.97);
   backdrop-filter: blur(12px);
-  border-bottom: 1px solid rgba(0,0,0,0.06);
+  border-bottom: 1px solid var(--border);
   position: sticky;
   top: 0;
   z-index: 200;
@@ -308,9 +210,11 @@ header.topbar {
 }
 :root.dark-mode header.topbar {
   background: rgba(10,10,10,0.97);
-  border-bottom-color: rgba(255,255,255,0.06);
 }
 .brand {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
   text-decoration: none;
   flex-shrink: 0;
 }
@@ -319,7 +223,12 @@ header.topbar {
   font-size: 17px;
   font-weight: 600;
   color: var(--fg);
-  letter-spacing: -0.01em;
+}
+.brand-byline {
+  font-size: 11px;
+  color: var(--muted);
+  font-family: var(--ui-font);
+  font-weight: 400;
 }
 .topbar-actions {
   display: flex;
@@ -329,10 +238,10 @@ header.topbar {
 .text-controls {
   display: flex;
   align-items: center;
-  gap: 2px;
-  padding: 4px 8px;
+  gap: 3px;
+  padding: 5px 10px;
   background: rgba(128,128,128,0.06);
-  border-radius: 10px;
+  border-radius: 12px;
   margin-inline-end: 6px;
 }
 .ui-controls {
@@ -344,53 +253,97 @@ header.topbar {
   width: 1px;
   height: 16px;
   background: rgba(128,128,128,0.2);
-  margin: 0 4px;
+  margin: 0 5px;
 }
 .tbar-btn {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-width: 32px;
-  height: 32px;
-  padding: 0 6px;
+  min-width: 38px;
+  height: 38px;
+  padding: 0 8px;
   background: none;
   border: none;
-  border-radius: 8px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: var(--fg);
+  font-family: var(--ui-font);
+  font-size: 14px;
+  font-weight: 500;
+  transition: background 0.12s, opacity 0.12s;
+  opacity: 0.5;
+}
+.tbar-btn:hover {
+  background: rgba(128,128,128,0.1);
+  opacity: 0.9;
+}
+/* Activo: dorado destacado */
+.tbar-toggle.active {
+  background: var(--accent-soft);
+  color: var(--accent);
+  opacity: 1;
+  box-shadow: inset 0 0 0 1.5px rgba(212,175,55,0.35);
+}
+/* Desactivado bloqueado */
+.he-hidden #btnCantil {
+  opacity: 0.15 !important;
+  pointer-events: none;
+}
+.tbar-lang {
+  font-family: var(--he-font);
+  font-size: 15px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+
+/* Font popover */
+.font-popover-wrap { position: relative; }
+.font-popover {
+  display: none;
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  padding: 6px;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 110px;
+  z-index: 500;
+}
+.font-popover.open { display: flex; }
+.font-popover button {
+  background: none;
+  border: none;
+  padding: 7px 12px;
   cursor: pointer;
   color: var(--fg);
   font-family: var(--ui-font);
   font-size: 13px;
-  font-weight: 500;
-  transition: background 0.12s;
-  opacity: 0.7;
-}
-.tbar-btn:hover { background: rgba(128,128,128,0.1); opacity: 1; }
-.tbar-toggle.active {
-  background: rgba(212,175,55,0.15);
-  color: #d4af37;
-  opacity: 1;
-}
-.tbar-lang {
-  font-family: var(--he-font);
-  font-size: 14px;
-  opacity: 0.5;
-  border: 1px solid rgba(128,128,128,0.2);
   border-radius: 6px;
+  text-align: left;
 }
-.tbar-lang:hover { opacity: 1; }
+.font-popover button:hover { background: var(--accent-soft); }
 
-/* Ocultar text-controls en páginas sin texto hebreo */
-.landing .text-controls { display: none; }
-
-/* Search mejorado */
+/* === BÚSQUEDA === */
+#searchOverlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.3);
+  z-index: 300;
+  backdrop-filter: blur(2px);
+}
 #searchPanel {
   position: fixed;
-  top: 56px;
+  top: 64px;
   left: 50%;
   transform: translateX(-50%);
   width: min(560px, calc(100vw - 32px));
   background: var(--bg);
-  border: 1px solid rgba(128,128,128,0.15);
+  border: 1px solid var(--border);
   border-radius: 14px;
   box-shadow: 0 8px 40px rgba(0,0,0,0.12);
   z-index: 301;
@@ -402,7 +355,7 @@ header.topbar {
   align-items: center;
   gap: 10px;
   padding: 14px 16px;
-  border-bottom: 1px solid rgba(128,128,128,0.1);
+  border-bottom: 1px solid var(--border);
 }
 .search-header input {
   flex: 1;
@@ -416,7 +369,7 @@ header.topbar {
 .search-close {
   background: none;
   border: none;
-  font-size: 20px;
+  font-size: 22px;
   cursor: pointer;
   color: var(--muted);
   line-height: 1;
@@ -424,333 +377,91 @@ header.topbar {
 }
 .search-result-item {
   display: flex;
-  align-items: baseline;
-  gap: 10px;
+  align-items: center;
+  gap: 12px;
   padding: 12px 16px;
   cursor: pointer;
-  border-bottom: 1px solid rgba(128,128,128,0.06);
+  border-bottom: 1px solid var(--border);
   font-family: var(--ui-font);
-  direction: ltr;
+  text-decoration: none;
+  color: var(--fg);
 }
-.search-result-item:hover { background: rgba(212,175,55,0.08); }
+.search-result-item:hover { background: var(--accent-soft); }
 .search-result-num {
   font-size: 13px;
   font-weight: 700;
-  color: #d4af37;
+  color: var(--accent);
   min-width: 28px;
 }
-.search-result-title { font-size: 15px; color: var(--fg); }
+.search-result-title { font-size: 15px; }
 
-/* Responsive - ocultar A-/A+ en móvil muy pequeño */
-@media (max-width: 400px) {
-  .text-controls .tbar-btn:first-child,
-  .text-controls .tbar-btn:nth-child(2) { display: none; }
-  .tbar-sep:first-of-type { display: none; }
-}
-
-/* ===== TOPBAR: botones más grandes ===== */
-.tbar-btn {
-  min-width: 38px !important;
-  height: 38px !important;
-  font-size: 14px !important;
-  border-radius: 10px !important;
-  padding: 0 8px !important;
-}
-.text-controls {
-  gap: 4px !important;
-  padding: 5px 10px !important;
-  border-radius: 12px !important;
-}
-.tbar-sep {
-  margin: 0 6px !important;
-}
-
-/* Brand con byline */
-.brand {
-  display: flex;
-  flex-direction: column;
-  gap: 1px;
-  text-decoration: none;
-}
-.brand-byline {
-  font-family: var(--ui-font);
-  font-size: 11px;
-  color: var(--muted);
-  opacity: 0.6;
-  letter-spacing: 0.02em;
-  font-weight: 400;
-}
-
-/* ===== BOTTOMBAR elegante ===== */
+/* === BOTTOMBAR === */
 nav.bottombar {
-  font-family: "Assistant", "Segoe UI", sans-serif !important;
-  height: 64px !important;
-  border-top: 1px solid rgba(128,128,128,0.1);
-  background: rgba(255,255,255,0.97) !important;
-  backdrop-filter: blur(12px);
   display: flex;
   align-items: center;
   justify-content: space-around;
+  height: 60px;
+  background: rgba(255,255,255,0.97);
+  backdrop-filter: blur(12px);
+  border-top: 1px solid var(--border);
   padding-bottom: env(safe-area-inset-bottom);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  direction: ltr;
 }
 :root.dark-mode nav.bottombar {
-  background: rgba(10,10,10,0.97) !important;
+  background: rgba(10,10,10,0.97);
 }
 nav.bottombar .bbtn {
-  font-family: "Assistant", "Segoe UI", sans-serif !important;
-  font-size: 14px !important;
-  font-weight: 500 !important;
-  letter-spacing: 0.02em;
-  color: var(--muted) !important;
+  font-family: var(--ui-font);
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  color: var(--muted);
   text-decoration: none;
-  padding: 8px 16px;
+  padding: 8px 20px;
   border-radius: 10px;
   transition: color 0.15s, background 0.15s;
-  opacity: 0.7;
+  opacity: 0.6;
 }
-nav.bottombar .bbtn:hover {
-  opacity: 1;
-  background: rgba(212,175,55,0.08);
-  color: var(--fg) !important;
-}
+nav.bottombar .bbtn:hover { opacity: 1; }
 nav.bottombar .bbtn.active {
-  color: var(--fg) !important;
-  font-weight: 600 !important;
+  color: var(--fg);
+  font-weight: 600;
   opacity: 1;
-  border-bottom: 2px solid #d4af37;
+  border-bottom: 2px solid var(--accent);
   border-radius: 0;
 }
 
-/* ===== DOS COLUMNAS ===== */
-.tehilim-verses.two-col {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0;
-  direction: ltr;
-}
-.tehilim-verses.two-col .verse {
-  display: contents;
-}
-.tehilim-verses.two-col .verse-he,
-.tehilim-verses.two-col .verse-he.cantil-on,
-.tehilim-verses.two-col .verse-he.cantil-off {
-  grid-column: 2;
-  direction: rtl;
-  text-align: right;
-  border-right: 2px solid rgba(212,175,55,0.15);
-  padding: 1em 1.2em 1em 0.6em;
-  border-bottom: 1px solid rgba(128,128,128,0.07);
-}
-.tehilim-verses.two-col .verse-es {
-  grid-column: 1;
-  direction: ltr;
-  text-align: left;
-  padding: 1em 0.6em 1em 1.2em;
-  border-bottom: 1px solid rgba(128,128,128,0.07);
-  font-size: 0.78em;
-  display: flex !important;
+/* === NAV SALMO === */
+.tehilim-nav {
+  display: flex;
+  justify-content: space-between;
   align-items: center;
-  color: var(--muted);
-  line-height: 1.6;
-}
-.tehilim-verses.two-col .verse-translit {
-  grid-column: 1 / -1;
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid var(--border);
   direction: ltr;
-  text-align: center;
-  padding: 0.4em 1em;
-  font-size: 0.72em;
-  border-bottom: 1px solid rgba(128,128,128,0.05);
-  color: var(--muted);
-  opacity: 0.7;
-}
-/* Número de verso en columnas */
-.tehilim-verses.two-col sup.verse-num {
-  font-size: 0.5em;
-}
-
-/* Responsive: en móvil desactivar columnas */
-@media (max-width: 600px) {
-  .tehilim-verses.two-col {
-    display: block;
-  }
-}
-
-/* ===== FIX: espacio entre versos ===== */
-.verse {
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
-}
-.verse-he, .verse-es, .verse-translit {
-  padding: 0.3em 0 !important;
-  line-height: 1.7;
-}
-.verse + .verse {
-  margin-top: 1.4em !important;
-}
-
-/* ===== FIX: botones activos claros ===== */
-.tbar-toggle.active {
-  background: rgba(212,175,55,0.18) !important;
-  color: #d4af37 !important;
-  opacity: 1 !important;
-  box-shadow: inset 0 0 0 1.5px rgba(212,175,55,0.4);
-}
-.tbar-toggle:not(.active) {
-  opacity: 0.5;
-}
-.tbar-toggle:not(.active):hover {
-  opacity: 0.85;
-  background: rgba(128,128,128,0.1) !important;
-}
-
-/* ===== FIX: botón טַ desactivado cuando hebreo oculto ===== */
-.he-hidden #btnCantil {
-  opacity: 0.2 !important;
-  pointer-events: none;
-  cursor: not-allowed;
-}
-
-/* ===== FIX: dos columnas simétricas ===== */
-.tehilim-verses.two-col {
-  display: grid !important;
-  grid-template-columns: 1fr 1fr;
-  gap: 0;
-  direction: ltr;
-}
-.tehilim-verses.two-col .verse {
-  display: contents;
-}
-/* Hebreo: columna derecha */
-.tehilim-verses.two-col .verse-he {
-  grid-column: 2;
-  direction: rtl;
-  text-align: right;
-  padding: 1em 1.2em !important;
-  border-right: 2px solid rgba(212,175,55,0.15);
-  border-bottom: 1px solid rgba(128,128,128,0.06);
-  display: flex !important;
-  align-items: center;
-  justify-content: flex-end;
-}
-/* Español: columna izquierda, misma fila que su hebreo */
-.tehilim-verses.two-col .verse-es {
-  grid-column: 1;
-  grid-row: auto;
-  direction: ltr;
-  text-align: left;
-  padding: 1em 1.2em !important;
-  border-bottom: 1px solid rgba(128,128,128,0.06);
-  display: flex !important;
-  align-items: center;
-  font-size: 0.8em;
-  color: var(--muted);
-  line-height: 1.6;
-}
-/* Transliteración: fila completa entre versos */
-.tehilim-verses.two-col .verse-translit {
-  grid-column: 1 / -1;
-  direction: ltr;
-  text-align: center;
-  padding: 0.35em 1em !important;
-  font-size: 0.72em;
-  color: var(--muted);
-  opacity: 0.65;
-  border-bottom: 1px solid rgba(128,128,128,0.04);
-  font-style: italic;
-}
-
-/* ===== TOPBAR: botón A con popover ===== */
-.font-popover-wrap {
-  position: relative;
-}
-.font-popover {
-  display: none;
-  position: absolute;
-  top: calc(100% + 8px);
-  left: 50%;
-  transform: translateX(-50%);
-  background: var(--bg);
-  border: 1px solid rgba(128,128,128,0.15);
-  border-radius: 10px;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-  padding: 8px;
-  display: none;
-  flex-direction: column;
-  gap: 4px;
-  min-width: 100px;
-  z-index: 500;
-  white-space: nowrap;
-}
-.font-popover.open { display: flex; }
-.font-popover button {
-  background: none;
-  border: none;
-  padding: 6px 12px;
-  cursor: pointer;
-  color: var(--fg);
   font-family: var(--ui-font);
-  font-size: 13px;
-  border-radius: 6px;
-  text-align: center;
+  font-size: 0.85em;
 }
-.font-popover button:hover {
-  background: rgba(212,175,55,0.1);
+.tehilim-nav a {
+  color: var(--accent);
+  text-decoration: none;
+  padding: 6px 12px;
+  border-radius: 8px;
+  transition: background 0.15s;
 }
+.tehilim-nav a:hover { background: var(--accent-soft); }
 
-@media (max-width: 480px) {
-  .tbar-sep { display: none !important; }
-  #btnCantil { display: none !important; }
-}
-
-/* ===== FIX DEFINITIVO: dos columnas por verso ===== */
-.tehilim-verses.two-col {
-  display: block !important;
-}
-.tehilim-verses.two-col .verse {
-  display: grid !important;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: auto auto;
-  gap: 0;
-  margin-bottom: 0.6em;
-  border-bottom: 1px solid rgba(128,128,128,0.07);
-  padding-bottom: 0.6em;
-}
-/* Hebreo: siempre columna derecha */
-.tehilim-verses.two-col .verse-he {
-  grid-column: 2;
-  grid-row: 1;
-  direction: rtl;
-  text-align: right;
-  padding: 0.6em 1em !important;
-  border-right: 2px solid rgba(212,175,55,0.15);
-}
-/* Español: siempre columna izquierda, misma fila */
-.tehilim-verses.two-col .verse-es {
-  grid-column: 1;
-  grid-row: 1;
-  direction: ltr;
-  text-align: left;
-  padding: 0.6em 1em !important;
-  display: flex !important;
-  align-items: center;
-  font-size: 0.8em;
-  color: var(--muted);
-  line-height: 1.6;
-}
-/* Transliteración: fila completa debajo */
-.tehilim-verses.two-col .verse-translit {
-  grid-column: 1 / -1;
-  grid-row: 2;
-  text-align: center;
-  padding: 0.3em 1em !important;
-  font-size: 0.72em;
-  font-style: italic;
-  color: var(--muted);
-  opacity: 0.65;
-}
-/* Responsive */
-@media (max-width: 600px) {
-  .tehilim-verses.two-col .verse {
-    display: block !important;
-  }
+/* === SIGNOS ESPAÑOLES LTR === */
+.tehilim-name,
+.verse-es,
+.verse-translit,
+.tehilim-nav a,
+.bbtn {
+  unicode-bidi: plaintext;
 }
