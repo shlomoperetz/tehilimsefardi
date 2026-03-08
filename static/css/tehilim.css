@@ -1142,3 +1142,10 @@ body.is-landing .text-controls {
 /* Cuando hebreo inactivo y ES activo */
 body.show-es-only .psalm-title-he { display: none; }
 body.show-es-only .psalm-title-es { display: block; }
+
+/* Centrar brand en topbar */
+.tbar-brand { 
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
