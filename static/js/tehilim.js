@@ -176,8 +176,9 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('btnTranslit')?.classList.add('active');
   }
 
-  // Español (por defecto OFF)
-  if (localStorage.getItem('showEs') === '1') {
+  // Español (por defecto ON)
+  const showEs = localStorage.getItem('showEs');
+  if (showEs === null || showEs === '1') {
     document.querySelectorAll('.verse-es').forEach(el => el.style.display = '');
     document.getElementById('btnEs')?.classList.add('active');
   }
@@ -189,8 +190,9 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('btnHe')?.classList.add('active');
   }
 
-  // Dos columnas (por defecto OFF)
-  if (localStorage.getItem('twoCols') === '1') {
+  // Dos columnas (por defecto ON)
+  const twoCols = localStorage.getItem('twoCols');
+  if (twoCols === null || twoCols === '1') {
     document.getElementById('tehilimVerses')?.classList.add('two-col');
     document.getElementById('btnCols')?.classList.add('active');
   }
