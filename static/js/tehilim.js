@@ -142,3 +142,40 @@ document.addEventListener('DOMContentLoaded', () => {
   if (localStorage.getItem('showEs') === '1')
     document.getElementById('btnEs')?.classList.add('active');
 });
+
+// ===== TOGGLE HEBREO =====
+function toggleHe() {
+  const btn = document.getElementById('btnHe');
+  const verses = document.querySelectorAll('.verse-he');
+  const hidden = verses.length && verses[0].style.display === 'none';
+  verses.forEach(el => el.style.display = hidden ? '' : 'none');
+  btn?.classList.toggle('active', !hidden);
+  localStorage.setItem('showHe', hidden ? '1' : '0');
+}
+
+// ===== TOGGLE DOS COLUMNAS =====
+function toggleCols() {
+  const btn = document.getElementById('btnCols');
+  const container = document.getElementById('tehilimVerses');
+  if (!container) return;
+  const isTwo = container.classList.toggle('two-col');
+  btn?.classList.toggle('active', isTwo);
+  localStorage.setItem('twoCols', isTwo ? '1' : '0');
+}
+
+// ===== RESTAURAR ESTADO AL CARGAR =====
+document.addEventListener('DOMContentLoaded', () => {
+  // Hebreo
+  if (localStorage.getItem('showHe') === '0') {
+    document.querySelectorAll('.verse-he').forEach(el => el.style.display = 'none');
+    document.getElementById('btnHe')?.classList.add('active');
+  }
+  // Dos columnas
+  if (localStorage.getItem('twoCols') === '1') {
+    const container = document.getElementById('tehilimVerses');
+    if (container) {
+      container.classList.add('two-col');
+      document.getElementById('btnCols')?.classList.add('active');
+    }
+  }
+});
