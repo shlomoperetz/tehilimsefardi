@@ -1060,3 +1060,51 @@ body.is-landing .text-controls {
 /* === FIX: estado inicial cantilaciones === */
 .cantil-off { display: none; }
 .cantil-on  { display: block; }
+
+/* === LANDING: más contraste, búsqueda más fina === */
+.landing-main-title {
+  color: var(--fg) !important;
+  opacity: 0.8 !important;
+}
+.landing-desc {
+  opacity: 0.5 !important;
+}
+
+/* Búsqueda más fina */
+.landing-search {
+  padding: 0.65em 1em !important;
+  border-radius: 10px !important;
+}
+
+/* Tiles con más presencia */
+.landing-tile {
+  border: 1.5px solid rgba(128,128,128,0.15) !important;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
+.landing-tile-day {
+  border-color: rgba(212,175,55,0.45) !important;
+  background: rgba(212,175,55,0.07) !important;
+}
+.tile-label {
+  font-size: 0.9em !important;
+  font-weight: 700 !important;
+  color: var(--fg) !important;
+  opacity: 1 !important;
+}
+.tile-sub {
+  opacity: 0.55 !important;
+}
+.tile-icon {
+  color: var(--accent) !important;
+  opacity: 0.7 !important;
+}
+.landing-cta-primary,
+.tile-icon-es {
+  color: var(--accent) !important;
+  font-weight: 800 !important;
+}
+
+/* Tiles 1 y 3 con acento dorado suave */
+.landing-tile:nth-child(odd) {
+  border-color: rgba(212,175,55,0.2) !important;
+}
