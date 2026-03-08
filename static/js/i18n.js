@@ -2,10 +2,10 @@ const STRINGS = {
   he: {
     home: "בַּיִת", psalms: "תְּהִלִּים", topics: "נוֹשְׂאִים",
     search_placeholder: "חפש מזמור...",
-    all_psalms: "כָּל הַמְּזָמוֹרִים",
     nav_list: "כָּל הַמְּזָמוֹרִים",
     prev: "מזמור", next: "מזמור",
     read: "קְרָא תְּהִלִּים",
+    landing_title: "תְּהִלִּים סְפָרַדִי",
     subtitle: "נֻסַח סְפָרַד · מִזְמוֹרֵי דָּוִד",
     landing_all: "כָּל הַמְּזָמוֹרִים",
     landing_topics: "לְפִי נוֹשֵׂא",
@@ -17,10 +17,10 @@ const STRINGS = {
   es: {
     home: "Inicio", psalms: "Salmos", topics: "Temas",
     search_placeholder: "Buscar salmo por número o tema...",
-    all_psalms: "Todos los salmos",
     nav_list: "Todos los salmos",
     prev: "Salmo", next: "Salmo",
     read: "Leer Tehilim",
+    landing_title: "Tehilim Sefardí",
     subtitle: "Nusaj Sefardí · Salmos de David",
     landing_all: "Todos los salmos",
     landing_topics: "Por tema",
@@ -39,23 +39,19 @@ function t(key) {
 
 function applyLang() {
   const set = (id, key) => { const el = document.getElementById(id); if (el) el.textContent = t(key); };
-  const attr = (id, attr, key) => { const el = document.getElementById(id); if (el) el[attr] = t(key); };
+  const attr = (id, a, key) => { const el = document.getElementById(id); if (el) el[a] = t(key); };
 
-  // Bottombar
-  set('nav-home',   'home');
-  set('nav-psalms', 'psalms');
-  set('nav-topics', 'topics');
-
-  // Landing
+  set('landing-title',      'landing_title');
   set('landing-subtitle',   'subtitle');
   set('landing-enter-text', 'read');
   set('landing-all',        'landing_all');
   set('landing-topics',     'landing_topics');
+  set('nav-home',           'home');
+  set('nav-psalms',         'psalms');
+  set('nav-topics',         'topics');
 
-  // Search
   attr('searchInput', 'placeholder', 'search_placeholder');
 
-  // Botones topbar títulos
   const bCantil   = document.getElementById('translitBtn');
   const bTranslit = document.getElementById('translBtn');
   const bEs       = document.getElementById('esBtn');
@@ -63,20 +59,25 @@ function applyLang() {
   if (bTranslit) bTranslit.title = t('title_translit');
   if (bEs)       bEs.title       = t('title_es');
 
-  // Nav salmo
   document.querySelectorAll('.nav-list').forEach(el => el.textContent = t('nav_list'));
   document.querySelectorAll('.nav-prev').forEach(el => {
-    const num = el.dataset.num;
-    el.textContent = '← ' + t('prev') + ' ' + num;
+    el.textContent = '← ' + t('prev') + ' ' + el.dataset.num;
   });
   document.querySelectorAll('.nav-next').forEach(el => {
-    const num = el.dataset.num;
-    el.textContent = t('next') + ' ' + num + ' →';
+    el.textContent = t('next') + ' ' + el.dataset.num + ' →';
   });
 
-  // Botón idioma
   const langBtn = document.getElementById('langBtn');
   if (langBtn) langBtn.textContent = currentLang === 'es' ? 'עב' : 'ES';
+
+  // Fuente del título: hebreo = serif hebrea, español = sans elegante
+  const title = document.getElementById('landing-title');
+  if (title) {
+    title.style.fontFamily = currentLang === 'he'
+      ? '"Noto Serif Hebrew", serif'
+      : '"Assistant", "Segoe UI", sans-serif';
+    title.style.fontSize = currentLang === 'he' ? '2em' : '2.4em';
+  }
 
   document.documentElement.lang = currentLang;
 }
