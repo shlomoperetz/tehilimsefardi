@@ -1,64 +1,63 @@
 {
   "number": 82,
   "title_he": "תהילים",
+  "title_es": "Dios juzga a los jueces injustos",
   "verses": [
     {
       "num": 1,
-      "he": "מִזְמ֗וֹר לְאָ֫סָ֥ף אֱֽלֹהִ֗ים נִצָּ֥ב בַּעֲדַת־אֵ֑ל בְּקֶ֖רֶב אֱלֹהִ֣ים יִשְׁפֹּֽט׃",
-      "he_plain": "מזמור לאסף אלהים נצב בעדת אל בקרב אלהים ישפט",
-      "translit": "",
-      "es": ""
+      "he": "מִזְמוֹר לְאָסָף אֱלֹהִים נִצָּב בַּעֲדַת אֵל בְּקֶרֶב אֱלֹהִים יִשְׁפֹּט׃",
+      "he_plain": "מזמור לאסף אלהים נצב בעדת אל בקרב אלהים ישפוט",
+      "translit": "Mizmór leAsáf. Elohím nitsáv baadát El; bekérev elohím yishpót.",
+      "es": "Salmo de Asaf. Dios se levanta en la asamblea de Dios; en medio de los jueces juzga."
     },
     {
       "num": 2,
-      "he": "עַד־מָתַ֥י תִּשְׁפְּטוּ־עָ֑וֶל וּפְנֵ֥י רְ֝שָׁעִ֗ים תִּשְׂאוּ־סֶֽלָה׃",
-      "he_plain": "עד מתי תשפטו עול ופני רשעים תשאו סלה",
-      "translit": "",
-      "es": ""
+      "he": "עַד מָתַי תִּשְׁפְּטוּ עָוֶל וּפְנֵי רְשָׁעִים תִּשְׂאוּ סֶלָה׃",
+      "he_plain": "עד מתי תשפטו עוול ופני רשעים תשאו סלה",
+      "translit": "Ad matáy tishpetú ával; ufnéi reshaím tisáu. Selá.",
+      "es": "¿Hasta cuándo juzgaréis injustamente y aceptaréis la persona de los impíos? Selá."
     },
     {
       "num": 3,
-      "he": "שִׁפְטוּ־דַ֥ל וְיָת֑וֹם עָנִ֖י וָרָ֣שׁ הַצְדִּֽיקוּ׃",
+      "he": "שִׁפְטוּ דַל וְיָתוֹם עָנִי וָרָשׁ הַצְדִּיקוּ׃",
       "he_plain": "שפטו דל ויתום עני ורש הצדיקו",
-      "translit": "",
-      "es": ""
+      "translit": "Shiftú dal veyatóm; aní varash hatsdiKú.",
+      "es": "Defended al débil y al huérfano; haced justicia al afligido y al menesteroso."
     },
     {
       "num": 4,
-      "he": "פַּלְּטוּ־דַ֥ל וְאֶבְי֑וֹן מִיַּ֖ד רְשָׁעִ֣ים הַצִּֽילוּ׃",
+      "he": "פַּלְּטוּ דַל וְאֶבְיוֹן מִיַּד רְשָׁעִים הַצִּילוּ׃",
       "he_plain": "פלטו דל ואביון מיד רשעים הצילו",
-      "translit": "",
-      "es": ""
+      "translit": "Paletú dal veevyón; miyád reshaím hatsílu.",
+      "es": "Librad al débil y al menesteroso; rescatadlos de mano de los impíos."
     },
     {
       "num": 5,
-      "he": "לֹ֤א יָדְע֨וּ׀ וְלֹ֥א יָבִ֗ינוּ בַּחֲשֵׁכָ֥ה יִתְהַלָּ֑כוּ יִ֝מּ֗וֹטוּ כׇּל־מ֥וֹסְדֵי אָֽרֶץ׃",
+      "he": "לֹא יָדְעוּ וְלֹא יָבִינוּ בַּחֲשֵׁכָה יִתְהַלָּכוּ יִמּוֹטוּ כָּל מוֹסְדֵי אָרֶץ׃",
       "he_plain": "לא ידעו ולא יבינו בחשכה יתהלכו ימוטו כל מוסדי ארץ",
-      "translit": "",
-      "es": ""
+      "translit": "Lo yadéu veló yavínu; bajashejá yithaláju; yimotú kol mosedéi árets.",
+      "es": "No saben ni entienden; andan en tinieblas; tiemblan todos los cimientos de la tierra."
     },
     {
       "num": 6,
-      "he": "אֲֽנִי־אָ֭מַרְתִּי אֱלֹהִ֣ים אַתֶּ֑ם וּבְנֵ֖י עֶלְי֣וֹן כֻּלְּכֶֽם׃",
-      "he_plain": "אני אמרתי אלהים אתם ובני עליון כלכם",
-      "translit": "",
-      "es": ""
+      "he": "אֲנִי אָמַרְתִּי אֱלֹהִים אַתֶּם וּבְנֵי עֶלְיוֹן כֻּלְּכֶם׃",
+      "he_plain": "אני אמרתי אלהים אתם ובני עליון כולכם",
+      "translit": "Aní amárti: elohím atém; uvnéi Elyón kuljém.",
+      "es": "Yo dije: Vosotros sois dioses e hijos del Altísimo todos vosotros."
     },
     {
       "num": 7,
-      "he": "אָ֭כֵן כְּאָדָ֣ם תְּמוּת֑וּן וּכְאַחַ֖ד הַשָּׂרִ֣ים תִּפֹּֽלוּ׃",
-      "he_plain": "אכן כאדם תמותון וכאחד השרים תפלו",
-      "translit": "",
-      "es": ""
+      "he": "אָכֵן כְּאָדָם תְּמוּתוּן וּכְאַחַד הַשָּׂרִים תִּפֹּלוּ׃",
+      "he_plain": "אכן כאדם תמותון וכאחד השרים תפולו",
+      "translit": "Ajén keadám temutún; ujeajád hasarím tipólu.",
+      "es": "Sin embargo moriréis como hombres y caeréis como cualquiera de los príncipes."
     },
     {
       "num": 8,
-      "he": "קוּמָ֣ה אֱ֭לֹהִים שׇׁפְטָ֣ה הָאָ֑רֶץ כִּֽי־אַתָּ֥ה תִ֝נְחַ֗ל בְּכׇל־הַגּוֹיִֽם׃ {פ}",
-      "he_plain": "קומה אלהים שפטה הארץ כי אתה תנחל בכל הגוים {פ}",
-      "translit": "",
-      "es": ""
+      "he": "קוּמָה אֱלֹהִים שָׁפְטָה הָאָרֶץ כִּי אַתָּה תִנְחַל בְּכָל הַגּוֹיִם׃",
+      "he_plain": "קומה אלהים שפטה הארץ כי אתה תנחל בכל הגוים",
+      "translit": "Kumá Elohím shoftá haárets; ki atá tinJál bejol hagoyím.",
+      "es": "Levántate, oh Dios, juzga la tierra porque Tú heredarás todas las naciones."
     }
-  ],
-  "audio": "",
-  "title_es": "Dios está presente en la asamblea divina"
+  ]
 }

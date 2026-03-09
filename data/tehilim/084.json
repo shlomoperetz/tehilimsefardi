@@ -1,99 +1,98 @@
 {
   "number": 84,
   "title_he": "תהילים",
+  "title_es": "Anhelo por la casa de Dios",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֥חַ עַֽל־הַגִּתִּ֑ית לִבְנֵי־קֹ֥רַח מִזְמֽוֹר׃",
-      "he_plain": "למנצח על הגתית לבני קרח מזמור",
-      "translit": "",
-      "es": ""
+      "he": "לַמְנַצֵּחַ עַל הַגִּתִּית לִבְנֵי קֹרַח מִזְמוֹר׃",
+      "he_plain": "למנצח על הגיתית לבני קורח מזמור",
+      "translit": "Lamnatséaj al haguití livnéi Kóraj mizmór.",
+      "es": "Al director; sobre la guitit. De los hijos de Koraj. Salmo."
     },
     {
       "num": 2,
-      "he": "מַה־יְּדִיד֥וֹת מִשְׁכְּנוֹתֶ֗יךָ יְהֹוָ֥ה צְבָאֽוֹת׃",
+      "he": "מַה יְּדִידוֹת מִשְׁכְּנוֹתֶיךָ יְהוָה צְבָאוֹת׃",
       "he_plain": "מה ידידות משכנותיך יהוה צבאות",
-      "translit": "",
-      "es": ""
+      "translit": "Má yedidót mishkenotéija Adonái tsevot.",
+      "es": "¡Cuán amables son Tus moradas, oh Eterno de los ejércitos!"
     },
     {
       "num": 3,
-      "he": "נִכְסְפָ֬ה וְגַם־כָּלְתָ֨ה׀ נַפְשִׁי֮ לְחַצְר֢וֹת יְ֫הֹוָ֥ה לִבִּ֥י וּבְשָׂרִ֑י יְ֝רַנְּנ֗וּ אֶ֣ל אֵֽל־חָֽי׃",
+      "he": "נִכְסְפָה וְגַם כָּלְתָה נַפְשִׁי לְחַצְרוֹת יְהוָה לִבִּי וּבְשָׂרִי יְרַנְּנוּ אֶל אֵל חָי׃",
       "he_plain": "נכספה וגם כלתה נפשי לחצרות יהוה לבי ובשרי ירננו אל אל חי",
-      "translit": "",
-      "es": ""
+      "translit": "Nijesefá vegam kaltá nafshí lejatsrot Adonái; libí uvsarí yeranénu el El jáy.",
+      "es": "Anhela y aún desfallece mi alma por los atrios del Eterno; mi corazón y mi carne cantan al Dios vivo."
     },
     {
       "num": 4,
-      "he": "גַּם־צִפּ֨וֹר מָ֪צְאָה בַ֡יִת וּדְר֤וֹר׀ קֵ֥ן לָהּ֮ אֲשֶׁר־שָׁ֢תָה אֶפְרֹ֫חֶ֥יהָ אֶֽת־מִ֭זְבְּחוֹתֶיךָ יְהֹוָ֣ה צְבָא֑וֹת מַ֝לְכִּ֗י וֵאלֹהָֽי׃",
-      "he_plain": "גם צפור מצאה בית ודרור קן לה אשר שתה אפרחיה את מזבחותיך יהוה צבאות מלכי ואלהי",
-      "translit": "",
-      "es": ""
+      "he": "גַּם צִפּוֹר מָצְאָה בַיִת וּדְרוֹר קֵן לָהּ אֲשֶׁר שָׁתָה אֶפְרֹחֶיהָ אֶת מִזְבְּחוֹתֶיךָ יְהוָה צְבָאוֹת מַלְכִּי וֵאלֹהָי׃",
+      "he_plain": "גם ציפור מצאה בית ודרור קן לה אשר שתה אפרוחיה את מזבחותיך יהוה צבאות מלכי ואלהי",
+      "translit": "Gam tsipór matsá báyit; udeRór kén lá; ashér shatá efrojéiha; et mizbejotéija Adonái tsevot; malkí veElohái.",
+      "es": "Aun el gorrión halla casa y la golondrina nido donde poner sus polluelos; cerca de Tus altares, oh Eterno de los ejércitos, Rey mío y Dios mío."
     },
     {
       "num": 5,
-      "he": "אַ֭שְׁרֵי יוֹשְׁבֵ֣י בֵיתֶ֑ךָ ע֝֗וֹד יְֽהַלְל֥וּךָ סֶּֽלָה׃",
+      "he": "אַשְׁרֵי יוֹשְׁבֵי בֵיתֶךָ עוֹד יְהַלְלוּךָ סֶּלָה׃",
       "he_plain": "אשרי יושבי ביתך עוד יהללוך סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Ashréi yoshvéi béiteja; od yehalelúja. Selá.",
+      "es": "Dichosos los que habitan en Tu casa; Te alabarán continuamente. Selá."
     },
     {
       "num": 6,
-      "he": "אַשְׁרֵ֣י אָ֭דָם עֽוֹז־ל֥וֹ בָ֑ךְ מְ֝סִלּ֗וֹת בִּלְבָבָֽם׃",
-      "he_plain": "אשרי אדם עוז לו בך מסלות בלבבם",
-      "translit": "",
-      "es": ""
+      "he": "אַשְׁרֵי אָדָם עוֹז לוֹ בָךְ מְסִלּוֹת בִּלְבָבָם׃",
+      "he_plain": "אשרי אדם עוז לו בך מסילות בלבבם",
+      "translit": "Ashréi adám oz ló baj; mesilót bilevaVám.",
+      "es": "Dichoso el hombre que en Ti halla su fortaleza; en cuyo corazón están los caminos a Tsión."
     },
     {
       "num": 7,
-      "he": "עֹבְרֵ֤י׀ בְּעֵ֣מֶק הַ֭בָּכָא מַעְיָ֣ן יְשִׁית֑וּהוּ גַּם־בְּ֝רָכ֗וֹת יַעְטֶ֥ה מוֹרֶֽה׃",
-      "he_plain": "עברי בעמק הבכא מעין ישיתוהו גם ברכות יעטה מורה",
-      "translit": "",
-      "es": ""
+      "he": "עֹבְרֵי בְּעֵמֶק הַבָּכָא מַעְיָן יְשִׁיתוּהוּ גַּם בְּרָכוֹת יַעְטֶה מוֹרֶה׃",
+      "he_plain": "עוברי בעמק הבכא מעיין ישיתוהו גם ברכות יעטה מורה",
+      "translit": "Ovréi beéMek haBajá; maayán yeshitúhu; gam berajót yaté moréh.",
+      "es": "Cuando pasan por el valle de las lágrimas lo convierten en fuente; las lluvias tempranas lo cubren también de bendiciones."
     },
     {
       "num": 8,
-      "he": "יֵ֭לְכוּ מֵחַ֣יִל אֶל־חָ֑יִל יֵרָאֶ֖ה אֶל־אֱלֹהִ֣ים בְּצִיּֽוֹן׃",
+      "he": "יֵלְכוּ מֵחַיִל אֶל חָיִל יֵרָאֶה אֶל אֱלֹהִים בְּצִיּוֹן׃",
       "he_plain": "ילכו מחיל אל חיל יראה אל אלהים בציון",
-      "translit": "",
-      "es": ""
+      "translit": "Yelju mejáyil el jáyil; yeraéh el Elohím beTsiyón.",
+      "es": "Irán de poder en poder; se presentarán ante Dios en Tsión."
     },
     {
       "num": 9,
-      "he": "יְ֘הֹוָ֤ה אֱלֹהִ֣ים צְ֭בָאוֹת שִׁמְעָ֣ה תְפִלָּתִ֑י הַאֲזִ֨ינָה אֱלֹהֵ֖י יַעֲקֹ֣ב סֶֽלָה׃",
+      "he": "יְהוָה אֱלֹהִים צְבָאוֹת שִׁמְעָה תְפִלָּתִי הַאֲזִינָה אֱלֹהֵי יַעֲקֹב סֶלָה׃",
       "he_plain": "יהוה אלהים צבאות שמעה תפלתי האזינה אלהי יעקב סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Adonái Elohím tsevot; shiméa tefilatí; haazíná Elohéi Yaakóv. Selá.",
+      "es": "Oh Eterno, Dios de los ejércitos, escucha mi oración; presta oído, oh Dios de Yaakov. Selá."
     },
     {
       "num": 10,
-      "he": "מָ֭גִנֵּנוּ רְאֵ֣ה אֱלֹהִ֑ים וְ֝הַבֵּ֗ט פְּנֵ֣י מְשִׁיחֶֽךָ׃",
-      "he_plain": "מגננו ראה אלהים והבט פני משיחך",
-      "translit": "",
-      "es": ""
+      "he": "מָגִנֵּנוּ רְאֵה אֱלֹהִים וְהַבֵּט פְּנֵי מְשִׁיחֶךָ׃",
+      "he_plain": "מגיננו ראה אלהים והבט פני משיחך",
+      "translit": "Magínenu reéh Elohím; vehabet penéi meshijéja.",
+      "es": "Mira, oh Dios, a nuestro escudo y pon los ojos en el rostro de Tu ungido."
     },
     {
       "num": 11,
-      "he": "כִּ֤י טֽוֹב־י֥וֹם בַּחֲצֵרֶ֗יךָ מֵ֫אָ֥לֶף בָּחַ֗רְתִּי הִ֭סְתּוֹפֵף בְּבֵ֣ית אֱלֹהַ֑י מִ֝דּ֗וּר בְּאׇהֳלֵי־רֶֽשַׁע׃",
-      "he_plain": "כי טוב יום בחצריך מאלף בחרתי הסתופף בבית אלהי מדור באהלי רשע",
-      "translit": "",
-      "es": ""
+      "he": "כִּי טוֹב יוֹם בַּחֲצֵרֶיךָ מֵאָלֶף אֶבְחֲרָה הִסְתּוֹפֵף בְּבֵית אֱלֹהַי מִדּוּר בְּאָהֳלֵי רֶשַׁע׃",
+      "he_plain": "כי טוב יום בחצריך מאלף אבחרה היסתופף בבית אלהי מדור באהלי רשע",
+      "translit": "Ki tov yóm bajatsEréija meálef; evjerá histopéf bebéit Eloháy; midúr beaholéi résha.",
+      "es": "Porque mejor es un día en Tus atrios que mil fuera de ellos; escogería estar a la entrada de la casa de mi Dios antes que habitar en las tiendas de maldad."
     },
     {
       "num": 12,
-      "he": "כִּ֤י שֶׁ֨מֶשׁ׀ וּמָגֵן֮ יְהֹוָ֢ה אֱלֹ֫הִ֥ים חֵ֣ן וְ֭כָבוֹד יִתֵּ֣ן יְהֹוָ֑ה לֹ֥א יִמְנַע־ט֝֗וֹב לַֽהֹלְכִ֥ים בְּתָמִֽים׃",
-      "he_plain": "כי שמש ומגן יהוה אלהים חן וכבוד יתן יהוה לא ימנע טוב להלכים בתמים",
-      "translit": "",
-      "es": ""
+      "he": "כִּי שֶׁמֶשׁ וּמָגֵן יְהוָה אֱלֹהִים חֵן וְכָבוֹד יִתֵּן יְהוָה לֹא יִמְנַע טוֹב לַהֹלְכִים בְּתָמִים׃",
+      "he_plain": "כי שמש ומגן יהוה אלהים חן וכבוד יתן יהוה לא ימנע טוב להולכים בתמים",
+      "translit": "Ki shémesh umagén Adonái Elohím; jén vejabód yitén Adonái; lo yimnáa tov laholejím betamím.",
+      "es": "Porque el Eterno Dios es sol y escudo; el Eterno dará gracia y gloria; no negará el bien a los que andan en integridad."
     },
     {
       "num": 13,
-      "he": "יְהֹוָ֥ה צְבָא֑וֹת אַֽשְׁרֵ֥י אָ֝דָ֗ם בֹּטֵ֥חַ בָּֽךְ׃ {פ}",
-      "he_plain": "יהוה צבאות אשרי אדם בטח בך {פ}",
-      "translit": "",
-      "es": ""
+      "he": "יְהוָה צְבָאוֹת אַשְׁרֵי אָדָם בֹּטֵחַ בָּךְ׃",
+      "he_plain": "יהוה צבאות אשרי אדם בוטח בך",
+      "translit": "Adonái tsevot; ashréi adám botéaj baj.",
+      "es": "Oh Eterno de los ejércitos, dichoso el hombre que en Ti confía."
     }
-  ],
-  "audio": "",
-  "title_es": "¡Cuán amadas son Tus moradas!"
+  ]
 }

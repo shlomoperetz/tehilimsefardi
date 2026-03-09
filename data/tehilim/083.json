@@ -1,141 +1,140 @@
 {
   "number": 83,
   "title_he": "תהילים",
+  "title_es": "Oración contra la coalición de enemigos de Israel",
   "verses": [
     {
       "num": 1,
-      "he": "שִׁ֖יר מִזְמ֣וֹר לְאָסָֽף׃",
+      "he": "שִׁיר מִזְמוֹר לְאָסָף׃",
       "he_plain": "שיר מזמור לאסף",
-      "translit": "",
-      "es": ""
+      "translit": "Shír mizmór leAsáf.",
+      "es": "Cántico. Salmo de Asaf."
     },
     {
       "num": 2,
-      "he": "אֱלֹהִ֥ים אַל־דֳּמִי־לָ֑ךְ אַל־תֶּחֱרַ֖שׁ וְאַל־תִּשְׁקֹ֣ט אֵֽל׃",
-      "he_plain": "אלהים אל דמי לך אל תחרש ואל תשקט אל",
-      "translit": "",
-      "es": ""
+      "he": "אֱלֹהִים אַל דֳּמִי לָךְ אַל תֶּחֱרַשׁ וְאַל תִּשְׁקֹט אֵל׃",
+      "he_plain": "אלהים אל דמי לך אל תחרש ואל תשקוט אל",
+      "translit": "Elohím al domí laj; al tejErash veal tishkót El.",
+      "es": "Oh Dios, no guardes silencio; no calles ni te estés quieto, oh Dios."
     },
     {
       "num": 3,
-      "he": "כִּֽי־הִנֵּ֣ה א֭וֹיְבֶיךָ יֶהֱמָי֑וּן וּ֝מְשַׂנְאֶ֗יךָ נָ֣שְׂאוּ רֹֽאשׁ׃",
+      "he": "כִּי הִנֵּה אוֹיְבֶיךָ יֶהֱמָיוּן וּמְשַׂנְאֶיךָ נָשְׂאוּ רֹאשׁ׃",
       "he_plain": "כי הנה אויביך יהמיון ומשנאיך נשאו ראש",
-      "translit": "",
-      "es": ""
+      "translit": "Ki hiné oyevéija yehemáyun; umsanéija nasáu rosh.",
+      "es": "Porque he aquí que Tus enemigos alborotan y los que Te aborrecen han alzado cabeza."
     },
     {
       "num": 4,
-      "he": "עַֽל־עַ֭מְּךָ יַעֲרִ֣ימוּ ס֑וֹד וְ֝יִתְיָעֲצ֗וּ עַל־צְפוּנֶֽיךָ׃",
+      "he": "עַל עַמְּךָ יַעֲרִימוּ סוֹד וְיִתְיָעֲצוּ עַל צְפוּנֶיךָ׃",
       "he_plain": "על עמך יערימו סוד ויתיעצו על צפוניך",
-      "translit": "",
-      "es": ""
+      "translit": "Al ameján yaarimú sod; veyityaatsú al tsefunéija.",
+      "es": "Contra Tu pueblo han consultado con astucia y han conspirado contra los que Tú proteges."
     },
     {
       "num": 5,
-      "he": "אָמְר֗וּ לְ֭כוּ וְנַכְחִידֵ֣ם מִגּ֑וֹי וְלֹֽא־יִזָּכֵ֖ר שֵֽׁם־יִשְׂרָאֵ֣ל עֽוֹד׃",
+      "he": "אָמְרוּ לְכוּ וְנַכְחִידֵם מִגּוֹי וְלֹא יִזָּכֵר שֵׁם יִשְׂרָאֵל עוֹד׃",
       "he_plain": "אמרו לכו ונכחידם מגוי ולא יזכר שם ישראל עוד",
-      "translit": "",
-      "es": ""
+      "translit": "Amarú: lejú venejJidém migóy; veló yizajér shém Yisraél od.",
+      "es": "Dijeron: Venid y destruyámoslos como nación para que el nombre de Israel no sea recordado más."
     },
     {
       "num": 6,
-      "he": "כִּ֤י נוֹעֲצ֣וּ לֵ֣ב יַחְדָּ֑ו עָ֝לֶ֗יךָ בְּרִ֣ית יִכְרֹֽתוּ׃",
-      "he_plain": "כי נועצו לב יחדו עליך ברית יכרתו",
-      "translit": "",
-      "es": ""
+      "he": "כִּי נוֹעֲצוּ לֵב יַחְדָּו עָלֶיךָ בְּרִית יִכְרֹתוּ׃",
+      "he_plain": "כי נועצו לב יחדו עליך ברית יכרותו",
+      "translit": "Ki noadSú lév yajdáv; aléija berít yijrotú.",
+      "es": "Porque han conspirado a una y han hecho pacto contra Ti."
     },
     {
       "num": 7,
-      "he": "אׇהֳלֵ֣י אֱ֭דוֹם וְיִשְׁמְעֵאלִ֗ים מוֹאָ֥ב וְהַגְרִֽים׃",
+      "he": "אָהֳלֵי אֱדוֹם וְיִשְׁמְעֵאלִים מוֹאָב וְהַגְרִים׃",
       "he_plain": "אהלי אדום וישמעאלים מואב והגרים",
-      "translit": "",
-      "es": ""
+      "translit": "Aholéi Edóm veYishmeeím; Moáv vehaGrím.",
+      "es": "Las tiendas de Edom y los ismaelitas; Moav y los hagreos."
     },
     {
       "num": 8,
-      "he": "גְּבָ֣ל וְ֭עַמּוֹן וַעֲמָלֵ֑ק פְּ֝לֶ֗שֶׁת עִם־יֹ֥שְׁבֵי צֽוֹר׃",
-      "he_plain": "גבל ועמון ועמלק פלשת עם ישבי צור",
-      "translit": "",
-      "es": ""
+      "he": "גְּבָל וְעַמּוֹן וַעֲמָלֵק פְּלֶשֶׁת עִם יֹשְׁבֵי צוֹר׃",
+      "he_plain": "גבל ועמון ועמלק פלשת עם יושבי צור",
+      "translit": "Guevál veAmón vaAmaléj; Peléshet im yoshvéi Tsór.",
+      "es": "Gueval y Amón y Amaléj; Filistea con los habitantes de Tsur."
     },
     {
       "num": 9,
-      "he": "גַּם־אַ֭שּׁוּר נִלְוָ֣ה עִמָּ֑ם הָ֤יֽוּ־זְר֖וֹעַ לִבְנֵי־ל֣וֹט סֶֽלָה׃",
+      "he": "גַּם אַשּׁוּר נִלְוָה עִמָּם הָיוּ זְרוֹעַ לִבְנֵי לוֹט סֶלָה׃",
       "he_plain": "גם אשור נלוה עמם היו זרוע לבני לוט סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Gam Ashúr nilevá imám; hayú zeróa livnéi Lot. Selá.",
+      "es": "También Ashur se ha unido a ellos; sirven de brazo a los hijos de Lot. Selá."
     },
     {
       "num": 10,
-      "he": "עֲשֵֽׂה־לָהֶ֥ם כְּמִדְיָ֑ן כְּֽסִיסְרָ֥א כְ֝יָבִ֗ין בְּנַ֣חַל קִישֽׁוֹן׃",
+      "he": "עֲשֵׂה לָהֶם כְּמִדְיָן כְּסִיסְרָא כְיָבִין בְּנַחַל קִישׁוֹן׃",
       "he_plain": "עשה להם כמדין כסיסרא כיבין בנחל קישון",
-      "translit": "",
-      "es": ""
+      "translit": "Aséh lahém keMidyán; keSiSerá jejávín; benájal Kishón.",
+      "es": "Hazles como a Midyán; como a Sisera; como a Yavín en el torrente de Kishón."
     },
     {
       "num": 11,
-      "he": "נִשְׁמְד֥וּ בְֽעֵין־דֹּ֑אר הָ֥יוּ דֹ֝֗מֶן לָאֲדָמָֽה׃",
-      "he_plain": "נשמדו בעין דאר היו דמן לאדמה",
-      "translit": "",
-      "es": ""
+      "he": "נִשְׁמְדוּ בְעֵין דֹּאר הָיוּ דֹּמֶן לָאֲדָמָה׃",
+      "he_plain": "נשמדו בעין דואר היו דומן לאדמה",
+      "translit": "Nishmedú veen Dor; hayú dómen laadamá.",
+      "es": "Fueron destruidos en En-Dor; vinieron a ser como estiércol para la tierra."
     },
     {
       "num": 12,
-      "he": "שִׁיתֵ֣מוֹ נְ֭דִיבֵימוֹ כְּעֹרֵ֣ב וְכִזְאֵ֑ב וּֽכְזֶ֥בַח וּ֝כְצַלְמֻנָּ֗ע כׇּל־נְסִיכֵֽימוֹ׃",
-      "he_plain": "שיתמו נדיבימו כערב וכזאב וכזבח וכצלמנע כל נסיכימו",
-      "translit": "",
-      "es": ""
+      "he": "שִׁיתֵמוֹ נְדִיבֵימוֹ כְּעֹרֵב וְכִזְאֵב וְכִזֶבַח וְכַצַּלְמֻנָּע כָּל נְסִיכֵימוֹ׃",
+      "he_plain": "שיתמו נדיביהמו כעורב וכזאב וכזבח וכצלמנע כל נסיכימו",
+      "translit": "Shetémo nedivéimo keoréb ujezeév; ukiZévaj ujeTs almuná kol nesiJéimo.",
+      "es": "Pon a sus nobles como a Orev y a Zeev; a todos sus príncipes como a Zévaj y como a Tsalmuna."
     },
     {
       "num": 13,
-      "he": "אֲשֶׁ֣ר אָ֭מְרוּ נִ֣ירְשָׁה לָּ֑נוּ אֵ֝֗ת נְא֣וֹת אֱלֹהִֽים׃",
+      "he": "אֲשֶׁר אָמְרוּ נִירְשָׁה לָּנוּ אֵת נְאוֹת אֱלֹהִים׃",
       "he_plain": "אשר אמרו נירשה לנו את נאות אלהים",
-      "translit": "",
-      "es": ""
+      "translit": "Ashér amarú: nireshá lánu et neót Elohím.",
+      "es": "Quienes dijeron: Tomemos en posesión para nosotros los pastizales de Dios."
     },
     {
       "num": 14,
-      "he": "אֱֽלֹהַ֗י שִׁיתֵ֥מוֹ כַגַּלְגַּ֑ל כְּ֝קַ֗שׁ לִפְנֵי־רֽוּחַ׃",
+      "he": "אֱלֹהַי שִׁיתֵמוֹ כַגַּלְגַּל כְּקַשׁ לִפְנֵי רוּחַ׃",
       "he_plain": "אלהי שיתמו כגלגל כקש לפני רוח",
-      "translit": "",
-      "es": ""
+      "translit": "Eloháy shetémo jagualgál; kekásh lifnéi rúaj.",
+      "es": "Oh Dios mío, ponlos como torbellino; como hojarasca delante del viento."
     },
     {
       "num": 15,
-      "he": "כְּאֵ֥שׁ תִּבְעַר־יָ֑עַר וּ֝כְלֶהָבָ֗ה תְּלַהֵ֥ט הָרִֽים׃",
-      "he_plain": "כאש תבער יער וכלהבה תלהט הרים",
-      "translit": "",
-      "es": ""
+      "he": "כְּאֵשׁ תִּבְעַר יָעַר וּכְלַהֲבָה תְּלַהֵט הָרִים׃",
+      "he_plain": "כאש תבעיר יער וכלהבה תלהט הרים",
+      "translit": "Keésh tivár yáar; ujelahaVá telahét harím.",
+      "es": "Como fuego que quema el bosque y como llama que abrasa los montes."
     },
     {
       "num": 16,
-      "he": "כֵּ֭ן תִּרְדְּפֵ֣ם בְּסַעֲרֶ֑ךָ וּבְסוּפָתְךָ֥ תְבַהֲלֵֽם׃",
+      "he": "כֵּן תִּרְדְּפֵם בְּסַעֲרֶךָ וּבְסוּפָתְךָ תְבַהֲלֵם׃",
       "he_plain": "כן תרדפם בסערך ובסופתך תבהלם",
-      "translit": "",
-      "es": ""
+      "translit": "Kén tirdefém besaarEjá; uvesufatejá tevahalém.",
+      "es": "Así los perseguirás con Tu tempestad y con Tu torbellino los atemorizarás."
     },
     {
       "num": 17,
-      "he": "מַלֵּ֣א פְנֵיהֶ֣ם קָל֑וֹן וִיבַקְשׁ֖וּ שִׁמְךָ֣ יְהֹוָֽה׃",
+      "he": "מַלֵּא פְנֵיהֶם קָלוֹן וִיבַקְשׁוּ שִׁמְךָ יְהוָה׃",
       "he_plain": "מלא פניהם קלון ויבקשו שמך יהוה",
-      "translit": "",
-      "es": ""
+      "translit": "Malé fNéihem kalón; vivakeshú shimejá Adonái.",
+      "es": "Llena sus rostros de vergüenza para que busquen Tu nombre, oh Eterno."
     },
     {
       "num": 18,
-      "he": "יֵבֹ֖שׁוּ וְיִבָּהֲל֥וּ עֲדֵי־עַ֗ד וְֽיַחְפְּר֥וּ וְיֹאבֵֽדוּ׃",
-      "he_plain": "יבשו ויבהלו עדי עד ויחפרו ויאבדו",
-      "translit": "",
-      "es": ""
+      "he": "יֵבֹשׁוּ וְיִבָּהֲלוּ עֲדֵי עַד וְיַחְפְּרוּ וְיֹאבֵדוּ׃",
+      "he_plain": "יבושו ויבהלו עדי עד ויחפרו ויאבדו",
+      "translit": "Yevoshú veyibahalú adéi ad; veyajperú veyovédu.",
+      "es": "Sean avergonzados y aterrados para siempre; sean confundidos y perezcan."
     },
     {
       "num": 19,
-      "he": "וְֽיֵדְע֗וּ כִּי־אַתָּ֬ה שִׁמְךָ֣ יְהֹוָ֣ה לְבַדֶּ֑ךָ עֶ֝לְי֗וֹן עַל־כׇּל־הָאָֽרֶץ׃ {פ}",
-      "he_plain": "וידעו כי אתה שמך יהוה לבדך עליון על כל הארץ {פ}",
-      "translit": "",
-      "es": ""
+      "he": "וְיֵדְעוּ כִּי אַתָּה שִׁמְךָ יְהוָה לְבַדְּךָ עֶלְיוֹן עַל כָּל הָאָרֶץ׃",
+      "he_plain": "וידעו כי אתה שמך יהוה לבדך עליון על כל הארץ",
+      "translit": "Veyedú ki atá shimejá Adonái; levadejá Elyón al kol haárets.",
+      "es": "Y sepan que Tú, cuyo nombre es el Eterno, Tú solo eres el Altísimo sobre toda la tierra."
     }
-  ],
-  "audio": "",
-  "title_es": "Dios, no guardes silencio"
+  ]
 }
