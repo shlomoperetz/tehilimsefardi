@@ -1,106 +1,105 @@
 {
   "number": 56,
   "title_he": "תהילים",
+  "title_es": "Confianza en Dios en medio del peligro",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֤חַ׀ עַל־י֬וֹנַת אֵ֣לֶם רְ֭חֹקִים לְדָוִ֣ד מִכְתָּ֑ם בֶּאֱחֹ֨ז אוֹת֖וֹ פְלִשְׁתִּ֣ים בְּגַֽת׃",
-      "he_plain": "למנצח על יונת אלם רחקים לדוד מכתם באחז אותו פלשתים בגת",
-      "translit": "",
-      "es": ""
+      "he": "לַמְנַצֵּחַ עַל יוֹנַת אֵלֶם רְחֹקִים לְדָוִד מִכְתָּם בֶּאֱחֹז אֹתוֹ פְלִשְׁתִּים בְּגַת׃",
+      "he_plain": "למנצח על יונת אלם רחוקים לדוד מכתם באחוז אותו פלשתים בגת",
+      "translit": "Lamnatséaj al yonát élem rejokím; leDavíd mijtám; beejóz otó Pelishtím begát.",
+      "es": "Al director; sobre «La paloma de los terebintos lejanos». De David. Miktam, cuando los filisteos lo apresaron en Gat."
     },
     {
       "num": 2,
-      "he": "חׇנֵּ֣נִי אֱ֭לֹהִים כִּֽי־שְׁאָפַ֣נִי אֱנ֑וֹשׁ כׇּל־הַ֝יּ֗וֹם לֹחֵ֥ם יִלְחָצֵֽנִי׃",
-      "he_plain": "חנני אלהים כי שאפני אנוש כל היום לחם ילחצני",
-      "translit": "",
-      "es": ""
+      "he": "חָנֵּנִי אֱלֹהִים כִּי שְׁאָפַנִי אֱנוֹשׁ כָּל הַיּוֹם לֹחֵם יִלְחָצֵנִי׃",
+      "he_plain": "חנני אלהים כי שאפני אנוש כל היום לוחם ילחצני",
+      "translit": "Janéni Elohím ki shaafáni enósh; kol hayóm lojém yilajatsEni.",
+      "es": "Ten misericordia de mí, oh Dios, porque me devoraría el hombre; cada día me oprime combatiéndome."
     },
     {
       "num": 3,
-      "he": "שָׁאֲפ֣וּ שׁ֭וֹרְרַי כׇּל־הַיּ֑וֹם כִּֽי־רַבִּ֨ים לֹחֲמִ֖ים לִ֣י מָרֽוֹם׃",
-      "he_plain": "שאפו שוררי כל היום כי רבים לחמים לי מרום",
-      "translit": "",
-      "es": ""
+      "he": "שָׁאֲפוּ שׁוֹרְרַי כָּל הַיּוֹם כִּי רַבִּים לֹחֲמִים לִי מָרוֹם׃",
+      "he_plain": "שאפו שוררי כל היום כי רבים לוחמים לי מרום",
+      "translit": "Shaafu shoreráy kol hayóm; ki rabím lojamím lí maróm.",
+      "es": "Mis enemigos me pisotean todo el día porque muchos combaten contra mí desde lo alto."
     },
     {
       "num": 4,
-      "he": "י֥וֹם אִירָ֑א אֲ֝נִ֗י אֵלֶ֥יךָ אֶבְטָֽח׃",
+      "he": "יוֹם אִירָא אֲנִי אֵלֶיךָ אֶבְטָח׃",
       "he_plain": "יום אירא אני אליך אבטח",
-      "translit": "",
-      "es": ""
+      "translit": "Yóm irá aní eléija evtáj.",
+      "es": "En el día que temo, yo en Ti confío."
     },
     {
       "num": 5,
-      "he": "בֵּאלֹהִים֮ אֲהַלֵּ֢ל דְּבָ֫ר֥וֹ בֵּאלֹהִ֣ים בָּ֭טַחְתִּי לֹ֣א אִירָ֑א מַה־יַּעֲשֶׂ֖ה בָשָׂ֣ר לִֽי׃",
+      "he": "בֵּאלֹהִים אֲהַלֵּל דְּבָרוֹ בֵּאלֹהִים בָּטַחְתִּי לֹא אִירָא מַה יַּעֲשֶׂה בָשָׂר לִי׃",
       "he_plain": "באלהים אהלל דברו באלהים בטחתי לא אירא מה יעשה בשר לי",
-      "translit": "",
-      "es": ""
+      "translit": "BeElohím ahalél devará; beElohím batájti; lo irá; ma yaaséh vasár lí.",
+      "es": "En Dios, cuya palabra alabaré, en Dios confío; no temeré. ¿Qué puede hacerme el hombre?"
     },
     {
       "num": 6,
-      "he": "כׇּל־הַ֭יּוֹם דְּבָרַ֣י יְעַצֵּ֑בוּ עָלַ֖י כׇּל־מַחְשְׁבֹתָ֣ם לָרָֽע׃",
-      "he_plain": "כל היום דברי יעצבו עלי כל מחשבתם לרע",
-      "translit": "",
-      "es": ""
+      "he": "כָּל הַיּוֹם דְּבָרַי יְעַצֵּבוּ עָלַי כָּל מַחְשְׁבֹתָם לְרָעָה׃",
+      "he_plain": "כל היום דברי יעצבו עלי כל מחשבותם לרעה",
+      "translit": "Kol hayóm devaráy yeatsevú; aláy kol majshevotám leraá.",
+      "es": "Todo el día tuercen mis palabras; todos sus pensamientos son contra mí para mal."
     },
     {
       "num": 7,
-      "he": "יָג֤וּרוּ׀ (יצפינו) [יִצְפּ֗וֹנוּ] הֵ֭מָּה עֲקֵבַ֣י יִשְׁמֹ֑רוּ כַּ֝אֲשֶׁ֗ר קִוּ֥וּ נַפְשִֽׁי׃",
-      "he_plain": "יגורו (יצפינו) [יצפונו] המה עקבי ישמרו כאשר קוו נפשי",
-      "translit": "",
-      "es": ""
+      "he": "יָגוּרוּ יִצְפּוֹנוּ הֵמָּה עֲקֵבַי יִשְׁמֹרוּ כַּאֲשֶׁר קִוּוּ נַפְשִׁי׃",
+      "he_plain": "יגורו יצפונו המה עקבי ישמרו כאשר קוו נפשי",
+      "translit": "Yagúru yitsponú héma; akevéy yishmóru kaashér kivú nafshí.",
+      "es": "Se reúnen y se esconden; ellos observan mis pasos como han acechado mi alma."
     },
     {
       "num": 8,
-      "he": "עַל־אָ֥וֶן פַּלֶּט־לָ֑מוֹ בְּ֝אַ֗ף עַמִּ֤ים׀ הוֹרֵ֬ד אֱלֹהִֽים׃",
+      "he": "עַל אָוֶן פַּלֶּט לָמוֹ בְּאַף עַמִּים הוֹרֵד אֱלֹהִים׃",
       "he_plain": "על און פלט למו באף עמים הורד אלהים",
-      "translit": "",
-      "es": ""
+      "translit": "Al áven paLét lámo; beáf amím horél Elohím.",
+      "es": "¿Escaparán por su iniquidad? Derriba en Tu furor a los pueblos, oh Dios."
     },
     {
       "num": 9,
-      "he": "נֹדִי֮ סָפַ֢רְתָּ֫ה אָ֥תָּה שִׂ֣ימָה דִמְעָתִ֣י בְנֹאדֶ֑ךָ הֲ֝לֹ֗א בְּסִפְרָתֶֽךָ׃",
-      "he_plain": "נדי ספרתה אתה שימה דמעתי בנאדך הלא בספרתך",
-      "translit": "",
-      "es": ""
+      "he": "נֹדִי סָפַרְתָּה אָתָּה שִׂימָה דִמְעָתִי בְנֹאדֶךָ הֲלֹא בְּסִפְרָתֶךָ׃",
+      "he_plain": "נודי ספרתה אתה שימה דמעתי בנאדך הלא בספרתך",
+      "translit": "Nodí saFártah atá; simá dimeatí benodéja; haló besifratéja.",
+      "es": "Tú has contado mis huidas; pon mis lágrimas en Tu redoma. ¿No están en Tu libro?"
     },
     {
       "num": 10,
-      "he": "אָ֨ז יָ֘שׁ֤וּבוּ אוֹיְבַ֣י אָ֭חוֹר בְּי֣וֹם אֶקְרָ֑א זֶֽה־יָ֝דַ֗עְתִּי כִּֽי־אֱלֹהִ֥ים לִֽי׃",
+      "he": "אָז יָשׁוּבוּ אוֹיְבַי אָחוֹר בְּיוֹם אֶקְרָא זֶה יָדַעְתִּי כִּי אֱלֹהִים לִי׃",
       "he_plain": "אז ישובו אויבי אחור ביום אקרא זה ידעתי כי אלהים לי",
-      "translit": "",
-      "es": ""
+      "translit": "Az yashúvu oyváy ajór; beyóm ekrá; ze yadáati ki Elohím lí.",
+      "es": "En el día que yo clame, retrocederán mis enemigos. Esto sé: que Dios está de mi parte."
     },
     {
       "num": 11,
-      "he": "בֵּ֭אלֹהִים אֲהַלֵּ֣ל דָּבָ֑ר בַּ֝יהֹוָ֗ה אֲהַלֵּ֥ל דָּבָֽר׃",
+      "he": "בֵּאלֹהִים אֲהַלֵּל דָּבָר בַּיהוָה אֲהַלֵּל דָּבָר׃",
       "he_plain": "באלהים אהלל דבר ביהוה אהלל דבר",
-      "translit": "",
-      "es": ""
+      "translit": "BeElohím ahalél davár; baAdonái ahalél davár.",
+      "es": "En Dios alabaré Su palabra; en el Eterno alabaré Su palabra."
     },
     {
       "num": 12,
-      "he": "בֵּאלֹהִ֣ים בָּ֭טַחְתִּי לֹּ֣א אִירָ֑א מַה־יַּעֲשֶׂ֖ה אָדָ֣ם לִֽי׃",
+      "he": "בֵּאלֹהִים בָּטַחְתִּי לֹא אִירָא מַה יַּעֲשֶׂה אָדָם לִי׃",
       "he_plain": "באלהים בטחתי לא אירא מה יעשה אדם לי",
-      "translit": "",
-      "es": ""
+      "translit": "BeElohím batájti; lo irá; ma yaaséh adám lí.",
+      "es": "En Dios he confiado; no temeré. ¿Qué puede hacerme el hombre?"
     },
     {
       "num": 13,
-      "he": "עָלַ֣י אֱלֹהִ֣ים נְדָרֶ֑יךָ אֲשַׁלֵּ֖ם תּוֹדֹ֣ת לָֽךְ׃",
-      "he_plain": "עלי אלהים נדריך אשלם תודת לך",
-      "translit": "",
-      "es": ""
+      "he": "עָלַי אֱלֹהִים נְדָרֶיךָ אֲשַׁלֵּם תּוֹדֹת לָךְ׃",
+      "he_plain": "עלי אלהים נדריך אשלם תודות לך",
+      "translit": "Aláy Elohím nedaréija ashalém; todót laj.",
+      "es": "Sobre mí, oh Dios, están Tus votos; te tributaré acciones de gracias."
     },
     {
       "num": 14,
-      "he": "כִּ֤י הִצַּ֪לְתָּ נַפְשִׁ֡י מִמָּוֶת֮ הֲלֹ֥א רַגְלַ֗י מִ֫דֶּ֥חִי לְ֭הִֽתְהַלֵּךְ לִפְנֵ֣י אֱלֹהִ֑ים בְּ֝א֗וֹר הַחַיִּֽים׃ {פ}",
-      "he_plain": "כי הצלת נפשי ממות הלא רגלי מדחי להתהלך לפני אלהים באור החיים {פ}",
-      "translit": "",
-      "es": ""
+      "he": "כִּי הִצַּלְתָּ נַפְשִׁי מִמָּוֶת הֲלֹא רַגְלַי מִדֶּחִי לְהִתְהַלֵּךְ לִפְנֵי אֱלֹהִים בְּאוֹר הַחַיִּים׃",
+      "he_plain": "כי הצלת נפשי ממות הלא רגלי מדחי להתהלך לפני אלהים באור החיים",
+      "translit": "Ki hitsálta nafshí mimávet; haló ragláy midéji; lehithaléj lifnéi Elohím beór haJayím.",
+      "es": "Porque libraste mi alma de la muerte y mis pies de caída para que ande delante de Dios en la luz de los vivientes."
     }
-  ],
-  "audio": "",
-  "title_es": "Ten piedad de mí, Dios"
+  ]
 }
