@@ -1,512 +1,511 @@
 {
   "number": 78,
   "title_he": "תהילים",
+  "title_es": "Las obras de Dios en la historia de Israel",
   "verses": [
     {
       "num": 1,
-      "he": "מַשְׂכִּ֗יל לְאָ֫סָ֥ף הַאֲזִ֣ינָה עַ֭מִּי תּוֹרָתִ֑י הַטּ֥וּ אׇ֝זְנְכֶ֗ם לְאִמְרֵי־פִֽי׃",
+      "he": "מַשְׂכִּיל לְאָסָף הַאֲזִינָה עַמִּי תּוֹרָתִי הַטּוּ אָזְנְכֶם לְאִמְרֵי פִי׃",
       "he_plain": "משכיל לאסף האזינה עמי תורתי הטו אזנכם לאמרי פי",
-      "translit": "",
-      "es": ""
+      "translit": "Maskíl leAsáf. Haazíná amí toratí; hatú oznejém leimréi fí.",
+      "es": "Maskil de Asaf. Escucha, pueblo mío, mi Torá; inclinad vuestros oídos a las palabras de mi boca."
     },
     {
       "num": 2,
-      "he": "אֶפְתְּחָ֣ה בְמָשָׁ֣ל פִּ֑י אַבִּ֥יעָה חִ֝יד֗וֹת מִנִּי־קֶֽדֶם׃",
+      "he": "אֶפְתְּחָה בְמָשָׁל פִּי אַבִּיעָה חִידוֹת מִנִּי קֶדֶם׃",
       "he_plain": "אפתחה במשל פי אביעה חידות מני קדם",
-      "translit": "",
-      "es": ""
+      "translit": "Eftejá vemashál pí; abía jidót miní kédem.",
+      "es": "Abriré mi boca en parábola; hablaré enigmas de tiempos antiguos."
     },
     {
       "num": 3,
-      "he": "אֲשֶׁ֣ר שָׁ֭מַעְנוּ וַנֵּדָעֵ֑ם וַ֝אֲבוֹתֵ֗ינוּ סִפְּרוּ־לָֽנוּ׃",
+      "he": "אֲשֶׁר שָׁמַעְנוּ וַנֵּדָעֵם וַאֲבוֹתֵינוּ סִפְּרוּ לָנוּ׃",
       "he_plain": "אשר שמענו ונדעם ואבותינו ספרו לנו",
-      "translit": "",
-      "es": ""
+      "translit": "Ashér shamáanu vanedaém; vaavotéinu sipRú lánu.",
+      "es": "Lo que hemos oído y conocemos y lo que nuestros padres nos contaron."
     },
     {
       "num": 4,
-      "he": "לֹ֤א נְכַחֵ֨ד׀ מִבְּנֵיהֶ֗ם לְד֥וֹר אַחֲר֗וֹן מְֽ֭סַפְּרִים תְּהִלּ֣וֹת יְהֹוָ֑ה וֶעֱזוּז֥וֹ וְ֝נִפְלְאֹתָ֗יו אֲשֶׁ֣ר עָשָֽׂה׃",
-      "he_plain": "לא נכחד מבניהם לדור אחרון מספרים תהלות יהוה ועזוזו ונפלאתיו אשר עשה",
-      "translit": "",
-      "es": ""
+      "he": "לֹא נְכַחֵד מִבְּנֵיהֶם לְדוֹר אַחֲרוֹן מְסַפְּרִים תְּהִלּוֹת יְהוָה וֶעֱזוּזוֹ וְנִפְלְאֹתָיו אֲשֶׁר עָשָׂה׃",
+      "he_plain": "לא נכחד מבניהם לדור אחרון מספרים תהלות יהוה ועזוזו ונפלאותיו אשר עשה",
+      "translit": "Lo nejajéd mibéneihem ledór ajarón; mesapeRím tehilót Adonái; veezuzó venifleotáv ashér asá.",
+      "es": "No lo ocultaremos a sus hijos contando a la generación venidera las alabanzas del Eterno y Su poder y las maravillas que hizo."
     },
     {
       "num": 5,
-      "he": "וַיָּ֤קֶם עֵד֨וּת׀ בְּֽיַעֲקֹ֗ב וְתוֹרָה֮ שָׂ֤ם בְּיִשְׂרָ֫אֵ֥ל אֲשֶׁ֣ר צִ֭וָּה אֶת־אֲבוֹתֵ֑ינוּ לְ֝הוֹדִיעָ֗ם לִבְנֵיהֶֽם׃",
+      "he": "וַיָּקֶם עֵדוּת בְּיַעֲקֹב וְתוֹרָה שָׂם בְּיִשְׂרָאֵל אֲשֶׁר צִוָּה אֶת אֲבוֹתֵינוּ לְהוֹדִיעָם לִבְנֵיהֶם׃",
       "he_plain": "ויקם עדות ביעקב ותורה שם בישראל אשר צוה את אבותינו להודיעם לבניהם",
-      "translit": "",
-      "es": ""
+      "translit": "Vayakém edút beYaakóv; veToRá sám beYisraél; ashér tsivá et avotéinu lehodi'ám livnéihem.",
+      "es": "Pues Él estableció testimonio en Yaakov y puso Torá en Israel la cual mandó a nuestros padres que la enseñasen a sus hijos."
     },
     {
       "num": 6,
-      "he": "לְמַ֤עַן יֵדְע֨וּ׀ דּ֣וֹר אַ֭חֲרוֹן בָּנִ֣ים יִוָּלֵ֑דוּ יָ֝קֻ֗מוּ וִיסַפְּר֥וּ לִבְנֵיהֶֽם׃",
-      "he_plain": "למען ידעו דור אחרון בנים יולדו יקמו ויספרו לבניהם",
-      "translit": "",
-      "es": ""
+      "he": "לְמַעַן יֵדְעוּ דּוֹר אַחֲרוֹן בָּנִים יִוָּלֵדוּ יָקֻמוּ וִיסַפְּרוּ לִבְנֵיהֶם׃",
+      "he_plain": "למען ידעו דור אחרון בנים יולדו יקומו ויספרו לבניהם",
+      "translit": "Lemaán yedú dór ajarón; baním yivaledú yakúmu; visapeRú livnéihem.",
+      "es": "Para que lo sepa la generación venidera; los hijos que nazcan se levanten y lo cuenten a sus hijos."
     },
     {
       "num": 7,
-      "he": "וְיָשִׂ֥ימוּ בֵאלֹהִ֗ים כִּ֫סְלָ֥ם וְלֹ֣א יִ֭שְׁכְּחוּ מַ֥עַלְלֵי־אֵ֑ל וּמִצְוֺתָ֥יו יִנְצֹֽרוּ׃",
-      "he_plain": "וישימו באלהים כסלם ולא ישכחו מעללי אל ומצותיו ינצרו",
-      "translit": "",
-      "es": ""
+      "he": "וְיָשִׂימוּ בֵאלֹהִים כִּסְלָם וְלֹא יִשְׁכְּחוּ מַעַלְלֵי אֵל וּמִצְוֹתָיו יִנְצֹרוּ׃",
+      "he_plain": "וישימו באלהים כסלם ולא ישכחו מעללי אל ומצותיו ינצורו",
+      "translit": "Veyasímu veElohím kislám; veló yishkejú maalléi El; umitsvotáv yintsorú.",
+      "es": "A fin de que pongan en Dios su confianza y no se olviden de las obras de Dios sino que guarden Sus mandamientos."
     },
     {
       "num": 8,
-      "he": "וְלֹ֤א יִהְי֨וּ׀ כַּאֲבוֹתָ֗ם דּוֹר֮ סוֹרֵ֢ר וּמֹ֫רֶ֥ה דּ֭וֹר לֹא־הֵכִ֣ין לִבּ֑וֹ וְלֹֽא־נֶאֶמְנָ֖ה אֶת־אֵ֣ל רוּחֽוֹ׃",
-      "he_plain": "ולא יהיו כאבותם דור סורר ומרה דור לא הכין לבו ולא נאמנה את אל רוחו",
-      "translit": "",
-      "es": ""
+      "he": "וְלֹא יִהְיוּ כַּאֲבוֹתָם דּוֹר סוֹרֵר וּמֹרֶה דּוֹר לֹא הֵכִין לִבּוֹ וְלֹא נֶאֶמְנָה אֶת אֵל רוּחוֹ׃",
+      "he_plain": "ולא יהיו כאבותם דור סורר ומורה דור לא הכין לבו ולא נאמנה את אל רוחו",
+      "translit": "Veló yihyú kaavotám; dór soréR umoRéh; dór lo hejín libó; veló neemNá et El rujó.",
+      "es": "Y no sean como sus padres; generación contumaz y rebelde; generación que no dispuso su corazón y cuyo espíritu no fue fiel para con Dios."
     },
     {
       "num": 9,
-      "he": "בְּֽנֵי־אֶפְרַ֗יִם נוֹשְׁקֵ֥י רֽוֹמֵי־קָ֑שֶׁת הָ֝פְכ֗וּ בְּי֣וֹם קְרָֽב׃",
+      "he": "בְּנֵי אֶפְרַיִם נוֹשְׁקֵי רוֹמֵי קָשֶׁת הָפְכוּ בְּיוֹם קְרָב׃",
       "he_plain": "בני אפרים נושקי רומי קשת הפכו ביום קרב",
-      "translit": "",
-      "es": ""
+      "translit": "Benéi Efráyim noshkéi roméi káshet; hafejú beyóm kerév.",
+      "es": "Los hijos de Efráyim armados y arqueros volvieron las espaldas en el día de la batalla."
     },
     {
       "num": 10,
-      "he": "לֹ֣א שָׁ֭מְרוּ בְּרִ֣ית אֱלֹהִ֑ים וּ֝בְתוֹרָת֗וֹ מֵאֲנ֥וּ לָלֶֽכֶת׃",
+      "he": "לֹא שָׁמְרוּ בְּרִית אֱלֹהִים וּבְתוֹרָתוֹ מֵאֲנוּ לָלֶכֶת׃",
       "he_plain": "לא שמרו ברית אלהים ובתורתו מאנו ללכת",
-      "translit": "",
-      "es": ""
+      "translit": "Lo shamrú berít Elohím; uveTora tó meenú laléjet.",
+      "es": "No guardaron el pacto de Dios y rehusaron andar en Su Torá."
     },
     {
       "num": 11,
-      "he": "וַיִּשְׁכְּח֥וּ עֲלִילוֹתָ֑יו וְ֝נִפְלְאוֹתָ֗יו אֲשֶׁ֣ר הֶרְאָֽם׃",
+      "he": "וַיִּשְׁכְּחוּ עֲלִילוֹתָיו וְנִפְלְאוֹתָיו אֲשֶׁר הֶרְאָם׃",
       "he_plain": "וישכחו עלילותיו ונפלאותיו אשר הראם",
-      "translit": "",
-      "es": ""
+      "translit": "Vayishkejú alilotáv; venifleotáv ashér heRám.",
+      "es": "Y se olvidaron de Sus obras y de Sus maravillas que les había mostrado."
     },
     {
       "num": 12,
-      "he": "נֶ֣גֶד אֲ֭בוֹתָם עָ֣שָׂה פֶ֑לֶא בְּאֶ֖רֶץ מִצְרַ֣יִם שְׂדֵה־צֹֽעַן׃",
-      "he_plain": "נגד אבותם עשה פלא בארץ מצרים שדה צען",
-      "translit": "",
-      "es": ""
+      "he": "נֶגֶד אֲבוֹתָם עָשָׂה פֶלֶא בְּאֶרֶץ מִצְרַיִם שְׂדֵה צֹעַן׃",
+      "he_plain": "נגד אבותם עשה פלא בארץ מצרים שדה צוען",
+      "translit": "Néged avotám asá féle; beérets Mitsráyim sedéh Tsóan.",
+      "es": "Delante de sus padres hizo maravillas en la tierra de Egipto en el campo de Tsoan."
     },
     {
       "num": 13,
-      "he": "בָּ֣קַע יָ֭ם וַיַּעֲבִירֵ֑ם וַֽיַּצֶּב־מַ֥יִם כְּמוֹ־נֵֽד׃",
+      "he": "בָּקַע יָם וַיַּעֲבִירֵם וַיַּצֵּב מַיִם כְּמוֹ נֵד׃",
       "he_plain": "בקע ים ויעבירם ויצב מים כמו נד",
-      "translit": "",
-      "es": ""
+      "translit": "Baká yám vayabirém; vayatséb máyim kemó néd.",
+      "es": "Dividió el mar y los hizo pasar; detuvo las aguas como en un montón."
     },
     {
       "num": 14,
-      "he": "וַיַּנְחֵ֣ם בֶּעָנָ֣ן יוֹמָ֑ם וְכׇל־הַ֝לַּ֗יְלָה בְּא֣וֹר אֵֽשׁ׃",
+      "he": "וַיַּנְחֵם בֶּעָנָן יוֹמָם וְכָל הַלַּיְלָה בְּאוֹר אֵשׁ׃",
       "he_plain": "וינחם בענן יומם וכל הלילה באור אש",
-      "translit": "",
-      "es": ""
+      "translit": "Vayanjém beaNán yomám; vejal haláyla beór ésh.",
+      "es": "Los guió de día con nube y toda la noche con luz de fuego."
     },
     {
       "num": 15,
-      "he": "יְבַקַּ֣ע צֻ֭רִים בַּמִּדְבָּ֑ר וַ֝יַּ֗שְׁקְ כִּתְהֹמ֥וֹת רַבָּֽה׃",
-      "he_plain": "יבקע צרים במדבר וישק כתהמות רבה",
-      "translit": "",
-      "es": ""
+      "he": "יְבַקַּע צֻרִים בַּמִּדְבָּר וַיַּשְׁקְ כִּתְהֹמוֹת רַבָּה׃",
+      "he_plain": "יבקע צורים במדבר וישק כתהומות רבה",
+      "translit": "Yevakáa tsuRím bamidBár; vayashké kitehomót rabá.",
+      "es": "Hendió las peñas en el desierto y les dio a beber como de grandes abismos."
     },
     {
       "num": 16,
-      "he": "וַיּוֹצִ֣א נוֹזְלִ֣ים מִסָּ֑לַע וַיּ֖וֹרֶד כַּנְּהָר֣וֹת מָֽיִם׃",
-      "he_plain": "ויוצא נוזלים מסלע ויורד כנהרות מים",
-      "translit": "",
-      "es": ""
+      "he": "וַיּוֹצִא נוֹזְלִים מִסֶּלַע וַיּוֹרֶד כַּנְּהָרוֹת מָיִם׃",
+      "he_plain": "ויוציא נוזלים מסלע ויורד כנהרות מים",
+      "translit": "Vayotsí nozlím miséla; vayóred kaNeharót máyim.",
+      "es": "Hizo salir corrientes de la peña y las hizo correr como ríos."
     },
     {
       "num": 17,
-      "he": "וַיּוֹסִ֣יפוּ ע֭וֹד לַחֲטֹא־ל֑וֹ לַֽמְר֥וֹת עֶ֝לְי֗וֹן בַּצִּיָּֽה׃",
-      "he_plain": "ויוסיפו עוד לחטא לו למרות עליון בציה",
-      "translit": "",
-      "es": ""
+      "he": "וַיּוֹסִיפוּ עוֹד לַחֲטֹא לוֹ לַמְרוֹת עֶלְיוֹן בַּצִּיָּה׃",
+      "he_plain": "ויוסיפו עוד לחטוא לו למרות עליון בציה",
+      "translit": "Vayosífu od laJató lo; lamrót Elyón batsiyá.",
+      "es": "Pero aún volvieron a pecar contra Él; rebeldía contra el Altísimo en el desierto."
     },
     {
       "num": 18,
-      "he": "וַיְנַסּוּ־אֵ֥ל בִּלְבָבָ֑ם לִֽשְׁאׇל־אֹ֥כֶל לְנַפְשָֽׁם׃",
-      "he_plain": "וינסו אל בלבבם לשאל אכל לנפשם",
-      "translit": "",
-      "es": ""
+      "he": "וַיְנַסּוּ אֵל בִּלְבָבָם לִשְׁאָל אֹכֶל לְנַפְשָׁם׃",
+      "he_plain": "וינסו אל בלבבם לשאול אוכל לנפשם",
+      "translit": "Vayenasú El belevavám; lisheól ójel lenafshám.",
+      "es": "Y tentaron a Dios en sus corazones pidiendo comida a su gusto."
     },
     {
       "num": 19,
-      "he": "וַֽיְדַבְּר֗וּ בֵּאלֹ֫הִ֥ים אָ֭מְרוּ הֲי֣וּכַל אֵ֑ל לַעֲרֹ֥ךְ שֻׁ֝לְחָ֗ן בַּמִּדְבָּֽר׃",
-      "he_plain": "וידברו באלהים אמרו היוכל אל לערך שלחן במדבר",
-      "translit": "",
-      "es": ""
+      "he": "וַיְדַבְּרוּ בֵאלֹהִים אָמְרוּ הֲיוּכַל אֵל לַעֲרֹךְ שֻׁלְחָן בַּמִּדְבָּר׃",
+      "he_plain": "וידברו באלהים אמרו היוכל אל לערוך שולחן במדבר",
+      "translit": "Vayedaberú veElohím; amarú: hayujál El larojéj shulján bamidBár.",
+      "es": "Y hablaron contra Dios diciendo: ¿Podrá Dios poner mesa en el desierto?"
     },
     {
       "num": 20,
-      "he": "הֵ֤ן הִכָּה־צ֨וּר׀ וַיָּז֣וּבוּ מַיִם֮ וּנְחָלִ֢ים יִ֫שְׁטֹ֥פוּ הֲגַם־לֶ֭חֶם י֣וּכַל תֵּ֑ת אִם־יָכִ֖ין שְׁאֵ֣ר לְעַמּֽוֹ׃",
-      "he_plain": "הן הכה צור ויזובו מים ונחלים ישטפו הגם לחם יוכל תת אם יכין שאר לעמו",
-      "translit": "",
-      "es": ""
+      "he": "הֵן הִכָּה צוּר וַיָּזוּבוּ מַיִם וּנְחָלִים יִשְׁטֹפוּ הֲגַם לֶחֶם יוּכַל תֵּת אִם יָכִין שְׁאֵר לְעַמּוֹ׃",
+      "he_plain": "הן הכה צור ויזובו מים ונחלים ישטופו הגם לחם יוכל תת אם יכין שאר לעמו",
+      "translit": "Hén hikáh tsúr vayazúvu máyim; unjelaím yishtófu; hagám léjem yujál tét; im yajín sheér leamó.",
+      "es": "He aquí hirió la peña y fluyeron aguas y torrentes inundaron; ¿podrá también dar pan? ¿Proveerá de carne a Su pueblo?"
     },
     {
       "num": 21,
-      "he": "לָכֵ֤ן׀ שָׁמַ֥ע יְהֹוָ֗ה וַֽיִּתְעַ֫בָּ֥ר וְ֭אֵשׁ נִשְּׂקָ֣ה בְיַעֲקֹ֑ב וְגַם־אַ֝֗ף עָלָ֥ה בְיִשְׂרָאֵֽל׃",
+      "he": "לָכֵן שָׁמַע יְהוָה וַיִּתְעַבָּר וְאֵשׁ נִשְּׂקָה בְיַעֲקֹב וְגַם אַף עָלָה בְיִשְׂרָאֵל׃",
       "he_plain": "לכן שמע יהוה ויתעבר ואש נשקה ביעקב וגם אף עלה בישראל",
-      "translit": "",
-      "es": ""
+      "translit": "Lajén shamá Adonái vayitabár; veésh nishká veYaakóv; vegam af alá veYisraél.",
+      "es": "Por tanto oyó el Eterno y se indignó; y se encendió fuego contra Yaakov y también subió la ira contra Israel."
     },
     {
       "num": 22,
-      "he": "כִּ֤י לֹ֣א הֶ֭אֱמִינוּ בֵּאלֹהִ֑ים וְלֹ֥א בָ֝טְח֗וּ בִּישׁוּעָתֽוֹ׃",
+      "he": "כִּי לֹא הֶאֱמִינוּ בֵּאלֹהִים וְלֹא בָטְחוּ בִּישׁוּעָתוֹ׃",
       "he_plain": "כי לא האמינו באלהים ולא בטחו בישועתו",
-      "translit": "",
-      "es": ""
+      "translit": "Ki lo heemínu beElohím; veló batéju bishuat ó.",
+      "es": "Porque no creyeron en Dios ni confiaron en Su salvación."
     },
     {
       "num": 23,
-      "he": "וַיְצַ֣ו שְׁחָקִ֣ים מִמָּ֑עַל וְדַלְתֵ֖י שָׁמַ֣יִם פָּתָֽח׃",
+      "he": "וַיְצַו שְׁחָקִים מִמָּעַל וְדַלְתֵי שָׁמַיִם פָּתָח׃",
       "he_plain": "ויצו שחקים ממעל ודלתי שמים פתח",
-      "translit": "",
-      "es": ""
+      "translit": "Vayetsáv shejakím mimáal; vedaltéi shamáyim patáj.",
+      "es": "Sin embargo mandó a las nubes de arriba y abrió las puertas de los cielos."
     },
     {
       "num": 24,
-      "he": "וַיַּמְטֵ֬ר עֲלֵיהֶ֣ם מָ֣ן לֶאֱכֹ֑ל וּדְגַן־שָׁ֝מַ֗יִם נָ֣תַן לָֽמוֹ׃",
-      "he_plain": "וימטר עליהם מן לאכל ודגן שמים נתן למו",
-      "translit": "",
-      "es": ""
+      "he": "וַיַּמְטֵר עֲלֵיהֶם מָן לֶאֱכֹל וּדְגַן שָׁמַיִם נָתַן לָמוֹ׃",
+      "he_plain": "וימטר עליהם מן לאכול ודגן שמים נתן למו",
+      "translit": "Vayamtér aléihem mán leejól; udegán shamáyim natán lámo.",
+      "es": "E hizo llover sobre ellos maná para comer y les dio trigo de los cielos."
     },
     {
       "num": 25,
-      "he": "לֶ֣חֶם אַ֭בִּירִים אָ֣כַל אִ֑ישׁ צֵידָ֬ה שָׁלַ֖ח לָהֶ֣ם לָשֹֽׂבַע׃",
+      "he": "לֶחֶם אַבִּירִים אָכַל אִישׁ צֵידָה שָׁלַח לָהֶם לָשֹׂבַע׃",
       "he_plain": "לחם אבירים אכל איש צידה שלח להם לשבע",
-      "translit": "",
-      "es": ""
+      "translit": "Léjem abirím ajál ísh; tsedá shalaj lahém lasobéa.",
+      "es": "Pan de los poderosos comió el hombre; les envió comida hasta saciarlos."
     },
     {
       "num": 26,
-      "he": "יַסַּ֣ע קָ֭דִים בַּשָּׁמָ֑יִם וַיְנַהֵ֖ג בְּעֻזּ֣וֹ תֵימָֽן׃",
-      "he_plain": "יסע קדים בשמים וינהג בעזו תימן",
-      "translit": "",
-      "es": ""
+      "he": "יַסַּע קָדִים בַּשָּׁמַיִם וַיְנַהֵג בְּעֻזּוֹ תֵימָן׃",
+      "he_plain": "יסע קדים בשמים וינהג בעוזו תימן",
+      "translit": "Yasá kadím bashamáyim; vayenaHég beuzó temán.",
+      "es": "Hizo soplar el viento del oriente en el cielo y con Su poder trajo el viento del sur."
     },
     {
       "num": 27,
-      "he": "וַיַּמְטֵ֬ר עֲלֵיהֶ֣ם כֶּעָפָ֣ר שְׁאֵ֑ר וּֽכְח֥וֹל יַ֝מִּ֗ים ע֣וֹף כָּנָֽף׃",
+      "he": "וַיַּמְטֵר עֲלֵיהֶם כֶּעָפָר שְׁאֵר וּכְחוֹל יַמִּים עוֹף כָּנָף׃",
       "he_plain": "וימטר עליהם כעפר שאר וכחול ימים עוף כנף",
-      "translit": "",
-      "es": ""
+      "translit": "Vayamtér aléihem keafár sheér; ukejol yamím of janáf.",
+      "es": "E hizo llover sobre ellos carne como polvo y aves de alas como la arena del mar."
     },
     {
       "num": 28,
-      "he": "וַ֭יַּפֵּל בְּקֶ֣רֶב מַחֲנֵ֑הוּ סָ֝בִ֗יב לְמִשְׁכְּנֹתָֽיו׃",
-      "he_plain": "ויפל בקרב מחנהו סביב למשכנתיו",
-      "translit": "",
-      "es": ""
+      "he": "וַיַּפֵּל בְּקֶרֶב מַחֲנֵהוּ סָבִיב לְמִשְׁכְּנֹתָיו׃",
+      "he_plain": "ויפל בקרב מחנהו סביב למשכנותיו",
+      "translit": "Vayapél bekérev majanéhu; savív lemishkenotáv.",
+      "es": "Las hizo caer en medio de su campamento alrededor de sus tiendas."
     },
     {
       "num": 29,
-      "he": "וַיֹּאכְל֣וּ וַיִּשְׂבְּע֣וּ מְאֹ֑ד וְ֝תַאֲוָתָ֗ם יָבִ֥א לָהֶֽם׃",
-      "he_plain": "ויאכלו וישבעו מאד ותאותם יבא להם",
-      "translit": "",
-      "es": ""
+      "he": "וַיֹּאכְלוּ וַיִּשְׂבְּעוּ מְאֹד וְתַאֲוָתָם יָבִא לָהֶם׃",
+      "he_plain": "ויאכלו וישבעו מאד ותאוותם יביא להם",
+      "translit": "Vayojlú vayisvéu meód; vetaavaTám yavé lahém.",
+      "es": "Comieron y se saciaron mucho pues les trajo lo que habían deseado."
     },
     {
       "num": 30,
-      "he": "לֹא־זָ֥רוּ מִתַּאֲוָתָ֑ם ע֝֗וֹד אׇכְלָ֥ם בְּפִיהֶֽם׃",
-      "he_plain": "לא זרו מתאותם עוד אכלם בפיהם",
-      "translit": "",
-      "es": ""
+      "he": "לֹא זָרוּ מִתַּאֲוָתָם עוֹד אָכְלָם בְּפִיהֶם׃",
+      "he_plain": "לא זרו מתאוותם עוד אוכלם בפיהם",
+      "translit": "Lo zarú mitaavaTám; od ojlám befíhem.",
+      "es": "No se habían alejado de su deseo; aún tenían la comida en su boca."
     },
     {
       "num": 31,
-      "he": "וְאַ֤ף אֱלֹהִ֨ים׀ עָ֘לָ֤ה בָהֶ֗ם וַֽ֭יַּהֲרֹג בְּמִשְׁמַנֵּיהֶ֑ם וּבַחוּרֵ֖י יִשְׂרָאֵ֣ל הִכְרִֽיעַ׃",
-      "he_plain": "ואף אלהים עלה בהם ויהרג במשמניהם ובחורי ישראל הכריע",
-      "translit": "",
-      "es": ""
+      "he": "וְאַף אֱלֹהִים עָלָה בָהֶם וַיַּהֲרֹג בְּמִשְׁמַנֵּיהֶם וּבַחוּרֵי יִשְׂרָאֵל הִכְרִיעַ׃",
+      "he_plain": "ואף אלהים עלה בהם ויהרוג במשמניהם ובחורי ישראל הכריע",
+      "translit": "Veaf Elohím alá vahém; vayahRóg bemishmanéihem; uvajuréi Yisraél hikRía.",
+      "es": "Cuando la ira de Dios subió contra ellos mató a los más robustos de ellos y derribó a los jóvenes de Israel."
     },
     {
       "num": 32,
-      "he": "בְּכׇל־זֹ֥את חָֽטְאוּ־ע֑וֹד וְלֹֽא־הֶ֝אֱמִ֗ינוּ בְּנִפְלְאוֹתָֽיו׃",
+      "he": "בְּכָל זֹאת חָטְאוּ עוֹד וְלֹא הֶאֱמִינוּ בְּנִפְלְאוֹתָיו׃",
       "he_plain": "בכל זאת חטאו עוד ולא האמינו בנפלאותיו",
-      "translit": "",
-      "es": ""
+      "translit": "Bejol zot jatEu od; veló heemínu benifleotáv.",
+      "es": "Con todo esto volvieron a pecar y no creyeron en Sus maravillas."
     },
     {
       "num": 33,
-      "he": "וַיְכַל־בַּהֶ֥בֶל יְמֵיהֶ֑ם וּ֝שְׁנוֹתָ֗ם בַּבֶּהָלָֽה׃",
+      "he": "וַיְכַל בַּהֶבֶל יְמֵיהֶם וּשְׁנוֹתָם בַּבֶּהָלָה׃",
       "he_plain": "ויכל בהבל ימיהם ושנותם בבהלה",
-      "translit": "",
-      "es": ""
+      "translit": "Vayejál bahével yeméihem; ushenotám babehalá.",
+      "es": "Por tanto consumió en vanidad sus días y sus años en turbación."
     },
     {
       "num": 34,
-      "he": "אִם־הֲרָגָ֥ם וּדְרָשׁ֑וּהוּ וְ֝שָׁ֗בוּ וְשִֽׁחֲרוּ־אֵֽל׃",
+      "he": "אִם הֲרָגָם וּדְרָשׁוּהוּ וְשָׁבוּ וְשִׁחֲרוּ אֵל׃",
       "he_plain": "אם הרגם ודרשוהו ושבו ושחרו אל",
-      "translit": "",
-      "es": ""
+      "translit": "Im haRagám udeRashúhu; veshavú veshijerú El.",
+      "es": "Si los mataba entonces le buscaban y se convertían y madrugaban a buscar a Dios."
     },
     {
       "num": 35,
-      "he": "וַֽ֭יִּזְכְּרוּ כִּֽי־אֱלֹהִ֣ים צוּרָ֑ם וְאֵ֥ל עֶ֝לְי֗וֹן גֹּאֲלָֽם׃",
-      "he_plain": "ויזכרו כי אלהים צורם ואל עליון גאלם",
-      "translit": "",
-      "es": ""
+      "he": "וַיִּזְכְּרוּ כִּי אֱלֹהִים צוּרָם וְאֵל עֶלְיוֹן גֹּאֲלָם׃",
+      "he_plain": "ויזכרו כי אלהים צורם ואל עליון גואלם",
+      "translit": "Vayizkerú ki Elohím tsurám; veEl Elyón goaLám.",
+      "es": "Y se acordaban de que Dios era su roca y el Dios Altísimo su redentor."
     },
     {
       "num": 36,
-      "he": "וַיְפַתּ֥וּהוּ בְּפִיהֶ֑ם וּ֝בִלְשׁוֹנָ֗ם יְכַזְּבוּ־לֽוֹ׃",
+      "he": "וַיְפַתּוּהוּ בְּפִיהֶם וּבִלְשׁוֹנָם יְכַזְּבוּ לוֹ׃",
       "he_plain": "ויפתוהו בפיהם ובלשונם יכזבו לו",
-      "translit": "",
-      "es": ""
+      "translit": "Vayefatúhu befíhem; uvilshonám yejazevú lo.",
+      "es": "Pero le halagaban con su boca y con su lengua le mentían."
     },
     {
       "num": 37,
-      "he": "וְ֭לִבָּם לֹא־נָכ֣וֹן עִמּ֑וֹ וְלֹ֥א נֶ֝אֶמְנ֗וּ בִּבְרִיתֽוֹ׃",
+      "he": "וְלִבָּם לֹא נָכוֹן עִמּוֹ וְלֹא נֶאֶמְנוּ בִּבְרִיתוֹ׃",
       "he_plain": "ולבם לא נכון עמו ולא נאמנו בבריתו",
-      "translit": "",
-      "es": ""
+      "translit": "Velibám lo najón imó; veló neemNú bivrít ó.",
+      "es": "Pues su corazón no era recto con Él ni fueron fieles en Su pacto."
     },
     {
       "num": 38,
-      "he": "וְה֤וּא רַח֨וּם׀ יְכַפֵּ֥ר עָוֺן֮ וְֽלֹא־יַֽ֫שְׁחִ֥ית וְ֭הִרְבָּה לְהָשִׁ֣יב אַפּ֑וֹ וְלֹא־יָ֝עִ֗יר כׇּל־חֲמָתֽוֹ׃",
-      "he_plain": "והוא רחום יכפר עון ולא ישחית והרבה להשיב אפו ולא יעיר כל חמתו",
-      "translit": "",
-      "es": ""
+      "he": "וְהוּא רַחוּם יְכַפֵּר עָוֹן וְלֹא יַשְׁחִית וְהִרְבָּה לְהָשִׁיב אַפּוֹ וְלֹא יָעִיר כָּל חֲמָתוֹ׃",
+      "he_plain": "והוא רחום יכפר עוון ולא ישחית והרבה להשיב אפו ולא יעיר כל חמתו",
+      "translit": "Vehu rajúm yejapér avón; veló yashJít; vehiRbá lehashív apó; veló yaír kol jamató.",
+      "es": "Pero Él siendo misericordioso perdonaba la maldad y no los destruía; muchas veces apartó Su ira y no despertó todo Su furor."
     },
     {
       "num": 39,
-      "he": "וַ֭יִּזְכֹּר כִּֽי־בָשָׂ֣ר הֵ֑מָּה ר֥וּחַ ה֝וֹלֵ֗ךְ וְלֹ֣א יָשֽׁוּב׃",
-      "he_plain": "ויזכר כי בשר המה רוח הולך ולא ישוב",
-      "translit": "",
-      "es": ""
+      "he": "וַיִּזְכֹּר כִּי בָשָׂר הֵמָּה רוּחַ הוֹלֵךְ וְלֹא יָשׁוּב׃",
+      "he_plain": "ויזכור כי בשר המה רוח הולך ולא ישוב",
+      "translit": "Vayizkór ki vasár héma; rúaj holéj veló yashuv.",
+      "es": "Y se acordaba de que eran carne; un viento que pasa y no vuelve."
     },
     {
       "num": 40,
-      "he": "כַּ֭מָּה יַמְר֣וּהוּ בַמִּדְבָּ֑ר יַ֝עֲצִיב֗וּהוּ בִּישִׁימֽוֹן׃",
+      "he": "כַּמָּה יַמְרוּהוּ בַמִּדְבָּר יַעֲצִיבוּהוּ בִּישִׁימוֹן׃",
       "he_plain": "כמה ימרוהו במדבר יעציבוהו בישימון",
-      "translit": "",
-      "es": ""
+      "translit": "Kamá yamrúhu bamidBár; yaatstivúhu bishimón.",
+      "es": "¡Cuántas veces le provocaron en el desierto y le entristecieron en el yermo!"
     },
     {
       "num": 41,
-      "he": "וַיָּשׁ֣וּבוּ וַיְנַסּ֣וּ אֵ֑ל וּקְד֖וֹשׁ יִשְׂרָאֵ֣ל הִתְוֽוּ׃",
+      "he": "וַיָּשׁוּבוּ וַיְנַסּוּ אֵל וּקְדוֹשׁ יִשְׂרָאֵל הִתְווּ׃",
       "he_plain": "וישובו וינסו אל וקדוש ישראל התוו",
-      "translit": "",
-      "es": ""
+      "translit": "Vayashúvu vayenasú El; ukdósh Yisraél hitávu.",
+      "es": "Y volvieron y tentaron a Dios y provocaron al Santo de Israel."
     },
     {
       "num": 42,
-      "he": "לֹא־זָכְר֥וּ אֶת־יָד֑וֹ י֝֗וֹם אֲֽשֶׁר־פָּדָ֥ם מִנִּי־צָֽר׃",
+      "he": "לֹא זָכְרוּ אֶת יָדוֹ יוֹם אֲשֶׁר פָּדָם מִנִּי צָר׃",
       "he_plain": "לא זכרו את ידו יום אשר פדם מני צר",
-      "translit": "",
-      "es": ""
+      "translit": "Lo zajrú et yadó; yóm ashér padám miní tsár.",
+      "es": "No se acordaron de Su mano del día en que los redimió del angustiador."
     },
     {
       "num": 43,
-      "he": "אֲשֶׁר־שָׂ֣ם בְּ֭מִצְרַיִם אֹתוֹתָ֑יו וּ֝מוֹפְתָ֗יו בִּשְׂדֵה־צֹֽעַן׃",
-      "he_plain": "אשר שם במצרים אתותיו ומופתיו בשדה צען",
-      "translit": "",
-      "es": ""
+      "he": "אֲשֶׁר שָׂם בְּמִצְרַיִם אֹתוֹתָיו וּמוֹפְתָיו בִּשְׂדֵה צֹעַן׃",
+      "he_plain": "אשר שם במצרים אתותיו ומופתיו בשדה צוען",
+      "translit": "Ashér sám beMitsráyim ototáv; umoftáv bisedéh Tsóan.",
+      "es": "Cuando puso Sus señales en Egipto y Sus maravillas en el campo de Tsoan."
     },
     {
       "num": 44,
-      "he": "וַיַּהֲפֹ֣ךְ לְ֭דָם יְאֹרֵיהֶ֑ם וְ֝נֹזְלֵיהֶ֗ם בַּל־יִשְׁתָּיֽוּן׃",
-      "he_plain": "ויהפך לדם יאריהם ונזליהם בל ישתיון",
-      "translit": "",
-      "es": ""
+      "he": "וַיַּהֲפֹךְ לְדָם יְאֹרֵיהֶם וְנֹזְלֵיהֶם בַּל יִשְׁתָּיוּן׃",
+      "he_plain": "ויהפוך לדם יאוריהם ונוזליהם בל ישתיון",
+      "translit": "Vayahafój ledám yeorEihem; veNozléihem bal yishtayún.",
+      "es": "Y convirtió en sangre sus ríos y sus corrientes para que no pudieran beber."
     },
     {
       "num": 45,
-      "he": "יְשַׁלַּ֬ח בָּהֶ֣ם עָ֭רֹב וַיֹּאכְלֵ֑ם וּ֝צְפַרְדֵּ֗עַ וַתַּשְׁחִיתֵֽם׃",
-      "he_plain": "ישלח בהם ערב ויאכלם וצפרדע ותשחיתם",
-      "translit": "",
-      "es": ""
+      "he": "יְשַׁלַּח בָּהֶם עָרֹב וַיֹּאכְלֵם וּצְפַרְדֵּעַ וַתַּשְׁחִיתֵם׃",
+      "he_plain": "ישלח בהם ערוב ויאכלם וצפרדע ותשחיתם",
+      "translit": "Yeshalaj bahém arOv vayojlém; utsefardéa vatashJitém.",
+      "es": "Envió contra ellos enjambres de moscas que los devoraron y ranas que los destruyeron."
     },
     {
       "num": 46,
-      "he": "וַיִּתֵּ֣ן לֶחָסִ֣יל יְבוּלָ֑ם וִ֝יגִיעָ֗ם לָאַרְבֶּֽה׃",
+      "he": "וַיִּתֵּן לֶחָסִיל יְבוּלָם וִיגִיעָם לָאַרְבֶּה׃",
       "he_plain": "ויתן לחסיל יבולם ויגיעם לארבה",
-      "translit": "",
-      "es": ""
+      "translit": "Vayitén lejasíl yevulám; vigiám laarbéh.",
+      "es": "Entregó además a la oruga sus cosechas y su trabajo a la langosta."
     },
     {
       "num": 47,
-      "he": "יַהֲרֹ֣ג בַּבָּרָ֣ד גַּפְנָ֑ם וְ֝שִׁקְמוֹתָ֗ם בַּחֲנָמַֽל׃",
-      "he_plain": "יהרג בברד גפנם ושקמותם בחנמל",
-      "translit": "",
-      "es": ""
+      "he": "יַהֲרֹג בַּבָּרָד גַּפְנָם וְשִׁקְמוֹתָם בַּחֲנָמַל׃",
+      "he_plain": "יהרוג בברד גפנם ושקמותם בחנמל",
+      "translit": "Yahróg babará gafnám; veshikmotám bajanamal.",
+      "es": "Destruyó sus viñas con granizo y sus higuerales con escarcha."
     },
     {
       "num": 48,
-      "he": "וַיַּסְגֵּ֣ר לַבָּרָ֣ד בְּעִירָ֑ם וּ֝מִקְנֵיהֶ֗ם לָרְשָׁפִֽים׃",
+      "he": "וַיַּסְגֵּר לַבָּרָד בְּעִירָם וּמִקְנֵיהֶם לָרְשָׁפִים׃",
       "he_plain": "ויסגר לברד בעירם ומקניהם לרשפים",
-      "translit": "",
-      "es": ""
+      "translit": "Vayasgér labará beirám; umikNéihem lareshafím.",
+      "es": "Entregó al granizo su ganado y sus bestias a los rayos."
     },
     {
       "num": 49,
-      "he": "יְשַׁלַּח־בָּ֨ם׀ חֲר֬וֹן אַפּ֗וֹ עֶבְרָ֣ה וָזַ֣עַם וְצָרָ֑ה מִ֝שְׁלַ֗חַת מַלְאֲכֵ֥י רָעִֽים׃",
+      "he": "יְשַׁלַּח בָּם חֲרוֹן אַפּוֹ עֶבְרָה וָזַעַם וְצָרָה מִשְׁלַחַת מַלְאֲכֵי רָעִים׃",
       "he_plain": "ישלח בם חרון אפו עברה וזעם וצרה משלחת מלאכי רעים",
-      "translit": "",
-      "es": ""
+      "translit": "Yeshalaj vám jarón apó; evRá vazáam vetsará; mishlájat malachéi raím.",
+      "es": "Envió contra ellos el ardor de Su ira; enojo, furor y angustia; misión de ángeles destructores."
     },
     {
       "num": 50,
-      "he": "יְפַלֵּ֥ס נָתִ֗יב לְאַ֫פּ֥וֹ לֹא־חָשַׂ֣ךְ מִמָּ֣וֶת נַפְשָׁ֑ם וְ֝חַיָּתָ֗ם לַדֶּ֥בֶר הִסְגִּֽיר׃",
+      "he": "יְפַלֵּס נָתִיב לְאַפּוֹ לֹא חָשַׂךְ מִמָּוֶת נַפְשָׁם וְחַיָּתָם לַדֶּבֶר הִסְגִּיר׃",
       "he_plain": "יפלס נתיב לאפו לא חשך ממות נפשם וחיתם לדבר הסגיר",
-      "translit": "",
-      "es": ""
+      "translit": "Yefalés natív leapó; lo jasáj mimávet nafshám; vejaYatám ladéver hisgír.",
+      "es": "Preparó camino a Su furor; no eximió de la muerte a sus almas sino que entregó su vida a la pestilencia."
     },
     {
       "num": 51,
-      "he": "וַיַּ֣ךְ כׇּל־בְּכ֣וֹר בְּמִצְרָ֑יִם רֵאשִׁ֥ית א֝וֹנִ֗ים בְּאׇהֳלֵי־חָֽם׃",
+      "he": "וַיַּךְ כָּל בְּכוֹר בְּמִצְרָיִם רֵאשִׁית אוֹנִים בְּאָהֳלֵי חָם׃",
       "he_plain": "ויך כל בכור במצרים ראשית אונים באהלי חם",
-      "translit": "",
-      "es": ""
+      "translit": "Vayáj kol bejór beMitsráyim; reshít oním beaholéi Jám.",
+      "es": "E hirió a todo primogénito en Egipto; las primicias de su fuerza en las tiendas de Jam."
     },
     {
       "num": 52,
-      "he": "וַיַּסַּ֣ע כַּצֹּ֣אן עַמּ֑וֹ וַֽיְנַהֲגֵ֥ם כַּ֝עֵ֗דֶר בַּמִּדְבָּֽר׃",
+      "he": "וַיַּסַּע כַּצֹּאן עַמּוֹ וַיְנַהֲגֵם כַּעֵדֶר בַּמִּדְבָּר׃",
       "he_plain": "ויסע כצאן עמו וינהגם כעדר במדבר",
-      "translit": "",
-      "es": ""
+      "translit": "Vayasá katson amó; vayenahagém kaéder bamidBár.",
+      "es": "Hizo salir a Su pueblo como ovejas y los llevó como un rebaño por el desierto."
     },
     {
       "num": 53,
-      "he": "וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת־א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם׃",
+      "he": "וַיַּנְחֵם לָבֶטַח וְלֹא פָחָדוּ וְאֶת אוֹיְבֵיהֶם כִּסָּה הַיָּם׃",
       "he_plain": "וינחם לבטח ולא פחדו ואת אויביהם כסה הים",
-      "translit": "",
-      "es": ""
+      "translit": "Vayanjém labétaj veló pajadú; veet oyevéihem kisá hayám.",
+      "es": "Los guió con seguridad de modo que no tuvieron temor; y el mar cubrió a sus enemigos."
     },
     {
       "num": 54,
-      "he": "וַ֭יְבִיאֵם אֶל־גְּב֣וּל קׇדְשׁ֑וֹ הַר־זֶ֝֗ה קָנְתָ֥ה יְמִינֽוֹ׃",
+      "he": "וַיְבִיאֵם אֶל גְּבוּל קָדְשׁוֹ הַר זֶה קָנְתָה יְמִינוֹ׃",
       "he_plain": "ויביאם אל גבול קדשו הר זה קנתה ימינו",
-      "translit": "",
-      "es": ""
+      "translit": "Vayeviém el gevúl kodsho; har ze kanetá yeminó.",
+      "es": "Los trajo a Su tierra santa; a este monte que ganó Su diestra."
     },
     {
       "num": 55,
-      "he": "וַיְגָ֤רֶשׁ מִפְּנֵיהֶ֨ם׀ גּוֹיִ֗ם וַֽ֭יַּפִּילֵם בְּחֶ֣בֶל נַחֲלָ֑ה וַיַּשְׁכֵּ֥ן בְּ֝אׇהֳלֵיהֶ֗ם שִׁבְטֵ֥י יִשְׂרָאֵֽל׃",
+      "he": "וַיְגָרֶשׁ מִפְּנֵיהֶם גּוֹיִם וַיַּפִּילֵם בְּחֶבֶל נַחֲלָה וַיַּשְׁכֵּן בְּאָהֳלֵיהֶם שִׁבְטֵי יִשְׂרָאֵל׃",
       "he_plain": "ויגרש מפניהם גוים ויפילם בחבל נחלה וישכן באהליהם שבטי ישראל",
-      "translit": "",
-      "es": ""
+      "translit": "Vayegarésh mifnéihem goyím; vayapilém bejével najAlá; vayashkén beoholéihem shivtéi Yisraél.",
+      "es": "Echó también las naciones de delante de ellos y los repartió por suerte de heredad e hizo habitar en sus tiendas a las tribus de Israel."
     },
     {
       "num": 56,
-      "he": "וַיְנַסּ֣וּ וַ֭יַּמְרוּ אֶת־אֱלֹהִ֣ים עֶלְי֑וֹן וְ֝עֵדוֹתָ֗יו לֹ֣א שָׁמָֽרוּ׃",
-      "he_plain": "וינסו וימרו את אלהים עליון ועדותיו לא שמרו",
-      "translit": "",
-      "es": ""
+      "he": "וַיְנַסּוּ וַיַּמְרוּ אֶת אֱלֹהִים עֶלְיוֹן וְאֶת עֵדוֹתָיו לֹא שָׁמָרוּ׃",
+      "he_plain": "וינסו וימרו את אלהים עליון ואת עדותיו לא שמרו",
+      "translit": "Vayenasú vayamRú et Elohím Elyón; veet edotáv lo shamáru.",
+      "es": "Pero tentaron y se rebelaron contra Dios el Altísimo y no guardaron Sus testimonios."
     },
     {
       "num": 57,
-      "he": "וַיִּסֹּ֣גוּ וַֽ֭יִּבְגְּדוּ כַּאֲבוֹתָ֑ם נֶ֝הְפְּכ֗וּ כְּקֶ֣שֶׁת רְמִיָּֽה׃",
-      "he_plain": "ויסגו ויבגדו כאבותם נהפכו כקשת רמיה",
-      "translit": "",
-      "es": ""
+      "he": "וַיִּסֹּגוּ וַיִּבְגְּדוּ כַּאֲבוֹתָם נֶהְפְּכוּ כְּקֶשֶׁת רְמִיָּה׃",
+      "he_plain": "ויסוגו ויבגדו כאבותם נהפכו כקשת רמיה",
+      "translit": "Vayisogú vayivgedú kaavotám; nehpejú kekéshet remiyá.",
+      "es": "Y se volvieron y se portaron deslealmente como sus padres; se volvieron como arco engañoso."
     },
     {
       "num": 58,
-      "he": "וַיַּכְעִיס֥וּהוּ בְּבָמוֹתָ֑ם וּ֝בִפְסִילֵיהֶ֗ם יַקְנִיאֽוּהוּ׃",
+      "he": "וַיַּכְעִיסוּהוּ בְּבָמוֹתָם וּבִפְסִילֵיהֶם יַקְנִיאוּהוּ׃",
       "he_plain": "ויכעיסוהו בבמותם ובפסיליהם יקניאוהו",
-      "translit": "",
-      "es": ""
+      "translit": "Vayakísúhu bevamotám; uvifsiléihem yakniúhu.",
+      "es": "Le provocaron a ira con sus lugares altos y le movieron a celo con sus ídolos."
     },
     {
       "num": 59,
-      "he": "שָׁמַ֣ע אֱ֭לֹהִים וַֽיִּתְעַבָּ֑ר וַיִּמְאַ֥ס מְ֝אֹ֗ד בְּיִשְׂרָאֵֽל׃",
+      "he": "שָׁמַע אֱלֹהִים וַיִּתְעַבָּר וַיִּמְאַס מְאֹד בְּיִשְׂרָאֵל׃",
       "he_plain": "שמע אלהים ויתעבר וימאס מאד בישראל",
-      "translit": "",
-      "es": ""
+      "translit": "Shamá Elohím vayitabár; vayimás meód beYisraél.",
+      "es": "Lo oyó Dios y se enojó y en gran manera aborreció a Israel."
     },
     {
       "num": 60,
-      "he": "וַ֭יִּטֹּשׁ מִשְׁכַּ֣ן שִׁל֑וֹ אֹ֝֗הֶל שִׁכֵּ֥ן בָּאָדָֽם׃",
-      "he_plain": "ויטש משכן שלו אהל שכן באדם",
-      "translit": "",
-      "es": ""
+      "he": "וַיִּטֹּשׁ מִשְׁכַּן שִׁלוֹ אֹהֶל שִׁכֵּן בָּאָדָם׃",
+      "he_plain": "ויטוש משכן שילו אוהל שכן באדם",
+      "translit": "Vayitósh mishkán Shiló; óhel shikén baadám.",
+      "es": "Abandonó el tabernáculo de Shiló; la tienda en que habitó entre los hombres."
     },
     {
       "num": 61,
-      "he": "וַיִּתֵּ֣ן לַשְּׁבִ֣י עֻזּ֑וֹ וְֽתִפְאַרְתּ֥וֹ בְיַד־צָֽר׃",
-      "he_plain": "ויתן לשבי עזו ותפארתו ביד צר",
-      "translit": "",
-      "es": ""
+      "he": "וַיִּתֵּן לַשְּׁבִי עֻזּוֹ וְתִפְאַרְתּוֹ בְּיַד צָר׃",
+      "he_plain": "ויתן לשבי עוזו ותפארתו ביד צר",
+      "translit": "Vayitén lashevÍ uzó; vetifartó beyád tsár.",
+      "es": "Y entregó a cautiverio Su poder y Su gloria en mano del enemigo."
     },
     {
       "num": 62,
-      "he": "וַיַּסְגֵּ֣ר לַחֶ֣רֶב עַמּ֑וֹ וּ֝בְנַחֲלָת֗וֹ הִתְעַבָּֽר׃",
+      "he": "וַיַּסְגֵּר לַחֶרֶב עַמּוֹ וּבְנַחֲלָתוֹ הִתְעַבָּר׃",
       "he_plain": "ויסגר לחרב עמו ובנחלתו התעבר",
-      "translit": "",
-      "es": ""
+      "translit": "Vayasgér lajérev amó; uvenajalató hitabár.",
+      "es": "Entregó también Su pueblo a la espada y se enojó contra Su heredad."
     },
     {
       "num": 63,
-      "he": "בַּחוּרָ֥יו אָכְלָה־אֵ֑שׁ וּ֝בְתוּלֹתָ֗יו לֹ֣א הוּלָּֽלוּ׃",
-      "he_plain": "בחוריו אכלה אש ובתולתיו לא הוללו",
-      "translit": "",
-      "es": ""
+      "he": "בַּחוּרָיו אָכְלָה אֵשׁ וּבְתוּלֹתָיו לֹא הוּלָּלוּ׃",
+      "he_plain": "בחוריו אכלה אש ובתולותיו לא הוללו",
+      "translit": "Bajuráv ojlá ésh; uvtuloTáv lo hululú.",
+      "es": "El fuego consumió a sus jóvenes y sus vírgenes no tuvieron cantos nupciales."
     },
     {
       "num": 64,
-      "he": "כֹּ֭הֲנָיו בַּחֶ֣רֶב נָפָ֑לוּ וְ֝אַלְמְנֹתָ֗יו לֹ֣א תִבְכֶּֽינָה׃",
-      "he_plain": "כהניו בחרב נפלו ואלמנתיו לא תבכינה",
-      "translit": "",
-      "es": ""
+      "he": "כֹּהֲנָיו בַּחֶרֶב נָפָלוּ וְאַלְמְנוֹתָיו לֹא תִבְכֶּינָה׃",
+      "he_plain": "כוהניו בחרב נפלו ואלמנותיו לא תבכינה",
+      "translit": "Kohanáv bajérev nafálu; vealmnotáv lo tivkéina.",
+      "es": "Sus sacerdotes cayeron a espada y sus viudas no hicieron lamentación."
     },
     {
       "num": 65,
-      "he": "וַיִּקַ֖ץ כְּיָשֵׁ֥ן׀אֲדֹנָ֑י כְּ֝גִבּ֗וֹר מִתְרוֹנֵ֥ן מִיָּֽיִן׃",
-      "he_plain": "ויקץ כישןאדני כגבור מתרונן מיין",
-      "translit": "",
-      "es": ""
+      "he": "וַיִּקַץ כְּיָשֵׁן אֲדֹנָי כְּגִבּוֹר מִתְרוֹנֵן מִיָּיִן׃",
+      "he_plain": "ויקץ כישן אדני כגיבור מתרונן מיין",
+      "translit": "Vayikáts keyashén Adonái; keguibór mitrounén meyáyin.",
+      "es": "Entonces despertó el Señor como el que duerme; como un guerrero que grita excitado por el vino."
     },
     {
       "num": 66,
-      "he": "וַיַּךְ־צָרָ֥יו אָח֑וֹר חֶרְפַּ֥ת ע֝וֹלָ֗ם נָ֣תַן לָֽמוֹ׃",
+      "he": "וַיַּךְ צָרָיו אָחוֹר חֶרְפַּת עוֹלָם נָתַן לָמוֹ׃",
       "he_plain": "ויך צריו אחור חרפת עולם נתן למו",
-      "translit": "",
-      "es": ""
+      "translit": "Vayáj tsaráv ajór; jerpát olám natán lámo.",
+      "es": "E hirió a Sus adversarios hacia atrás; les dio perpetua afrenta."
     },
     {
       "num": 67,
-      "he": "וַ֭יִּמְאַס בְּאֹ֣הֶל יוֹסֵ֑ף וּֽבְשֵׁ֥בֶט אֶ֝פְרַ֗יִם לֹ֣א בָחָֽר׃",
-      "he_plain": "וימאס באהל יוסף ובשבט אפרים לא בחר",
-      "translit": "",
-      "es": ""
+      "he": "וַיִּמְאַס בְּאֹהֶל יוֹסֵף וּבְשֵׁבֶט אֶפְרַיִם לֹא בָחָר׃",
+      "he_plain": "וימאס באוהל יוסף ובשבט אפרים לא בחר",
+      "translit": "Vayimás beoHel Yosép; uveshévet Efráyim lo vajár.",
+      "es": "Rechazó la tienda de Yosef y no escogió la tribu de Efráyim."
     },
     {
       "num": 68,
-      "he": "וַ֭יִּבְחַר אֶת־שֵׁ֣בֶט יְהוּדָ֑ה אֶֽת־הַ֥ר צִ֝יּ֗וֹן אֲשֶׁ֣ר אָהֵֽב׃",
+      "he": "וַיִּבְחַר אֶת שֵׁבֶט יְהוּדָה אֶת הַר צִיּוֹן אֲשֶׁר אָהֵב׃",
       "he_plain": "ויבחר את שבט יהודה את הר ציון אשר אהב",
-      "translit": "",
-      "es": ""
+      "translit": "Vayivjár et shévet Yehudá; et har Tsiyón ashér ahév.",
+      "es": "Sino que escogió la tribu de Yehudá; el monte de Tsión al que amó."
     },
     {
       "num": 69,
-      "he": "וַיִּ֣בֶן כְּמֽוֹ־רָ֭מִים מִקְדָּשׁ֑וֹ כְּ֝אֶ֗רֶץ יְסָדָ֥הּ לְעוֹלָֽם׃",
+      "he": "וַיִּבֶן כְּמוֹ רָמִים מִקְדָּשׁוֹ כְּאֶרֶץ יְסָדָהּ לְעוֹלָם׃",
       "he_plain": "ויבן כמו רמים מקדשו כארץ יסדה לעולם",
-      "translit": "",
-      "es": ""
+      "translit": "Vayivén kemó ramím mikdashó; keérets yesadáh leolám.",
+      "es": "Y edificó Su santuario a manera de las alturas; como la tierra que fundó para siempre."
     },
     {
       "num": 70,
-      "he": "וַ֭יִּבְחַר בְּדָוִ֣ד עַבְדּ֑וֹ וַ֝יִּקָּחֵ֗הוּ מִֽמִּכְלְאֹ֥ת צֹֽאן׃",
-      "he_plain": "ויבחר בדוד עבדו ויקחהו ממכלאת צאן",
-      "translit": "",
-      "es": ""
+      "he": "וַיִּבְחַר בְּדָוִד עַבְדּוֹ וַיִּקָּחֵהוּ מִמִּכְלְאֹת הַצֹּאן׃",
+      "he_plain": "ויבחר בדוד עבדו ויקחהו ממכלאות הצאן",
+      "translit": "Vayivjár beDavíd abdó; vayikajéhu mimikleót hatson.",
+      "es": "Eligió también a David Su siervo y lo tomó de los apriscos de las ovejas."
     },
     {
       "num": 71,
-      "he": "מֵאַחַ֥ר עָל֗וֹת הֱבִ֫יא֥וֹ לִ֭רְעוֹת בְּיַעֲקֹ֣ב עַמּ֑וֹ וּ֝בְיִשְׂרָאֵ֗ל נַחֲלָתֽוֹ׃",
+      "he": "מֵאַחַר עָלוֹת הֱבִיאוֹ לִרְעוֹת בְּיַעֲקֹב עַמּוֹ וּבְיִשְׂרָאֵל נַחֲלָתוֹ׃",
       "he_plain": "מאחר עלות הביאו לרעות ביעקב עמו ובישראל נחלתו",
-      "translit": "",
-      "es": ""
+      "translit": "Meajár alót hevió; lirot beYaakóv amó; uvYisraél najalató.",
+      "es": "Lo trajo de detrás de las ovejas paridas para que apacentara a Yaakov Su pueblo y a Israel Su heredad."
     },
     {
       "num": 72,
-      "he": "וַ֭יִּרְעֵם כְּתֹ֣ם לְבָב֑וֹ וּבִתְבוּנ֖וֹת כַּפָּ֣יו יַנְחֵֽם׃ {פ}",
-      "he_plain": "וירעם כתם לבבו ובתבונות כפיו ינחם {פ}",
-      "translit": "",
-      "es": ""
+      "he": "וַיִּרְעֵם כְּתֹם לְבָבוֹ וּבִתְבוּנוֹת כַּפָּיו יַנְחֵם׃",
+      "he_plain": "וירעם כתום לבבו ובתבונות כפיו ינחם",
+      "translit": "Vayirém ketóm levavó; uvitunoT kapáv yanjém.",
+      "es": "Y los apacentó conforme a la integridad de su corazón y los guió con la pericia de sus manos."
     }
-  ],
-  "audio": "",
-  "title_es": "Maskil de Asaf"
+  ]
 }

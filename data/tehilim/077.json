@@ -1,155 +1,154 @@
 {
   "number": 77,
   "title_he": "תהילים",
+  "title_es": "Consuelo en la aflicción recordando las obras de Dios",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֥חַ עַֽל־[יְדוּת֗וּן] (ידיתון) לְאָסָ֥ף מִזְמֽוֹר׃",
-      "he_plain": "למנצח על [ידותון] (ידיתון) לאסף מזמור",
-      "translit": "",
-      "es": ""
+      "he": "לַמְנַצֵּחַ עַל יְדוּתוּן לְאָסָף מִזְמוֹר׃",
+      "he_plain": "למנצח על ידותון לאסף מזמור",
+      "translit": "Lamnatséaj al Yedutún leAsáf mizmór.",
+      "es": "Al director; para Yedutún. De Asaf. Salmo."
     },
     {
       "num": 2,
-      "he": "קוֹלִ֣י אֶל־אֱלֹהִ֣ים וְאֶצְעָ֑קָה קוֹלִ֥י אֶל־אֱ֝לֹהִ֗ים וְהַאֲזִ֥ין אֵלָֽי׃",
+      "he": "קוֹלִי אֶל אֱלֹהִים וְאֶצְעָקָה קוֹלִי אֶל אֱלֹהִים וְהַאֲזִין אֵלָי׃",
       "he_plain": "קולי אל אלהים ואצעקה קולי אל אלהים והאזין אלי",
-      "translit": "",
-      "es": ""
+      "translit": "Kolí el Elohím veetsaKá; kolí el Elohím vehazín eláy.",
+      "es": "Con mi voz clamé a Dios; con mi voz a Dios y Él me escuchó."
     },
     {
       "num": 3,
-      "he": "בְּי֥וֹם צָרָתִי֮ אֲדֹנָ֢י דָּ֫רָ֥שְׁתִּי יָדִ֤י׀ לַ֣יְלָה נִ֭גְּרָה וְלֹ֣א תָפ֑וּג מֵאֲנָ֖ה הִנָּחֵ֣ם נַפְשִֽׁי׃",
-      "he_plain": "ביום צרתי אדני דרשתי ידי לילה נגרה ולא תפוג מאנה הנחם נפשי",
-      "translit": "",
-      "es": ""
+      "he": "בְּיוֹם צָרָתִי אֲדֹנָי דָּרָשְׁתִּי יָדִי לַיְלָה נִגְּרָה וְלֹא תָפוּג נַפְשִׁי מֵאֲנָה הִנָּחֵם׃",
+      "he_plain": "ביום צרתי אדני דרשתי ידי לילה נגרה ולא תפוג נפשי מאנה הנחם",
+      "translit": "Beyóm tsaratí Adonái darashTí; yadí láyla nigRá veló tafúg; nafshí meeNá hinajém.",
+      "es": "En el día de mi angustia busqué al Señor; alzaba a Él mis manos de noche sin descanso; mi alma rehusaba ser consolada."
     },
     {
       "num": 4,
-      "he": "אֶזְכְּרָ֣ה אֱלֹהִ֣ים וְאֶהֱמָ֑יָה אָשִׂ֓יחָה׀ וְתִתְעַטֵּ֖ף רוּחִ֣י סֶֽלָה׃",
+      "he": "אֶזְכְּרָה אֱלֹהִים וְאֶהֱמָיָה אָשִׂיחָה וְתִתְעַטֵּף רוּחִי סֶלָה׃",
       "he_plain": "אזכרה אלהים ואהמיה אשיחה ותתעטף רוחי סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Ezkará Elohím veeHeMáyah; asiJá vetitaTéf rují. Selá.",
+      "es": "Me acordaba de Dios y me quejaba; meditaba y se angustiaba mi espíritu. Selá."
     },
     {
       "num": 5,
-      "he": "אָ֭חַזְתָּ שְׁמֻר֣וֹת עֵינָ֑י נִ֝פְעַ֗מְתִּי וְלֹ֣א אֲדַבֵּֽר׃",
-      "he_plain": "אחזת שמרות עיני נפעמתי ולא אדבר",
-      "translit": "",
-      "es": ""
+      "he": "אָחַזְתָּ שְׁמֻרוֹת עֵינָי נִפְעַמְתִּי וְלֹא אֲדַבֵּר׃",
+      "he_plain": "אחזת שמורות עיני נפעמתי ולא אדבר",
+      "translit": "Ajázta shemurót einái; nifámti veló adabér.",
+      "es": "Tenías tomados mis párpados; estaba yo quebrantado y no podía hablar."
     },
     {
       "num": 6,
-      "he": "חִשַּׁ֣בְתִּי יָמִ֣ים מִקֶּ֑דֶם שְׁ֝נ֗וֹת עוֹלָמִֽים׃",
+      "he": "חִשַּׁבְתִּי יָמִים מִקֶּדֶם שְׁנוֹת עוֹלָמִים׃",
       "he_plain": "חשבתי ימים מקדם שנות עולמים",
-      "translit": "",
-      "es": ""
+      "translit": "Jishávti yamím mikédem; shenót olamím.",
+      "es": "Consideraba los días de la antigüedad y los años de los siglos pasados."
     },
     {
       "num": 7,
-      "he": "אֶ֥זְכְּרָ֥ה נְגִינָתִ֗י בַּ֫לָּ֥יְלָה עִם־לְבָבִ֥י אָשִׂ֑יחָה וַיְחַפֵּ֥שׂ רוּחִֽי׃",
+      "he": "אֶזְכְּרָה נְגִינָתִי בַּלָּיְלָה עִם לְבָבִי אָשִׂיחָה וַיְחַפֵּשׂ רוּחִי׃",
       "he_plain": "אזכרה נגינתי בלילה עם לבבי אשיחה ויחפש רוחי",
-      "translit": "",
-      "es": ""
+      "translit": "Ezkará neguinatí baláyla; im levabí asiJá; vayeJaPéS rují.",
+      "es": "Me acordaba de mis cánticos de noche; meditaba en mi corazón y mi espíritu inquiría."
     },
     {
       "num": 8,
-      "he": "הַֽ֭לְעוֹלָמִים יִזְנַ֥ח׀אֲדֹנָ֑י וְלֹא־יֹסִ֖יף לִרְצ֣וֹת עֽוֹד׃",
-      "he_plain": "הלעולמים יזנחאדני ולא יסיף לרצות עוד",
-      "translit": "",
-      "es": ""
+      "he": "הַלְעוֹלָמִים יִזְנַח אֲדֹנָי וְלֹא יֹסִיף לִרְצוֹת עוֹד׃",
+      "he_plain": "הלעולמים יזנח אדני ולא יוסיף לרצות עוד",
+      "translit": "Haleolámim yizNáj Adonái; veló yosíf lirtsót od.",
+      "es": "¿Desechará el Señor para siempre y no volverá más a sernos propicio?"
     },
     {
       "num": 9,
-      "he": "הֶאָפֵ֣ס לָנֶ֣צַח חַסְדּ֑וֹ גָּ֥מַר אֹ֝֗מֶר לְדֹ֣ר וָדֹֽר׃",
-      "he_plain": "האפס לנצח חסדו גמר אמר לדר ודר",
-      "translit": "",
-      "es": ""
+      "he": "הֶאָפֵס לָנֶצַח חַסְדּוֹ גָּמַר אֹמֶר לְדֹר וָדֹר׃",
+      "he_plain": "האפס לנצח חסדו גמר אומר לדור ודור",
+      "translit": "Heafés lanétsaj jasdó; gamár ómer ledór vadór.",
+      "es": "¿Ha cesado para siempre Su bondad leal? ¿Ha acabado Su promesa para todas las generaciones?"
     },
     {
       "num": 10,
-      "he": "הֲשָׁכַ֣ח חַנּ֣וֹת אֵ֑ל אִם־קָפַ֥ץ בְּ֝אַ֗ף רַחֲמָ֥יו סֶֽלָה׃",
+      "he": "הֲשָׁכַח חַנּוֹת אֵל אִם קָפַץ בְּאַף רַחֲמָיו סֶלָה׃",
       "he_plain": "השכח חנות אל אם קפץ באף רחמיו סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Hashajáj janót El; im kafáts beáf rajaméiv. Selá.",
+      "es": "¿Ha olvidado Dios el tener misericordia? ¿Ha encerrado en Su ira Sus misericordias? Selá."
     },
     {
       "num": 11,
-      "he": "וָ֭אֹמַר חַלּ֣וֹתִי הִ֑יא שְׁ֝נ֗וֹת יְמִ֣ין עֶלְיֽוֹן׃",
-      "he_plain": "ואמר חלותי היא שנות ימין עליון",
-      "translit": "",
-      "es": ""
+      "he": "וָאֹמַר חַלּוֹתִי הִיא שְׁנוֹת יְמִין עֶלְיוֹן׃",
+      "he_plain": "ואומר חלותי היא שנות ימין עליון",
+      "translit": "Vaomár jalotí hi; shenót yemín Elyón.",
+      "es": "Y dije: Esta es mi enfermedad; que hayan cambiado los años de la diestra del Altísimo."
     },
     {
       "num": 12,
-      "he": "(אזכיר) [אֶזְכּ֥וֹר] מַעַלְלֵי־יָ֑הּ כִּֽי־אֶזְכְּרָ֖ה מִקֶּ֣דֶם פִּלְאֶֽךָ׃",
-      "he_plain": "(אזכיר) [אזכור] מעללי יה כי אזכרה מקדם פלאך",
-      "translit": "",
-      "es": ""
+      "he": "אֶזְכּוֹר מַעַלְלֵי יָהּ כִּי אֶזְכְּרָה מִקֶּדֶם פִּלְאֶךָ׃",
+      "he_plain": "אזכור מעללי יה כי אזכרה מקדם פלאך",
+      "translit": "Ezkór maalléi Yáh; ki ezkará mikédem pilEjá.",
+      "es": "Me acordaré de las obras del Eterno; sí, haré memoria de Tus maravillas antiguas."
     },
     {
       "num": 13,
-      "he": "וְהָגִ֥יתִי בְכׇל־פׇּעֳלֶ֑ךָ וּֽבַעֲלִ֖ילוֹתֶ֣יךָ אָשִֽׂיחָה׃",
-      "he_plain": "והגיתי בכל פעלך ובעלילותיך אשיחה",
-      "translit": "",
-      "es": ""
+      "he": "וְהָגִיתִי בְכָל פָּעֳלֶךָ וּבַעֲלִילוֹתֶיךָ אָשִׂיחָה׃",
+      "he_plain": "והגיתי בכל פועלך ובעלילותיך אשיחה",
+      "translit": "Vehagíti vejál pooLéja; ubaalilotéija asiJá.",
+      "es": "Meditaré en todas Tus obras y hablaré de Tus hechos."
     },
     {
       "num": 14,
-      "he": "אֱ֭לֹהִים בַּקֹּ֣דֶשׁ דַּרְכֶּ֑ךָ מִי־אֵ֥ל גָּ֝ד֗וֹל כֵּאלֹהִֽים׃",
-      "he_plain": "אלהים בקדש דרכך מי אל גדול כאלהים",
-      "translit": "",
-      "es": ""
+      "he": "אֱלֹהִים בַּקֹּדֶשׁ דַּרְכֶּךָ מִי אֵל גָּדוֹל כֵּאלֹהִים׃",
+      "he_plain": "אלהים בקודש דרכך מי אל גדול כאלהים",
+      "translit": "Elohím bakódesh darkéja; mi El gadól keElohím.",
+      "es": "Oh Dios, en santidad está Tu camino; ¿qué dios es grande como nuestro Dios?"
     },
     {
       "num": 15,
-      "he": "אַתָּ֣ה הָ֭אֵל עֹ֣שֵׂה פֶ֑לֶא הוֹדַ֖עְתָּ בָעַמִּ֣ים עֻזֶּֽךָ׃",
-      "he_plain": "אתה האל עשה פלא הודעת בעמים עזך",
-      "translit": "",
-      "es": ""
+      "he": "אַתָּה הָאֵל עֹשֵׂה פֶלֶא הוֹדַעְתָּ בָעַמִּים עֻזֶּךָ׃",
+      "he_plain": "אתה האל עושה פלא הודעת בעמים עוזך",
+      "translit": "Atá haEl oséh féle; hodáata vaamím uzeján.",
+      "es": "Tú eres el Dios que hace maravillas; hiciste notorio entre los pueblos Tu poder."
     },
     {
       "num": 16,
-      "he": "גָּאַ֣לְתָּ בִּזְר֣וֹעַ עַמֶּ֑ךָ בְּנֵֽי־יַעֲקֹ֖ב וְיוֹסֵ֣ף סֶֽלָה׃",
+      "he": "גָּאַלְתָּ בִּזְרוֹעַ עַמֶּךָ בְּנֵי יַעֲקֹב וְיוֹסֵף סֶלָה׃",
       "he_plain": "גאלת בזרוע עמך בני יעקב ויוסף סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Gaálta bizróa ameján; benéi Yaakóv veYosép. Selá.",
+      "es": "Con Tu brazo redimiste a Tu pueblo; a los hijos de Yaakov y de Yosef. Selá."
     },
     {
       "num": 17,
-      "he": "רָ֘א֤וּךָ מַּ֨יִם׀ אֱֽלֹהִ֗ים רָא֣וּךָ מַּ֣יִם יָחִ֑ילוּ אַ֝֗ף יִרְגְּז֥וּ תְהֹמֽוֹת׃",
-      "he_plain": "ראוך מים אלהים ראוך מים יחילו אף ירגזו תהמות",
-      "translit": "",
-      "es": ""
+      "he": "רָאוּךָ מַּיִם אֱלֹהִים רָאוּךָ מַּיִם יָחִילוּ אַף יִרְגְּזוּ תְהֹמוֹת׃",
+      "he_plain": "ראוך מים אלהים ראוך מים יחילו אף ירגזו תהומות",
+      "translit": "Raúja máyim Elohím; raúja máyim yajílu; af yirgezú tehomót.",
+      "es": "Te vieron las aguas, oh Dios; te vieron las aguas y temblaron; también se agitaron los abismos."
     },
     {
       "num": 18,
-      "he": "זֹ֤רְמוּ מַ֨יִם׀ עָב֗וֹת ק֭וֹל נָתְנ֣וּ שְׁחָקִ֑ים אַף־חֲ֝צָצֶ֗יךָ יִתְהַלָּֽכוּ׃",
+      "he": "זֹרְמוּ מַיִם עָבוֹת קוֹל נָתְנוּ שְׁחָקִים אַף חֲצָצֶיךָ יִתְהַלָּכוּ׃",
       "he_plain": "זרמו מים עבות קול נתנו שחקים אף חצציך יתהלכו",
-      "translit": "",
-      "es": ""
+      "translit": "Zorméu máyim avót; kól naténu shejakím; af jatatsEija yithaláju.",
+      "es": "Las nubes derramaron aguas; tronaron los cielos y también anduvieron Tus rayos."
     },
     {
       "num": 19,
-      "he": "ק֤וֹל רַעַמְךָ֨׀ בַּגַּלְגַּ֗ל הֵאִ֣ירוּ בְרָקִ֣ים תֵּבֵ֑ל רָגְזָ֖ה וַתִּרְעַ֣שׁ הָאָֽרֶץ׃",
+      "he": "קוֹל רַעַמְךָ בַּגַּלְגַּל הֵאִירוּ בְרָקִים תֵּבֵל רָגְזָה וַתִּרְעַשׁ הָאָרֶץ׃",
       "he_plain": "קול רעמך בגלגל האירו ברקים תבל רגזה ותרעש הארץ",
-      "translit": "",
-      "es": ""
+      "translit": "Kól raamejá bagálGal; heíru verakím tévEl; ragZá vatírash haárets.",
+      "es": "La voz de Tu trueno estaba en el torbellino; los relámpagos alumbraron el mundo; se estremeció y tembló la tierra."
     },
     {
       "num": 20,
-      "he": "בַּיָּ֤ם דַּרְכֶּ֗ךָ (ושביליך) [וּֽ֭שְׁבִילְךָ] בְּמַ֣יִם רַבִּ֑ים וְ֝עִקְּבוֹתֶ֗יךָ לֹ֣א נֹדָֽעוּ׃",
-      "he_plain": "בים דרכך (ושביליך) [ושבילך] במים רבים ועקבותיך לא נדעו",
-      "translit": "",
-      "es": ""
+      "he": "בַּיָּם דַּרְכֶּךָ וּשְׁבִילְךָ בְּמַיִם רַבִּים וְעִקְּבוֹתֶיךָ לֹא נֹדָעוּ׃",
+      "he_plain": "בים דרכך ושבילך במים רבים ועקבותיך לא נודעו",
+      "translit": "Bayám darkéja; ushvilEjá bemáyim rabím; veikevotéija lo nodáu.",
+      "es": "En el mar fue Tu camino y Tus sendas en las muchas aguas y Tus pisadas no fueron conocidas."
     },
     {
       "num": 21,
-      "he": "נָחִ֣יתָ כַצֹּ֣אן עַמֶּ֑ךָ בְּֽיַד־מֹשֶׁ֥ה וְאַהֲרֹֽן׃ {פ}",
-      "he_plain": "נחית כצאן עמך ביד משה ואהרן {פ}",
-      "translit": "",
-      "es": ""
+      "he": "נָחִיתָ כַצֹּאן עַמֶּךָ בְּיַד מֹשֶׁה וְאַהֲרֹן׃",
+      "he_plain": "נחית כצאן עמך ביד משה ואהרן",
+      "translit": "Najiíta jatson ameján; beyád Moshé veAharón.",
+      "es": "Condujiste a Tu pueblo como ovejas por mano de Moshé y Aharón."
     }
-  ],
-  "audio": "",
-  "title_es": "Con mi voz clamo a Dios"
+  ]
 }
