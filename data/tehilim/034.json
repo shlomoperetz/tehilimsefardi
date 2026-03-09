@@ -1,169 +1,168 @@
 {
   "number": 34,
   "title_he": "תהילים",
+  "title_es": "Alabanza por la liberación y enseñanza del temor divino",
   "verses": [
     {
       "num": 1,
-      "he": "לְדָוִ֗ד בְּשַׁנּוֹת֣וֹ אֶת־טַ֭עְמוֹ לִפְנֵ֣י אֲבִימֶ֑לֶךְ וַ֝יְגָרְשֵׁ֗הוּ וַיֵּלַֽךְ׃",
+      "he": "לְדָוִד בְּשַׁנּוֹתוֹ אֶת טַעְמוֹ לִפְנֵי אֲבִימֶלֶךְ וַיְגָרֲשֵׁהוּ וַיֵּלַךְ׃",
       "he_plain": "לדוד בשנותו את טעמו לפני אבימלך ויגרשהו וילך",
-      "translit": "",
-      "es": ""
+      "translit": "LeDavíd beshanotó et taamó lifnéi Aviméleg; vayegarashéhu vayeláj.",
+      "es": "De David, cuando fingió estar loco ante Abiméleg, quien lo expulsó y se fue."
     },
     {
       "num": 2,
-      "he": "אֲבָרְכָ֣ה אֶת־יְהֹוָ֣ה בְּכׇל־עֵ֑ת תָּ֝מִ֗יד תְּֽהִלָּת֥וֹ בְּפִֽי׃",
+      "he": "אֲבָרְכָה אֶת יְהוָה בְּכָל עֵת תָּמִיד תְּהִלָּתוֹ בְּפִי׃",
       "he_plain": "אברכה את יהוה בכל עת תמיד תהלתו בפי",
-      "translit": "",
-      "es": ""
+      "translit": "Avarejá et Adonái bejól et; tamíd tehilató befí.",
+      "es": "Bendeciré al Eterno en todo tiempo; Su alabanza estará siempre en mi boca."
     },
     {
       "num": 3,
-      "he": "בַּ֭יהֹוָה תִּתְהַלֵּ֣ל נַפְשִׁ֑י יִשְׁמְע֖וּ עֲנָוִ֣ים וְיִשְׂמָֽחוּ׃",
+      "he": "בַּיהוָה תִּתְהַלֵּל נַפְשִׁי יִשְׁמְעוּ עֲנָוִים וְיִשְׂמָחוּ׃",
       "he_plain": "ביהוה תתהלל נפשי ישמעו ענוים וישמחו",
-      "translit": "",
-      "es": ""
+      "translit": "BaAdonái tithalél nafshí; yishmeú anavím veyismáju.",
+      "es": "En el Eterno se gloriará mi alma; lo oirán los humildes y se alegrarán."
     },
     {
       "num": 4,
-      "he": "גַּדְּל֣וּ לַיהֹוָ֣ה אִתִּ֑י וּנְרוֹמְמָ֖ה שְׁמ֣וֹ יַחְדָּֽו׃",
+      "he": "גַּדְּלוּ לַיהוָה אִתִּי וּנְרוֹמְמָה שְׁמוֹ יַחְדָּו׃",
       "he_plain": "גדלו ליהוה אתי ונרוממה שמו יחדו",
-      "translit": "",
-      "es": ""
+      "translit": "Gadelu laAdonái ití; uneromemá shemó yajdáv.",
+      "es": "Engrandeced al Eterno conmigo y exaltemos Su nombre a una."
     },
     {
       "num": 5,
-      "he": "דָּרַ֣שְׁתִּי אֶת־יְהֹוָ֣ה וְעָנָ֑נִי וּמִכׇּל־מְ֝גוּרוֹתַ֗י הִצִּילָֽנִי׃",
+      "he": "דָּרַשְׁתִּי אֶת יְהוָה וְעָנָנִי וּמִכָּל מְגוּרוֹתַי הִצִּילָנִי׃",
       "he_plain": "דרשתי את יהוה וענני ומכל מגורותי הצילני",
-      "translit": "",
-      "es": ""
+      "translit": "Darashti et Adonái veaNáni; umikól megurotáy hitsíLani.",
+      "es": "Busqué al Eterno y Él me respondió y me libró de todos mis temores."
     },
     {
       "num": 6,
-      "he": "הִבִּ֣יטוּ אֵלָ֣יו וְנָהָ֑רוּ וּ֝פְנֵיהֶ֗ם אַל־יֶחְפָּֽרוּ׃",
+      "he": "הִבִּיטוּ אֵלָיו וְנָהָרוּ וּפְנֵיהֶם אַל יֶחְפָּרוּ׃",
       "he_plain": "הביטו אליו ונהרו ופניהם אל יחפרו",
-      "translit": "",
-      "es": ""
+      "translit": "Hibítu eláv venaháru; ufenéihem al yejpáru.",
+      "es": "Los que miraron a Él fueron alumbrados y sus rostros no se avergonzaron."
     },
     {
       "num": 7,
-      "he": "זֶ֤ה עָנִ֣י קָ֭רָא וַיהֹוָ֣ה שָׁמֵ֑עַ וּמִכׇּל־צָ֝רוֹתָ֗יו הוֹשִׁיעֽוֹ׃",
+      "he": "זֶה עָנִי קָרָא וַיהוָה שָׁמֵעַ וּמִכָּל צָרוֹתָיו הוֹשִׁיעוֹ׃",
       "he_plain": "זה עני קרא ויהוה שמע ומכל צרותיו הושיעו",
-      "translit": "",
-      "es": ""
+      "translit": "Ze aní karáh vaAdonái shamáa; umikól tsarotáv hoshío.",
+      "es": "Este pobre clamó y el Eterno le oyó y lo libró de todas sus angustias."
     },
     {
       "num": 8,
-      "he": "חֹנֶ֤ה מַלְאַךְ־יְהֹוָ֓ה סָ֘בִ֤יב לִירֵאָ֗יו וַֽיְחַלְּצֵֽם׃",
-      "he_plain": "חנה מלאך יהוה סביב ליראיו ויחלצם",
-      "translit": "",
-      "es": ""
+      "he": "חֹנֶה מַלְאַךְ יְהוָה סָבִיב לִירֵאָיו וַיְחַלְּצֵם׃",
+      "he_plain": "חונה מלאך יהוה סביב ליראיו ויחלצם",
+      "translit": "Joné malaj Adonái savív lireéav; vayejaltsém.",
+      "es": "El ángel del Eterno acampa alrededor de los que le temen y los libra."
     },
     {
       "num": 9,
-      "he": "טַעֲמ֣וּ וּ֭רְאוּ כִּֽי־ט֣וֹב יְהֹוָ֑ה אַֽשְׁרֵ֥י הַ֝גֶּ֗בֶר יֶחֱסֶה־בּֽוֹ׃",
+      "he": "טַעֲמוּ וּרְאוּ כִּי טוֹב יְהוָה אַשְׁרֵי הַגֶּבֶר יֶחֱסֶה בּוֹ׃",
       "he_plain": "טעמו וראו כי טוב יהוה אשרי הגבר יחסה בו",
-      "translit": "",
-      "es": ""
+      "translit": "Taamu ureú ki tov Adonái; ashréi haguéver yejeSé bo.",
+      "es": "Gustad y ved que el Eterno es bueno; dichoso el hombre que en Él se refugia."
     },
     {
       "num": 10,
-      "he": "יְר֣אוּ אֶת־יְהֹוָ֣ה קְדֹשָׁ֑יו כִּי־אֵ֥ין מַ֝חְס֗וֹר לִירֵאָֽיו׃",
-      "he_plain": "יראו את יהוה קדשיו כי אין מחסור ליראיו",
-      "translit": "",
-      "es": ""
+      "he": "יְראוּ אֶת יְהוָה קְדשָׁיו כִּי אֵין מַחְסוֹר לִירֵאָיו׃",
+      "he_plain": "יראו את יהוה קדושיו כי אין מחסור ליראיו",
+      "translit": "Yeú et Adonái kedosháv; ki en majsór lireéav.",
+      "es": "Temed al Eterno, vosotros Sus santos, pues nada les falta a los que le temen."
     },
     {
       "num": 11,
-      "he": "כְּ֭פִירִים רָשׁ֣וּ וְרָעֵ֑בוּ וְדֹרְשֵׁ֥י יְ֝הֹוָ֗ה לֹא־יַחְסְר֥וּ כׇל־טֽוֹב׃",
-      "he_plain": "כפירים רשו ורעבו ודרשי יהוה לא יחסרו כל טוב",
-      "translit": "",
-      "es": ""
+      "he": "כְּפִירִים רָשׁוּ וְרָעֵבוּ וְדֹרְשֵׁי יְהוָה לֹא יַחְסְרוּ כָל טוֹב׃",
+      "he_plain": "כפירים רשו ורעבו ודורשי יהוה לא יחסרו כל טוב",
+      "translit": "Kefirím rashu vereévu; vedorshéi Adonái lo yajserú jol tov.",
+      "es": "Los leoncillos se empobrecen y tienen hambre; pero los que buscan al Eterno no tendrán falta de ningún bien."
     },
     {
       "num": 12,
-      "he": "לְֽכוּ־בָ֭נִים שִׁמְעוּ־לִ֑י יִֽרְאַ֥ת יְ֝הֹוָ֗ה אֲלַמֶּדְכֶֽם׃",
+      "he": "לְכוּ בָנִים שִׁמְעוּ לִי יִרְאַת יְהוָה אֲלַמֶּדְכֶם׃",
       "he_plain": "לכו בנים שמעו לי יראת יהוה אלמדכם",
-      "translit": "",
-      "es": ""
+      "translit": "Lejú vaním shimeú lí; yirát Adonái alamedjem.",
+      "es": "Venid, hijos, escuchadme; el temor del Eterno os enseñaré."
     },
     {
       "num": 13,
-      "he": "מִֽי־הָ֭אִישׁ הֶחָפֵ֣ץ חַיִּ֑ים אֹהֵ֥ב יָ֝מִ֗ים לִרְא֥וֹת טֽוֹב׃",
-      "he_plain": "מי האיש החפץ חיים אהב ימים לראות טוב",
-      "translit": "",
-      "es": ""
+      "he": "מִי הָאִישׁ הֶחָפֵץ חַיִּים אֹהֵב יָמִים לִרְאוֹת טוֹב׃",
+      "he_plain": "מי האיש החפץ חיים אוהב ימים לראות טוב",
+      "translit": "Mi haísh hejaféts jayím; ohév yamím lirot tov.",
+      "es": "¿Quién es el hombre que desea vida, que ama días para ver el bien?"
     },
     {
       "num": 14,
-      "he": "נְצֹ֣ר לְשׁוֹנְךָ֣ מֵרָ֑ע וּ֝שְׂפָתֶ֗יךָ מִדַּבֵּ֥ר מִרְמָֽה׃",
-      "he_plain": "נצר לשונך מרע ושפתיך מדבר מרמה",
-      "translit": "",
-      "es": ""
+      "he": "נְצֹר לְשׁוֹנְךָ מֵרָע וּשְׂפָתֶיךָ מִדַּבֵּר מִרְמָה׃",
+      "he_plain": "נצור לשונך מרע ושפתיך מדבר מרמה",
+      "translit": "Netsór leshoneja meráa; usfatéija midabér mirmá.",
+      "es": "Guarda tu lengua del mal y tus labios de hablar engaño."
     },
     {
       "num": 15,
-      "he": "ס֣וּר מֵ֭רָע וַעֲשֵׂה־ט֑וֹב בַּקֵּ֖שׁ שָׁל֣וֹם וְרׇדְפֵֽהוּ׃",
+      "he": "סוּר מֵרָע וַעֲשֵׂה טוֹב בַּקֵּשׁ שָׁלוֹם וְרָדְפֵהוּ׃",
       "he_plain": "סור מרע ועשה טוב בקש שלום ורדפהו",
-      "translit": "",
-      "es": ""
+      "translit": "Sur meráa vaasé tov; bakésh shalóm veradféhu.",
+      "es": "Apártate del mal y haz el bien; busca la paz y síguela."
     },
     {
       "num": 16,
-      "he": "עֵינֵ֣י יְ֭הֹוָה אֶל־צַדִּיקִ֑ים וְ֝אׇזְנָ֗יו אֶל־שַׁוְעָתָֽם׃",
+      "he": "עֵינֵי יְהוָה אֶל צַדִּיקִים וְאָזְנָיו אֶל שַׁוְעָתָם׃",
       "he_plain": "עיני יהוה אל צדיקים ואזניו אל שועתם",
-      "translit": "",
-      "es": ""
+      "translit": "Einéi Adonái el tsadikim; veoznaív el shaavatám.",
+      "es": "Los ojos del Eterno están sobre los justos y Sus oídos atentos a su clamor."
     },
     {
       "num": 17,
-      "he": "פְּנֵ֣י יְ֭הֹוָה בְּעֹ֣שֵׂי רָ֑ע לְהַכְרִ֖ית מֵאֶ֣רֶץ זִכְרָֽם׃",
-      "he_plain": "פני יהוה בעשי רע להכרית מארץ זכרם",
-      "translit": "",
-      "es": ""
+      "he": "פְּנֵי יְהוָה בְּעֹשֵׂי רָע לְהַכְרִית מֵאֶרֶץ זִכְרָם׃",
+      "he_plain": "פני יהוה בעושי רע להכרית מארץ זכרם",
+      "translit": "Penéi Adonái beoséi rá; lehajrít meérets zijrám.",
+      "es": "El rostro del Eterno está contra los que hacen el mal, para exterminar de la tierra su memoria."
     },
     {
       "num": 18,
-      "he": "צָ֭עֲקוּ וַיהֹוָ֣ה שָׁמֵ֑עַ וּמִכׇּל־צָ֝רוֹתָ֗ם הִצִּילָֽם׃",
+      "he": "צָעֲקוּ וַיהוָה שָׁמֵעַ וּמִכָּל צָרוֹתָם הִצִּילָם׃",
       "he_plain": "צעקו ויהוה שמע ומכל צרותם הצילם",
-      "translit": "",
-      "es": ""
+      "translit": "Tsaakú vaAdonái shamáa; umikól tsarotám hitsílam.",
+      "es": "Clamaron los justos y el Eterno oyó y los libró de todas sus angustias."
     },
     {
       "num": 19,
-      "he": "קָר֣וֹב יְ֭הֹוָה לְנִשְׁבְּרֵי־לֵ֑ב וְֽאֶת־דַּכְּאֵי־ר֥וּחַ יוֹשִֽׁיעַ׃",
+      "he": "קָרוֹב יְהוָה לְנִשְׁבְּרֵי לֵב וְאֶת דַּכְּאֵי רוּחַ יוֹשִׁיעַ׃",
       "he_plain": "קרוב יהוה לנשברי לב ואת דכאי רוח יושיע",
-      "translit": "",
-      "es": ""
+      "translit": "Karóv Adonái lenishberéi léiv; veet dajeéi rúaj yoshía.",
+      "es": "Cercano está el Eterno a los quebrantados de corazón y salvará a los de espíritu contrito."
     },
     {
       "num": 20,
-      "he": "רַ֭בּוֹת רָע֣וֹת צַדִּ֑יק וּ֝מִכֻּלָּ֗ם יַצִּילֶ֥נּוּ יְהֹוָֽה׃",
-      "he_plain": "רבות רעות צדיק ומכלם יצילנו יהוה",
-      "translit": "",
-      "es": ""
+      "he": "רַבּוֹת רָעוֹת צַדִּיק וּמִכֻּלָּם יַצִּילֶנּוּ יְהוָה׃",
+      "he_plain": "רבות רעות צדיק ומכולם יצילנו יהוה",
+      "translit": "Rabót raót tsadík; umikúlam yatsilénu Adonái.",
+      "es": "Muchas son las aflicciones del justo, pero de todas ellas lo librará el Eterno."
     },
     {
       "num": 21,
-      "he": "שֹׁמֵ֥ר כׇּל־עַצְמוֹתָ֑יו אַחַ֥ת מֵ֝הֵ֗נָּה לֹ֣א נִשְׁבָּֽרָה׃",
-      "he_plain": "שמר כל עצמותיו אחת מהנה לא נשברה",
-      "translit": "",
-      "es": ""
+      "he": "שֹׁמֵר כָּל עַצְמוֹתָיו אַחַת מֵהֵנָּה לֹא נִשְׁבָּרָה׃",
+      "he_plain": "שומר כל עצמותיו אחת מהנה לא נשברה",
+      "translit": "Shomér kol atsmotáv; ajat mehéna lo nishbará.",
+      "es": "Él guarda todos sus huesos; ni uno de ellos será quebrado."
     },
     {
       "num": 22,
-      "he": "תְּמוֹתֵ֣ת רָשָׁ֣ע רָעָ֑ה וְשֹׂנְאֵ֖י צַדִּ֣יק יֶאְשָֽׁמוּ׃",
-      "he_plain": "תמותת רשע רעה ושנאי צדיק יאשמו",
-      "translit": "",
-      "es": ""
+      "he": "תְּמוֹתֵת רָשָׁע רָעָה וְשֹׂנְאֵי צַדִּיק יֶאְשָׁמוּ׃",
+      "he_plain": "תמותת רשע רעה ושונאי צדיק יאשמו",
+      "translit": "Temotét rashá raá; vesonéi tsadík yeashamú.",
+      "es": "La maldad matará al impío y los que aborrecen al justo serán condenados."
     },
     {
       "num": 23,
-      "he": "פֹּדֶ֣ה יְ֭הֹוָה נֶ֣פֶשׁ עֲבָדָ֑יו וְלֹ֥א יֶ֝אְשְׁמ֗וּ כׇּֽל־הַחֹסִ֥ים בּֽוֹ׃ {פ}",
-      "he_plain": "פדה יהוה נפש עבדיו ולא יאשמו כל החסים בו {פ}",
-      "translit": "",
-      "es": ""
+      "he": "פּוֹדֶה יְהוָה נֶפֶשׁ עֲבָדָיו וְלֹא יֶאְשְׁמוּ כָּל הַחֹסִים בּוֹ׃",
+      "he_plain": "פודה יהוה נפש עבדיו ולא יאשמו כל החוסים בו",
+      "translit": "Podé Adonái néfesh avadáv; veló yeashmú kol hajosím bo.",
+      "es": "El Eterno redime el alma de Sus siervos y no serán condenados cuantos en Él se refugian."
     }
-  ],
-  "audio": "",
-  "title_es": "Bendeciré al Eterno en todo momento"
+  ]
 }

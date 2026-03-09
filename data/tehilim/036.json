@@ -1,99 +1,98 @@
 {
   "number": 36,
   "title_he": "תהילים",
+  "title_es": "La maldad del impío y la bondad del Eterno",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֬חַ׀לְעֶבֶד־יְהֹוָ֬ה לְדָוִֽד׃",
-      "he_plain": "למנצחלעבד יהוה לדוד",
-      "translit": "",
-      "es": ""
+      "he": "לַמְנַצֵּחַ לְעֶבֶד יְהוָה לְדָוִד׃",
+      "he_plain": "למנצח לעבד יהוה לדוד",
+      "translit": "Lamnatséaj leéved Adonái leDavíd.",
+      "es": "Al director. Del siervo del Eterno, de David."
     },
     {
       "num": 2,
-      "he": "נְאֻֽם־פֶּ֣שַׁע לָ֭רָשָׁע בְּקֶ֣רֶב לִבִּ֑י אֵֽין־פַּ֥חַד אֱ֝לֹהִ֗ים לְנֶ֣גֶד עֵינָֽיו׃",
+      "he": "נְאֻם פֶּשַׁע לָרָשָׁע בְּקֶרֶב לִבִּי אֵין פַּחַד אֱלֹהִים לְנֶגֶד עֵינָיו׃",
       "he_plain": "נאם פשע לרשע בקרב לבי אין פחד אלהים לנגד עיניו",
-      "translit": "",
-      "es": ""
+      "translit": "Neum pésha larásha belérev libí; en páJad Elohím lenéged einav.",
+      "es": "La transgresión del impío dice al fondo de mi corazón: No hay temor de Dios delante de sus ojos."
     },
     {
       "num": 3,
-      "he": "כִּֽי־הֶחֱלִ֣יק אֵלָ֣יו בְּעֵינָ֑יו לִמְצֹ֖א עֲוֺנ֣וֹ לִשְׂנֹֽא׃",
+      "he": "כִּי הֶחֱלִיק אֵלָיו בְּעֵינָיו לִמְצֹא עֲוֹנוֹ לִשְׂנֹא׃",
       "he_plain": "כי החליק אליו בעיניו למצא עונו לשנא",
-      "translit": "",
-      "es": ""
+      "translit": "Ki hejilík eláv beeináv; limtsó aoNó lisnó.",
+      "es": "Porque se lisonjea a sí mismo en sus propios ojos, creyendo que su iniquidad no será hallada ni aborrecida."
     },
     {
       "num": 4,
-      "he": "דִּבְרֵי־פִ֭יו אָ֣וֶן וּמִרְמָ֑ה חָדַ֖ל לְהַשְׂכִּ֣יל לְהֵיטִֽיב׃",
+      "he": "דִּבְרֵי פִיו אָוֶן וּמִרְמָה חָדַל לְהַשְׂכִּיל לְהֵיטִיב׃",
       "he_plain": "דברי פיו און ומרמה חדל להשכיל להיטיב",
-      "translit": "",
-      "es": ""
+      "translit": "Divréi fív áven umirmá; jadál lehaskíl lehitív.",
+      "es": "Las palabras de su boca son iniquidad y engaño; ha cesado de ser prudente y de hacer el bien."
     },
     {
       "num": 5,
-      "he": "אָ֤וֶן׀ יַחְשֹׁ֗ב עַֽל־מִשְׁכָּ֫ב֥וֹ יִ֭תְיַצֵּב עַל־דֶּ֣רֶךְ לֹא־ט֑וֹב רָ֝֗ע לֹ֣א יִמְאָֽס׃",
+      "he": "אָוֶן יַחְשֹׁב עַל מִשְׁכָּבוֹ יִתְיַצֵּב עַל דֶּרֶךְ לֹא טוֹב רָע לֹא יִמְאָס׃",
       "he_plain": "און יחשב על משכבו יתיצב על דרך לא טוב רע לא ימאס",
-      "translit": "",
-      "es": ""
+      "translit": "Áven yajshóv al mishkavó; yityatséiv al dérej lo tov; rá lo yimás.",
+      "es": "Maquina iniquidad sobre su cama; se afirma en un camino no bueno; no aborrece el mal."
     },
     {
       "num": 6,
-      "he": "יְ֭הֹוָה בְּהַשָּׁמַ֣יִם חַסְדֶּ֑ךָ אֱ֝מ֥וּנָתְךָ֗ עַד־שְׁחָקִֽים׃",
+      "he": "יְהוָה בְּהַשָּׁמַיִם חַסְדֶּךָ אֱמוּנָתְךָ עַד שְׁחָקִים׃",
       "he_plain": "יהוה בהשמים חסדך אמונתך עד שחקים",
-      "translit": "",
-      "es": ""
+      "translit": "Adonái bashamáyim jasdeján; emunatejá ad shejakím.",
+      "es": "Eterno, hasta los cielos llega Tu bondad leal; Tu fidelidad alcanza hasta las nubes."
     },
     {
       "num": 7,
-      "he": "צִדְקָתְךָ֨׀ כְּֽהַרְרֵי־אֵ֗ל מִ֭שְׁפָּטֶיךָ תְּה֣וֹם רַבָּ֑ה אָ֤דָֽם־וּבְהֵמָ֖ה תוֹשִׁ֣יעַ יְהֹוָֽה׃",
+      "he": "צִדְקָתְךָ כְּהַרְרֵי אֵל מִשְׁפָּטֶיךָ תְּהוֹם רַבָּה אָדָם וּבְהֵמָה תוֹשִׁיעַ יְהוָה׃",
       "he_plain": "צדקתך כהררי אל משפטיך תהום רבה אדם ובהמה תושיע יהוה",
-      "translit": "",
-      "es": ""
+      "translit": "Tsidkatejá keharréi El; mishpatéija tehóm rabá; adám uvehemá toshía Adonái.",
+      "es": "Tu justicia es como los montes de Dios; Tus juicios son como el gran abismo; Tú, Eterno, salvas al hombre y al animal."
     },
     {
       "num": 8,
-      "he": "מַה־יָּקָ֥ר חַסְדְּךָ֗ אֱלֹ֫הִ֥ים וּבְנֵ֥י אָדָ֑ם בְּצֵ֥ל כְּ֝נָפֶ֗יךָ יֶחֱסָיֽוּן׃",
+      "he": "מַה יָּקָר חַסְדְּךָ אֱלֹהִים וּבְנֵי אָדָם בְּצֵל כְּנָפֶיךָ יֶחֱסָיוּן׃",
       "he_plain": "מה יקר חסדך אלהים ובני אדם בצל כנפיך יחסיון",
-      "translit": "",
-      "es": ""
+      "translit": "Ma yakár jasdeján Elohím; uvenéi adám betsél jenaféija yejeSáyun.",
+      "es": "¡Cuán preciosa es Tu bondad leal, oh Dios! Los hijos de los hombres se refugian a la sombra de Tus alas."
     },
     {
       "num": 9,
-      "he": "יִ֭רְוְיֻן מִדֶּ֣שֶׁן בֵּיתֶ֑ךָ וְנַ֖חַל עֲדָנֶ֣יךָ תַשְׁקֵֽם׃",
-      "he_plain": "ירוין מדשן ביתך ונחל עדניך תשקם",
-      "translit": "",
-      "es": ""
+      "he": "יִרְוְיֻן מִדֶּשֶׁן בֵּיתֶךָ וְנַחַל עֲדָנֶיךָ תַשְׁקֵם׃",
+      "he_plain": "ירויון מדשן ביתך ונחל עדניך תשקם",
+      "translit": "Yirveyún mideshen beitéja; venajal adanéija tashkém.",
+      "es": "Se saciarán de la abundancia de Tu casa y los harás beber del torrente de Tus delicias."
     },
     {
       "num": 10,
-      "he": "כִּֽי־עִ֭מְּךָ מְק֣וֹר חַיִּ֑ים בְּ֝אוֹרְךָ֗ נִרְאֶה־אֽוֹר׃",
+      "he": "כִּי עִמְּךָ מְקוֹר חַיִּים בְּאוֹרְךָ נִרְאֶה אוֹר׃",
       "he_plain": "כי עמך מקור חיים באורך נראה אור",
-      "translit": "",
-      "es": ""
+      "translit": "Ki imejá mekór jayím; beorjá niré or.",
+      "es": "Porque contigo está el manantial de la vida; en Tu luz veremos la luz."
     },
     {
       "num": 11,
-      "he": "מְשֹׁ֣ךְ חַ֭סְדְּךָ לְיֹדְעֶ֑יךָ וְ֝צִדְקָתְךָ֗ לְיִשְׁרֵי־לֵֽב׃",
-      "he_plain": "משך חסדך לידעיך וצדקתך לישרי לב",
-      "translit": "",
-      "es": ""
+      "he": "מְשֹׁךְ חַסְדְּךָ לְיֹדְעֶיךָ וְצִדְקָתְךָ לְיִשְׁרֵי לֵב׃",
+      "he_plain": "משוך חסדך לידעיך וצדקתך לישרי לב",
+      "translit": "Meshój jasdeján leyodeéja; vetsidkatejá leyishréi léiv.",
+      "es": "Extiende Tu bondad leal a los que Te conocen y Tu justicia a los rectos de corazón."
     },
     {
       "num": 12,
-      "he": "אַל־תְּ֭בוֹאֵנִי רֶ֣גֶל גַּאֲוָ֑ה וְיַד־רְ֝שָׁעִ֗ים אַל־תְּנִדֵֽנִי׃",
+      "he": "אַל תְּבוֹאֵנִי רֶגֶל גַּאֲוָה וְיַד רְשָׁעִים אַל תְּנִדֵנִי׃",
       "he_plain": "אל תבואני רגל גאוה ויד רשעים אל תנדני",
-      "translit": "",
-      "es": ""
+      "translit": "Al tevoéni réguEl gaavá; veyad reshaím al tenidéni.",
+      "es": "No me venga el pie de los soberbios ni la mano de los impíos me mueva."
     },
     {
       "num": 13,
-      "he": "שָׁ֣ם נָ֭פְלוּ פֹּ֣עֲלֵי אָ֑וֶן דֹּ֝ח֗וּ וְלֹא־יָ֥כְלוּ קֽוּם׃ {פ}",
-      "he_plain": "שם נפלו פעלי און דחו ולא יכלו קום {פ}",
-      "translit": "",
-      "es": ""
+      "he": "שָׁם נָפְלוּ פֹּעֲלֵי אָוֶן דֹּחוּ וְלֹא יָכְלוּ קוּם׃",
+      "he_plain": "שם נפלו פועלי און דחו ולא יכלו קום",
+      "translit": "Sham nafelú poaléi áven; dojú veló yajlú kum.",
+      "es": "Allí cayeron los que hacen iniquidad; fueron derribados y no pudieron levantarse."
     }
-  ],
-  "audio": "",
-  "title_es": "La transgresión habla al malvado"
+  ]
 }

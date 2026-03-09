@@ -1,204 +1,203 @@
 {
   "number": 35,
   "title_he": "תהילים",
+  "title_es": "Oración pidiendo justicia contra los enemigos",
   "verses": [
     {
       "num": 1,
-      "he": "לְדָוִ֨ד׀ רִיבָ֣ה יְ֭הֹוָה אֶת־יְרִיבַ֑י לְ֝חַ֗ם אֶת־לֹחֲמָֽי׃",
-      "he_plain": "לדוד ריבה יהוה את יריבי לחם את לחמי",
-      "translit": "",
-      "es": ""
+      "he": "לְדָוִד רִיבָה יְהוָה אֶת יְרִיבַי לְחַם אֶת לֹחֲמָי׃",
+      "he_plain": "לדוד ריבה יהוה את יריבי לחם את לוחמי",
+      "translit": "LeDavíd. Rivá Adonái et yeribáy; lejám et lojamáy.",
+      "es": "De David. Disputa, Eterno, con los que me disputan; combate con los que me combaten."
     },
     {
       "num": 2,
-      "he": "הַחֲזֵ֣ק מָגֵ֣ן וְצִנָּ֑ה וְ֝ק֗וּמָה בְּעֶזְרָתִֽי׃",
+      "he": "הַחֲזֵק מָגֵן וְצִנָּה וְקוּמָה בְּעֶזְרָתִי׃",
       "he_plain": "החזק מגן וצנה וקומה בעזרתי",
-      "translit": "",
-      "es": ""
+      "translit": "Hajezék magén vetsináh; vekumá beezratí.",
+      "es": "Echa mano al escudo y al pavés y levántate en mi ayuda."
     },
     {
       "num": 3,
-      "he": "וְהָ֘רֵ֤ק חֲנִ֣ית וּ֭סְגֹר לִקְרַ֣את רֹדְפָ֑י אֱמֹ֥ר לְ֝נַפְשִׁ֗י יְֽשֻׁעָתֵ֥ךְ אָֽנִי׃",
-      "he_plain": "והרק חנית וסגר לקראת רדפי אמר לנפשי ישעתך אני",
-      "translit": "",
-      "es": ""
+      "he": "וְהָרֵק חֲנִית וּסְגֹר לִקְרַאת רֹדְפָי אֱמֹר לְנַפְשִׁי יְשֻׁעָתֵךְ אָנִי׃",
+      "he_plain": "והרק חנית וסגר לקראת רודפי אמר לנפשי ישועתך אני",
+      "translit": "Vehareék janít usegor likrát rodefáy; emór lenafshí yeshuatéj aní.",
+      "es": "Saca la lanza y ciérrales el paso a los que me persiguen; di a mi alma: Yo soy tu salvación."
     },
     {
       "num": 4,
-      "he": "יֵבֹ֣שׁוּ וְיִכָּלְמוּ֮ מְבַקְשֵׁ֢י נַ֫פְשִׁ֥י יִסֹּ֣גוּ אָח֣וֹר וְיַחְפְּר֑וּ חֹ֝שְׁבֵ֗י רָעָתִֽי׃",
-      "he_plain": "יבשו ויכלמו מבקשי נפשי יסגו אחור ויחפרו חשבי רעתי",
-      "translit": "",
-      "es": ""
+      "he": "יֵבֹשׁוּ וְיִכָּלְמוּ מְבַקְשֵׁי נַפְשִׁי יִסֹּגוּ אָחוֹר וְיַחְפְּרוּ חֹשְׁבֵי רָעָתִי׃",
+      "he_plain": "יבושו ויכלמו מבקשי נפשי יסוגו אחור ויחפרו חושבי רעתי",
+      "translit": "Yevoshu veyikalemú mevakeshéi nafshí; yisogú ajór veyajperú joshevéi raatí.",
+      "es": "Sean avergonzados y confundidos los que buscan mi alma; retrocedan y sean puestos en vergüenza los que maquinan mi mal."
     },
     {
       "num": 5,
-      "he": "יִֽהְי֗וּ כְּמֹ֥ץ לִפְנֵי־ר֑וּחַ וּמַלְאַ֖ךְ יְהֹוָ֣ה דּוֹחֶֽה׃",
+      "he": "יִהְיוּ כְּמֹץ לִפְנֵי רוּחַ וּמַלְאַךְ יְהוָה דּוֹחֶה׃",
       "he_plain": "יהיו כמץ לפני רוח ומלאך יהוה דוחה",
-      "translit": "",
-      "es": ""
+      "translit": "Yihyú jemóts lifnéi rúaj; umalaj Adonái dojé.",
+      "es": "Sean como el tamo delante del viento, empujados por el ángel del Eterno."
     },
     {
       "num": 6,
-      "he": "יְֽהִי־דַרְכָּ֗ם חֹ֥שֶׁךְ וַחֲלַקְלַקֹּ֑ת וּמַלְאַ֥ךְ יְ֝הֹוָ֗ה רֹדְפָֽם׃",
-      "he_plain": "יהי דרכם חשך וחלקלקת ומלאך יהוה רדפם",
-      "translit": "",
-      "es": ""
+      "he": "יְהִי דַרְכָּם חֹשֶׁךְ וַחֲלַקְלַקּוֹת וּמַלְאַךְ יְהוָה רֹדְפָם׃",
+      "he_plain": "יהי דרכם חשך וחלקלקות ומלאך יהוה רודפם",
+      "translit": "Yehí darkám jóshej vajalaklakót; umalaj Adonái rodefám.",
+      "es": "Sea su camino tinieblas y resbaladeros, y el ángel del Eterno los persiga."
     },
     {
       "num": 7,
-      "he": "כִּֽי־חִנָּ֣ם טָֽמְנוּ־לִ֭י שַׁ֣חַת רִשְׁתָּ֑ם חִ֝נָּ֗ם חָפְר֥וּ לְנַפְשִֽׁי׃",
+      "he": "כִּי חִנָּם טָמְנוּ לִי שַׁחַת רִשְׁתָּם חִנָּם חָפְרוּ לְנַפְשִׁי׃",
       "he_plain": "כי חנם טמנו לי שחת רשתם חנם חפרו לנפשי",
-      "translit": "",
-      "es": ""
+      "translit": "Ki jinám tamenu lí shajat rishtám; jinám jaferú lenafshí.",
+      "es": "Porque sin causa escondieron para mí su red en un hoyo; sin causa cavaron una trampa para mi alma."
     },
     {
       "num": 8,
-      "he": "תְּבוֹאֵ֣הוּ שׁוֹאָה֮ לֹֽא־יֵ֫דָ֥ע וְרִשְׁתּ֣וֹ אֲשֶׁר־טָמַ֣ן תִּלְכְּד֑וֹ בְּ֝שׁוֹאָ֗ה יִפׇּל־בָּֽהּ׃",
-      "he_plain": "תבואהו שואה לא ידע ורשתו אשר טמן תלכדו בשואה יפל בה",
-      "translit": "",
-      "es": ""
+      "he": "תְּבוֹאֵהוּ שׁוֹאָה לֹא יֵדָע וְרִשְׁתּוֹ אֲשֶׁר טָמַן תִּלְכְּדוֹ בְּשׁוֹאָה יִפָּל בָּהּ׃",
+      "he_plain": "תבואהו שואה לא ידע ורשתו אשר טמן תלכדו בשואה יפול בה",
+      "translit": "Tevoéhu shoá lo yedá; verishTo ashér tamán tilkedó; veshoá yipól bah.",
+      "es": "Que le sorprenda la ruina que no sepa; y su red que escondió lo atrape; que en esa ruina caiga."
     },
     {
       "num": 9,
-      "he": "וְ֭נַפְשִׁי תָּגִ֣יל בַּיהֹוָ֑ה תָּ֝שִׂ֗ישׂ בִּישׁוּעָתֽוֹ׃",
+      "he": "וְנַפְשִׁי תָּגִיל בַּיהוָה תָּשִׂישׂ בִּישׁוּעָתוֹ׃",
       "he_plain": "ונפשי תגיל ביהוה תשיש בישועתו",
-      "translit": "",
-      "es": ""
+      "translit": "Venafshí tagíl baAdonái; tasís bishuató.",
+      "es": "Pero mi alma se alegrará en el Eterno; se regocijará en Su salvación."
     },
     {
       "num": 10,
-      "he": "כׇּ֥ל־עַצְמוֹתַ֨י׀ תֹּאמַרְנָה֮ יְהֹוָ֗ה מִ֥י־כָ֫מ֥וֹךָ מַצִּ֣יל עָ֭נִי מֵחָזָ֣ק מִמֶּ֑נּוּ וְעָנִ֥י וְ֝אֶבְי֗וֹן מִגֹּֽזְלֽוֹ׃",
-      "he_plain": "כל עצמותי תאמרנה יהוה מי כמוך מציל עני מחזק ממנו ועני ואביון מגזלו",
-      "translit": "",
-      "es": ""
+      "he": "כָּל עַצְמוֹתַי תֹּאמַרְנָה יְהוָה מִי כָמוֹךָ מַצִּיל עָנִי מֵחָזָק מִמֶּנּוּ וְעָנִי וְאֶבְיוֹן מִגֹּזְלוֹ׃",
+      "he_plain": "כל עצמותי תאמרנה יהוה מי כמוך מציל עני מחזק ממנו ועני ואביון מגוזלו",
+      "translit": "Kol atsmotáy tomárna: Adonái mi jamója; matsíl aní mejazák miménu; veaáni veevyón migozló.",
+      "es": "Todos mis huesos dirán: Eterno, ¿quién como Tú, que libras al pobre del que es más fuerte que él, y al afligido y al menesteroso del que lo despoja?"
     },
     {
       "num": 11,
-      "he": "יְ֭קוּמוּן עֵדֵ֣י חָמָ֑ס אֲשֶׁ֥ר לֹֽא־יָ֝דַ֗עְתִּי יִשְׁאָלֽוּנִי׃",
+      "he": "יְקוּמוּן עֵדֵי חָמָס אֲשֶׁר לֹא יָדַעְתִּי יִשְׁאָלוּנִי׃",
       "he_plain": "יקומון עדי חמס אשר לא ידעתי ישאלוני",
-      "translit": "",
-      "es": ""
+      "translit": "Yekumún edéi jamás; ashér lo yadáti yishaalúni.",
+      "es": "Se levantan testigos maliciosos; me preguntan cosas que yo no sé."
     },
     {
       "num": 12,
-      "he": "יְשַׁלְּמ֣וּנִי רָ֭עָה תַּ֥חַת טוֹבָ֗ה שְׁכ֣וֹל לְנַפְשִֽׁי׃",
+      "he": "יְשַׁלְּמוּנִי רָעָה תַּחַת טוֹבָה שְׁכוֹל לְנַפְשִׁי׃",
       "he_plain": "ישלמוני רעה תחת טובה שכול לנפשי",
-      "translit": "",
-      "es": ""
+      "translit": "Yeshalemúni raá táját tová; shejól lenafshí.",
+      "es": "Me pagan mal por bien; es desolación para mi alma."
     },
     {
       "num": 13,
-      "he": "וַאֲנִ֤י׀ בַּחֲלוֹתָ֡ם לְב֬וּשִׁי שָׂ֗ק עִנֵּ֣יתִי בַצּ֣וֹם נַפְשִׁ֑י וּ֝תְפִלָּתִ֗י עַל־חֵיקִ֥י תָשֽׁוּב׃",
+      "he": "וַאֲנִי בַּחֲלוֹתָם לְבוּשִׁי שָׂק עִנֵּיתִי בַצּוֹם נַפְשִׁי וּתְפִלָּתִי עַל חֵיקִי תָשׁוּב׃",
       "he_plain": "ואני בחלותם לבושי שק עניתי בצום נפשי ותפלתי על חיקי תשוב",
-      "translit": "",
-      "es": ""
+      "translit": "Vaani bejolotám levushí sak; initéi vatsóm nafshí; utefilatí al jeikí tashúv.",
+      "es": "Pero yo, cuando ellos enfermaron, me vestí de cilicio; afligí con ayuno mi alma y mi oración volvía a mi seno."
     },
     {
       "num": 14,
-      "he": "כְּרֵעַ־כְּאָ֣ח לִ֭י הִתְהַלָּ֑כְתִּי כַּאֲבֶל־אֵ֝֗ם קֹדֵ֥ר שַׁחֽוֹתִי׃",
-      "he_plain": "כרע כאח לי התהלכתי כאבל אם קדר שחותי",
-      "translit": "",
-      "es": ""
+      "he": "כְּרֵעַ כְּאָח לִי הִתְהַלָּכְתִּי כַּאֲבֶל אֵם קֹדֵר שַׁחוֹתִי׃",
+      "he_plain": "כרע כאח לי התהלכתי כאבל אם קודר שחותי",
+      "translit": "Kereá keáj lí hithaláj ti; keavél em kodér shajotí.",
+      "es": "Me comportaba como si fuera su amigo o su hermano; como el que llora a su madre andaba de luto y encorvado."
     },
     {
       "num": 15,
-      "he": "וּבְצַלְעִי֮ שָׂמְח֢וּ וְֽנֶ֫אֱסָ֥פוּ נֶאֶסְפ֬וּ עָלַ֣י נֵ֭כִים וְלֹ֣א יָדַ֑עְתִּי קָרְע֥וּ וְלֹא־דָֽמּוּ׃",
+      "he": "וּבְצַלְעִי שָׂמְחוּ וְנֶאֱסָפוּ נֶאֶסְפוּ עָלַי נֵכִים וְלֹא יָדַעְתִּי קָרְעוּ וְלֹא דָמוּ׃",
       "he_plain": "ובצלעי שמחו ונאספו נאספו עלי נכים ולא ידעתי קרעו ולא דמו",
-      "translit": "",
-      "es": ""
+      "translit": "Uvetsalí samejú veneesafú; neespú aláy nekím veló yadáti; karú veló dámu.",
+      "es": "Pero en mi tropiezo ellos se alegraron y se reunieron; se juntaron contra mí golpeadores que yo no conocía, me desgarraron sin cesar."
     },
     {
       "num": 16,
-      "he": "בְּ֭חַנְפֵי לַעֲגֵ֣י מָע֑וֹג חָרֹ֖ק עָלַ֣י שִׁנֵּֽימוֹ׃",
+      "he": "בְּחַנְפֵי לַעֲגֵי מָעוֹג חָרֹק עָלַי שִׁנֵּימוֹ׃",
       "he_plain": "בחנפי לעגי מעוג חרק עלי שנימו",
-      "translit": "",
-      "es": ""
+      "translit": "Bejanjéi laagéi maóg; jarok aláy shineimó.",
+      "es": "Con los más impíos burladores de banquete rechinaron contra mí sus dientes."
     },
     {
       "num": 17,
-      "he": "אֲדֹנָי֮ כַּמָּ֢ה תִ֫רְאֶ֥ה הָשִׁ֣יבָה נַ֭פְשִׁי מִשֹּׁאֵיהֶ֑ם מִ֝כְּפִירִ֗ים יְחִידָתִֽי׃",
-      "he_plain": "אדני כמה תראה השיבה נפשי משאיהם מכפירים יחידתי",
-      "translit": "",
-      "es": ""
+      "he": "אֲדֹנָי כַּמָּה תִּרְאֶה הָשִׁיבָה נַפְשִׁי מִשֹּׁאֵיהֶם מִכְּפִירִים יְחִידָתִי׃",
+      "he_plain": "אדני כמה תראה השיבה נפשי משואיהם מכפירים יחידתי",
+      "translit": "Adonái kamá tiré; hashíva nafshí mishoéihem; mikefirím yejidatí.",
+      "es": "Señor, ¿hasta cuándo verás esto? Rescata mi alma de sus destrucciones, mi única vida de los leones."
     },
     {
       "num": 18,
-      "he": "א֭וֹדְךָ בְּקָהָ֣ל רָ֑ב בְּעַ֖ם עָצ֣וּם אֲהַלְלֶֽךָּ׃",
+      "he": "אוֹדְךָ בְקָהָל רָב בְּעַם עָצוּם אֲהַלְלֶךָּ׃",
       "he_plain": "אודך בקהל רב בעם עצום אהללך",
-      "translit": "",
-      "es": ""
+      "translit": "Odejá vekahál rav; beám atsúm ahaleleja.",
+      "es": "Te daré gracias en la gran congregación; te alabaré entre pueblo numeroso."
     },
     {
       "num": 19,
-      "he": "אַֽל־יִשְׂמְחוּ־לִ֣י אֹיְבַ֣י שֶׁ֑קֶר שֹׂנְאַ֥י חִ֝נָּ֗ם יִקְרְצוּ־עָֽיִן׃",
-      "he_plain": "אל ישמחו לי איבי שקר שנאי חנם יקרצו עין",
-      "translit": "",
-      "es": ""
+      "he": "אַל יִשְׂמְחוּ לִי אֹיְבַי שֶׁקֶר שֹׂנְאַי חִנָּם יִקְרְצוּ עָיִן׃",
+      "he_plain": "אל ישמחו לי איבי שקר שונאי חנם יקרצו עין",
+      "translit": "Al yismejú lí oyváy shéker; sonáy jinám yikretsú áyin.",
+      "es": "No se alegren de mí los que me son enemigos falsamente; ni los que me aborrecen sin causa guiñen el ojo."
     },
     {
       "num": 20,
-      "he": "כִּ֤י לֹ֥א שָׁל֗וֹם יְדַ֫בֵּ֥רוּ וְעַ֥ל רִגְעֵי־אֶ֑רֶץ דִּבְרֵ֥י מִ֝רְמ֗וֹת יַחֲשֹׁבֽוּן׃",
+      "he": "כִּי לֹא שָׁלוֹם יְדַבֵּרוּ וְעַל רִגְעֵי אֶרֶץ דִּבְרֵי מִרְמוֹת יַחֲשֹׁבוּן׃",
       "he_plain": "כי לא שלום ידברו ועל רגעי ארץ דברי מרמות יחשבון",
-      "translit": "",
-      "es": ""
+      "translit": "Ki lo shalóm yedabéru; veal rigéi érets divréi mirmót yajashevún.",
+      "es": "Porque no hablan paz, sino que contra los tranquilos de la tierra maquinan palabras engañosas."
     },
     {
       "num": 21,
-      "he": "וַיַּרְחִ֥יבוּ עָלַ֗י פִּ֫יהֶ֥ם אָ֭מְרוּ הֶאָ֣ח׀הֶאָ֑ח רָאֲתָ֥ה עֵינֵֽנוּ׃",
-      "he_plain": "וירחיבו עלי פיהם אמרו האחהאח ראתה עיננו",
-      "translit": "",
-      "es": ""
+      "he": "וַיַּרְחִיבוּ עָלַי פִּיהֶם אָמְרוּ הֶאָח הֶאָח רָאֲתָה עֵינֵינוּ׃",
+      "he_plain": "וירחיבו עלי פיהם אמרו האח האח ראתה עינינו",
+      "translit": "Vayarjívu aláy pihem; amrú heáj heáj raatá einéinu.",
+      "es": "Y abrieron su boca contra mí; dijeron: ¡Ajá, ajá! Nuestros ojos lo han visto."
     },
     {
       "num": 22,
-      "he": "רָאִ֣יתָה יְ֭הֹוָה אַֽל־תֶּחֱרַ֑שׁ אֲ֝דֹנָ֗י אַל־תִּרְחַ֥ק מִמֶּֽנִּי׃",
+      "he": "רָאִיתָה יְהוָה אַל תֶּחֱרַשׁ אֲדֹנָי אַל תִּרְחַק מִמֶּנִּי׃",
       "he_plain": "ראיתה יהוה אל תחרש אדני אל תרחק ממני",
-      "translit": "",
-      "es": ""
+      "translit": "Raíta Adonái al tejérash; Adonái al tirjáj miméni.",
+      "es": "Tú lo has visto, Eterno; no calles. Señor, no te alejes de mí."
     },
     {
       "num": 23,
-      "he": "הָעִ֣ירָה וְ֭הָקִיצָה לְמִשְׁפָּטִ֑י אֱלֹהַ֖י וַאדֹנָ֣י לְרִיבִֽי׃",
+      "he": "הָעִירָה וְהָקִיצָה לְמִשְׁפָּטִי אֱלֹהַי וַאדֹנָי לְרִיבִי׃",
       "he_plain": "העירה והקיצה למשפטי אלהי ואדני לריבי",
-      "translit": "",
-      "es": ""
+      "translit": "Hairá veakítsá lemishpatí; Eloháy vaAdonái leriví.",
+      "es": "Despierta y levántate para mi juicio, Dios mío y Señor mío, para mi causa."
     },
     {
       "num": 24,
-      "he": "שׇׁפְטֵ֣נִי כְ֭צִדְקְךָ יְהֹוָ֥ה אֱלֹהָ֗י וְאַל־יִשְׂמְחוּ־לִֽי׃",
+      "he": "שָׁפְטֵנִי כְצִדְקְךָ יְהוָה אֱלֹהַי וְאַל יִשְׂמְחוּ לִי׃",
       "he_plain": "שפטני כצדקך יהוה אלהי ואל ישמחו לי",
-      "translit": "",
-      "es": ""
+      "translit": "Shafeténi jetsidkejá Adonái Eloháy; veal yismejú lí.",
+      "es": "Júzgame conforme a Tu justicia, Eterno Dios mío, y no se alegren de mí."
     },
     {
       "num": 25,
-      "he": "אַל־יֹאמְר֣וּ בְ֭לִבָּם הֶאָ֣ח נַפְשֵׁ֑נוּ אַל־יֹ֝אמְר֗וּ בִּֽלַּעֲנֽוּהוּ׃",
+      "he": "אַל יֹאמְרוּ בְלִבָּם הֶאָח נַפְשֵׁנוּ אַל יֹאמְרוּ בִּלַּעֲנוּהוּ׃",
       "he_plain": "אל יאמרו בלבם האח נפשנו אל יאמרו בלענוהו",
-      "translit": "",
-      "es": ""
+      "translit": "Al yomrú veliBAm: heáj nafshénu; al yomrú bilaanúhu.",
+      "es": "No digan en su corazón: ¡Ajá, lo que queríamos! No digan: Lo hemos devorado."
     },
     {
       "num": 26,
-      "he": "יֵ֘בֹ֤שׁוּ וְיַחְפְּר֨וּ׀ יַחְדָּו֮ שְׂמֵחֵ֢י רָעָ֫תִ֥י יִֽלְבְּשׁוּ־בֹ֥שֶׁת וּכְלִמָּ֑ה הַֽמַּגְדִּילִ֥ים עָלָֽי׃",
+      "he": "יֵבֹשׁוּ וְיַחְפְּרוּ יַחְדָּו שְׂמֵחֵי רָעָתִי יִלְבְּשׁוּ בֹשֶׁת וּכְלִמָּה הַמַּגְדִּילִים עָלָי׃",
       "he_plain": "יבשו ויחפרו יחדו שמחי רעתי ילבשו בשת וכלמה המגדילים עלי",
-      "translit": "",
-      "es": ""
+      "translit": "Yevoshu veyajperú yajdáv semejéi raatí; yilbeshú bóshet ujlimá hamaguedilím aláy.",
+      "es": "Sean avergonzados y confundidos a una los que se alegran de mi mal; vístanse de vergüenza y de confusión los que se engrandecen contra mí."
     },
     {
       "num": 27,
-      "he": "יָרֹ֣נּוּ וְיִשְׂמְחוּ֮ חֲפֵצֵ֢י צִ֫דְקִ֥י וְיֹאמְר֣וּ תָ֭מִיד יִגְדַּ֣ל יְהֹוָ֑ה הֶ֝חָפֵ֗ץ שְׁל֣וֹם עַבְדּֽוֹ׃",
-      "he_plain": "ירנו וישמחו חפצי צדקי ויאמרו תמיד יגדל יהוה החפץ שלום עבדו",
-      "translit": "",
-      "es": ""
+      "he": "יָרֹנּוּ וְיִשְׂמְחוּ חֲפֵצֵי צִדְקִי וְיֹאמְרוּ תָמִיד יִגְדַּל יְהוָה הֶחָפֵץ שְׁלוֹם עַבְדּוֹ׃",
+      "he_plain": "ירונו וישמחו חפצי צדקי ויאמרו תמיד יגדל יהוה החפץ שלום עבדו",
+      "translit": "Yaronu veyismejú jafetséi tsidkí; veyomrú tamíd yigdál Adonái; hejaféts shalóm avdó.",
+      "es": "Canten y alégrense los que están a favor de mi justa causa, y digan siempre: Sea exaltado el Eterno, que ama la paz de Su siervo."
     },
     {
       "num": 28,
-      "he": "וּ֭לְשׁוֹנִי תֶּהְגֶּ֣ה צִדְקֶ֑ךָ כׇּל־הַ֝יּ֗וֹם תְּהִלָּתֶֽךָ׃ {פ}",
-      "he_plain": "ולשוני תהגה צדקך כל היום תהלתך {פ}",
-      "translit": "",
-      "es": ""
+      "he": "וּלְשׁוֹנִי תֶּהְגֶּה צִדְקֶךָ כָּל הַיּוֹם תְּהִלָּתֶךָ׃",
+      "he_plain": "ולשוני תהגה צדקך כל היום תהלתך",
+      "translit": "Ulshonéi tehgué tsidkéja; kol hayóm tehilatéja.",
+      "es": "Y mi lengua hablará de Tu justicia y de Tu alabanza todo el día."
     }
-  ],
-  "audio": "",
-  "title_es": "Lucha, Eterno, contra quienes me atacan"
+  ]
 }
