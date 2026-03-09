@@ -1,204 +1,203 @@
 {
   "number": 73,
   "title_he": "תהילים",
+  "title_es": "El enigma de la prosperidad del impío resuelto en el santuario",
   "verses": [
     {
       "num": 1,
-      "he": "מִזְמ֗וֹר לְאָ֫סָ֥ף אַ֤ךְ ט֖וֹב לְיִשְׂרָאֵ֥ל אֱלֹהִ֗ים לְבָרֵ֥י לֵבָֽב׃",
+      "he": "מִזְמוֹר לְאָסָף אַךְ טוֹב לְיִשְׂרָאֵל אֱלֹהִים לְבָרֵי לֵבָב׃",
       "he_plain": "מזמור לאסף אך טוב לישראל אלהים לברי לבב",
-      "translit": "",
-      "es": ""
+      "translit": "Mizmór leAsáf. Aj tov leYisraél Elohím; leveréi leváv.",
+      "es": "Salmo de Asaf. Ciertamente es bueno Dios para con Israel; para con los limpios de corazón."
     },
     {
       "num": 2,
-      "he": "וַאֲנִ֗י כִּ֭מְעַט (נטוי) [נָטָ֣יוּ] רַגְלָ֑י כְּ֝אַ֗יִן (שפכה) [שֻׁפְּכ֥וּ] אֲשֻׁרָֽי׃",
-      "he_plain": "ואני כמעט (נטוי) [נטיו] רגלי כאין (שפכה) [שפכו] אשרי",
-      "translit": "",
-      "es": ""
+      "he": "וַאֲנִי כִּמְעַט נָטָיוּ רַגְלָי כְּאַיִן שֻׁפְּכוּ אֲשֻׁרָי׃",
+      "he_plain": "ואני כמעט נטיו רגלי כאין שפכו אשורי",
+      "translit": "Vaani kimeát natáyu ragláy; keáyin shupejú ashurai.",
+      "es": "En cuanto a mí casi se deslizaron mis pies; por poco resbalaron mis pasos."
     },
     {
       "num": 3,
-      "he": "כִּֽי־קִ֭נֵּאתִי בַּהוֹלְלִ֑ים שְׁל֖וֹם רְשָׁעִ֣ים אֶרְאֶֽה׃",
+      "he": "כִּי קִנֵּאתִי בַּהוֹלְלִים שְׁלוֹם רְשָׁעִים אֶרְאֶה׃",
       "he_plain": "כי קנאתי בהוללים שלום רשעים אראה",
-      "translit": "",
-      "es": ""
+      "translit": "Ki kinéati baholeLím; shalóm reshaím eré.",
+      "es": "Porque tuve envidia de los arrogantes viendo la prosperidad de los impíos."
     },
     {
       "num": 4,
-      "he": "כִּ֤י אֵ֖ין חַרְצֻבּ֥וֹת לְמוֹתָ֗ם וּבָרִ֥יא אוּלָֽם׃",
-      "he_plain": "כי אין חרצבות למותם ובריא אולם",
-      "translit": "",
-      "es": ""
+      "he": "כִּי אֵין חַרְצֻבּוֹת לְמוֹתָם וּבָרִיא אוּלָם׃",
+      "he_plain": "כי אין חרצובות למותם ובריא אולם",
+      "translit": "Ki en jartsuvót lemotám; uvarí ulám.",
+      "es": "Porque no tienen congojas en su muerte y su cuerpo está gordo."
     },
     {
       "num": 5,
-      "he": "בַּעֲמַ֣ל אֱנ֣וֹשׁ אֵינֵ֑מוֹ וְעִם־אָ֝דָ֗ם לֹ֣א יְנֻגָּֽעוּ׃",
-      "he_plain": "בעמל אנוש אינמו ועם אדם לא ינגעו",
-      "translit": "",
-      "es": ""
+      "he": "בַּעֲמַל אֱנוֹשׁ אֵינֵמוֹ וְעִם אָדָם לֹא יְנֻגָּעוּ׃",
+      "he_plain": "בעמל אנוש אינמו ועם אדם לא ינוגעו",
+      "translit": "Baamal enósh einémo; veim adám lo yenugáu.",
+      "es": "No pasan trabajos como los hombres ni son azotados como los demás."
     },
     {
       "num": 6,
-      "he": "לָ֭כֵן עֲנָקַ֣תְמוֹ גַאֲוָ֑ה יַעֲטָף־שִׁ֝֗ית חָמָ֥ס לָֽמוֹ׃",
-      "he_plain": "לכן ענקתמו גאוה יעטף שית חמס למו",
-      "translit": "",
-      "es": ""
+      "he": "לָכֵן עֲנָקַתְמוֹ גַאֲוָה יַעֲטָף שִׁית חָמָס לָמוֹ׃",
+      "he_plain": "לכן ענקתמו גאווה יעטף שית חמס למו",
+      "translit": "Lajén anakatmó gaavá; yeatáf shít jamás lámo.",
+      "es": "Por eso la soberbia los corona; se cubren de vestido de violencia."
     },
     {
       "num": 7,
-      "he": "יָ֭צָא מֵחֵ֣לֶב עֵינֵ֑מוֹ עָ֝בְר֗וּ מַשְׂכִּיּ֥וֹת לֵבָֽב׃",
+      "he": "יָצָא מֵחֵלֶב עֵינֵמוֹ עָבְרוּ מַשְׂכִּיּוֹת לֵבָב׃",
       "he_plain": "יצא מחלב עינמו עברו משכיות לבב",
-      "translit": "",
-      "es": ""
+      "translit": "Yatsá mejélev einémo; avrú maskiyót leváv.",
+      "es": "Los ojos se les saltan de gordura; logran con creces los antojos del corazón."
     },
     {
       "num": 8,
-      "he": "יָמִ֤יקוּ׀ וִידַבְּר֣וּ בְרָ֣ע עֹ֑שֶׁק מִמָּר֥וֹם יְדַבֵּֽרוּ׃",
-      "he_plain": "ימיקו וידברו ברע עשק ממרום ידברו",
-      "translit": "",
-      "es": ""
+      "he": "יָמִיקוּ וִידַבְּרוּ בְרָע עֹשֶׁק מִמָּרוֹם יְדַבֵּרוּ׃",
+      "he_plain": "ימיקו וידברו ברע עושק ממרום ידברו",
+      "translit": "Yamíku vidaberú veraá; oshék mimaróm yedaberú.",
+      "es": "Se mofan y hablan con maldad; hablan con altanería de opresión."
     },
     {
       "num": 9,
-      "he": "שַׁתּ֣וּ בַשָּׁמַ֣יִם פִּיהֶ֑ם וּ֝לְשׁוֹנָ֗ם תִּהֲלַ֥ךְ בָּאָֽרֶץ׃",
+      "he": "שַׁתּוּ בַשָּׁמַיִם פִּיהֶם וּלְשׁוֹנָם תִּהֲלַךְ בָּאָרֶץ׃",
       "he_plain": "שתו בשמים פיהם ולשונם תהלך בארץ",
-      "translit": "",
-      "es": ""
+      "translit": "Shatú bashamáyim pihem; ulshonám tihaláj baárets.",
+      "es": "Ponen su boca contra el cielo y su lengua pasea por la tierra."
     },
     {
       "num": 10,
-      "he": "לָכֵ֤ן׀ (ישיב) [יָשׁ֣וּב] עַמּ֣וֹ הֲלֹ֑ם וּמֵ֥י מָ֝לֵ֗א יִמָּ֥צוּ לָֽמוֹ׃",
-      "he_plain": "לכן (ישיב) [ישוב] עמו הלם ומי מלא ימצו למו",
-      "translit": "",
-      "es": ""
+      "he": "לָכֵן יָשׁוּב עַמּוֹ הֲלֹם וּמֵי מָלֵא יִמָּצוּ לָמוֹ׃",
+      "he_plain": "לכן ישוב עמו הלם ומי מלא ימצו למו",
+      "translit": "Lajén yashuv amó halom; umei malé yimatsú lámo.",
+      "es": "Por eso su pueblo vuelve a ellos y beben aguas en abundancia."
     },
     {
       "num": 11,
-      "he": "וְֽאָמְר֗וּ אֵיכָ֥ה יָדַֽע־אֵ֑ל וְיֵ֖שׁ דֵּעָ֣ה בְעֶלְיֽוֹן׃",
+      "he": "וְאָמְרוּ אֵיכָה יָדַע אֵל וְיֵשׁ דֵּעָה בְעֶלְיוֹן׃",
       "he_plain": "ואמרו איכה ידע אל ויש דעה בעליון",
-      "translit": "",
-      "es": ""
+      "translit": "Veamrú: ejá yadá El; veyesh deá beElyón.",
+      "es": "Y dicen: ¿Cómo sabe Dios? ¿Y hay conocimiento en el Altísimo?"
     },
     {
       "num": 12,
-      "he": "הִנֵּה־אֵ֥לֶּה רְשָׁעִ֑ים וְשַׁלְוֵ֥י ע֝וֹלָ֗ם הִשְׂגּוּ־חָֽיִל׃",
+      "he": "הִנֵּה אֵלֶּה רְשָׁעִים וְשַׁלְוֵי עוֹלָם הִשְׂגּוּ חָיִל׃",
       "he_plain": "הנה אלה רשעים ושלוי עולם השגו חיל",
-      "translit": "",
-      "es": ""
+      "translit": "Hiné éle reshaím; veshalvéi olám hisgú jáyil.",
+      "es": "He aquí estos impíos que sin afán del mundo aumentan sus riquezas."
     },
     {
       "num": 13,
-      "he": "אַךְ־רִ֭יק זִכִּ֣יתִי לְבָבִ֑י וָאֶרְחַ֖ץ בְּנִקָּי֣וֹן כַּפָּֽי׃",
-      "he_plain": "אך ריק זכיתי לבבי וארחץ בנקיון כפי",
-      "translit": "",
-      "es": ""
+      "he": "אַךְ רִיק זִכִּיתִי לְבָבִי וָאֶרְחַץ בְּנִקָּיוֹן כַּפָּי׃",
+      "he_plain": "אך ריק זכיתי לבבי וארחץ בניקיון כפי",
+      "translit": "Aj rik zikíti levabí; vaerjáts benikaión kapáy.",
+      "es": "Verdaderamente en vano he limpiado mi corazón y lavado mis manos en inocencia."
     },
     {
       "num": 14,
-      "he": "וָאֱהִ֣י נָ֭גוּעַ כׇּל־הַיּ֑וֹם וְ֝תוֹכַחְתִּ֗י לַבְּקָרִֽים׃",
+      "he": "וָאֱהִי נָגוּעַ כָּל הַיּוֹם וְתוֹכַחְתִּי לַבְּקָרִים׃",
       "he_plain": "ואהי נגוע כל היום ותוכחתי לבקרים",
-      "translit": "",
-      "es": ""
+      "translit": "Vaehí nagúa kol hayóm; vetojájtí labkekarím.",
+      "es": "Ya que he sido azotado todo el día y castigado todas las mañanas."
     },
     {
       "num": 15,
-      "he": "אִם־אָ֭מַרְתִּי אֲסַפְּרָ֥ה כְמ֑וֹ הִנֵּ֤ה ד֖וֹר בָּנֶ֣יךָ בָגָֽדְתִּי׃",
+      "he": "אִם אָמַרְתִּי אֲסַפְּרָה כְמוֹ הִנֵּה דוֹר בָּנֶיךָ בָגָדְתִּי׃",
       "he_plain": "אם אמרתי אספרה כמו הנה דור בניך בגדתי",
-      "translit": "",
-      "es": ""
+      "translit": "Im amárti asapeRá jemó; hiné dór banéija bagádti.",
+      "es": "Si dijera yo: Hablaré como ellos; he aquí que sería traidor a la generación de Tus hijos."
     },
     {
       "num": 16,
-      "he": "וָ֭אֲחַשְּׁבָה לָדַ֣עַת זֹ֑את עָמָ֖ל (היא) [ה֣וּא] בְעֵינָֽי׃",
-      "he_plain": "ואחשבה לדעת זאת עמל (היא) [הוא] בעיני",
-      "translit": "",
-      "es": ""
+      "he": "וָאֲחַשְּׁבָה לָדַעַת זֹאת עָמָל הִיא בְעֵינָי׃",
+      "he_plain": "ואחשבה לדעת זאת עמל היא בעיני",
+      "translit": "VaajashVá ladáat zot; amál hi veeináy.",
+      "es": "Cuando pensé para comprender esto fue duro trabajo para mí."
     },
     {
       "num": 17,
-      "he": "עַד־אָ֭בוֹא אֶל־מִקְדְּשֵׁי־אֵ֑ל אָ֝בִ֗ינָה לְאַחֲרִיתָֽם׃",
+      "he": "עַד אָבוֹא אֶל מִקְדְּשֵׁי אֵל אָבִינָה לְאַחֲרִיתָם׃",
       "he_plain": "עד אבוא אל מקדשי אל אבינה לאחריתם",
-      "translit": "",
-      "es": ""
+      "translit": "Ad avó el mikdeshéi El; avíná leajaritám.",
+      "es": "Hasta que entrando en el santuario de Dios comprendí el destino final de ellos."
     },
     {
       "num": 18,
-      "he": "אַ֣ךְ בַּ֭חֲלָקוֹת תָּשִׁ֣ית לָ֑מוֹ הִ֝פַּלְתָּ֗ם לְמַשּׁוּאֽוֹת׃",
+      "he": "אַךְ בַּחֲלָקוֹת תָּשִׁית לָמוֹ הִפַּלְתָּם לְמַשּׁוּאוֹת׃",
       "he_plain": "אך בחלקות תשית למו הפלתם למשואות",
-      "translit": "",
-      "es": ""
+      "translit": "Aj bajalakót tashít lámo; hipáltam lemashuót.",
+      "es": "Ciertamente los pusiste en deslizaderos; los hiciste caer en ruinas."
     },
     {
       "num": 19,
-      "he": "אֵ֤יךְ הָי֣וּ לְשַׁמָּ֣ה כְרָ֑גַע סָ֥פוּ תַ֝֗מּוּ מִן־בַּלָּהֽוֹת׃",
+      "he": "אֵיךְ הָיוּ לְשַׁמָּה כְרָגַע סָפוּ תַמּוּ מִן בַּלָּהוֹת׃",
       "he_plain": "איך היו לשמה כרגע ספו תמו מן בלהות",
-      "translit": "",
-      "es": ""
+      "translit": "Éj hayú leshaMá keráGa; safú tamú min baLahót.",
+      "es": "¡Cómo han sido asolados de repente! Perecieron y se consumieron de terrores."
     },
     {
       "num": 20,
-      "he": "כַּחֲל֥וֹם מֵהָקִ֑יץ אֲ֝דֹנָ֗י בָּעִ֤יר׀ צַלְמָ֬ם תִּבְזֶֽה׃",
+      "he": "כַּחֲלוֹם מֵהָקִיץ אֲדֹנָי בָּעִיר צַלְמָם תִּבְזֶה׃",
       "he_plain": "כחלום מהקיץ אדני בעיר צלמם תבזה",
-      "translit": "",
-      "es": ""
+      "translit": "Kajalóm mehakíts; Adonái baír tsalmám tivzéh.",
+      "es": "Como sueño del que despierta; así Señor cuando despiertes menospreciarás su imagen."
     },
     {
       "num": 21,
-      "he": "כִּ֭י יִתְחַמֵּ֣ץ לְבָבִ֑י וְ֝כִלְיוֹתַ֗י אֶשְׁתּוֹנָֽן׃",
+      "he": "כִּי יִתְחַמֵּץ לְבָבִי וְכִלְיוֹתַי אֶשְׁתּוֹנָן׃",
       "he_plain": "כי יתחמץ לבבי וכליותי אשתונן",
-      "translit": "",
-      "es": ""
+      "translit": "Ki yitjamÉts levabí; vejiliotáy eshtunán.",
+      "es": "Se llenó de amargura mi corazón y en mis entrañas sentía punzadas."
     },
     {
       "num": 22,
-      "he": "וַאֲנִי־בַ֭עַר וְלֹ֣א אֵדָ֑ע בְּ֝הֵמ֗וֹת הָיִ֥יתִי עִמָּֽךְ׃",
+      "he": "וַאֲנִי בַעַר וְלֹא אֵדָע בְּהֵמוֹת הָיִיתִי עִמָּךְ׃",
       "he_plain": "ואני בער ולא אדע בהמות הייתי עמך",
-      "translit": "",
-      "es": ""
+      "translit": "Vaani vaár veló edá; behemót hayíti imáj.",
+      "es": "Tan torpe era yo que no entendía; era como una bestia delante de Ti."
     },
     {
       "num": 23,
-      "he": "וַאֲנִ֣י תָמִ֣יד עִמָּ֑ךְ אָ֝חַ֗זְתָּ בְּיַד־יְמִינִֽי׃",
+      "he": "וַאֲנִי תָמִיד עִמָּךְ אָחַזְתָּ בְּיַד יְמִינִי׃",
       "he_plain": "ואני תמיד עמך אחזת ביד ימיני",
-      "translit": "",
-      "es": ""
+      "translit": "Vaani tamíd imáj; ajázta beyád yeminí.",
+      "es": "Con todo yo siempre estuve contigo; me tomaste de la mano derecha."
     },
     {
       "num": 24,
-      "he": "בַּעֲצָתְךָ֥ תַנְחֵ֑נִי וְ֝אַחַ֗ר כָּב֥וֹד תִּקָּחֵֽנִי׃",
+      "he": "בְּעֵצָתְךָ תַנְחֵנִי וְאַחַר כָּבוֹד תִּקָּחֵנִי׃",
       "he_plain": "בעצתך תנחני ואחר כבוד תקחני",
-      "translit": "",
-      "es": ""
+      "translit": "Beeetsatejá tanjéni; veajár kavód tikajéni.",
+      "es": "Me has guiado según Tu consejo y después me recibirás en gloria."
     },
     {
       "num": 25,
-      "he": "מִי־לִ֥י בַשָּׁמָ֑יִם וְ֝עִמְּךָ֗ לֹא־חָפַ֥צְתִּי בָאָֽרֶץ׃",
+      "he": "מִי לִי בַשָּׁמָיִם וְעִמְּךָ לֹא חָפַצְתִּי בָאָרֶץ׃",
       "he_plain": "מי לי בשמים ועמך לא חפצתי בארץ",
-      "translit": "",
-      "es": ""
+      "translit": "Mi lí bashamáyim; veiméja lo jafátseti baárets.",
+      "es": "¿A quién tengo yo en los cielos sino a Ti? Y fuera de Ti nada deseo en la tierra."
     },
     {
       "num": 26,
-      "he": "כָּלָ֥ה שְׁאֵרִ֗י וּלְבָ֫בִ֥י צוּר־לְבָבִ֥י וְחֶלְקִ֗י אֱלֹהִ֥ים לְעוֹלָֽם׃",
+      "he": "כָּלָה שְׁאֵרִי וּלְבָבִי צוּר לְבָבִי וְחֶלְקִי אֱלֹהִים לְעוֹלָם׃",
       "he_plain": "כלה שארי ולבבי צור לבבי וחלקי אלהים לעולם",
-      "translit": "",
-      "es": ""
+      "translit": "Kalá sheerí ulevabí; tsúr levabí vejélki Elohím leolám.",
+      "es": "Mi carne y mi corazón desfallecen; mas la roca de mi corazón y mi porción es Dios para siempre."
     },
     {
       "num": 27,
-      "he": "כִּֽי־הִנֵּ֣ה רְחֵקֶ֣יךָ יֹאבֵ֑דוּ הִ֝צְמַ֗תָּה כׇּל־זוֹנֶ֥ה מִמֶּֽךָּ׃",
+      "he": "כִּי הִנֵּה רְחֵקֶיךָ יֹאבֵדוּ הִצְמַתָּה כָּל זוֹנֶה מִמֶּךָּ׃",
       "he_plain": "כי הנה רחקיך יאבדו הצמתה כל זונה ממך",
-      "translit": "",
-      "es": ""
+      "translit": "Ki hiné rejekéija yovédu; hitsmatá kol zoné miméja.",
+      "es": "Porque he aquí los que se alejan de Ti perecerán; Tú destruirás a todo aquel que se aparta de Ti."
     },
     {
       "num": 28,
-      "he": "וַאֲנִ֤י׀ קִ֥רְבַ֥ת אֱלֹהִ֗ים לִ֫י־ט֥וֹב שַׁתִּ֤י׀ בַּאדֹנָ֣י יֱהֹוִ֣ה מַחְסִ֑י לְ֝סַפֵּ֗ר כׇּל־מַלְאֲכוֹתֶֽיךָ׃ {פ}",
-      "he_plain": "ואני קרבת אלהים לי טוב שתי באדני יהוה מחסי לספר כל מלאכותיך {פ}",
-      "translit": "",
-      "es": ""
+      "he": "וַאֲנִי קִרְבַת אֱלֹהִים לִי טוֹב שַׁתִּי בַּאדֹנָי יְהוִה מַחְסִי לְסַפֵּר כָּל מַלְאֲכוֹתֶיךָ׃",
+      "he_plain": "ואני קרבת אלהים לי טוב שתי באדני יהוה מחסי לספר כל מלאכותיך",
+      "translit": "Vaani kirvát Elohím lí tov; shatí baAdonái Elohím majSí; lesapér kol malachotéija.",
+      "es": "En cuanto a mí el acercarme a Dios es el bien; he puesto en el Señor Eterno mi refugio para contar todas Tus obras."
     }
-  ],
-  "audio": "",
-  "title_es": "Cuán bueno es Dios para Israel"
+  ]
 }

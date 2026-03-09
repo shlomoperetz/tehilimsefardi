@@ -1,85 +1,84 @@
 {
   "number": 75,
   "title_he": "תהילים",
+  "title_es": "Dios es el juez justo que humilla al soberbio",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֥חַ אַל־תַּשְׁחֵ֑ת מִזְמ֖וֹר לְאָסָ֣ף שִֽׁיר׃",
+      "he": "לַמְנַצֵּחַ אַל תַּשְׁחֵת מִזְמוֹר לְאָסָף שִׁיר׃",
       "he_plain": "למנצח אל תשחת מזמור לאסף שיר",
-      "translit": "",
-      "es": ""
+      "translit": "Lamnatséaj al tashJét mizmór leAsáf shír.",
+      "es": "Al director; «No destruyas». Salmo de Asaf. Cántico."
     },
     {
       "num": 2,
-      "he": "ה֘וֹדִ֤ינוּ לְּךָ֨׀ אֱֽלֹהִ֗ים ה֭וֹדִינוּ וְקָר֣וֹב שְׁמֶ֑ךָ סִ֝פְּר֗וּ נִפְלְאוֹתֶֽיךָ׃",
+      "he": "הוֹדִינוּ לְּךָ אֱלֹהִים הוֹדִינוּ וְקָרוֹב שְׁמֶךָ סִפְּרוּ נִפְלְאוֹתֶיךָ׃",
       "he_plain": "הודינו לך אלהים הודינו וקרוב שמך ספרו נפלאותיך",
-      "translit": "",
-      "es": ""
+      "translit": "Hodínu lejá Elohím hodínu; vekaróv shimejá; siperú nifleotéija.",
+      "es": "Te damos gracias, oh Dios, te damos gracias pues cercano está Tu nombre; cuentan Tus maravillas."
     },
     {
       "num": 3,
-      "he": "כִּ֭י אֶקַּ֣ח מוֹעֵ֑ד אֲ֝נִ֗י מֵישָׁרִ֥ים אֶשְׁפֹּֽט׃",
-      "he_plain": "כי אקח מועד אני מישרים אשפט",
-      "translit": "",
-      "es": ""
+      "he": "כִּי אֶקַּח מוֹעֵד אֲנִי מֵישָׁרִים אֶשְׁפֹּט׃",
+      "he_plain": "כי אקח מועד אני מישרים אשפוט",
+      "translit": "Ki ekáj moéd; aní meisharím eshpót.",
+      "es": "Cuando tome el tiempo señalado yo juzgaré rectamente."
     },
     {
       "num": 4,
-      "he": "נְֽמֹגִ֗ים אֶ֥רֶץ וְכׇל־יֹשְׁבֶ֑יהָ אָנֹכִ֨י תִכַּ֖נְתִּי עַמּוּדֶ֣יהָ סֶּֽלָה׃",
-      "he_plain": "נמגים ארץ וכל ישביה אנכי תכנתי עמודיה סלה",
-      "translit": "",
-      "es": ""
+      "he": "נְמֹגִים אֶרֶץ וְכָל יֹשְׁבֶיהָ אָנֹכִי תִכַּנְתִּי עַמּוּדֶיהָ סֶלָה׃",
+      "he_plain": "נמוגים ארץ וכל יושביה אנכי תכנתי עמודיה סלה",
+      "translit": "Nemogím árets vejol yoshvéiha; anojí tikánti amudéiha. Selá.",
+      "es": "Cuando la tierra y todos sus moradores se disuelvan yo sostengo sus columnas. Selá."
     },
     {
       "num": 5,
-      "he": "אָמַ֣רְתִּי לַ֭הוֹלְלִים אַל־תָּהֹ֑לּוּ וְ֝לָרְשָׁעִ֗ים אַל־תָּרִ֥ימוּ קָֽרֶן׃",
-      "he_plain": "אמרתי להוללים אל תהלו ולרשעים אל תרימו קרן",
-      "translit": "",
-      "es": ""
+      "he": "אָמַרְתִּי לַהוֹלְלִים אַל תָּהֹלּוּ וְלָרְשָׁעִים אַל תָּרִימוּ קָרֶן׃",
+      "he_plain": "אמרתי להוללים אל תהולו ולרשעים אל תרימו קרן",
+      "translit": "Amárti laholelím al taholú; velareshaím al tarimu káren.",
+      "es": "Dije a los insensatos: No os jactéis; y a los impíos: No alcéis el cuerno."
     },
     {
       "num": 6,
-      "he": "אַל־תָּרִ֣ימוּ לַמָּר֣וֹם קַרְנְכֶ֑ם תְּדַבְּר֖וּ בְצַוָּ֣אר עָתָֽק׃",
+      "he": "אַל תָּרִימוּ לַמָּרוֹם קַרְנְכֶם תְּדַבְּרוּ בְצַוָּאר עָתָק׃",
       "he_plain": "אל תרימו למרום קרנכם תדברו בצואר עתק",
-      "translit": "",
-      "es": ""
+      "translit": "Al tarimu lamaróm kornéjem; tedaberú vetsavár atáк.",
+      "es": "No alcéis en alto vuestro cuerno; no habléis con cerviz erguida."
     },
     {
       "num": 7,
-      "he": "כִּ֤י לֹ֣א מִ֭מּוֹצָא וּמִֽמַּעֲרָ֑ב וְ֝לֹ֗א מִמִּדְבַּ֥ר הָרִֽים׃",
+      "he": "כִּי לֹא מִמּוֹצָא וּמִמַּעֲרָב וְלֹא מִמִּדְבַּר הָרִים׃",
       "he_plain": "כי לא ממוצא וממערב ולא ממדבר הרים",
-      "translit": "",
-      "es": ""
+      "translit": "Ki lo mimotSá umimaaráv; veló mimidBár harím.",
+      "es": "Porque ni del oriente ni del occidente ni del desierto viene el enaltecimiento."
     },
     {
       "num": 8,
-      "he": "כִּֽי־אֱלֹהִ֥ים שֹׁפֵ֑ט זֶ֥ה יַ֝שְׁפִּ֗יל וְזֶ֣ה יָרִֽים׃",
-      "he_plain": "כי אלהים שפט זה ישפיל וזה ירים",
-      "translit": "",
-      "es": ""
+      "he": "כִּי אֱלֹהִים שֹׁפֵט זֶה יַשְׁפִּיל וְזֶה יָרִים׃",
+      "he_plain": "כי אלהים שופט זה ישפיל וזה ירים",
+      "translit": "Ki Elohím shofét; ze yashpíl veze yarím.",
+      "es": "Sino que Dios es el juez; a éste humilla y a aquél enaltece."
     },
     {
       "num": 9,
-      "he": "כִּ֤י כ֪וֹס בְּֽיַד־יְהֹוָ֡ה וְיַ֤יִן חָמַ֨ר׀ מָ֥לֵא מֶסֶךְ֮ וַיַּגֵּ֢ר מִ֫זֶּ֥ה אַךְ־שְׁ֭מָרֶיהָ יִמְצ֣וּ יִשְׁתּ֑וּ כֹּ֝֗ל רִשְׁעֵי־אָֽרֶץ׃",
-      "he_plain": "כי כוס ביד יהוה ויין חמר מלא מסך ויגר מזה אך שמריה ימצו ישתו כל רשעי ארץ",
-      "translit": "",
-      "es": ""
+      "he": "כִּי כוֹס בְּיַד יְהוָה וְיַיִן חָמַר מָלֵא מֶסֶךְ וַיַּגֵּר מִזֶּה אַךְ שְׁמָרֶיהָ יִמְצוּ יִשְׁתּוּ כֹּל רִשְׁעֵי אָרֶץ׃",
+      "he_plain": "כי כוס ביד יהוה ויין חמר מלא מסך ויגר מזה אך שמריה ימצו ישתו כול רשעי ארץ",
+      "translit": "Ki kos beyád Adonái; veyáyin jamár malé mésej; vayagér mizéh; aj shemaréiha yimtsú yishTú kol risheéi árets.",
+      "es": "Porque en la mano del Eterno hay una copa y el vino está lleno de mezcla y espumea; Él derrama de ella y todos los impíos de la tierra la apurarán y beberán sus heces."
     },
     {
       "num": 10,
-      "he": "וַ֭אֲנִי אַגִּ֣יד לְעֹלָ֑ם אֲ֝זַמְּרָ֗ה לֵאלֹהֵ֥י יַעֲקֹֽב׃",
-      "he_plain": "ואני אגיד לעלם אזמרה לאלהי יעקב",
-      "translit": "",
-      "es": ""
+      "he": "וַאֲנִי אַגִּיד לְעֹלָם אֲזַמְּרָה לֵאלֹהֵי יַעֲקֹב׃",
+      "he_plain": "ואני אגיד לעולם אזמרה לאלהי יעקב",
+      "translit": "Vaani agíd leolám; azaméra leElohéi Yaakóv.",
+      "es": "Pero yo anunciaré esto para siempre; cantaré alabanzas al Dios de Yaakov."
     },
     {
       "num": 11,
-      "he": "וְכׇל־קַרְנֵ֣י רְשָׁעִ֣ים אֲגַדֵּ֑עַ תְּ֝רוֹמַ֗מְנָה קַֽרְנ֥וֹת צַדִּֽיק׃ {פ}",
-      "he_plain": "וכל קרני רשעים אגדע תרוממנה קרנות צדיק {פ}",
-      "translit": "",
-      "es": ""
+      "he": "וְכָל קַרְנֵי רְשָׁעִים אֲגַדֵּעַ תְּרוֹמַמְנָה קַרְנוֹת צַדִּיק׃",
+      "he_plain": "וכל קרני רשעים אגדע תרוממנה קרנות צדיק",
+      "translit": "Vejol karNéi reshaím agadéa; teromámnah karnót tsadík.",
+      "es": "Cortaré todos los cuernos de los impíos pero los cuernos del justo serán exaltados."
     }
-  ],
-  "audio": "",
-  "title_es": "Te damos gracias, Dios"
+  ]
 }
