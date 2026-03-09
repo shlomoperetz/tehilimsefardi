@@ -1,106 +1,105 @@
 {
   "number": 39,
   "title_he": "תהילים",
+  "title_es": "La fragilidad humana ante Dios",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֥חַ (לידיתון) [לִֽידוּת֗וּן] מִזְמ֥וֹר לְדָוִֽד׃",
-      "he_plain": "למנצח (לידיתון) [לידותון] מזמור לדוד",
-      "translit": "",
-      "es": ""
+      "he": "לַמְנַצֵּחַ לִידוּתוּן מִזְמוֹר לְדָוִד׃",
+      "he_plain": "למנצח לידותון מזמור לדוד",
+      "translit": "Lamnatséaj liYedutún mizmór leDavíd.",
+      "es": "Al director, a Yedutún. Salmo de David."
     },
     {
       "num": 2,
-      "he": "אָמַ֗רְתִּי אֶ֥שְׁמְרָ֣ה דְרָכַי֮ מֵחֲט֢וֹא בִלְשׁ֫וֹנִ֥י אֶשְׁמְרָ֥ה לְפִ֥י מַחְס֑וֹם בְּעֹ֖ד רָשָׁ֣ע לְנֶגְדִּֽי׃",
-      "he_plain": "אמרתי אשמרה דרכי מחטוא בלשוני אשמרה לפי מחסום בעד רשע לנגדי",
-      "translit": "",
-      "es": ""
+      "he": "אָמַרְתִּי אֶשְׁמְרָה דְרָכַי מֵחֲטוֹא בִלְשׁוֹנִי אֶשְׁמְרָה לְפִי מַחְסוֹם בְּעֹד רָשָׁע לְנֶגְדִּי׃",
+      "he_plain": "אמרתי אשמרה דרכי מחטוא בלשוני אשמרה לפי מחסום בעוד רשע לנגדי",
+      "translit": "Amárti eshmará derajáy mejató bilshonéi; eshmará lefí majsóm beód rashá lenégdi.",
+      "es": "Yo dije: Guardaré mi camino para no pecar con mi lengua; guardaré mi boca con freno en tanto que el impío esté delante de mí."
     },
     {
       "num": 3,
-      "he": "נֶאֱלַ֣מְתִּי ד֭וּמִיָּה הֶחֱשֵׁ֣יתִי מִטּ֑וֹב וּכְאֵבִ֥י נֶעְכָּֽר׃",
+      "he": "נֶאֱלַמְתִּי דוּמִיָּה הֶחֱשֵׁיתִי מִטּוֹב וּכְאֵבִי נֶעְכָּר׃",
       "he_plain": "נאלמתי דומיה החשיתי מטוב וכאבי נעכר",
-      "translit": "",
-      "es": ""
+      "translit": "Neelamtí dumiá; hejeshéiti mitóv; ujeaví neeKár.",
+      "es": "Enmudecí con silencio; me callé aun respecto a lo bueno y se agravó mi dolor."
     },
     {
       "num": 4,
-      "he": "חַם־לִבִּ֨י׀ בְּקִרְבִּ֗י בַּהֲגִיגִ֥י תִבְעַר־אֵ֑שׁ דִּ֝בַּ֗רְתִּי בִּלְשׁוֹנִֽי׃",
+      "he": "חַם לִבִּי בְּקִרְבִּי בַּהֲגִיגִי תִבְעַר אֵשׁ דִּבַּרְתִּי בִּלְשׁוֹנִי׃",
       "he_plain": "חם לבי בקרבי בהגיגי תבער אש דברתי בלשוני",
-      "translit": "",
-      "es": ""
+      "translit": "Jam libí bekirbí; bahaguigí tiVár esh; dibárti bilshonéi.",
+      "es": "Se enardeció mi corazón dentro de mí; en mi meditación se encendió fuego y así hablé con mi lengua:"
     },
     {
       "num": 5,
-      "he": "הוֹדִ֘יעֵ֤נִי יְהֹוָ֨ה׀ קִצִּ֗י וּמִדַּ֣ת יָמַ֣י מַה־הִ֑יא אֵ֝דְעָ֗ה מֶה־חָדֵ֥ל אָֽנִי׃",
+      "he": "הוֹדִיעֵנִי יְהוָה קִצִּי וּמִדַּת יָמַי מַה הִיא אֵדְעָה מֶה חָדֵל אָנִי׃",
       "he_plain": "הודיעני יהוה קצי ומדת ימי מה היא אדעה מה חדל אני",
-      "translit": "",
-      "es": ""
+      "translit": "Hodíeni Adonái kitsí; umidat yamáy ma hí; edá me jadél aní.",
+      "es": "Hazme saber, Eterno, mi fin y cuánta sea la medida de mis días; sepa yo cuán frágil soy."
     },
     {
       "num": 6,
-      "he": "הִנֵּ֤ה טְפָח֨וֹת׀ נָ֘תַ֤תָּה יָמַ֗י וְחֶלְדִּ֣י כְאַ֣יִן נֶגְדֶּ֑ךָ אַ֥ךְ כׇּֽל־הֶ֥בֶל כׇּל־אָ֝דָ֗ם נִצָּ֥ב סֶֽלָה׃",
+      "he": "הִנֵּה טְפָחוֹת נָתַתָּה יָמַי וְחֶלְדִּי כְאַיִן נֶגְדֶּךָ אַךְ כָּל הֶבֶל כָּל אָדָם נִצָּב סֶלָה׃",
       "he_plain": "הנה טפחות נתתה ימי וחלדי כאין נגדך אך כל הבל כל אדם נצב סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Hiné tefajót natáta yamáy; vejeldí jeáyin négdeja; aj kol hével kol adám nitsáv. Selá.",
+      "es": "He aquí, diste a mis días una medida breve y mi existencia es como nada delante de Ti; ciertamente es completa vanidad todo hombre que está en pie. Selá."
     },
     {
       "num": 7,
-      "he": "אַךְ־בְּצֶ֤לֶם׀ יִֽתְהַלֶּךְ־אִ֗ישׁ אַךְ־הֶ֥בֶל יֶהֱמָי֑וּן יִ֝צְבֹּ֗ר וְֽלֹא־יֵדַ֥ע מִֽי־אֹסְפָֽם׃",
-      "he_plain": "אך בצלם יתהלך איש אך הבל יהמיון יצבר ולא ידע מי אספם",
-      "translit": "",
-      "es": ""
+      "he": "אַךְ בְּצֶלֶם יִתְהַלֶּךְ אִישׁ אַךְ הֶבֶל יֶהֱמָיוּן יִצְבֹּר וְלֹא יֵדַע מִי אֹסְפָם׃",
+      "he_plain": "אך בצלם יתהלך איש אך הבל יהמיון יצבר ולא ידע מי אוספם",
+      "translit": "Aj betselem yithaléj ísh; aj hével yehemayún; yitsbór veló yadá mi osefám.",
+      "es": "Ciertamente como sombra camina el hombre; ciertamente en vano se afana; amontona riquezas y no sabe quién las recogerá."
     },
     {
       "num": 8,
-      "he": "וְעַתָּ֣ה מַה־קִּוִּ֣יתִי אֲדֹנָ֑י תּ֝וֹחַלְתִּ֗י לְךָ֣ הִֽיא׃",
+      "he": "וְעַתָּה מַה קִּוִּיתִי אֲדֹנָי תּוֹחַלְתִּי לְךָ הִיא׃",
       "he_plain": "ועתה מה קויתי אדני תוחלתי לך היא",
-      "translit": "",
-      "es": ""
+      "translit": "Veatá ma kivíti; Adonái tojaltí lejá hí.",
+      "es": "Y ahora, Señor, ¿qué esperaré? Mi esperanza está en Ti."
     },
     {
       "num": 9,
-      "he": "מִכׇּל־פְּשָׁעַ֥י הַצִּילֵ֑נִי חֶרְפַּ֥ת נָ֝בָ֗ל אַל־תְּשִׂימֵֽנִי׃",
+      "he": "מִכָּל פְּשָׁעַי הַצִּילֵנִי חֶרְפַּת נָבָל אַל תְּשִׂימֵנִי׃",
       "he_plain": "מכל פשעי הצילני חרפת נבל אל תשימני",
-      "translit": "",
-      "es": ""
+      "translit": "Mikól feshaáy hatsiléni; jerpát navál al tesimeni.",
+      "es": "Líbrame de todas mis transgresiones; no me pongas por escarnio del necio."
     },
     {
       "num": 10,
-      "he": "נֶ֭אֱלַמְתִּי לֹ֣א אֶפְתַּח־פִּ֑י כִּ֖י אַתָּ֣ה עָשִֽׂיתָ׃",
+      "he": "נֶאֱלַמְתִּי לֹא אֶפְתַּח פִּי כִּי אַתָּה עָשִׂיתָ׃",
       "he_plain": "נאלמתי לא אפתח פי כי אתה עשית",
-      "translit": "",
-      "es": ""
+      "translit": "Neelamtí lo eftáj fí; ki atá asíta.",
+      "es": "Enmudecí, no abrí mi boca, porque Tú lo hiciste."
     },
     {
       "num": 11,
-      "he": "הָסֵ֣ר מֵעָלַ֣י נִגְעֶ֑ךָ מִתִּגְרַ֥ת יָ֝דְךָ֗ אֲנִ֣י כָלִֽיתִי׃",
+      "he": "הָסֵר מֵעָלַי נִגְעֶךָ מִתִּגְרַת יָדְךָ אֲנִי כָלִיתִי׃",
       "he_plain": "הסר מעלי נגעך מתגרת ידך אני כליתי",
-      "translit": "",
-      "es": ""
+      "translit": "Hasér meaálay nigéja; mitigrat yadejá aní jalíti.",
+      "es": "Quita de sobre mí Tu plaga; estoy consumido bajo los golpes de Tu mano."
     },
     {
       "num": 12,
-      "he": "בְּֽתוֹכָ֘ח֤וֹת עַל־עָוֺ֨ן׀ יִסַּ֬רְתָּ אִ֗ישׁ וַתֶּ֣מֶס כָּעָ֣שׁ חֲמוּד֑וֹ אַ֤ךְ הֶ֖בֶל כׇּל־אָדָ֣ם סֶֽלָה׃",
+      "he": "בְּתוֹכָחוֹת עַל עָוֹן יִסַּרְתָּ אִישׁ וַתֶּמֶס כָּעָשׁ חֲמוּדוֹ אַךְ הֶבֶל כָּל אָדָם סֶלָה׃",
       "he_plain": "בתוכחות על עון יסרת איש ותמס כעש חמודו אך הבל כל אדם סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Betojajót al avón yisárta ish; vatémes kash jamudó; aj hével kol adám. Selá.",
+      "es": "Con castigos por el pecado corriges al hombre y deshaces como polilla lo que él amaba; ciertamente vanidad es todo hombre. Selá."
     },
     {
       "num": 13,
-      "he": "שִׁ֥מְעָֽה־תְפִלָּתִ֨י׀ יְהֹוָ֡ה וְשַׁוְעָתִ֨י׀ הַאֲזִינָה֮ אֶֽל־דִּמְעָתִ֗י אַֽל־תֶּ֫חֱרַ֥שׁ כִּ֤י גֵ֣ר אָנֹכִ֣י עִמָּ֑ךְ תּ֝וֹשָׁ֗ב כְּכׇל־אֲבוֹתָֽי׃",
+      "he": "שִׁמְעָה תְפִלָּתִי יְהוָה וְשַׁוְעָתִי הַאֲזִינָה אֶל דִּמְעָתִי אַל תֶּחֱרַשׁ כִּי גֵר אָנֹכִי עִמָּךְ תּוֹשָׁב כְּכָל אֲבוֹתָי׃",
       "he_plain": "שמעה תפלתי יהוה ושועתי האזינה אל דמעתי אל תחרש כי גר אנכי עמך תושב ככל אבותי",
-      "translit": "",
-      "es": ""
+      "translit": "Shimá tefilatí Adonái; veshaavatí haazíná; el dimeatí al tejérash; ki gér anojí imejá; tosháv jejol avotáy.",
+      "es": "Oye mi oración, Eterno, y escucha mi clamor; no calles ante mis lágrimas; porque peregrino soy para Ti y advenedizo como todos mis padres."
     },
     {
       "num": 14,
-      "he": "הָשַׁ֣ע מִמֶּ֣נִּי וְאַבְלִ֑יגָה בְּטֶ֖רֶם אֵלֵ֣ךְ וְאֵינֶֽנִּי׃ {פ}",
-      "he_plain": "השע ממני ואבליגה בטרם אלך ואינני {פ}",
-      "translit": "",
-      "es": ""
+      "he": "הָשַׁע מִמֶּנִּי וְאַבְלִיגָה בְּטֶרֶם אֵלֵךְ וְאֵינֶנִּי׃",
+      "he_plain": "השע ממני ואבליגה בטרם אלך ואיננני",
+      "translit": "Hasháa miméni veavligá; béterem eléj veenéni.",
+      "es": "Aparta de mí Tu mirada para que yo me alivie, antes que me vaya y no exista más."
     }
-  ],
-  "audio": "",
-  "title_es": "Dije: guardaré mis caminos"
+  ]
 }
