@@ -1,50 +1,49 @@
 {
   "number": 70,
   "title_he": "תהילים",
+  "title_es": "Clamor urgente de socorro",
   "verses": [
     {
       "num": 1,
-      "he": "לַ֝מְנַצֵּ֗חַ לְדָוִ֥ד לְהַזְכִּֽיר׃",
+      "he": "לַמְנַצֵּחַ לְדָוִד לְהַזְכִּיר׃",
       "he_plain": "למנצח לדוד להזכיר",
-      "translit": "",
-      "es": ""
+      "translit": "Lamnatséaj leDavíd lehazkír.",
+      "es": "Al director. De David. Para recordar."
     },
     {
       "num": 2,
-      "he": "אֱלֹהִ֥ים לְהַצִּילֵ֑נִי יְ֝הֹוָ֗ה לְעֶזְרָ֥תִי חֽוּשָׁה׃",
+      "he": "אֱלֹהִים לְהַצִּילֵנִי יְהוָה לְעֶזְרָתִי חוּשָׁה׃",
       "he_plain": "אלהים להצילני יהוה לעזרתי חושה",
-      "translit": "",
-      "es": ""
+      "translit": "Elohím lehatsíLeni; Adonái leezratí jushá.",
+      "es": "Oh Dios, acude a librarme; oh Eterno, date prisa en socorrerme."
     },
     {
       "num": 3,
-      "he": "יֵבֹ֣שׁוּ וְיַחְפְּרוּ֮ מְבַקְשֵׁ֢י נַ֫פְשִׁ֥י יִסֹּ֣גוּ אָ֭חוֹר וְיִכָּלְמ֑וּ חֲ֝פֵצֵ֗י רָעָתִֽי׃",
-      "he_plain": "יבשו ויחפרו מבקשי נפשי יסגו אחור ויכלמו חפצי רעתי",
-      "translit": "",
-      "es": ""
+      "he": "יֵבֹשׁוּ וְיַחְפְּרוּ מְבַקְשֵׁי נַפְשִׁי יִסֹּגוּ אָחוֹר וְיִכָּלְמוּ חֲפֵצֵי רָעָתִי׃",
+      "he_plain": "יבושו ויחפרו מבקשי נפשי יסוגו אחור ויכלמו חפצי רעתי",
+      "translit": "Yevoshú veyajperú mevaKshéi nafshí; yisogú ajór veyikalemú jafetséi raatí.",
+      "es": "Sean avergonzados y confundidos los que buscan mi vida; sean vueltos atrás y avergonzados los que desean mi mal."
     },
     {
       "num": 4,
-      "he": "יָ֭שׁוּבוּ עַל־עֵ֣קֶב בׇּשְׁתָּ֑ם הָ֝אֹמְרִ֗ים הֶ֘אָ֥ח׀הֶאָֽח׃",
-      "he_plain": "ישובו על עקב בשתם האמרים האחהאח",
-      "translit": "",
-      "es": ""
+      "he": "יָשׁוּבוּ עַל עֵקֶב בָּשְׁתָּם הָאֹמְרִים הֶאָח הֶאָח׃",
+      "he_plain": "ישובו על עקב בושתם האומרים האח האח",
+      "translit": "Yashúvu al ekév boshTám; haomrím heáj heáj.",
+      "es": "Vuelvan por causa de su vergüenza los que dicen: ¡Ajá, ajá!"
     },
     {
       "num": 5,
-      "he": "יָ֘שִׂ֤ישׂוּ וְיִשְׂמְח֨וּ׀ בְּךָ֗ כׇּֽל־מְבַ֫קְשֶׁ֥יךָ וְיֹאמְר֣וּ תָ֭מִיד יִגְדַּ֣ל אֱלֹהִ֑ים אֹ֝הֲבֵ֗י יְשׁוּעָתֶֽךָ׃",
-      "he_plain": "ישישו וישמחו בך כל מבקשיך ויאמרו תמיד יגדל אלהים אהבי ישועתך",
-      "translit": "",
-      "es": ""
+      "he": "יָשִׂישׂוּ וְיִשְׂמְחוּ בְּךָ כָּל מְבַקְשֶׁיךָ וְיֹאמְרוּ תָמִיד יִגְדַּל אֱלֹהִים אֹהֲבֵי יְשׁוּעָתֶךָ׃",
+      "he_plain": "ישישו וישמחו בך כל מבקשיך ויאמרו תמיד יגדל אלהים אוהבי ישועתך",
+      "translit": "Yasisú veyismejú bejá kol mevaKshéija; veyomrú tamíd: yigdál Elohím; ohavéi yeshuatéja.",
+      "es": "Regocíjense y alégrense en Ti todos los que te buscan y digan siempre los que aman Tu salvación: Engrandecido sea Dios."
     },
     {
       "num": 6,
-      "he": "וַאֲנִ֤י׀ עָנִ֣י וְאֶבְיוֹן֮ אֱלֹהִ֢ים ח֫וּשָׁה־לִּ֥י עֶזְרִ֣י וּמְפַלְטִ֣י אַ֑תָּה יְ֝הֹוָ֗ה אַל־תְּאַחַֽר׃ {פ}",
-      "he_plain": "ואני עני ואביון אלהים חושה לי עזרי ומפלטי אתה יהוה אל תאחר {פ}",
-      "translit": "",
-      "es": ""
+      "he": "וַאֲנִי עָנִי וְאֶבְיוֹן אֱלֹהִים חוּשָׁה לִי עֶזְרִי וּמְפַלְטִי אַתָּה יְהוָה אַל תְּאַחַר׃",
+      "he_plain": "ואני עני ואביון אלהים חושה לי עזרי ומפלטי אתה יהוה אל תאחר",
+      "translit": "Vaani aní veevyón; Elohím jushá lí; ezrí umfalTí atá; Adonái al teajár.",
+      "es": "Yo estoy afligido y menesteroso; oh Dios, apresúrate a mí; mi ayuda y mi libertador eres Tú; oh Eterno, no te tardes."
     }
-  ],
-  "audio": "",
-  "title_es": "Dios, para librarme"
+  ]
 }

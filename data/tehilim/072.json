@@ -1,148 +1,147 @@
 {
   "number": 72,
   "title_he": "תהילים",
+  "title_es": "Oración por el rey justo y su reinado universal",
   "verses": [
     {
       "num": 1,
-      "he": "לִשְׁלֹמֹ֨ה׀ אֱֽלֹהִ֗ים מִ֭שְׁפָּטֶיךָ לְמֶ֣לֶךְ תֵּ֑ן וְצִדְקָתְךָ֥ לְבֶן־מֶֽלֶךְ׃",
+      "he": "לִשְׁלֹמֹה אֱלֹהִים מִשְׁפָּטֶיךָ לְמֶלֶךְ תֵּן וְצִדְקָתְךָ לְבֶן מֶלֶךְ׃",
       "he_plain": "לשלמה אלהים משפטיך למלך תן וצדקתך לבן מלך",
-      "translit": "",
-      "es": ""
+      "translit": "LiShlomó. Elohím mishpatéija leméleg tén; vetsidkatejá leven méleg.",
+      "es": "De Shelomó. Oh Dios, da Tus juicios al rey y Tu justicia al hijo del rey."
     },
     {
       "num": 2,
-      "he": "יָדִ֣ין עַמְּךָ֣ בְצֶ֑דֶק וַעֲנִיֶּ֥יךָ בְמִשְׁפָּֽט׃",
+      "he": "יָדִין עַמְּךָ בְצֶדֶק וַעֲנִיֶּיךָ בְמִשְׁפָּט׃",
       "he_plain": "ידין עמך בצדק וענייך במשפט",
-      "translit": "",
-      "es": ""
+      "translit": "Yadín ameján betsédek; vaaniyéija bemishPát.",
+      "es": "Él juzgará a Tu pueblo con justicia y a Tus afligidos con rectitud."
     },
     {
       "num": 3,
-      "he": "יִשְׂא֤וּ הָרִ֓ים שָׁ֘ל֥וֹם לָעָ֑ם וּ֝גְבָע֗וֹת בִּצְדָקָֽה׃",
+      "he": "יִשְׂאוּ הָרִים שָׁלוֹם לָעָם וּגְבָעוֹת בִּצְדָקָה׃",
       "he_plain": "ישאו הרים שלום לעם וגבעות בצדקה",
-      "translit": "",
-      "es": ""
+      "translit": "Yisaú harím shalóm laám; ugevaót bitsedaká.",
+      "es": "Los montes llevarán paz al pueblo y los collados justicia."
     },
     {
       "num": 4,
-      "he": "יִשְׁפֹּ֤ט׀ עֲֽנִיֵּי־עָ֗ם י֭וֹשִׁיעַ לִבְנֵ֣י אֶבְי֑וֹן וִ֖ידַכֵּ֣א עוֹשֵֽׁק׃",
-      "he_plain": "ישפט עניי עם יושיע לבני אביון וידכא עושק",
-      "translit": "",
-      "es": ""
+      "he": "יִשְׁפֹּט עֲנִיֵּי עָם יוֹשִׁיעַ לִבְנֵי אֶבְיוֹן וִידַכֵּא עוֹשֵׁק׃",
+      "he_plain": "ישפוט עניי עם יושיע לבני אביון וידכא עושק",
+      "translit": "Yishpót aniyéi ám; yoshía livnéi evyón; viyedaké oshék.",
+      "es": "Juzgará a los afligidos del pueblo; salvará a los hijos del menesteroso y aplastará al opresor."
     },
     {
       "num": 5,
-      "he": "יִירָא֥וּךָ עִם־שָׁ֑מֶשׁ וְלִפְנֵ֥י יָ֝רֵ֗חַ דּ֣וֹר דּוֹרִֽים׃",
+      "he": "יִירָאוּךָ עִם שֶׁמֶשׁ וְלִפְנֵי יָרֵחַ דּוֹר דּוֹרִים׃",
       "he_plain": "ייראוך עם שמש ולפני ירח דור דורים",
-      "translit": "",
-      "es": ""
+      "translit": "Yiraúja im shémesh; velifnéi yaréaj dór dorím.",
+      "es": "Te temerán mientras dure el sol y mientras la luna sea de generación en generación."
     },
     {
       "num": 6,
-      "he": "יֵ֭רֵד כְּמָטָ֣ר עַל־גֵּ֑ז כִּ֝רְבִיבִ֗ים זַרְזִ֥יף אָֽרֶץ׃",
+      "he": "יֵרֵד כְּמָטָר עַל גֵּז כִּרְבִיבִים זַרְזִיף אָרֶץ׃",
       "he_plain": "ירד כמטר על גז כרביבים זרזיף ארץ",
-      "translit": "",
-      "es": ""
+      "translit": "Yeréd kemaTár al géz; kirvivím zarZíf árets.",
+      "es": "Descenderá como lluvia sobre el césped cortado; como aguaceros que riegan la tierra."
     },
     {
       "num": 7,
-      "he": "יִֽפְרַח־בְּיָמָ֥יו צַדִּ֑יק וְרֹ֥ב שָׁ֝ל֗וֹם עַד־בְּלִ֥י יָרֵֽחַ׃",
-      "he_plain": "יפרח בימיו צדיק ורב שלום עד בלי ירח",
-      "translit": "",
-      "es": ""
+      "he": "יִפְרַח בְּיָמָיו צַדִּיק וְרֹב שָׁלוֹם עַד בְּלִי יָרֵחַ׃",
+      "he_plain": "יפרח בימיו צדיק ורוב שלום עד בלי ירח",
+      "translit": "Yifráj beyamáv tsadík; veróv shalóm ad belí yaréaj.",
+      "es": "Florecerá en sus días el justo y habrá abundancia de paz hasta que no haya luna."
     },
     {
       "num": 8,
-      "he": "וְ֭יֵרְדְּ מִיָּ֣ם עַד־יָ֑ם וּ֝מִנָּהָ֗ר עַד־אַפְסֵי־אָֽרֶץ׃",
+      "he": "וְיֵרְדְּ מִיָּם עַד יָם וּמִנָּהָר עַד אַפְסֵי אָרֶץ׃",
       "he_plain": "וירד מים עד ים ומנהר עד אפסי ארץ",
-      "translit": "",
-      "es": ""
+      "translit": "Veyéred miyám ad yám; uminahár ad afséi árets.",
+      "es": "Dominará de mar a mar y desde el Río hasta los confines de la tierra."
     },
     {
       "num": 9,
-      "he": "לְ֭פָנָיו יִכְרְע֣וּ צִיִּ֑ים וְ֝אֹיְבָ֗יו עָפָ֥ר יְלַחֵֽכוּ׃",
-      "he_plain": "לפניו יכרעו ציים ואיביו עפר ילחכו",
-      "translit": "",
-      "es": ""
+      "he": "לְפָנָיו יִכְרְעוּ צִיִּים וְאֹיְבָיו עָפָר יְלַחֵכוּ׃",
+      "he_plain": "לפניו יכרעו ציים ואויביו עפר ילחכו",
+      "translit": "Lefanáv yikreu tsiyím; veoyeváv afár yelakéju.",
+      "es": "Ante él se postrarán los moradores del desierto y sus enemigos lamerán el polvo."
     },
     {
       "num": 10,
-      "he": "מַלְכֵ֬י תַרְשִׁ֣ישׁ וְ֭אִיִּים מִנְחָ֣ה יָשִׁ֑יבוּ מַלְכֵ֥י שְׁבָ֥א וּ֝סְבָ֗א אֶשְׁכָּ֥ר יַקְרִֽיבוּ׃",
+      "he": "מַלְכֵי תַרְשִׁישׁ וְאִיִּים מִנְחָה יָשִׁיבוּ מַלְכֵי שְׁבָא וּסְבָא אֶשְׁכָּר יַקְרִיבוּ׃",
       "he_plain": "מלכי תרשיש ואיים מנחה ישיבו מלכי שבא וסבא אשכר יקריבו",
-      "translit": "",
-      "es": ""
+      "translit": "Malkéi Tarshísh veeiyím minjá yashívu; malkéi Shevá uSevá eshkár yakrívu.",
+      "es": "Los reyes de Tarshish y de las costas traerán presentes; los reyes de Sheva y de Sevá ofrecerán dones."
     },
     {
       "num": 11,
-      "he": "וְיִשְׁתַּחֲווּ־ל֥וֹ כׇל־מְלָכִ֑ים כׇּל־גּוֹיִ֥ם יַעַבְדֽוּהוּ׃",
+      "he": "וְיִשְׁתַּחֲווּ לוֹ כָל מְלָכִים כָּל גּוֹיִם יַעַבְדוּהוּ׃",
       "he_plain": "וישתחוו לו כל מלכים כל גוים יעבדוהו",
-      "translit": "",
-      "es": ""
+      "translit": "Veyishtajavú lo kol melajím; kol goyím yaavedúhu.",
+      "es": "Todos los reyes se postrarán ante él; todas las naciones le servirán."
     },
     {
       "num": 12,
-      "he": "כִּֽי־יַ֭צִּיל אֶבְי֣וֹן מְשַׁוֵּ֑עַ וְ֝עָנִ֗י וְֽאֵין־עֹזֵ֥ר לֽוֹ׃",
-      "he_plain": "כי יציל אביון משוע ועני ואין עזר לו",
-      "translit": "",
-      "es": ""
+      "he": "כִּי יַצִּיל אֶבְיוֹן מְשַׁוֵּעַ וְעָנִי וְאֵין עֹזֵר לוֹ׃",
+      "he_plain": "כי יציל אביון משווע וענני ואין עוזר לו",
+      "translit": "Ki yatsíl evyón meshavéa; veaáni veen ozér lo.",
+      "es": "Porque él librará al menesteroso que clama y al afligido que no tiene quien le socorra."
     },
     {
       "num": 13,
-      "he": "יָ֭חֹס עַל־דַּ֣ל וְאֶבְי֑וֹן וְנַפְשׁ֖וֹת אֶבְיוֹנִ֣ים יוֹשִֽׁיעַ׃",
-      "he_plain": "יחס על דל ואביון ונפשות אביונים יושיע",
-      "translit": "",
-      "es": ""
+      "he": "יָחֹס עַל דַּל וְאֶבְיוֹן וְנַפְשׁוֹת אֶבְיוֹנִים יוֹשִׁיעַ׃",
+      "he_plain": "יחוס על דל ואביון ונפשות אביונים יושיע",
+      "translit": "Yajós al dal veevyón; venafshót evyoním yoshía.",
+      "es": "Tendrá misericordia del pobre y del menesteroso y salvará las almas de los pobres."
     },
     {
       "num": 14,
-      "he": "מִתּ֣וֹךְ וּ֭מֵחָמָס יִגְאַ֣ל נַפְשָׁ֑ם וְיֵיקַ֖ר דָּמָ֣ם בְּעֵינָֽיו׃",
+      "he": "מִתּוֹךְ וּמֵחָמָס יִגְאַל נַפְשָׁם וְיֵיקַר דָּמָם בְּעֵינָיו׃",
       "he_plain": "מתוך ומחמס יגאל נפשם וייקר דמם בעיניו",
-      "translit": "",
-      "es": ""
+      "translit": "Mitój umejamás yiguál nafshám; veyikár damám beeináv.",
+      "es": "De engaño y de violencia redimirá sus almas y la sangre de ellos será preciosa ante sus ojos."
     },
     {
       "num": 15,
-      "he": "וִיחִ֗י וְיִתֶּן־לוֹ֮ מִזְּהַ֢ב שְׁ֫בָ֥א וְיִתְפַּלֵּ֣ל בַּעֲד֣וֹ תָמִ֑יד כׇּל־הַ֝יּ֗וֹם יְבָרְכֶֽנְהוּ׃",
+      "he": "וִיחִי וְיִתֶּן לוֹ מִזְּהַב שְׁבָא וְיִתְפַּלֵּל בַּעֲדוֹ תָמִיד כָּל הַיּוֹם יְבָרְכֶנְהוּ׃",
       "he_plain": "ויחי ויתן לו מזהב שבא ויתפלל בעדו תמיד כל היום יברכנהו",
-      "translit": "",
-      "es": ""
+      "translit": "Vijí; veyitén lo mizahab Shevá; veyitpalél baadó tamíd; kol hayóm yevareJénhu.",
+      "es": "Vivirá y se le dará del oro de Sheva; se orará por él continuamente; todo el día se le bendecirá."
     },
     {
       "num": 16,
-      "he": "יְהִ֤י פִסַּת־בַּ֨ר׀ בָּאָרֶץ֮ בְּרֹ֢אשׁ הָ֫רִ֥ים יִרְעַ֣שׁ כַּלְּבָנ֣וֹן פִּרְי֑וֹ וְיָצִ֥יצוּ מֵ֝עִ֗יר כְּעֵ֣שֶׂב הָאָֽרֶץ׃",
+      "he": "יְהִי פִסַּת בַּר בָּאָרֶץ בְּרֹאשׁ הָרִים יִרְעַשׁ כַּלְּבָנוֹן פִּרְיוֹ וְיָצִיצוּ מֵעִיר כְּעֵשֶׂב הָאָרֶץ׃",
       "he_plain": "יהי פסת בר בארץ בראש הרים ירעש כלבנון פריו ויציצו מעיר כעשב הארץ",
-      "translit": "",
-      "es": ""
+      "translit": "Yehí fisát bar baárets; berósh harím; yiraásh kalLevanón peryó; veyatsítsu meír keéshev haárets.",
+      "es": "Que haya abundancia de grano en la tierra; en la cima de los montes ondee su fruto como el Líbano y florezca la ciudad como la hierba de la tierra."
     },
     {
       "num": 17,
-      "he": "יְהִ֤י שְׁמ֨וֹ׀ לְֽעוֹלָ֗ם לִפְנֵי־שֶׁמֶשׁ֮ (ינין) [יִנּ֢וֹן] שְׁ֫מ֥וֹ וְיִתְבָּ֥רְכוּ ב֑וֹ כׇּל־גּוֹיִ֥ם יְאַשְּׁרֽוּהוּ׃",
-      "he_plain": "יהי שמו לעולם לפני שמש (ינין) [ינון] שמו ויתברכו בו כל גוים יאשרוהו",
-      "translit": "",
-      "es": ""
+      "he": "יְהִי שְׁמוֹ לְעוֹלָם לִפְנֵי שֶׁמֶשׁ יִנּוֹן שְׁמוֹ וְיִתְבָּרְכוּ בוֹ כָּל גּוֹיִם יְאַשְּׁרוּהוּ׃",
+      "he_plain": "יהי שמו לעולם לפני שמש ינון שמו ויתברכו בו כל גוים יאשרוהו",
+      "translit": "Yehí shemó leolám; lifnéi shémesh yinón shemó; veyitbarejú vo kol goyím; yeashruhu.",
+      "es": "Sea su nombre para siempre; mientras el sol dure se perpetuará su nombre; y benditas serán en él todas las naciones; le llamarán bienaventurado."
     },
     {
       "num": 18,
-      "he": "בָּר֤וּךְ׀ יְהֹוָ֣ה אֱ֭לֹהִים אֱלֹהֵ֣י יִשְׂרָאֵ֑ל עֹשֵׂ֖ה נִפְלָא֣וֹת לְבַדּֽוֹ׃",
-      "he_plain": "ברוך יהוה אלהים אלהי ישראל עשה נפלאות לבדו",
-      "translit": "",
-      "es": ""
+      "he": "בָּרוּךְ יְהוָה אֱלֹהִים אֱלֹהֵי יִשְׂרָאֵל עֹשֵׂה נִפְלָאוֹת לְבַדּוֹ׃",
+      "he_plain": "ברוך יהוה אלהים אלהי ישראל עושה נפלאות לבדו",
+      "translit": "Barúj Adonái Elohím; Elohéi Yisraél; oséh niflaót levadó.",
+      "es": "Bendito el Eterno Dios, el Dios de Israel, el único que hace maravillas."
     },
     {
       "num": 19,
-      "he": "וּבָר֤וּךְ׀ שֵׁ֥ם כְּבוֹד֗וֹ לְע֫וֹלָ֥ם וְיִמָּלֵ֣א כְ֭בוֹדוֹ אֶת־כֹּ֥ל הָאָ֗רֶץ אָ֘מֵ֥ן׀וְאָמֵֽן׃",
-      "he_plain": "וברוך שם כבודו לעולם וימלא כבודו את כל הארץ אמןואמן",
-      "translit": "",
-      "es": ""
+      "he": "וּבָרוּךְ שֵׁם כְּבוֹדוֹ לְעוֹלָם וְיִמָּלֵא כְבוֹדוֹ אֶת כָּל הָאָרֶץ אָמֵן וְאָמֵן׃",
+      "he_plain": "וברוך שם כבודו לעולם וימלא כבודו את כל הארץ אמן ואמן",
+      "translit": "Uvarúj shém kevodó leolám; veyimalé jevodó et kol haárets; Amén veAmén.",
+      "es": "Y bendito su glorioso nombre para siempre; y toda la tierra sea llena de Su gloria. Amén y Amén."
     },
     {
       "num": 20,
-      "he": "כׇּלּ֥וּ תְפִלּ֑וֹת דָּ֝וִ֗ד בֶּן־יִשָֽׁי׃",
+      "he": "כָּלּוּ תְפִלּוֹת דָּוִד בֶּן יִשָׁי׃",
       "he_plain": "כלו תפלות דוד בן ישי",
-      "translit": "",
-      "es": ""
+      "translit": "Kalú tefilót Davíd ben Yisháy.",
+      "es": "Aquí terminan las oraciones de David hijo de Yishai."
     }
-  ],
-  "audio": "",
-  "title_es": "De Shelomó"
+  ]
 }
