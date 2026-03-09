@@ -1,92 +1,91 @@
 {
   "number": 58,
   "title_he": "תהילים",
+  "title_es": "Contra los jueces injustos",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֥חַ אַל־תַּשְׁחֵ֗ת לְדָוִ֥ד מִכְתָּֽם׃",
+      "he": "לַמְנַצֵּחַ אַל תַּשְׁחֵת לְדָוִד מִכְתָּם׃",
       "he_plain": "למנצח אל תשחת לדוד מכתם",
-      "translit": "",
-      "es": ""
+      "translit": "Lamnatséaj al tashJét leDavíd mijtám.",
+      "es": "Al director; «No destruyas». De David. Miktam."
     },
     {
       "num": 2,
-      "he": "הַאֻמְנָ֗ם אֵ֣לֶם צֶ֭דֶק תְּדַבֵּר֑וּן מֵישָׁרִ֥ים תִּ֝שְׁפְּט֗וּ בְּנֵ֣י אָדָֽם׃",
+      "he": "הַאֻמְנָם אֵלֶם צֶדֶק תְּדַבֵּרוּן מֵישָׁרִים תִּשְׁפְּטוּ בְּנֵי אָדָם׃",
       "he_plain": "האמנם אלם צדק תדברון מישרים תשפטו בני אדם",
-      "translit": "",
-      "es": ""
+      "translit": "Haumnam élem tsédek tedaberún; meisharím tishpetú benéi adám.",
+      "es": "¿Pronunciáis en verdad justicia? ¿Juzgáis rectamente a los hijos de los hombres?"
     },
     {
       "num": 3,
-      "he": "אַף־בְּלֵב֮ עוֹלֹ֢ת תִּפְעָ֫ל֥וּן בָּאָ֡רֶץ חֲמַ֥ס יְ֝דֵיכֶ֗ם תְּפַלֵּסֽוּן׃",
-      "he_plain": "אף בלב עולת תפעלון בארץ חמס ידיכם תפלסון",
-      "translit": "",
-      "es": ""
+      "he": "אַף בְּלֵב עוֹלֹת תִּפְעָלוּן בָּאָרֶץ חֲמַס יְדֵיכֶם תְּפַלֵּסוּן׃",
+      "he_plain": "אף בלב עולות תפעלון בארץ חמס ידיכם תפלסון",
+      "translit": "Af belév olót tifaalún; baárets jamás yadéijem tefalEsún.",
+      "es": "Antes en el corazón maquináis iniquidades; en la tierra ponderáis la violencia de vuestras manos."
     },
     {
       "num": 4,
-      "he": "זֹ֣רוּ רְשָׁעִ֣ים מֵרָ֑חֶם תָּע֥וּ מִ֝בֶּ֗טֶן דֹּבְרֵ֥י כָזָֽב׃",
-      "he_plain": "זרו רשעים מרחם תעו מבטן דברי כזב",
-      "translit": "",
-      "es": ""
+      "he": "זֹרוּ רְשָׁעִים מֵרָחֶם תָּעוּ מִבֶּטֶן דֹּבְרֵי כָזָב׃",
+      "he_plain": "זורו רשעים מרחם תעו מבטן דוברי כזב",
+      "translit": "Zorú reshaím merájem; taú mibéten dobréi jazáv.",
+      "es": "Se apartaron los impíos desde el vientre materno; desde que nacieron se descarriaron hablando mentira."
     },
     {
       "num": 5,
-      "he": "חֲמַת־לָ֗מוֹ כִּדְמ֥וּת חֲמַת־נָחָ֑שׁ כְּמוֹ־פֶ֥תֶן חֵ֝רֵ֗שׁ יַאְטֵ֥ם אׇזְנֽוֹ׃",
+      "he": "חֲמַת לָמוֹ כִּדְמוּת חֲמַת נָחָשׁ כְּמוֹ פֶתֶן חֵרֵשׁ יַאְטֵם אָזְנוֹ׃",
       "he_plain": "חמת למו כדמות חמת נחש כמו פתן חרש יאטם אזנו",
-      "translit": "",
-      "es": ""
+      "translit": "Jamát lámo kidmút jamát nájash; kemó féten jerésh yaatém ozno.",
+      "es": "Su veneno es como veneno de serpiente; son como la víbora sorda que cierra su oído,"
     },
     {
       "num": 6,
-      "he": "אֲשֶׁ֣ר לֹֽא־יִ֭שְׁמַע לְק֣וֹל מְלַחֲשִׁ֑ים חוֹבֵ֖ר חֲבָרִ֣ים מְחֻכָּֽם׃",
-      "he_plain": "אשר לא ישמע לקול מלחשים חובר חברים מחכם",
-      "translit": "",
-      "es": ""
+      "he": "אֲשֶׁר לֹא יִשְׁמַע לְקוֹל מְלַחֲשִׁים חוֹבֵר חֲבָרִים מְחֻכָּם׃",
+      "he_plain": "אשר לא ישמע לקול מלחשים חובר חברים מחוכם",
+      "translit": "Ashér lo yishmá lekól melaJashím; jovér jevarím mejukám.",
+      "es": "que no escucha la voz de los encantadores ni del hábil hechicero de encantos."
     },
     {
       "num": 7,
-      "he": "אֱֽלֹהִ֗ים הֲרׇס־שִׁנֵּ֥ימֽוֹ בְּפִ֑ימוֹ מַלְתְּע֥וֹת כְּ֝פִירִ֗ים נְתֹ֣ץ׀יְהֹוָֽה׃",
-      "he_plain": "אלהים הרס שנימו בפימו מלתעות כפירים נתץיהוה",
-      "translit": "",
-      "es": ""
+      "he": "אֱלֹהִים הֲרָס שִׁנֵּימוֹ בְּפִימוֹ מַלְתְּעוֹת כְּפִירִים נְתֹץ יְהוָה׃",
+      "he_plain": "אלהים הרס שנימו בפימו מלתעות כפירים נתוץ יהוה",
+      "translit": "Elohím haráss shinéimo befímo; malt'ot kefirim netóts Adonái.",
+      "es": "Oh Dios, quiébra sus dientes en su boca; quiebra, oh Eterno, las muelas de los leones."
     },
     {
       "num": 8,
-      "he": "יִמָּאֲס֣וּ כְמוֹ־מַ֭יִם יִתְהַלְּכוּ־לָ֑מוֹ יִדְרֹ֥ךְ חִ֝צָּ֗ו כְּמ֣וֹ יִתְמֹלָֽלוּ׃",
-      "he_plain": "ימאסו כמו מים יתהלכו למו ידרך חצו כמו יתמללו",
-      "translit": "",
-      "es": ""
+      "he": "יִמָּאֲסוּ כְמוֹ מַיִם יִתְהַלְּכוּ לָמוֹ יִדְרֹךְ חִצָּיו כְּמוֹ יִתְמֹלָלוּ׃",
+      "he_plain": "ימאסו כמו מים יתהלכו למו ידרוך חצו כמו יתמוללו",
+      "translit": "Yimaasú kemó máyim yithalejú lámo; yidróJ jitsáv kemó yitmoLálu.",
+      "es": "Sean disipados como aguas que corren; cuando él apunte sus saetas sean como cercenadas."
     },
     {
       "num": 9,
-      "he": "כְּמ֣וֹ שַׁ֭בְּלוּל תֶּ֣מֶס יַהֲלֹ֑ךְ נֵ֥פֶל אֵ֝֗שֶׁת בַּל־חָ֥זוּ שָֽׁמֶשׁ׃",
-      "he_plain": "כמו שבלול תמס יהלך נפל אשת בל חזו שמש",
-      "translit": "",
-      "es": ""
+      "he": "כְּמוֹ שַׁבְּלוּל תֶּמֶס יַהֲלֹךְ נֵפֶל אֵשֶׁת בַּל חָזוּ שָׁמֶשׁ׃",
+      "he_plain": "כמו שבלול תמס יהלוך נפל אשת בל חזו שמש",
+      "translit": "Kemó shabLúl témess yahaLój; néfel éshet bal jazú shémesh.",
+      "es": "Pasen como el caracol que se va disolviendo; como el aborto de mujer que no vio el sol."
     },
     {
       "num": 10,
-      "he": "בְּטֶ֤רֶם׀ יָבִ֣ינוּ סִּירֹתֵכֶ֣ם אָטָ֑ד כְּמוֹ־חַ֥י כְּמוֹ־חָ֝ר֗וֹן יִשְׂעָרֶֽנּוּ׃",
-      "he_plain": "בטרם יבינו סירתכם אטד כמו חי כמו חרון ישערנו",
-      "translit": "",
-      "es": ""
+      "he": "בְּטֶרֶם יָבִינוּ סִּירֹתֵיכֶם אָטָד כְּמוֹ חַי כְּמוֹ חָרוֹן יִשְׂעָרֶנּוּ׃",
+      "he_plain": "בטרם יבינו סירותיכם אטד כמו חי כמו חרון ישערנו",
+      "translit": "Béterem yavínu sirotéijem atád; kemó jáy kemó jarón yisarénu.",
+      "es": "Antes que vuestras ollas sientan el fuego de las espinas tanto en verde como en ardiente furia Él los arrebatará."
     },
     {
       "num": 11,
-      "he": "יִשְׂמַ֣ח צַ֭דִּיק כִּי־חָזָ֣ה נָקָ֑ם פְּעָמָ֥יו יִ֝רְחַ֗ץ בְּדַ֣ם הָרָשָֽׁע׃",
+      "he": "יִשְׂמַח צַדִּיק כִּי חָזָה נָקָם פְּעָמָיו יִרְחַץ בְּדַם הָרָשָׁע׃",
       "he_plain": "ישמח צדיק כי חזה נקם פעמיו ירחץ בדם הרשע",
-      "translit": "",
-      "es": ""
+      "translit": "Yismáj tsadík ki jazá nakám; paamáv yirjáts bedam harashá.",
+      "es": "Se alegrará el justo cuando vea la venganza; sus pies lavará en la sangre del impío."
     },
     {
       "num": 12,
-      "he": "וְיֹאמַ֣ר אָ֭דָם אַךְ־פְּרִ֣י לַצַּדִּ֑יק אַ֥ךְ יֵשׁ־אֱ֝לֹהִ֗ים שֹׁפְטִ֥ים בָּאָֽרֶץ׃ {פ}",
-      "he_plain": "ויאמר אדם אך פרי לצדיק אך יש אלהים שפטים בארץ {פ}",
-      "translit": "",
-      "es": ""
+      "he": "וְיֹאמַר אָדָם אַךְ פְּרִי לַצַּדִּיק אַךְ יֵשׁ אֱלֹהִים שֹׁפְטִים בָּאָרֶץ׃",
+      "he_plain": "ויאמר אדם אך פרי לצדיק אך יש אלהים שופטים בארץ",
+      "translit": "Veyomár adám: aj perí latsadík; aj yesh Elohím shofetím baárets.",
+      "es": "Entonces dirá el hombre: Ciertamente hay galardón para el justo; ciertamente hay Dios que juzga en la tierra."
     }
-  ],
-  "audio": "",
-  "title_es": "¿Es que en verdad habláis justicia?"
+  ]
 }

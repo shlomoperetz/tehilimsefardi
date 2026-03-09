@@ -1,106 +1,105 @@
 {
   "number": 60,
   "title_he": "תהילים",
+  "title_es": "Lamento nacional y confianza en Dios",
   "verses": [
     {
       "num": 1,
-      "he": "לַ֭מְנַצֵּחַ עַל־שׁוּשַׁ֣ן עֵד֑וּת מִכְתָּ֖ם לְדָוִ֣ד לְלַמֵּֽד׃",
+      "he": "לַמְנַצֵּחַ עַל שׁוּשַׁן עֵדוּת מִכְתָּם לְדָוִד לְלַמֵּד׃",
       "he_plain": "למנצח על שושן עדות מכתם לדוד ללמד",
-      "translit": "",
-      "es": ""
+      "translit": "Lamnatséaj al shushán edút mijtám leDavíd lelamEd.",
+      "es": "Al director; sobre «El lirio del testimonio». Miktam de David, para enseñar."
     },
     {
       "num": 2,
-      "he": "בְּהַצּוֹת֨וֹ׀ אֶ֥ת־אֲרַ֣ם נַהֲרַיִם֮ וְאֶת־אֲרַ֢ם צ֫וֹבָ֥ה וַיָּ֤שׇׁב יוֹאָ֗ב וַיַּ֣ךְ אֶת־אֱד֣וֹם בְּגֵיא־מֶ֑לַח שְׁנֵ֖ים עָשָׂ֣ר אָֽלֶף׃",
+      "he": "בְּהַצּוֹתוֹ אֶת אֲרַם נַהֲרַיִם וְאֶת אֲרַם צוֹבָה וַיָּשָׁב יוֹאָב וַיַּךְ אֶת אֱדוֹם בְּגֵיא מֶלַח שְׁנֵים עָשָׂר אָלֶף׃",
       "he_plain": "בהצותו את ארם נהרים ואת ארם צובה וישב יואב ויך את אדום בגיא מלח שנים עשר אלף",
-      "translit": "",
-      "es": ""
+      "translit": "BeHatsotó et Arám Naharáyim veet Arám Tsová; vayashav Yoáv vayáj et Edóm beguéi Mélaj shnéim asár álef.",
+      "es": "Cuando luchó contra Aram Naharaim y Aram Tsová y regresó Yoav e hirió a Edom en el Valle de la Sal a doce mil."
     },
     {
       "num": 3,
-      "he": "אֱ֭לֹהִים זְנַחְתָּ֣נוּ פְרַצְתָּ֑נוּ אָ֝נַ֗פְתָּ תְּשׁ֣וֹבֵֽב לָֽנוּ׃",
+      "he": "אֱלֹהִים זְנַחְתָּנוּ פְרַצְתָּנוּ אָנַפְתָּ תְּשׁוֹבֵב לָנוּ׃",
       "he_plain": "אלהים זנחתנו פרצתנו אנפת תשובב לנו",
-      "translit": "",
-      "es": ""
+      "translit": "Elohím zenájtanu ferástanu; anáfta teshobév lánu.",
+      "es": "Oh Dios, nos has desechado y nos has dispersado; Te has enojado; ¡restáuranos!"
     },
     {
       "num": 4,
-      "he": "הִרְעַ֣שְׁתָּה אֶ֣רֶץ פְּצַמְתָּ֑הּ רְפָ֖ה שְׁבָרֶ֣יהָ כִי־מָֽטָה׃",
+      "he": "הִרְעַשְׁתָּה אֶרֶץ פְּצַמְתָּהּ רְפָה שְׁבָרֶיהָ כִי מָטָה׃",
       "he_plain": "הרעשתה ארץ פצמתה רפה שבריה כי מטה",
-      "translit": "",
-      "es": ""
+      "translit": "Hiráshta árets petsámtah; refé shevaréiha ki matá.",
+      "es": "Has hecho temblar la tierra y la has hendido; sana sus fracturas porque se tambalea."
     },
     {
       "num": 5,
-      "he": "הִרְאִ֣יתָ עַמְּךָ֣ קָשָׁ֑ה הִ֝שְׁקִיתָ֗נוּ יַ֣יִן תַּרְעֵלָֽה׃",
+      "he": "הִרְאִיתָה עַמְּךָ קָשָׁה הִשְׁקִיתָנוּ יַיִן תַּרְעֵלָה׃",
       "he_plain": "הראית עמך קשה השקיתנו יין תרעלה",
-      "translit": "",
-      "es": ""
+      "translit": "Hiraíta ameján kashá; hishkitánu yáyin tarElá.",
+      "es": "Has hecho ver a Tu pueblo cosas duras; nos hiciste beber vino de aturdimiento."
     },
     {
       "num": 6,
-      "he": "נָ֘תַ֤תָּה לִּירֵאֶ֣יךָ נֵּ֭ס לְהִתְנוֹסֵ֑ס מִ֝פְּנֵ֗י קֹ֣שֶׁט סֶֽלָה׃",
-      "he_plain": "נתתה ליראיך נס להתנוסס מפני קשט סלה",
-      "translit": "",
-      "es": ""
+      "he": "נָתַתָּה לִירֵאֶיךָ נֵּס לְהִתְנוֹסֵס מִפְּנֵי קֹשֶׁט סֶלָה׃",
+      "he_plain": "נתתה ליראיך נס להתנוסס מפני קושט סלה",
+      "translit": "Natáta lirEéija nés lehitnosés; mifnéi kóshet. Selá.",
+      "es": "Has dado a los que te temen una bandera para que la enarbolen a causa de la verdad. Selá."
     },
     {
       "num": 7,
-      "he": "לְ֭מַעַן יֵחָלְצ֣וּן יְדִידֶ֑יךָ הוֹשִׁ֖יעָה יְמִינְךָ֣ (ועננו) [וַעֲנֵֽנִי]׃",
-      "he_plain": "למען יחלצון ידידיך הושיעה ימינך (ועננו) [וענני]",
-      "translit": "",
-      "es": ""
+      "he": "לְמַעַן יֵחָלְצוּן יְדִידֶיךָ הוֹשִׁיעָה יְמִינְךָ וַעֲנֵנִי׃",
+      "he_plain": "למען יחלצון ידידיך הושיעה ימינך וענני",
+      "translit": "Lemaán yejaltSún yedidéija; hoshiá yeminján vaanéni.",
+      "es": "Para que sean librados Tus amados, salva con Tu diestra y respóndeme."
     },
     {
       "num": 8,
-      "he": "אֱלֹהִ֤ים׀ דִּבֶּ֥ר בְּקׇדְשׁ֗וֹ אֶ֫עְלֹ֥זָה אֲחַלְּקָ֥ה שְׁכֶ֑ם וְעֵ֖מֶק סֻכּ֣וֹת אֲמַדֵּֽד׃",
-      "he_plain": "אלהים דבר בקדשו אעלזה אחלקה שכם ועמק סכות אמדד",
-      "translit": "",
-      "es": ""
+      "he": "אֱלֹהִים דִּבֶּר בְּקָדְשׁוֹ אֶעְלֹזָה אֲחַלְּקָה שְׁכֶם וְעֵמֶק סֻכּוֹת אֲמַדֵּד׃",
+      "he_plain": "אלהים דבר בקדשו אעלוזה אחלקה שכם ועמק סוכות אמדד",
+      "translit": "Elohím dibér bekodshó; eelozá; ajalká shejém; veémek Sukót amadéd.",
+      "es": "Dios habló en Su santidad: Me alegraré; repartiré a Shejém y mediré el valle de Sukot."
     },
     {
       "num": 9,
-      "he": "לִ֤י גִלְעָ֨ד׀ וְלִ֬י מְנַשֶּׁ֗ה וְ֭אֶפְרַיִם מָע֣וֹז רֹאשִׁ֑י יְ֝הוּדָ֗ה מְחֹֽקְקִֽי׃",
-      "he_plain": "לי גלעד ולי מנשה ואפרים מעוז ראשי יהודה מחקקי",
-      "translit": "",
-      "es": ""
+      "he": "לִי גִלְעָד וְלִי מְנַשֶּׁה וְאֶפְרַיִם מָעוֹז רֹאשִׁי יְהוּדָה מְחֹקְקִי׃",
+      "he_plain": "לי גלעד ולי מנשה ואפרים מעוז ראשי יהודה מחוקקי",
+      "translit": "Lí Guilád velí Menashé; veEfráyim maóz roshí; Yehudá mejokekí.",
+      "es": "Mío es Guilad y mío Menashé; Efráyim es la fortaleza de mi cabeza; Yehudá es mi legislador."
     },
     {
       "num": 10,
-      "he": "מוֹאָ֤ב׀ סִ֬יר רַחְצִ֗י עַל־אֱ֭דוֹם אַשְׁלִ֣יךְ נַעֲלִ֑י עָ֝לַ֗י פְּלֶ֣שֶׁת הִתְרוֹעָֽעִי׃",
+      "he": "מוֹאָב סִיר רַחְצִי עַל אֱדוֹם אַשְׁלִיךְ נַעֲלִי עָלַי פְּלֶשֶׁת הִתְרוֹעָעִי׃",
       "he_plain": "מואב סיר רחצי על אדום אשליך נעלי עלי פלשת התרועעי",
-      "translit": "",
-      "es": ""
+      "translit": "Moáv sir rajtsí; al Edóm ashlíj naalí; aláy Péleshet hitroaí.",
+      "es": "Moab es la vasija para lavarme; sobre Edom echaré mi sandalia; sobre Filistea lanzaré mi grito de triunfo."
     },
     {
       "num": 11,
-      "he": "מִ֣י יֹ֭בִלֵנִי עִ֣יר מָצ֑וֹר מִ֖י נָחַ֣נִי עַד־אֱדֽוֹם׃",
-      "he_plain": "מי יבלני עיר מצור מי נחני עד אדום",
-      "translit": "",
-      "es": ""
+      "he": "מִי יֹבִלֵנִי עִיר מָצוֹר מִי נָחַנִי עַד אֱדוֹם׃",
+      "he_plain": "מי יובילני עיר מצור מי נחני עד אדום",
+      "translit": "Mi yoviléni ír matsór; mi naJáni ad Edóm.",
+      "es": "¿Quién me llevará a la ciudad fuerte? ¿Quién me guiará hasta Edom?"
     },
     {
       "num": 12,
-      "he": "הֲלֹֽא־אַתָּ֣ה אֱלֹהִ֣ים זְנַחְתָּ֑נוּ וְֽלֹא־תֵצֵ֥א אֱ֝לֹהִ֗ים בְּצִבְאוֹתֵֽינוּ׃",
+      "he": "הֲלֹא אַתָּה אֱלֹהִים זְנַחְתָּנוּ וְלֹא תֵצֵא אֱלֹהִים בְּצִבְאֹתֵינוּ׃",
       "he_plain": "הלא אתה אלהים זנחתנו ולא תצא אלהים בצבאותינו",
-      "translit": "",
-      "es": ""
+      "translit": "Haló atá Elohím zenájtanu; veló tetséh Elohím betsivotéinu.",
+      "es": "¿No eres Tú, oh Dios, quien nos había desechado y ya no salías, oh Dios, con nuestros ejércitos?"
     },
     {
       "num": 13,
-      "he": "הָֽבָה־לָּ֣נוּ עֶזְרָ֣ת מִצָּ֑ר וְ֝שָׁ֗וְא תְּשׁוּעַ֥ת אָדָֽם׃",
+      "he": "הָבָה לָנוּ עֶזְרָת מִצָּר וְשָׁוְא תְּשׁוּעַת אָדָם׃",
       "he_plain": "הבה לנו עזרת מצר ושוא תשועת אדם",
-      "translit": "",
-      "es": ""
+      "translit": "Havá lánu ezrát mitsár; veshav teshuát adám.",
+      "es": "Danos socorro contra el adversario porque vana es la ayuda del hombre."
     },
     {
       "num": 14,
-      "he": "בֵּאלֹהִ֥ים נַֽעֲשֶׂה־חָ֑יִל וְ֝ה֗וּא יָב֥וּס צָרֵֽינוּ׃ {פ}",
-      "he_plain": "באלהים נעשה חיל והוא יבוס צרינו {פ}",
-      "translit": "",
-      "es": ""
+      "he": "בֵּאלֹהִים נַעֲשֶׂה חָיִל וְהוּא יָבוּס צָרֵינוּ׃",
+      "he_plain": "באלהים נעשה חיל והוא יבוס צרינו",
+      "translit": "BeElohím naaséh jáyil; vehu yavús tsaréinu.",
+      "es": "En Dios haremos proezas y Él hollará a nuestros enemigos."
     }
-  ],
-  "audio": "",
-  "title_es": "Dios, nos has rechazado"
+  ]
 }
