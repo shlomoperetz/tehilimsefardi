@@ -1,127 +1,126 @@
 {
   "number": 86,
   "title_he": "תהילים",
+  "title_es": "Oración de David en la aflicción",
   "verses": [
     {
       "num": 1,
-      "he": "תְּפִלָּ֗ה לְדָ֫וִ֥ד הַטֵּֽה־יְהֹוָ֣ה אׇזְנְךָ֣ עֲנֵ֑נִי כִּֽי־עָנִ֖י וְאֶבְי֣וֹן אָֽנִי׃",
+      "he": "תְּפִלָּה לְדָוִד הַטֵּה יְהוָה אָזְנְךָ עֲנֵנִי כִּי עָנִי וְאֶבְיוֹן אָנִי׃",
       "he_plain": "תפלה לדוד הטה יהוה אזנך ענני כי עני ואביון אני",
-      "translit": "",
-      "es": ""
+      "translit": "Tefilá leDavíd. Hatéh Adonái oznejá anéni; ki aní veevyón aní.",
+      "es": "Oración de David. Inclina, oh Eterno, Tu oído y respóndeme porque estoy afligido y menesteroso."
     },
     {
       "num": 2,
-      "he": "שׇׁ֥מְרָ֣ה נַפְשִׁי֮ כִּֽי־חָסִ֢יד אָ֥֫נִי הוֹשַׁ֣ע עַ֭בְדְּךָ אַתָּ֣ה אֱלֹהַ֑י הַבּוֹטֵ֥חַ אֵלֶֽיךָ׃",
+      "he": "שָׁמְרָה נַפְשִׁי כִּי חָסִיד אָנִי הוֹשַׁע עַבְדְּךָ אַתָּה אֱלֹהַי הַבּוֹטֵחַ אֵלֶיךָ׃",
       "he_plain": "שמרה נפשי כי חסיד אני הושע עבדך אתה אלהי הבוטח אליך",
-      "translit": "",
-      "es": ""
+      "translit": "Shamrá nafshí ki jasíd aní; hoshá abdejá atá Eloháy; habotéaj eléija.",
+      "es": "Guarda mi alma porque soy piadoso; salva Tú a Tu siervo que en Ti confía; Tú eres mi Dios."
     },
     {
       "num": 3,
-      "he": "חׇנֵּ֥נִי אֲדֹנָ֑י כִּ֥י אֵלֶ֥יךָ אֶ֝קְרָ֗א כׇּל־הַיּֽוֹם׃",
+      "he": "חָנֵּנִי אֲדֹנָי כִּי אֵלֶיךָ אֶקְרָא כָּל הַיּוֹם׃",
       "he_plain": "חנני אדני כי אליך אקרא כל היום",
-      "translit": "",
-      "es": ""
+      "translit": "Janeéni Adonái ki eléija ekrá kol hayóm.",
+      "es": "Ten misericordia de mí, oh Señor porque a Ti clamo todo el día."
     },
     {
       "num": 4,
-      "he": "שַׂ֭מֵּחַ נֶ֣פֶשׁ עַבְדֶּ֑ךָ כִּ֥י אֵלֶ֥יךָ אֲ֝דֹנָ֗י נַפְשִׁ֥י אֶשָּֽׂא׃",
+      "he": "שַׂמֵּחַ נֶפֶשׁ עַבְדֶּךָ כִּי אֵלֶיךָ אֲדֹנָי נַפְשִׁי אֶשָּׂא׃",
       "he_plain": "שמח נפש עבדך כי אליך אדני נפשי אשא",
-      "translit": "",
-      "es": ""
+      "translit": "SamÉaj néfesh abdéja; ki eléija Adonái nafshí esá.",
+      "es": "Alegra el alma de Tu siervo porque a Ti, oh Señor, elevo mi alma."
     },
     {
       "num": 5,
-      "he": "כִּֽי־אַתָּ֣ה אֲ֭דֹנָי ט֣וֹב וְסַלָּ֑ח וְרַב־חֶ֝֗סֶד לְכׇל־קֹֽרְאֶֽיךָ׃",
-      "he_plain": "כי אתה אדני טוב וסלח ורב חסד לכל קראיך",
-      "translit": "",
-      "es": ""
+      "he": "כִּי אַתָּה אֲדֹנָי טוֹב וְסַלָּח וְרַב חֶסֶד לְכָל קֹרְאֶיךָ׃",
+      "he_plain": "כי אתה אדני טוב וסלח ורב חסד לכל קוראיך",
+      "translit": "Ki atá Adonái tov vesaláj; verav jésed lejol korEija.",
+      "es": "Porque Tú, Señor, eres bueno y perdonador y grande en bondad leal para con todos los que Te invocan."
     },
     {
       "num": 6,
-      "he": "הַאֲזִ֣ינָה יְ֭הֹוָה תְּפִלָּתִ֑י וְ֝הַקְשִׁ֗יבָה בְּק֣וֹל תַּחֲנוּנוֹתָֽי׃",
+      "he": "הַאֲזִינָה יְהוָה תְּפִלָּתִי וְהַקְשִׁיבָה בְּקוֹל תַּחֲנוּנוֹתָי׃",
       "he_plain": "האזינה יהוה תפלתי והקשיבה בקול תחנונותי",
-      "translit": "",
-      "es": ""
+      "translit": "Haazíná Adonái tefilatí; vehakshíba bekól tajanunóTai.",
+      "es": "Escucha, oh Eterno, mi oración y atiende a la voz de mis ruegos."
     },
     {
       "num": 7,
-      "he": "בְּי֣וֹם צָ֭רָתִֽי אֶקְרָאֶ֗ךָּ כִּ֣י תַעֲנֵֽנִי׃",
+      "he": "בְּיוֹם צָרָתִי אֶקְרָאֶךָּ כִּי תַעֲנֵנִי׃",
       "he_plain": "ביום צרתי אקראך כי תענני",
-      "translit": "",
-      "es": ""
+      "translit": "Beyóm tsaratí ekraéja; ki taaanéni.",
+      "es": "En el día de mi angustia Te invocaré porque Tú me responderás."
     },
     {
       "num": 8,
-      "he": "אֵין־כָּמ֖וֹךָ בָאֱלֹהִ֥ים׀אֲדֹנָ֗י וְאֵ֣ין כְּֽמַעֲשֶֽׂיךָ׃",
-      "he_plain": "אין כמוך באלהיםאדני ואין כמעשיך",
-      "translit": "",
-      "es": ""
+      "he": "אֵין כָּמוֹךָ בָאֱלֹהִים אֲדֹנָי וְאֵין כְּמַעֲשֶׂיךָ׃",
+      "he_plain": "אין כמוך באלהים אדני ואין כמעשיך",
+      "translit": "En kamója vaElohím Adonái; veen kemaaséija.",
+      "es": "No hay entre los dioses como Tú, oh Señor ni hay obras como las Tuyas."
     },
     {
       "num": 9,
-      "he": "כׇּל־גּוֹיִ֤ם׀ אֲשֶׁ֥ר עָשִׂ֗יתָ יָב֤וֹאוּ׀ וְיִשְׁתַּחֲו֣וּ לְפָנֶ֣יךָ אֲדֹנָ֑י וִ֖יכַבְּד֣וּ לִשְׁמֶֽךָ׃",
+      "he": "כָּל גּוֹיִם אֲשֶׁר עָשִׂיתָ יָבוֹאוּ וְיִשְׁתַּחֲווּ לְפָנֶיךָ אֲדֹנָי וִיכַבְּדוּ לִשְׁמֶךָ׃",
       "he_plain": "כל גוים אשר עשית יבואו וישתחוו לפניך אדני ויכבדו לשמך",
-      "translit": "",
-      "es": ""
+      "translit": "Kol goyím ashér asíta yavóu veyishtajavú lefanéija Adonái; viyejebeRdú lishméja.",
+      "es": "Todas las naciones que hiciste vendrán y se postrarán delante de Ti, oh Señor y glorificarán Tu nombre."
     },
     {
       "num": 10,
-      "he": "כִּֽי־גָד֣וֹל אַ֭תָּה וְעֹשֵׂ֣ה נִפְלָא֑וֹת אַתָּ֖ה אֱלֹהִ֣ים לְבַדֶּֽךָ׃",
-      "he_plain": "כי גדול אתה ועשה נפלאות אתה אלהים לבדך",
-      "translit": "",
-      "es": ""
+      "he": "כִּי גָדוֹל אַתָּה וְעֹשֵׂה נִפְלָאוֹת אַתָּה אֱלֹהִים לְבַדֶּךָ׃",
+      "he_plain": "כי גדול אתה ועושה נפלאות אתה אלהים לבדך",
+      "translit": "Ki gadól atá veoséh niflaót; atá Elohím levadéja.",
+      "es": "Porque grande eres Tú y haces maravillas; solo Tú eres Dios."
     },
     {
       "num": 11,
-      "he": "ה֘וֹרֵ֤נִי יְהֹוָ֨ה׀ דַּרְכֶּ֗ךָ אֲהַלֵּ֥ךְ בַּאֲמִתֶּ֑ךָ יַחֵ֥ד לְ֝בָבִ֗י לְיִרְאָ֥ה שְׁמֶֽךָ׃",
+      "he": "הוֹרֵנִי יְהוָה דַּרְכֶּךָ אֲהַלֵּךְ בַּאֲמִתֶּךָ יַחֵד לְבָבִי לְיִרְאָה שְׁמֶךָ׃",
       "he_plain": "הורני יהוה דרכך אהלך באמתך יחד לבבי ליראה שמך",
-      "translit": "",
-      "es": ""
+      "translit": "Horéni Adonái darkéja; ahaléj beamiteján; yajéd levabí leyiré sheméja.",
+      "es": "Enséñame, oh Eterno, Tu camino; caminaré en Tu verdad; une mi corazón para que tema Tu nombre."
     },
     {
       "num": 12,
-      "he": "אוֹדְךָ֤׀ אֲדֹנָ֣י אֱ֭לֹהַי בְּכׇל־לְבָבִ֑י וַאֲכַבְּדָ֖ה שִׁמְךָ֣ לְעוֹלָֽם׃",
+      "he": "אוֹדְךָ אֲדֹנָי אֱלֹהַי בְּכָל לְבָבִי וַאֲכַבְּדָה שִׁמְךָ לְעוֹלָם׃",
       "he_plain": "אודך אדני אלהי בכל לבבי ואכבדה שמך לעולם",
-      "translit": "",
-      "es": ""
+      "translit": "Odejá Adonái Eloháy bejol levabí; vaajabdá shimejá leolám.",
+      "es": "Te alabaré, oh Señor Dios mío, con todo mi corazón y glorificaré Tu nombre para siempre."
     },
     {
       "num": 13,
-      "he": "כִּֽי־חַ֭סְדְּךָ גָּד֣וֹל עָלָ֑י וְהִצַּ֥לְתָּ נַ֝פְשִׁ֗י מִשְּׁא֥וֹל תַּחְתִּיָּֽה׃",
+      "he": "כִּי חַסְדְּךָ גָּדוֹל עָלָי וְהִצַּלְתָּ נַפְשִׁי מִשְּׁאוֹל תַּחְתִּיָּה׃",
       "he_plain": "כי חסדך גדול עלי והצלת נפשי משאול תחתיה",
-      "translit": "",
-      "es": ""
+      "translit": "Ki jasdejá gadól aláy; vehitsálta nafshí misheól tajtiyá.",
+      "es": "Porque grande es Tu bondad leal para conmigo y libraste mi alma del Seol profundo."
     },
     {
       "num": 14,
-      "he": "אֱלֹהִ֤ים׀ זֵ֘דִ֤ים קָמוּ־עָלַ֗י וַעֲדַ֣ת עָ֭רִיצִים בִּקְשׁ֣וּ נַפְשִׁ֑י וְלֹ֖א שָׂמ֣וּךָ לְנֶגְדָּֽם׃",
+      "he": "אֱלֹהִים זֵדִים קָמוּ עָלַי וַעֲדַת עָרִיצִים בִּקְשׁוּ נַפְשִׁי וְלֹא שָׂמוּךָ לְנֶגְדָּם׃",
       "he_plain": "אלהים זדים קמו עלי ועדת עריצים בקשו נפשי ולא שמוך לנגדם",
-      "translit": "",
-      "es": ""
+      "translit": "Elohím zedím kamú aláy; vaadat aritsím bikeshú nafshí; veló samúja lenegdám.",
+      "es": "Oh Dios, los soberbios se levantaron contra mí y una banda de violentos buscó mi vida sin ponerte a Ti delante de sí."
     },
     {
       "num": 15,
-      "he": "וְאַתָּ֣ה אֲ֭דֹנָי אֵל־רַח֣וּם וְחַנּ֑וּן אֶ֥רֶךְ אַ֝פַּ֗יִם וְרַב־חֶ֥סֶד וֶאֱמֶֽת׃",
+      "he": "וְאַתָּה אֲדֹנָי אֵל רַחוּם וְחַנּוּן אֶרֶךְ אַפַּיִם וְרַב חֶסֶד וֶאֱמֶת׃",
       "he_plain": "ואתה אדני אל רחום וחנון ארך אפים ורב חסד ואמת",
-      "translit": "",
-      "es": ""
+      "translit": "Veatá Adonái El rajúm vejaNún; érej apáyim verav jésed veemét.",
+      "es": "Pero Tú, Señor, eres Dios misericordioso y clemente; tardo para la ira y grande en bondad leal y verdad."
     },
     {
       "num": 16,
-      "he": "פְּנֵ֥ה אֵלַ֗י וְחׇ֫נֵּ֥נִי תְּנָֽה־עֻזְּךָ֥ לְעַבְדֶּ֑ךָ וְ֝הוֹשִׁ֗יעָה לְבֶן־אֲמָתֶֽךָ׃",
-      "he_plain": "פנה אלי וחנני תנה עזך לעבדך והושיעה לבן אמתך",
-      "translit": "",
-      "es": ""
+      "he": "פְּנֵה אֵלַי וְחָנֵּנִי תְּנָה עֻזְּךָ לְעַבְדֶּךָ וְהוֹשִׁיעָה לְבֶן אֲמָתֶךָ׃",
+      "he_plain": "פנה אלי וחנני תנה עוזך לעבדך והושיעה לבן אמתך",
+      "translit": "Penéh eláy vejaNéni; tená uzejá leabdéja; vehoshiá leben amatéja.",
+      "es": "Mírame y ten misericordia de mí; da Tu poder a Tu siervo y salva al hijo de Tu sierva."
     },
     {
       "num": 17,
-      "he": "עֲשֵֽׂה־עִמִּ֥י א֗וֹת לְט֫וֹבָ֥ה וְיִרְא֣וּ שֹׂנְאַ֣י וְיֵבֹ֑שׁוּ כִּֽי־אַתָּ֥ה יְ֝הֹוָ֗ה עֲזַרְתַּ֥נִי וְנִחַמְתָּֽנִי׃ {פ}",
-      "he_plain": "עשה עמי אות לטובה ויראו שנאי ויבשו כי אתה יהוה עזרתני ונחמתני {פ}",
-      "translit": "",
-      "es": ""
+      "he": "עֲשֵׂה עִמִּי אוֹת לְטוֹבָה וְיִרְאוּ שֹׂנְאַי וְיֵבֹשׁוּ כִּי אַתָּה יְהוָה עֲזַרְתַּנִי וְנִחַמְתָּנִי׃",
+      "he_plain": "עשה עמי אות לטובה ויראו שונאי ויבושו כי אתה יהוה עזרתני ונחמתני",
+      "translit": "Aséh imí ot letová; veyirú sonáy veyevoshú; ki atá Adonái azartáni veNijamtáni.",
+      "es": "Dame una señal de bien para que la vean los que me aborrecen y se avergüencen porque Tú, oh Eterno, me ayudaste y me consolaste."
     }
-  ],
-  "audio": "",
-  "title_es": "Inclina Tu oído, Eterno"
+  ]
 }

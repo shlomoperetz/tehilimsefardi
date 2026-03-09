@@ -1,106 +1,105 @@
 {
   "number": 85,
   "title_he": "תהילים",
+  "title_es": "Oración por la restauración y la paz",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֬חַ׀לִבְנֵי־קֹ֬רַח מִזְמֽוֹר׃",
-      "he_plain": "למנצחלבני קרח מזמור",
-      "translit": "",
-      "es": ""
+      "he": "לַמְנַצֵּחַ לִבְנֵי קֹרַח מִזְמוֹר׃",
+      "he_plain": "למנצח לבני קורח מזמור",
+      "translit": "Lamnatséaj livnéi Kóraj mizmór.",
+      "es": "Al director. De los hijos de Koraj. Salmo."
     },
     {
       "num": 2,
-      "he": "רָצִ֣יתָ יְהֹוָ֣ה אַרְצֶ֑ךָ שַׁ֝֗בְתָּ (שבות) [שְׁבִ֣ית] יַעֲקֹֽב׃",
-      "he_plain": "רצית יהוה ארצך שבת (שבות) [שבית] יעקב",
-      "translit": "",
-      "es": ""
+      "he": "רָצִיתָ יְהוָה אַרְצֶךָ שַׁבְתָּ שְׁבִית יַעֲקֹב׃",
+      "he_plain": "רצית יהוה ארצך שבת שבית יעקב",
+      "translit": "Ratsíta Adonái artsEján; shavTá shevít Yaakóv.",
+      "es": "Fuiste propicio, oh Eterno, a Tu tierra; volviste la cautividad de Yaakov."
     },
     {
       "num": 3,
-      "he": "נָ֭שָׂאתָ עֲוֺ֣ן עַמֶּ֑ךָ כִּסִּ֖יתָ כׇל־חַטָּאתָ֣ם סֶֽלָה׃",
-      "he_plain": "נשאת עון עמך כסית כל חטאתם סלה",
-      "translit": "",
-      "es": ""
+      "he": "נָשָׂאתָ עֲוֹן עַמֶּךָ כִּסִּיתָ כָל חַטָּאתָם סֶלָה׃",
+      "he_plain": "נשאת עוון עמך כסית כל חטאתם סלה",
+      "translit": "Nasáta avón ameján; kisíta kol jatatám. Selá.",
+      "es": "Perdonaste la iniquidad de Tu pueblo; cubriste todos sus pecados. Selá."
     },
     {
       "num": 4,
-      "he": "אָסַ֥פְתָּ כׇל־עֶבְרָתֶ֑ךָ הֱ֝שִׁיב֗וֹתָ מֵחֲר֥וֹן אַפֶּֽךָ׃",
+      "he": "אָסַפְתָּ כָל עֶבְרָתֶךָ הֱשִׁיבוֹתָ מֵחֲרוֹן אַפֶּךָ׃",
       "he_plain": "אספת כל עברתך השיבות מחרון אפך",
-      "translit": "",
-      "es": ""
+      "translit": "Asáfta kol evratéja; heshivóta mejaron apéja.",
+      "es": "Retiraste todo Tu enojo; Te apartaste del ardor de Tu ira."
     },
     {
       "num": 5,
-      "he": "שׁ֭וּבֵנוּ אֱלֹהֵ֣י יִשְׁעֵ֑נוּ וְהָפֵ֖ר כַּעַסְךָ֣ עִמָּֽנוּ׃",
+      "he": "שׁוּבֵנוּ אֱלֹהֵי יִשְׁעֵנוּ וְהָפֵר כַּעַסְךָ עִמָּנוּ׃",
       "he_plain": "שובנו אלהי ישענו והפר כעסך עמנו",
-      "translit": "",
-      "es": ""
+      "translit": "Shuvénu Elohéi yishénu; vehafér kaasejá imánu.",
+      "es": "Restáuranos, oh Dios de nuestra salvación y haz cesar Tu enojo contra nosotros."
     },
     {
       "num": 6,
-      "he": "הַלְעוֹלָ֥ם תֶּאֱנַף־בָּ֑נוּ תִּמְשֹׁ֥ךְ אַ֝פְּךָ֗ לְדֹ֣ר וָדֹֽר׃",
-      "he_plain": "הלעולם תאנף בנו תמשך אפך לדר ודר",
-      "translit": "",
-      "es": ""
+      "he": "הַלְעוֹלָם תֶּאֱנַף בָּנוּ תִּמְשֹׁךְ אַפְּךָ לְדֹר וָדֹר׃",
+      "he_plain": "הלעולם תאנף בנו תמשוך אפך לדור ודור",
+      "translit": "Haleolám teenáf bánu; timshój apejá ledór vadór.",
+      "es": "¿Estarás enojado contra nosotros para siempre? ¿Extenderás Tu ira de generación en generación?"
     },
     {
       "num": 7,
-      "he": "הֲֽלֹא־אַ֭תָּה תָּשׁ֣וּב תְּחַיֵּ֑נוּ וְ֝עַמְּךָ֗ יִשְׂמְחוּ־בָֽךְ׃",
-      "he_plain": "הלא אתה תשוב תחינו ועמך ישמחו בך",
-      "translit": "",
-      "es": ""
+      "he": "הֲלֹא אַתָּה תָשׁוּב תְּחַיֵּנוּ וְעַמְּךָ יִשְׂמְחוּ בָךְ׃",
+      "he_plain": "הלא אתה תשוב תחיינו ועמך ישמחו בך",
+      "translit": "Haló atá tashúv tejayénu; veameján yismejú baj.",
+      "es": "¿No volverás a darnos vida para que Tu pueblo se regocije en Ti?"
     },
     {
       "num": 8,
-      "he": "הַרְאֵ֣נוּ יְהֹוָ֣ה חַסְדֶּ֑ךָ וְ֝יֶשְׁעֲךָ֗ תִּתֶּן־לָֽנוּ׃",
+      "he": "הַרְאֵנוּ יְהוָה חַסְדֶּךָ וְיֶשְׁעֲךָ תִּתֶּן לָנוּ׃",
       "he_plain": "הראנו יהוה חסדך וישעך תתן לנו",
-      "translit": "",
-      "es": ""
+      "translit": "Harénu Adonái jasdéja; veyishejá titén lánu.",
+      "es": "Muéstranos, oh Eterno, Tu bondad leal y danos Tu salvación."
     },
     {
       "num": 9,
-      "he": "אֶשְׁמְעָ֗ה מַה־יְדַבֵּר֮ הָאֵ֢ל׀יְ֫הֹוָ֥ה כִּ֤י׀ יְדַבֵּ֬ר שָׁל֗וֹם אֶל־עַמּ֥וֹ וְאֶל־חֲסִידָ֑יו וְאַל־יָשׁ֥וּבוּ לְכִסְלָֽה׃",
-      "he_plain": "אשמעה מה ידבר האליהוה כי ידבר שלום אל עמו ואל חסידיו ואל ישובו לכסלה",
-      "translit": "",
-      "es": ""
+      "he": "אֶשְׁמְעָה מַה יְּדַבֵּר הָאֵל יְהוָה כִּי יְדַבֵּר שָׁלוֹם אֶל עַמּוֹ וְאֶל חֲסִידָיו וְאַל יָשׁוּבוּ לְכִסְלָה׃",
+      "he_plain": "אשמעה מה ידבר האל יהוה כי ידבר שלום אל עמו ואל חסידיו ואל ישובו לכסלה",
+      "translit": "Eshmeá má yedabér haEl Adonái; ki yedabér shalóm el amó veal jasidáv; veal yashúvu lejislá.",
+      "es": "Escucharé lo que hablará el Eterno Dios porque hablará paz a Su pueblo y a Sus santos; pero que no vuelvan a la insensatez."
     },
     {
       "num": 10,
-      "he": "אַ֤ךְ קָר֣וֹב לִירֵאָ֣יו יִשְׁע֑וֹ לִשְׁכֹּ֖ן כָּב֣וֹד בְּאַרְצֵֽנוּ׃",
-      "he_plain": "אך קרוב ליראיו ישעו לשכן כבוד בארצנו",
-      "translit": "",
-      "es": ""
+      "he": "אַךְ קָרוֹב לִירֵאָיו יִשְׁעוֹ לִשְׁכֹּן כָּבוֹד בְּאַרְצֵנוּ׃",
+      "he_plain": "אך קרוב ליראיו ישעו לשכון כבוד בארצנו",
+      "translit": "Aj karóv lireáv yishó; lishkón kavód beartsénu.",
+      "es": "Ciertamente Su salvación está cerca de los que Le temen para que la gloria habite en nuestra tierra."
     },
     {
       "num": 11,
-      "he": "חֶסֶד־וֶאֱמֶ֥ת נִפְגָּ֑שׁוּ צֶ֖דֶק וְשָׁל֣וֹם נָשָֽׁקוּ׃",
+      "he": "חֶסֶד וֶאֱמֶת נִפְגָּשׁוּ צֶדֶק וְשָׁלוֹם נָשָׁקוּ׃",
       "he_plain": "חסד ואמת נפגשו צדק ושלום נשקו",
-      "translit": "",
-      "es": ""
+      "translit": "Jésed veemét nifgáShu; tsédek veshalóm nashákú.",
+      "es": "La bondad leal y la verdad se encontraron; la justicia y la paz se besaron."
     },
     {
       "num": 12,
-      "he": "אֱ֭מֶת מֵאֶ֣רֶץ תִּצְמָ֑ח וְ֝צֶ֗דֶק מִשָּׁמַ֥יִם נִשְׁקָֽף׃",
+      "he": "אֱמֶת מֵאֶרֶץ תִּצְמָח וְצֶדֶק מִשָּׁמַיִם נִשְׁקָף׃",
       "he_plain": "אמת מארץ תצמח וצדק משמים נשקף",
-      "translit": "",
-      "es": ""
+      "translit": "Emét meérets titsmáj; vetsédek mishamáyim nishkáf.",
+      "es": "La verdad brotará de la tierra y la justicia se asomará desde los cielos."
     },
     {
       "num": 13,
-      "he": "גַּם־יְ֭הֹוָה יִתֵּ֣ן הַטּ֑וֹב וְ֝אַרְצֵ֗נוּ תִּתֵּ֥ן יְבוּלָֽהּ׃",
+      "he": "גַּם יְהוָה יִתֵּן הַטּוֹב וְאַרְצֵנוּ תִּתֵּן יְבוּלָהּ׃",
       "he_plain": "גם יהוה יתן הטוב וארצנו תתן יבולה",
-      "translit": "",
-      "es": ""
+      "translit": "Gam Adonái yitén hatóv; veartsénu titén yevulá.",
+      "es": "También el Eterno dará el bien y nuestra tierra dará su fruto."
     },
     {
       "num": 14,
-      "he": "צֶ֭דֶק לְפָנָ֣יו יְהַלֵּ֑ךְ וְיָשֵׂ֖ם לְדֶ֣רֶךְ פְּעָמָֽיו׃ {פ}",
-      "he_plain": "צדק לפניו יהלך וישם לדרך פעמיו {פ}",
-      "translit": "",
-      "es": ""
+      "he": "צֶדֶק לְפָנָיו יְהַלֵּךְ וְיָשֵׂם לְדֶרֶךְ פְּעָמָיו׃",
+      "he_plain": "צדק לפניו יהלך וישם לדרך פעמיו",
+      "translit": "Tsédek lefanáv yehaléj; veyasém lerérej peamáv.",
+      "es": "La justicia irá delante de Él y sus pasos seguirán el camino."
     }
-  ],
-  "audio": "",
-  "title_es": "Te has complacido, Eterno, con Tu tierra"
+  ]
 }

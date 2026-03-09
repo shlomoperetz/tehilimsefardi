@@ -1,57 +1,56 @@
 {
   "number": 87,
   "title_he": "תהילים",
+  "title_es": "Tsión, madre de los pueblos",
   "verses": [
     {
       "num": 1,
-      "he": "לִבְנֵי־קֹ֭רַח מִזְמ֣וֹר שִׁ֑יר יְ֝סוּדָת֗וֹ בְּהַרְרֵי־קֹֽדֶשׁ׃",
-      "he_plain": "לבני קרח מזמור שיר יסודתו בהררי קדש",
-      "translit": "",
-      "es": ""
+      "he": "לִבְנֵי קֹרַח מִזְמוֹר שִׁיר יְסוּדָתוֹ בְּהַרְרֵי קֹדֶשׁ׃",
+      "he_plain": "לבני קורח מזמור שיר יסודתו בהררי קודש",
+      "translit": "Livnéi Kóraj mizmór shír. Yesudató beharréi kódesh.",
+      "es": "De los hijos de Koraj. Salmo. Cántico. Su fundamento está en los montes santos."
     },
     {
       "num": 2,
-      "he": "אֹהֵ֣ב יְ֭הֹוָה שַׁעֲרֵ֣י צִיּ֑וֹן מִ֝כֹּ֗ל מִשְׁכְּנ֥וֹת יַעֲקֹֽב׃",
-      "he_plain": "אהב יהוה שערי ציון מכל משכנות יעקב",
-      "translit": "",
-      "es": ""
+      "he": "אֹהֵב יְהוָה שַׁעֲרֵי צִיּוֹן מִכֹּל מִשְׁכְּנוֹת יַעֲקֹב׃",
+      "he_plain": "אוהב יהוה שערי ציון מכל משכנות יעקב",
+      "translit": "Ohév Adonái shaaréi Tsiyón; mikol mishkenót Yaakóv.",
+      "es": "Ama el Eterno las puertas de Tsión más que todas las moradas de Yaakov."
     },
     {
       "num": 3,
-      "he": "נִ֭כְבָּדוֹת מְדֻבָּ֣ר בָּ֑ךְ עִ֖יר הָאֱלֹהִ֣ים סֶֽלָה׃",
-      "he_plain": "נכבדות מדבר בך עיר האלהים סלה",
-      "translit": "",
-      "es": ""
+      "he": "נִכְבָּדוֹת מְדֻבָּר בָּךְ עִיר הָאֱלֹהִים סֶלָה׃",
+      "he_plain": "נכבדות מדובר בך עיר האלהים סלה",
+      "translit": "Nijbadót medubár baj; ír haElohím. Selá.",
+      "es": "Cosas gloriosas se dicen de ti; oh ciudad de Dios. Selá."
     },
     {
       "num": 4,
-      "he": "אַזְכִּ֤יר׀ רַ֥הַב וּבָבֶ֗ל לְֽיֹ֫דְעָ֥י הִנֵּ֤ה פְלֶ֣שֶׁת וְצֹ֣ר עִם־כּ֑וּשׁ זֶ֝֗ה יֻלַּד־שָֽׁם׃",
-      "he_plain": "אזכיר רהב ובבל לידעי הנה פלשת וצר עם כוש זה ילד שם",
-      "translit": "",
-      "es": ""
+      "he": "אַזְכִּיר רַהַב וּבָבֶל לְיֹדְעָי הִנֵּה פְלֶשֶׁת וְצוֹר עִם כּוּשׁ זֶה יֻלַּד שָׁם׃",
+      "he_plain": "אזכיר רהב ובבל לידעי הנה פלשת וצור עם כוש זה ילד שם",
+      "translit": "Azkír Ráhav uváVel leyodáy; hiné Feléshet veTsór im Kush; zé yulád shám.",
+      "es": "Mencionaré a Rahav y a Bavel entre los que Me conocen; he aquí Filistea y Tsur con Kush; de este se dice: allí nació."
     },
     {
       "num": 5,
-      "he": "וּ֥לְצִיּ֨וֹן׀ יֵאָמַ֗ר אִ֣ישׁ וְ֭אִישׁ יֻלַּד־בָּ֑הּ וְה֖וּא יְכוֹנְנֶ֣הָ עֶלְיֽוֹן׃",
+      "he": "וּלְצִיּוֹן יֵאָמַר אִישׁ וְאִישׁ יֻלַּד בָּהּ וְהוּא יְכוֹנְנֶהָ עֶלְיוֹן׃",
       "he_plain": "ולציון יאמר איש ואיש ילד בה והוא יכוננה עליון",
-      "translit": "",
-      "es": ""
+      "translit": "Uletsiyón yeamár ísh veísh yulád bá; vehu yejoneNéha Elyón.",
+      "es": "Y de Tsión se dirá: Este y aquel nacieron en ella y el Altísimo mismo la establecerá."
     },
     {
       "num": 6,
-      "he": "יְֽהֹוָ֗ה יִ֭סְפֹּר בִּכְת֣וֹב עַמִּ֑ים זֶ֖ה יֻלַּד־שָׁ֣ם סֶֽלָה׃",
-      "he_plain": "יהוה יספר בכתוב עמים זה ילד שם סלה",
-      "translit": "",
-      "es": ""
+      "he": "יְהוָה יִסְפֹּר בִּכְתוֹב עַמִּים זֶה יֻלַּד שָׁם סֶלָה׃",
+      "he_plain": "יהוה יספור בכתוב עמים זה ילד שם סלה",
+      "translit": "Adonái yispór biktóv amím; zé yulád shám. Selá.",
+      "es": "El Eterno contará en el registro de los pueblos: este nació allí. Selá."
     },
     {
       "num": 7,
-      "he": "וְשָׁרִ֥ים כְּחֹלְלִ֑ים כׇּֽל־מַעְיָנַ֥י בָּֽךְ׃ {פ}",
-      "he_plain": "ושרים כחללים כל מעיני בך {פ}",
-      "translit": "",
-      "es": ""
+      "he": "וְשָׁרִים כְּחֹלְלִים כָּל מַעְיָנַי בָּךְ׃",
+      "he_plain": "ושרים כחוללים כל מעייני בך",
+      "translit": "Vesharím kejoleLím; kol maayaNáy baj.",
+      "es": "Y cantores y danzantes dirán: Todas mis fuentes están en ti."
     }
-  ],
-  "audio": "",
-  "title_es": "Su fundamento está en los montes sagrados"
+  ]
 }
