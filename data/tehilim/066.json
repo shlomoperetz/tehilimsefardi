@@ -1,148 +1,147 @@
 {
   "number": 66,
   "title_he": "תהילים",
+  "title_es": "Alabanza a Dios por Sus obras maravillosas",
   "verses": [
     {
       "num": 1,
-      "he": "לַ֭מְנַצֵּחַ שִׁ֣יר מִזְמ֑וֹר הָרִ֥יעוּ לֵ֝אלֹהִ֗ים כׇּל־הָאָֽרֶץ׃",
+      "he": "לַמְנַצֵּחַ שִׁיר מִזְמוֹר הָרִיעוּ לֵאלֹהִים כָּל הָאָרֶץ׃",
       "he_plain": "למנצח שיר מזמור הריעו לאלהים כל הארץ",
-      "translit": "",
-      "es": ""
+      "translit": "Lamnatséaj shír mizmór. Harí u leElohím kol haárets.",
+      "es": "Al director. Cántico. Salmo. Aclamad a Dios con júbilo toda la tierra."
     },
     {
       "num": 2,
-      "he": "זַמְּר֥וּ כְבֽוֹד־שְׁמ֑וֹ שִׂ֥ימוּ כָ֝ב֗וֹד תְּהִלָּתֽוֹ׃",
+      "he": "זַמְּרוּ כְבוֹד שְׁמוֹ שִׂימוּ כָבוֹד תְּהִלָּתוֹ׃",
       "he_plain": "זמרו כבוד שמו שימו כבוד תהלתו",
-      "translit": "",
-      "es": ""
+      "translit": "Zaméru jevód shemó; simú javód tehilató.",
+      "es": "Cantad la gloria de Su nombre; poned gloria en Su alabanza."
     },
     {
       "num": 3,
-      "he": "אִמְר֣וּ לֵ֭אלֹהִים מַה־נּוֹרָ֣א מַעֲשֶׂ֑יךָ בְּרֹ֥ב עֻ֝זְּךָ֗ יְֽכַחֲשׁ֖וּ לְךָ֣ אֹיְבֶֽיךָ׃",
-      "he_plain": "אמרו לאלהים מה נורא מעשיך ברב עזך יכחשו לך איביך",
-      "translit": "",
-      "es": ""
+      "he": "אִמְרוּ לֵאלֹהִים מַה נּוֹרָא מַעֲשֶׂיךָ בְּרֹב עֻזְּךָ יְכַחֲשׁוּ לְךָ אֹיְבֶיךָ׃",
+      "he_plain": "אמרו לאלהים מה נורא מעשיך ברוב עוזך יכחשו לך אויביך",
+      "translit": "Imrú leElohím: ma norá maaséija; beróv uzejá yejajashú lejá oyevéija.",
+      "es": "Decid a Dios: ¡Cuán tremendas son Tus obras! Por la grandeza de Tu poder se someterán a Ti Tus enemigos."
     },
     {
       "num": 4,
-      "he": "כׇּל־הָאָ֤רֶץ׀ יִשְׁתַּחֲו֣וּ לְ֭ךָ וִיזַמְּרוּ־לָ֑ךְ יְזַמְּר֖וּ שִׁמְךָ֣ סֶֽלָה׃",
+      "he": "כָּל הָאָרֶץ יִשְׁתַּחֲווּ לְךָ וִיזַמְּרוּ לָךְ יְזַמְּרוּ שִׁמְךָ סֶלָה׃",
       "he_plain": "כל הארץ ישתחוו לך ויזמרו לך יזמרו שמך סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Kol haárets yishtajavú lejá; vizaméru laj; yezaméru shimejá. Selá.",
+      "es": "Toda la tierra te adorará y cantará a Ti; cantarán Tu nombre. Selá."
     },
     {
       "num": 5,
-      "he": "לְכ֣וּ וּ֭רְאוּ מִפְעֲל֣וֹת אֱלֹהִ֑ים נוֹרָ֥א עֲ֝לִילָ֗ה עַל־בְּנֵ֥י אָדָֽם׃",
+      "he": "לְכוּ וּרְאוּ מִפְעֲלוֹת אֱלֹהִים נוֹרָא עֲלִילָה עַל בְּנֵי אָדָם׃",
       "he_plain": "לכו וראו מפעלות אלהים נורא עלילה על בני אדם",
-      "translit": "",
-      "es": ""
+      "translit": "Lejú ureú mifaalót Elohím; norá alilá al benéi adám.",
+      "es": "Venid y ved las obras de Dios; terrible en Sus hechos sobre los hijos de los hombres."
     },
     {
       "num": 6,
-      "he": "הָ֤פַךְ יָ֨ם׀ לְֽיַבָּשָׁ֗ה בַּ֭נָּהָר יַעַבְר֣וּ בְרָ֑גֶל שָׁ֝֗ם נִשְׂמְחָה־בּֽוֹ׃",
+      "he": "הָפַךְ יָם לְיַבָּשָׁה בַּנָּהָר יַעַבְרוּ בְרָגֶל שָׁם נִשְׂמְחָה בּוֹ׃",
       "he_plain": "הפך ים ליבשה בנהר יעברו ברגל שם נשמחה בו",
-      "translit": "",
-      "es": ""
+      "translit": "Hafáj yám leyabaShá; baNahár yaavRú veráGel; shám nismeJá bo.",
+      "es": "Volvió el mar en seco; por el río pasaron a pie; allí nos alegramos en Él."
     },
     {
       "num": 7,
-      "he": "מֹ֘שֵׁ֤ל בִּגְבוּרָת֨וֹ׀ עוֹלָ֗ם עֵ֭ינָיו בַּגּוֹיִ֣ם תִּצְפֶּ֑ינָה הַסּוֹרְרִ֓ים׀ אַל־[יָר֖וּמוּ] (ירימו) לָ֣מוֹ סֶֽלָה׃",
-      "he_plain": "משל בגבורתו עולם עיניו בגוים תצפינה הסוררים אל [ירומו] (ירימו) למו סלה",
-      "translit": "",
-      "es": ""
+      "he": "מֹשֵׁל בִּגְבוּרָתוֹ עוֹלָם עֵינָיו בַּגּוֹיִם תִּצְפֶּינָה הַסּוֹרְרִים אַל יָרוּמוּ לָמוֹ סֶלָה׃",
+      "he_plain": "מושל בגבורתו עולם עיניו בגוים תצפינה הסוררים אל ירומו למו סלה",
+      "translit": "Moshél bigvurató olám; eináv baGoyím titspeíná; hasoreRím al yarúmu lámo. Selá.",
+      "es": "Él señorea con Su poder para siempre; Sus ojos atalayan sobre las naciones; los rebeldes no se enaltezcan. Selá."
     },
     {
       "num": 8,
-      "he": "בָּרְכ֖וּ עַמִּ֥ים׀אֱלֹהֵ֑ינוּ וְ֝הַשְׁמִ֗יעוּ ק֣וֹל תְּהִלָּתֽוֹ׃",
-      "he_plain": "ברכו עמיםאלהינו והשמיעו קול תהלתו",
-      "translit": "",
-      "es": ""
+      "he": "בָּרְכוּ עַמִּים אֱלֹהֵינוּ וְהַשְׁמִיעוּ קוֹל תְּהִלָּתוֹ׃",
+      "he_plain": "ברכו עמים אלהינו והשמיעו קול תהלתו",
+      "translit": "Barejú amím Elohéinu; veHashmíu kól tehilató.",
+      "es": "Bendecid, pueblos, a nuestro Dios y haced oír la voz de Su alabanza."
     },
     {
       "num": 9,
-      "he": "הַשָּׂ֣ם נַ֭פְשֵׁנוּ בַּחַיִּ֑ים וְלֹֽא־נָתַ֖ן לַמּ֣וֹט רַגְלֵֽנוּ׃",
+      "he": "הַשָּׂם נַפְשֵׁנוּ בַּחַיִּים וְלֹא נָתַן לַמּוֹט רַגְלֵנוּ׃",
       "he_plain": "השם נפשנו בחיים ולא נתן למוט רגלנו",
-      "translit": "",
-      "es": ""
+      "translit": "Hasám nafshénu baJayím; veló natán lamót raglénu.",
+      "es": "Él es quien puso nuestra alma en vida y no permitió que nuestros pies resbalasen."
     },
     {
       "num": 10,
-      "he": "כִּֽי־בְחַנְתָּ֥נוּ אֱלֹהִ֑ים צְ֝רַפְתָּ֗נוּ כִּצְרׇף־כָּֽסֶף׃",
-      "he_plain": "כי בחנתנו אלהים צרפתנו כצרף כסף",
-      "translit": "",
-      "es": ""
+      "he": "כִּי בְחַנְתָּנוּ אֱלֹהִים צְרַפְתָּנוּ כִּצְרֹף הַכָּסֶף׃",
+      "he_plain": "כי בחנתנו אלהים צרפתנו כצרוף הכסף",
+      "translit": "Ki vejantánu Elohím; tseráftanu kitsróf hakésef.",
+      "es": "Porque Tú nos probaste, oh Dios; nos refinaste como se refina la plata."
     },
     {
       "num": 11,
-      "he": "הֲבֵאתָ֥נוּ בַמְּצוּדָ֑ה שַׂ֖מְתָּ מוּעָקָ֣ה בְמׇתְנֵֽינוּ׃",
+      "he": "הֲבֵאתָנוּ בַמְּצוּדָה שַׂמְתָּ מוּעָקָה בְמָתְנֵינוּ׃",
       "he_plain": "הבאתנו במצודה שמת מועקה במתנינו",
-      "translit": "",
-      "es": ""
+      "translit": "Haveátanu bametsudá; samtá muaká bemotNéinu.",
+      "es": "Nos metiste en la red; pusiste sobre nuestros lomos pesada carga."
     },
     {
       "num": 12,
-      "he": "הִרְכַּ֥בְתָּֽ אֱנ֗וֹשׁ לְרֹ֫אשֵׁ֥נוּ בָּֽאנוּ־בָאֵ֥שׁ וּבַמַּ֑יִם וַ֝תּוֹצִיאֵ֗נוּ לָרְוָיָֽה׃",
+      "he": "הִרְכַּבְתָּ אֱנוֹשׁ לְרֹאשֵׁנוּ בָּאנוּ בָאֵשׁ וּבַמַּיִם וַתּוֹצִיאֵנוּ לָרְוָיָה׃",
       "he_plain": "הרכבת אנוש לראשנו באנו באש ובמים ותוציאנו לרויה",
-      "translit": "",
-      "es": ""
+      "translit": "Hirkávta enósh leroshénu; bánu vaésh uvaMáyim; vatotsiénu larváyah.",
+      "es": "Hiciste cabalgar hombres sobre nuestra cabeza; pasamos por el fuego y por el agua y nos sacaste a abundancia."
     },
     {
       "num": 13,
-      "he": "אָב֣וֹא בֵיתְךָ֣ בְעוֹל֑וֹת אֲשַׁלֵּ֖ם לְךָ֣ נְדָרָֽי׃",
+      "he": "אָבוֹא בֵיתְךָ בְעוֹלוֹת אֲשַׁלֵּם לְךָ נְדָרָי׃",
       "he_plain": "אבוא ביתך בעולות אשלם לך נדרי",
-      "translit": "",
-      "es": ""
+      "translit": "Avó véiteja veolót; ashalém lejá nedaráy.",
+      "es": "Entraré en Tu casa con holocaustos; te pagaré mis votos."
     },
     {
       "num": 14,
-      "he": "אֲשֶׁר־פָּצ֥וּ שְׂפָתָ֑י וְדִבֶּר־פִּ֝֗י בַּצַּר־לִֽי׃",
-      "he_plain": "אשר פצו שפתי ודבר פי בצר לי",
-      "translit": "",
-      "es": ""
+      "he": "אֲשֶׁר פָּצוּ שְׂפָתַי וְדִבֶּר פִּי בַּצַּר לִי׃",
+      "he_plain": "אשר פצו שפתי ודיבר פי בצר לי",
+      "translit": "Ashér patsú sfatáy; vedibér pí batsár lí.",
+      "es": "Los que pronunciaron mis labios y habló mi boca cuando estaba en angustia."
     },
     {
       "num": 15,
-      "he": "עֹ֘ל֤וֹת מֵיחִ֣ים אַֽעֲלֶה־לָּ֭ךְ עִם־קְטֹ֣רֶת אֵילִ֑ים אֶ֥עֱשֶֽׂה־בָקָ֖ר עִם־עַתּוּדִ֣ים סֶֽלָה׃",
-      "he_plain": "עלות מיחים אעלה לך עם קטרת אילים אעשה בקר עם עתודים סלה",
-      "translit": "",
-      "es": ""
+      "he": "עֹלוֹת מֵחִים אַעֲלֶה לָּךְ עִם קְטֹרֶת אֵילִים אֶעֱשֶׂה בָקָר עִם עַתּוּדִים סֶלָה׃",
+      "he_plain": "עולות מחים אעלה לך עם קטרת אילים אעשה בקר עם עתודים סלה",
+      "translit": "Olót mejím aaLéh laj; im ketoRét eilím; aaséh bakár im atudím. Selá.",
+      "es": "Holocaustos de animales engordados te ofreceré con sahumerio de carneros; haré ofrenda de bueyes con machos cabríos. Selá."
     },
     {
       "num": 16,
-      "he": "לְכוּ־שִׁמְע֣וּ וַ֭אֲסַפְּרָה כׇּל־יִרְאֵ֣י אֱלֹהִ֑ים אֲשֶׁ֖ר עָשָׂ֣ה לְנַפְשִֽׁי׃",
+      "he": "לְכוּ שִׁמְעוּ וַאֲסַפְּרָה כָּל יִרְאֵי אֱלֹהִים אֲשֶׁר עָשָׂה לְנַפְשִׁי׃",
       "he_plain": "לכו שמעו ואספרה כל יראי אלהים אשר עשה לנפשי",
-      "translit": "",
-      "es": ""
+      "translit": "Lejú shimú vaasapeRá; kol yirEéi Elohím; ashér asá lenafshí.",
+      "es": "Venid, escuchad todos los que teméis a Dios y contaré lo que ha hecho por mi alma."
     },
     {
       "num": 17,
-      "he": "אֵלָ֥יו פִּֽי־קָרָ֑אתִי וְ֝רוֹמַ֗ם תַּ֣חַת לְשׁוֹנִֽי׃",
+      "he": "אֵלָיו פִּי קָרָאתִי וְרוֹמַם תַּחַת לְשׁוֹנִי׃",
       "he_plain": "אליו פי קראתי ורומם תחת לשוני",
-      "translit": "",
-      "es": ""
+      "translit": "Eláv pí karáti; veromám táJat leshonéi.",
+      "es": "A Él clamé con mi boca y fue exaltado con mi lengua."
     },
     {
       "num": 18,
-      "he": "אָ֭וֶן אִם־רָאִ֣יתִי בְלִבִּ֑י לֹ֖א יִשְׁמַ֣ע׀אֲדֹנָֽי׃",
-      "he_plain": "און אם ראיתי בלבי לא ישמעאדני",
-      "translit": "",
-      "es": ""
+      "he": "אָוֶן אִם רָאִיתִי בְלִבִּי לֹא יִשְׁמַע אֲדֹנָי׃",
+      "he_plain": "און אם ראיתי בלבי לא ישמע אדני",
+      "translit": "Áven im raíti belibí; lo yishmá Adonái.",
+      "es": "Si en mi corazón hubiese yo mirado a la iniquidad el Señor no me hubiera escuchado."
     },
     {
       "num": 19,
-      "he": "אָ֭כֵן שָׁמַ֣ע אֱלֹהִ֑ים הִ֝קְשִׁ֗יב בְּק֣וֹל תְּפִלָּתִֽי׃",
+      "he": "אָכֵן שָׁמַע אֱלֹהִים הִקְשִׁיב בְּקוֹל תְּפִלָּתִי׃",
       "he_plain": "אכן שמע אלהים הקשיב בקול תפלתי",
-      "translit": "",
-      "es": ""
+      "translit": "Ajén shamá Elohím; hikshív bekól tefilatí.",
+      "es": "Mas ciertamente me escuchó Dios; atendió a la voz de mi oración."
     },
     {
       "num": 20,
-      "he": "בָּר֥וּךְ אֱלֹהִ֑ים אֲשֶׁ֥ר לֹֽא־הֵסִ֘יר־תְּפִלָּתִ֥י וְ֝חַסְדּ֗וֹ מֵאִתִּֽי׃ {פ}",
-      "he_plain": "ברוך אלהים אשר לא הסיר תפלתי וחסדו מאתי {פ}",
-      "translit": "",
-      "es": ""
+      "he": "בָּרוּךְ אֱלֹהִים אֲשֶׁר לֹא הֵסִיר תְּפִלָּתִי וְחַסְדּוֹ מֵאִתִּי׃",
+      "he_plain": "ברוך אלהים אשר לא הסיר תפלתי וחסדו מאתי",
+      "translit": "Barúj Elohím ashér lo hesír tefilatí vejasdó meití.",
+      "es": "Bendito sea Dios que no echó de sí mi oración ni de mí Su bondad leal."
     }
-  ],
-  "audio": "",
-  "title_es": "Aclamad a Dios, toda la tierra"
+  ]
 }
