@@ -1,197 +1,196 @@
 {
   "number": 44,
   "title_he": "תהילים",
+  "title_es": "Lamento nacional y súplica de socorro",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֬חַ׀לִבְנֵי־קֹ֬רַח מַשְׂכִּֽיל׃",
-      "he_plain": "למנצחלבני קרח משכיל",
-      "translit": "",
-      "es": ""
+      "he": "לַמְנַצֵּחַ לִבְנֵי קֹרַח מַשְׂכִּיל׃",
+      "he_plain": "למנצח לבני קרח משכיל",
+      "translit": "Lamnatséaj livnéi Kóraj maskíl.",
+      "es": "Al director. De los hijos de Koraj. Maskil."
     },
     {
       "num": 2,
-      "he": "אֱלֹהִ֤ים׀ בְּאׇזְנֵ֬ינוּ שָׁמַ֗עְנוּ אֲבוֹתֵ֥ינוּ סִפְּרוּ־לָ֑נוּ פֹּ֥עַל פָּעַ֥לְתָּ בִ֝ימֵיהֶ֗ם בִּ֣ימֵי קֶֽדֶם׃",
-      "he_plain": "אלהים באזנינו שמענו אבותינו ספרו לנו פעל פעלת בימיהם בימי קדם",
-      "translit": "",
-      "es": ""
+      "he": "אֱלֹהִים בְּאָזְנֵינוּ שָׁמַעְנוּ אֲבוֹתֵינוּ סִפְּרוּ לָנוּ פֹּעַל פָּעַלְתָּ בִימֵיהֶם בִּימֵי קֶדֶם׃",
+      "he_plain": "אלהים באזנינו שמענו אבותינו ספרו לנו פועל פעלת בימיהם בימי קדם",
+      "translit": "Elohím beozneínu shamáanu; avotéinu siperu lánu; póal paálta veyeméihem; bimei kédem.",
+      "es": "Oh Dios, con nuestros oídos hemos oído; nuestros padres nos han contado la obra que hiciste en sus días, en los tiempos antiguos."
     },
     {
       "num": 3,
-      "he": "אַתָּ֤ה׀ יָדְךָ֡ גּוֹיִ֣ם ה֭וֹרַשְׁתָּ וַתִּטָּעֵ֑ם תָּרַ֥ע לְ֝אֻמִּ֗ים וַֽתְּשַׁלְּחֵֽם׃",
+      "he": "אַתָּה יָדְךָ גּוֹיִם הוֹרַשְׁתָּ וַתִּטָּעֵם תָּרַע לְאֻמִּים וַתְּשַׁלְּחֵם׃",
       "he_plain": "אתה ידך גוים הורשת ותטעם תרע לאמים ותשלחם",
-      "translit": "",
-      "es": ""
+      "translit": "Atá yadejá goyím horashta; vatitaém; tará leumím vateshaleJém.",
+      "es": "Tú con Tu mano expulsaste a las naciones y los plantaste a ellos; afligiste a los pueblos y los arrojaste."
     },
     {
       "num": 4,
-      "he": "כִּ֤י לֹ֪א בְחַרְבָּ֡ם יָ֥רְשׁוּ אָ֗רֶץ וּזְרוֹעָם֮ לֹא־הוֹשִׁ֢יעָ֫ה לָּ֥מוֹ כִּֽי־יְמִינְךָ֣ וּ֭זְרוֹעֲךָ וְא֥וֹר פָּנֶ֗יךָ כִּ֣י רְצִיתָֽם׃",
-      "he_plain": "כי לא בחרבם ירשו ארץ וזרועם לא הושיעה למו כי ימינך וזרועך ואור פניך כי רציתם",
-      "translit": "",
-      "es": ""
+      "he": "כִּי לֹא בְחַרְבָּם יָרְשׁוּ אָרֶץ וּזְרוֹעָם לֹא הוֹשִׁיעָה לָּמוֹ כִּי יְמִינְךָ וּזְרוֹעֲךָ וְאוֹר פָּנֶיךָ כִּי רְצִיתָם׃",
+      "he_plain": "כי לא בחרבם ירשו ארץ וזרועם לא הושיעה למו כי ימינך וזרועך ואור פניך כי רצית בם",
+      "translit": "Ki lo vejarbám yarshú árets; uzeróam lo hoshiá lámo; ki yemineja uzeróajá veor panéija; ki ratsítam.",
+      "es": "Porque no se apoderaron de la tierra por su espada ni su brazo los salvó, sino Tu diestra y Tu brazo y la luz de Tu rostro, porque Te complaciste en ellos."
     },
     {
       "num": 5,
-      "he": "אַתָּה־ה֣וּא מַלְכִּ֣י אֱלֹהִ֑ים צַ֝וֵּ֗ה יְשׁוּע֥וֹת יַעֲקֹֽב׃",
+      "he": "אַתָּה הוּא מַלְכִּי אֱלֹהִים צַוֵּה יְשׁוּעוֹת יַעֲקֹב׃",
       "he_plain": "אתה הוא מלכי אלהים צוה ישועות יעקב",
-      "translit": "",
-      "es": ""
+      "translit": "Atá hu malkí Elohím; tsavé yeshuót Yaakóv.",
+      "es": "Tú mismo eres mi Rey, oh Dios; ordena las salvaciones de Yaakov."
     },
     {
       "num": 6,
-      "he": "בְּ֭ךָ צָרֵ֣ינוּ נְנַגֵּ֑חַ בְּ֝שִׁמְךָ֗ נָב֥וּס קָמֵֽינוּ׃",
+      "he": "בְּךָ צָרֵינוּ נְנַגֵּחַ בְּשִׁמְךָ נָבוּס קָמֵינוּ׃",
       "he_plain": "בך צרינו ננגח בשמך נבוס קמינו",
-      "translit": "",
-      "es": ""
+      "translit": "Bejá tsaréinu nenagéaj; beshimjá navús kamínu.",
+      "es": "Por medio de Ti sacudiremos a nuestros adversarios; en Tu nombre hollaremos a los que se levantan contra nosotros."
     },
     {
       "num": 7,
-      "he": "כִּ֤י לֹ֣א בְקַשְׁתִּ֣י אֶבְטָ֑ח וְ֝חַרְבִּ֗י לֹ֣א תוֹשִׁיעֵֽנִי׃",
+      "he": "כִּי לֹא בְקַשְׁתִּי אֶבְטָח וְחַרְבִּי לֹא תוֹשִׁיעֵנִי׃",
       "he_plain": "כי לא בקשתי אבטח וחרבי לא תושיעני",
-      "translit": "",
-      "es": ""
+      "translit": "Ki lo vekashtí evtáj; veJarbí lo toshiéni.",
+      "es": "Porque no confiaré en mi arco ni mi espada me salvará."
     },
     {
       "num": 8,
-      "he": "כִּ֣י ה֭וֹשַׁעְתָּנוּ מִצָּרֵ֑ינוּ וּמְשַׂנְאֵ֥ינוּ הֱבִישֽׁוֹתָ׃",
+      "he": "כִּי הוֹשַׁעְתָּנוּ מִצָּרֵינוּ וּמְשַׂנְאֵינוּ הֱבִישׁוֹתָ׃",
       "he_plain": "כי הושעתנו מצרינו ומשנאינו הבישות",
-      "translit": "",
-      "es": ""
+      "translit": "Ki hoshátanu mitsaréinu; umesanéinu hevishóta.",
+      "es": "Pues Tú nos has salvado de nuestros adversarios y has avergonzado a los que nos aborrecían."
     },
     {
       "num": 9,
-      "he": "בֵּ֭אלֹהִים הִלַּ֣לְנוּ כׇל־הַיּ֑וֹם וְשִׁמְךָ֓׀ לְעוֹלָ֖ם נוֹדֶ֣ה סֶֽלָה׃",
+      "he": "בֵּאלֹהִים הִלַּלְנוּ כָל הַיּוֹם וְשִׁמְךָ לְעוֹלָם נוֹדֶה סֶלָה׃",
       "he_plain": "באלהים הללנו כל היום ושמך לעולם נודה סלה",
-      "translit": "",
-      "es": ""
+      "translit": "BeElohím hilálnu kol hayóm; veshimjá leolám nodé. Selá.",
+      "es": "En Dios nos gloriaremos todo el día y para siempre alabaremos Tu nombre. Selá."
     },
     {
       "num": 10,
-      "he": "אַף־זָ֭נַחְתָּ וַתַּכְלִימֵ֑נוּ וְלֹא־תֵ֝צֵ֗א בְּצִבְאוֹתֵֽינוּ׃",
-      "he_plain": "אף זנחת ותכלימנו ולא תצא בצבאותינו",
-      "translit": "",
-      "es": ""
+      "he": "אַף זָנַחְתָּ וַתַּכְלִימֵנוּ וְלֹא תֵצֵא בְּצִבְאוֹתֵינוּ׃",
+      "he_plain": "אף זנחתה ותכלימנו ולא תצא בצבאותינו",
+      "translit": "Af zanájta vatajliménu; veló tetsé betsivotéinu.",
+      "es": "Pero ahora nos has desechado y nos has avergonzado y ya no sales con nuestros ejércitos."
     },
     {
       "num": 11,
-      "he": "תְּשִׁיבֵ֣נוּ אָ֭חוֹר מִנִּי־צָ֑ר וּ֝מְשַׂנְאֵ֗ינוּ שָׁ֣סוּ לָֽמוֹ׃",
+      "he": "תְּשִׁיבֵנוּ אָחוֹר מִנִּי צָר וּמְשַׂנְאֵינוּ שָׁסוּ לָמוֹ׃",
       "he_plain": "תשיבנו אחור מני צר ומשנאינו שסו למו",
-      "translit": "",
-      "es": ""
+      "translit": "Teshivénu ajór miNí tsar; umesanéinu shasú lámo.",
+      "es": "Nos haces retroceder delante del adversario y los que nos aborrecen nos saquean."
     },
     {
       "num": 12,
-      "he": "תִּ֭תְּנֵנוּ כְּצֹ֣אן מַאֲכָ֑ל וּ֝בַגּוֹיִ֗ם זֵרִיתָֽנוּ׃",
+      "he": "תִּתְּנֵנוּ כְּצֹאן מַאֲכָל וּבַגּוֹיִם זֵרִיתָנוּ׃",
       "he_plain": "תתננו כצאן מאכל ובגוים זריתנו",
-      "translit": "",
-      "es": ""
+      "translit": "Titeénu jetsón maajál; uvagoyím zeritánu.",
+      "es": "Nos entregas como ovejas al matadero y nos has esparcido entre las naciones."
     },
     {
       "num": 13,
-      "he": "תִּמְכֹּֽר־עַמְּךָ֥ בְלֹא־ה֑וֹן וְלֹֽא־רִ֝בִּ֗יתָ בִּמְחִירֵיהֶֽם׃",
-      "he_plain": "תמכר עמך בלא הון ולא רבית במחיריהם",
-      "translit": "",
-      "es": ""
+      "he": "תִּמְכֹּר עַמְּךָ בְלֹא הוֹן וְלֹא רִבִּיתָ בִּמְחִירֵיהֶם׃",
+      "he_plain": "תמכור עמך בלא הון ולא רבית במחיריהם",
+      "translit": "Timkór amejá veló hon; veló ribíta bimjeréihem.",
+      "es": "Vendiste a Tu pueblo de balde y no obtuviste riqueza con sus precios."
     },
     {
       "num": 14,
-      "he": "תְּשִׂימֵ֣נוּ חֶ֭רְפָּה לִשְׁכֵנֵ֑ינוּ לַ֥עַג וָ֝קֶ֗לֶס לִסְבִיבוֹתֵֽינוּ׃",
+      "he": "תְּשִׂימֵנוּ חֶרְפָּה לִשְׁכֵנֵינוּ לַעַג וָקֶלֶס לִסְבִיבוֹתֵינוּ׃",
       "he_plain": "תשימנו חרפה לשכנינו לעג וקלס לסביבותינו",
-      "translit": "",
-      "es": ""
+      "translit": "Tesiménu jerPá lishjenéinu; laag vakéles lisbivotéinu.",
+      "es": "Nos pusiste por oprobio a nuestros vecinos, por escarnio y burla a los que nos rodean."
     },
     {
       "num": 15,
-      "he": "תְּשִׂימֵ֣נוּ מָ֭שָׁל בַּגּוֹיִ֑ם מְנֽוֹד־רֹ֝֗אשׁ בַּלְאֻמִּֽים׃",
+      "he": "תְּשִׂימֵנוּ מָשָׁל בַּגּוֹיִם מְנוֹד רֹאשׁ בַּלְאֻמִּים׃",
       "he_plain": "תשימנו משל בגוים מנוד ראש בלאמים",
-      "translit": "",
-      "es": ""
+      "translit": "Tesiménu mashál bagoyím; menód rosh baleumím.",
+      "es": "Nos pusiste por proverbio entre las naciones, por motivo de mover la cabeza entre los pueblos."
     },
     {
       "num": 16,
-      "he": "כׇּל־הַ֭יּוֹם כְּלִמָּתִ֣י נֶגְדִּ֑י וּבֹ֖שֶׁת פָּנַ֣י כִּסָּֽתְנִי׃",
+      "he": "כָּל הַיּוֹם כְּלִמָּתִי נֶגְדִּי וּבֹשֶׁת פָּנַי כִּסָּתְנִי׃",
       "he_plain": "כל היום כלמתי נגדי ובשת פני כסתני",
-      "translit": "",
-      "es": ""
+      "translit": "Kol hayóm kelimaTí négdi; uvóshet panáy kisaténi.",
+      "es": "Todo el día mi vergüenza está delante de mí y la confusión de mi rostro me cubre,"
     },
     {
       "num": 17,
-      "he": "מִ֭קּוֹל מְחָרֵ֣ף וּמְגַדֵּ֑ף מִפְּנֵ֥י א֝וֹיֵ֗ב וּמִתְנַקֵּֽם׃",
+      "he": "מִקּוֹל מְחָרֵף וּמְגַדֵּף מִפְּנֵי אוֹיֵב וּמִתְנַקֵּם׃",
       "he_plain": "מקול מחרף ומגדף מפני אויב ומתנקם",
-      "translit": "",
-      "es": ""
+      "translit": "Mikól mejaréf umedaéf; mifnéi oyév umitnaKém.",
+      "es": "a causa de la voz del que me afrenta y blasfema, por razón del enemigo y del vengador."
     },
     {
       "num": 18,
-      "he": "כׇּל־זֹ֣את בָּ֭אַתְנוּ וְלֹ֣א שְׁכַחֲנ֑וּךָ וְלֹֽא־שִׁ֝קַּ֗רְנוּ בִּבְרִיתֶֽךָ׃",
+      "he": "כָּל זֹאת בָּאַתְנוּ וְלֹא שְׁכַחֲנוּךָ וְלֹא שִׁקַּרְנוּ בִּבְרִיתֶךָ׃",
       "he_plain": "כל זאת באתנו ולא שכחנוך ולא שקרנו בבריתך",
-      "translit": "",
-      "es": ""
+      "translit": "Kol zot baátnu veló shejajánuja; veló shikárnu bivritéja.",
+      "es": "Todo esto nos ha venido y no te hemos olvidado ni hemos faltado a Tu pacto."
     },
     {
       "num": 19,
-      "he": "לֹא־נָס֣וֹג אָח֣וֹר לִבֵּ֑נוּ וַתֵּ֥ט אֲ֝שֻׁרֵ֗ינוּ מִנִּ֥י אׇרְחֶֽךָ׃",
-      "he_plain": "לא נסוג אחור לבנו ותט אשרינו מני ארחך",
-      "translit": "",
-      "es": ""
+      "he": "לֹא נָסוֹג אָחוֹר לִבֵּנוּ וַתֵּט אֲשֻׁרֵינוּ מִנִּי אָרְחֶךָ׃",
+      "he_plain": "לא נסוג אחור לבנו ותט אשורינו מני ארחך",
+      "translit": "Lo nasóg ajór libénu; vatét ashureínu miNí orjéja.",
+      "es": "Nuestro corazón no se ha vuelto atrás ni se han apartado nuestros pasos de Tu senda,"
     },
     {
       "num": 20,
-      "he": "כִּ֣י דִ֭כִּיתָנוּ בִּמְק֣וֹם תַּנִּ֑ים וַתְּכַ֖ס עָלֵ֣ינוּ בְצַלְמָֽוֶת׃",
+      "he": "כִּי דִכִּיתָנוּ בִּמְקוֹם תַּנִּים וַתְּכַס עָלֵינוּ בְצַלְמָוֶת׃",
       "he_plain": "כי דכיתנו במקום תנים ותכס עלינו בצלמות",
-      "translit": "",
-      "es": ""
+      "translit": "Ki dikitánu bimkóm taniím; vatejas aléinu vetsalmávet.",
+      "es": "aunque nos hayas quebrantado en el lugar de los chacales y cubierto con sombra de muerte."
     },
     {
       "num": 21,
-      "he": "אִם־שָׁ֭כַחְנוּ שֵׁ֣ם אֱלֹהֵ֑ינוּ וַנִּפְרֹ֥שׂ כַּ֝פֵּ֗ינוּ לְאֵ֣ל זָֽר׃",
-      "he_plain": "אם שכחנו שם אלהינו ונפרש כפינו לאל זר",
-      "translit": "",
-      "es": ""
+      "he": "אִם שָׁכַחְנוּ שֵׁם אֱלֹהֵינוּ וַנִּפְרֹשׂ כַּפֵּינוּ לְאֵל זָר׃",
+      "he_plain": "אם שכחנו שם אלהינו ונפרוש כפינו לאל זר",
+      "translit": "Im shajájnu shem Elohéinu; vanífrosh kapéinu leEl zár.",
+      "es": "Si hubiésemos olvidado el nombre de nuestro Dios y extendido nuestras manos a dios ajeno,"
     },
     {
       "num": 22,
-      "he": "הֲלֹ֣א אֱ֭לֹהִים יַחֲקׇר־זֹ֑את כִּי־ה֥וּא יֹ֝דֵ֗עַ תַּעֲלֻמ֥וֹת לֵֽב׃",
+      "he": "הֲלֹא אֱלֹהִים יַחֲקָר זֹאת כִּי הוּא יֹדֵעַ תַּעֲלֻמוֹת לֵב׃",
       "he_plain": "הלא אלהים יחקר זאת כי הוא ידע תעלמות לב",
-      "translit": "",
-      "es": ""
+      "translit": "Haló Elohím yajkár zot; ki hu yodéa taalumót léiv.",
+      "es": "¿No demandaría esto Dios? Porque Él conoce los secretos del corazón."
     },
     {
       "num": 23,
-      "he": "כִּֽי־עָ֭לֶיךָ הֹרַ֣גְנוּ כׇל־הַיּ֑וֹם נֶ֝חְשַׁ֗בְנוּ כְּצֹ֣אן טִבְחָֽה׃",
-      "he_plain": "כי עליך הרגנו כל היום נחשבנו כצאן טבחה",
-      "translit": "",
-      "es": ""
+      "he": "כִּי עָלֶיךָ הֹרַגְנוּ כָל הַיּוֹם נֶחְשַׁבְנוּ כְּצֹאן טִבְחָה׃",
+      "he_plain": "כי עליך הורגנו כל היום נחשבנו כצאן טבחה",
+      "translit": "Ki aléija horáGnu kol hayóm; nejshávnu jetsón tibJá.",
+      "es": "Pero por causa de Ti nos matan cada día; somos contados como ovejas para el matadero."
     },
     {
       "num": 24,
-      "he": "ע֤וּרָה׀ לָ֖מָּה תִישַׁ֥ן׀אֲדֹנָ֑י הָ֝קִ֗יצָה אַל־תִּזְנַ֥ח לָנֶֽצַח׃",
-      "he_plain": "עורה למה תישןאדני הקיצה אל תזנח לנצח",
-      "translit": "",
-      "es": ""
+      "he": "עוּרָה לָמָּה תִישַׁן אֲדֹנָי הָקִיצָה אַל תִּזְנַח לָנֶצַח׃",
+      "he_plain": "עורה למה תישן אדני הקיצה אל תזנח לנצח",
+      "translit": "Urá lamá tishán Adonái; hakítsá al tizNáj lanétsaj.",
+      "es": "Despierta; ¿por qué duermes, Señor? Levántate; no nos deseches para siempre."
     },
     {
       "num": 25,
-      "he": "לָֽמָּה־פָנֶ֥יךָ תַסְתִּ֑יר תִּשְׁכַּ֖ח עׇנְיֵ֣נוּ וְֽלַחֲצֵֽנוּ׃",
+      "he": "לָמָּה פָנֶיךָ תַסְתִּיר תִּשְׁכַּח עָנְיֵנוּ וְלַחֲצֵנוּ׃",
       "he_plain": "למה פניך תסתיר תשכח ענינו ולחצנו",
-      "translit": "",
-      "es": ""
+      "translit": "Lamá panéija tastír; tishkáj onyénu velájatsénu.",
+      "es": "¿Por qué escondes Tu rostro y te olvidas de nuestra aflicción y de nuestra opresión?"
     },
     {
       "num": 26,
-      "he": "כִּ֤י שָׁ֣חָה לֶעָפָ֣ר נַפְשֵׁ֑נוּ דָּבְקָ֖ה לָאָ֣רֶץ בִּטְנֵֽנוּ׃",
+      "he": "כִּי שָׁחָה לֶעָפָר נַפְשֵׁנוּ דָּבְקָה לָאָרֶץ בִּטְנֵנוּ׃",
       "he_plain": "כי שחה לעפר נפשנו דבקה לארץ בטננו",
-      "translit": "",
-      "es": ""
+      "translit": "Ki shajá leafár nafshénu; davekáh laárets bitNénu.",
+      "es": "Porque nuestra alma está agobiada hasta el polvo y nuestro vientre se ha pegado a la tierra."
     },
     {
       "num": 27,
-      "he": "ק֭וּמָֽה עֶזְרָ֣תָה לָּ֑נוּ וּ֝פְדֵ֗נוּ לְמַ֣עַן חַסְדֶּֽךָ׃ {פ}",
-      "he_plain": "קומה עזרתה לנו ופדנו למען חסדך {פ}",
-      "translit": "",
-      "es": ""
+      "he": "קוּמָה עֶזְרָתָה לָּנוּ וּפְדֵנוּ לְמַעַן חַסְדֶּךָ׃",
+      "he_plain": "קומה עזרתה לנו ופדנו למען חסדך",
+      "translit": "Kumá ezratá lánu; ufedeénu lemaán jasdeján.",
+      "es": "Levántate para ayudarnos y redímenos por causa de Tu bondad leal."
     }
-  ],
-  "audio": "",
-  "title_es": "Dios, con nuestros oídos hemos escuchado"
+  ]
 }
