@@ -1,78 +1,77 @@
 {
   "number": 20,
   "title_he": "תהילים",
+  "title_es": "Oración por la victoria del rey",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֗חַ מִזְמ֥וֹר לְדָוִֽד׃",
+      "he": "לַמְנַצֵּחַ מִזְמוֹר לְדָוִד׃",
       "he_plain": "למנצח מזמור לדוד",
-      "translit": "",
-      "es": ""
+      "translit": "Lamnatséaj mizmór leDavíd.",
+      "es": "Al director. Salmo de David."
     },
     {
       "num": 2,
-      "he": "יַֽעַנְךָ֣ יְ֭הֹוָה בְּי֣וֹם צָרָ֑ה יְ֝שַׂגֶּבְךָ֗ שֵׁ֤ם׀ אֱלֹהֵ֬י יַעֲקֹֽב׃",
+      "he": "יַעַנְךָ יְהוָה בְּיוֹם צָרָה יְשַׂגֶּבְךָ שֵׁם אֱלֹהֵי יַעֲקֹב׃",
       "he_plain": "יענך יהוה ביום צרה ישגבך שם אלהי יעקב",
-      "translit": "",
-      "es": ""
+      "translit": "Yaanjá Adonái beyóm tsará; yesaguevejá shem Eloéi Yaakóv.",
+      "es": "Que el Eterno te responda en el día de angustia; que el nombre del Dios de Yaakov te proteja."
     },
     {
       "num": 3,
-      "he": "יִשְׁלַֽח־עֶזְרְךָ֥ מִקֹּ֑דֶשׁ וּ֝מִצִּיּ֗וֹן יִסְעָדֶֽךָּ׃",
+      "he": "יִשְׁלַח עֶזְרְךָ מִקֹּדֶשׁ וּמִצִּיּוֹן יִסְעָדֶךָּ׃",
       "he_plain": "ישלח עזרך מקדש ומציון יסעדך",
-      "translit": "",
-      "es": ""
+      "translit": "Yishlaj ezrejá mikódesh; umitsiYón yisaadéja.",
+      "es": "Que te envíe ayuda desde el santuario y desde Tsión te sostenga."
     },
     {
       "num": 4,
-      "he": "יִזְכֹּ֥ר כׇּל־מִנְחֹתֶ֑ךָ וְעוֹלָתְךָ֖ יְדַשְּׁנֶ֣ה סֶֽלָה׃",
-      "he_plain": "יזכר כל מנחתך ועולתך ידשנה סלה",
-      "translit": "",
-      "es": ""
+      "he": "יִזְכֹּר כָּל מִנְחֹתֶיךָ וְעוֹלָתְךָ יְדַשְּׁנֶה סֶלָה׃",
+      "he_plain": "יזכר כל מנחותיך ועולתך ידשנה סלה",
+      "translit": "Yizkór kol minjotéija; veolateján yedashené. Selá.",
+      "es": "Que recuerde todas tus ofrendas y acepte tu holocausto. Selá."
     },
     {
       "num": 5,
-      "he": "יִֽתֶּן־לְךָ֥ כִלְבָבֶ֑ךָ וְֽכׇל־עֲצָתְךָ֥ יְמַלֵּֽא׃",
+      "he": "יִתֶּן לְךָ כִלְבָבֶךָ וְכָל עֲצָתְךָ יְמַלֵּא׃",
       "he_plain": "יתן לך כלבבך וכל עצתך ימלא",
-      "translit": "",
-      "es": ""
+      "translit": "Yitén lejá jilvavéja; vejol atsatejá yemaléa.",
+      "es": "Que te conceda conforme a tu corazón y cumpla todo tu propósito."
     },
     {
       "num": 6,
-      "he": "נְרַנְּנָ֤ה׀ בִּ֘ישׁ֤וּעָתֶ֗ךָ וּבְשֵֽׁם־אֱלֹהֵ֥ינוּ נִדְגֹּ֑ל יְמַלֵּ֥א יְ֝הֹוָ֗ה כׇּל־מִשְׁאֲלוֹתֶֽיךָ׃",
+      "he": "נְרַנְּנָה בִּישׁוּעָתֶךָ וּבְשֵׁם אֱלֹהֵינוּ נִדְגֹּל יְמַלֵּא יְהוָה כָּל מִשְׁאֲלוֹתֶיךָ׃",
       "he_plain": "נרננה בישועתך ובשם אלהינו נדגל ימלא יהוה כל משאלותיך",
-      "translit": "",
-      "es": ""
+      "translit": "Neranená bishuateján; uveshem Eloéinu nidgól; yemaléa Adonái kol mishalelotéija.",
+      "es": "Cantaremos de júbilo por tu salvación y en el nombre de nuestro Dios alzaremos banderas; que el Eterno cumpla todas tus peticiones."
     },
     {
       "num": 7,
-      "he": "עַתָּ֤ה יָדַ֗עְתִּי כִּ֤י הוֹשִׁ֥יעַ׀יְהֹוָ֗ה מְשִׁ֫יח֥וֹ יַ֭עֲנֵהוּ מִשְּׁמֵ֣י קׇדְשׁ֑וֹ בִּ֝גְבֻר֗וֹת יֵ֣שַׁע יְמִינֽוֹ׃",
-      "he_plain": "עתה ידעתי כי הושיעיהוה משיחו יענהו משמי קדשו בגברות ישע ימינו",
-      "translit": "",
-      "es": ""
+      "he": "עַתָּה יָדַעְתִּי כִּי הוֹשִׁיעַ יְהוָה מְשִׁיחוֹ יַעֲנֵהוּ מִשְּׁמֵי קָדְשׁוֹ בִּגְבֻרוֹת יֵשַׁע יְמִינוֹ׃",
+      "he_plain": "עתה ידעתי כי הושיע יהוה משיחו יענהו משמי קדשו בגבורות ישע ימינו",
+      "translit": "Atá yadáti ki hoshía Adonái meshijó; yaanéhu mishmé kodsho biguevurót yéshe yemino.",
+      "es": "Ahora sé que el Eterno salva a Su ungido; le responderá desde Su santo cielo con los actos poderosos de Su diestra salvadora."
     },
     {
       "num": 8,
-      "he": "אֵ֣לֶּה בָ֭רֶכֶב וְאֵ֣לֶּה בַסּוּסִ֑ים וַאֲנַ֓חְנוּ׀ בְּשֵׁם־יְהֹוָ֖ה אֱלֹהֵ֣ינוּ נַזְכִּֽיר׃",
+      "he": "אֵלֶּה בָרֶכֶב וְאֵלֶּה בַסּוּסִים וַאֲנַחְנוּ בְּשֵׁם יְהוָה אֱלֹהֵינוּ נַזְכִּיר׃",
       "he_plain": "אלה ברכב ואלה בסוסים ואנחנו בשם יהוה אלהינו נזכיר",
-      "translit": "",
-      "es": ""
+      "translit": "Éle varéjev veéle vasusím; vaanájnu beshem Adonái Eloéinu nazkír.",
+      "es": "Unos confían en carros y otros en caballos, pero nosotros invocaremos el nombre del Eterno nuestro Dios."
     },
     {
       "num": 9,
-      "he": "הֵ֭מָּה כָּרְע֣וּ וְנָפָ֑לוּ וַאֲנַ֥חְנוּ קַּ֝֗מְנוּ וַנִּתְעוֹדָֽד׃",
-      "he_plain": "המה כרעו ונפלו ואנחנו קמנו ונתעודד",
-      "translit": "",
-      "es": ""
+      "he": "הֵמָּה כָּרְעוּ וְנָפָלוּ וַאֲנַחְנוּ קַּמְנוּ וַנִּתְעוֹדָד׃",
+      "he_plain": "המה כרעו ונפלו ואנחנו קמנו וניתעודד",
+      "translit": "Héma karevú venafálu; vaanájnu kámnu vanitodád.",
+      "es": "Ellos se doblaron y cayeron, pero nosotros nos levantamos y nos mantuvimos en pie."
     },
     {
       "num": 10,
-      "he": "יְהֹוָ֥ה הוֹשִׁ֑יעָה הַ֝מֶּ֗לֶךְ יַעֲנֵ֥נוּ בְיוֹם־קׇרְאֵֽנוּ׃ {פ}",
-      "he_plain": "יהוה הושיעה המלך יעננו ביום קראנו {פ}",
-      "translit": "",
-      "es": ""
+      "he": "יְהוָה הוֹשִׁיעָה הַמֶּלֶךְ יַעֲנֵנוּ בְיוֹם קָרְאֵנוּ׃",
+      "he_plain": "יהוה הושיעה המלך יענינו ביום קראנו",
+      "translit": "Adonái hoshiá; haméleg yaanénu beyóm koréinu.",
+      "es": "Eterno, salva; que el Rey nos responda el día que clamemos."
     }
-  ],
-  "audio": "",
-  "title_es": "Que te responda el Eterno"
+  ]
 }
