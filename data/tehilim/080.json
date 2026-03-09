@@ -1,148 +1,147 @@
 {
   "number": 80,
   "title_he": "תהילים",
+  "title_es": "Súplica por la restauración de Israel",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֥חַ אֶל־שֹׁשַׁנִּ֑ים עֵד֖וּת לְאָסָ֣ף מִזְמֽוֹר׃",
-      "he_plain": "למנצח אל ששנים עדות לאסף מזמור",
-      "translit": "",
-      "es": ""
+      "he": "לַמְנַצֵּחַ אֶל שֹׁשַׁנִּים עֵדוּת לְאָסָף מִזְמוֹר׃",
+      "he_plain": "למנצח אל שושנים עדות לאסף מזמור",
+      "translit": "Lamnatséaj el shoshaním edút leAsáf mizmór.",
+      "es": "Al director; sobre «Las Lilas». Testimonio. De Asaf. Salmo."
     },
     {
       "num": 2,
-      "he": "רֹ֘עֵ֤ה יִשְׂרָאֵ֨ל׀ הַאֲזִ֗ינָה נֹהֵ֣ג כַּצֹּ֣אן יוֹסֵ֑ף יֹשֵׁ֖ב הַכְּרוּבִ֣ים הוֹפִֽיעָה׃",
-      "he_plain": "רעה ישראל האזינה נהג כצאן יוסף ישב הכרובים הופיעה",
-      "translit": "",
-      "es": ""
+      "he": "רֹעֵה יִשְׂרָאֵל הַאֲזִינָה נֹהֵג כַּצֹּאן יוֹסֵף יֹשֵׁב הַכְּרוּבִים הוֹפִיעָה׃",
+      "he_plain": "רועה ישראל האזינה נוהג כצאן יוסף יושב הכרובים הופיעה",
+      "translit": "Roéh Yisraél haaziná; nohég katson Yosép; yoshév hakeruvím hofiá.",
+      "es": "Escucha, oh Pastor de Israel; Tú que guías a Yosef como a rebaño; Tú que estás entre los querubines resplandece."
     },
     {
       "num": 3,
-      "he": "לִפְנֵ֤י אֶפְרַ֨יִם׀ וּבִנְיָ֘מִ֤ן וּמְנַשֶּׁ֗ה עוֹרְרָ֥ה אֶת־גְּבוּרָתֶ֑ךָ וּלְכָ֖ה לִישֻׁעָ֣תָה לָּֽנוּ׃",
-      "he_plain": "לפני אפרים ובנימן ומנשה עוררה את גבורתך ולכה לישעתה לנו",
-      "translit": "",
-      "es": ""
+      "he": "לִפְנֵי אֶפְרַיִם וּבִנְיָמִן וּמְנַשֶּׁה עוֹרְרָה אֶת גְּבוּרָתֶךָ וּלְכָה לִישֻׁעָתָה לָּנוּ׃",
+      "he_plain": "לפני אפרים ובנימן ומנשה עוררה את גבורתך ולכה לישועתה לנו",
+      "translit": "Lifnéi Efráyim uvinyamín uMenashé; oreRá et gevuratéja; ulejá lishuat á lánu.",
+      "es": "Delante de Efráyim y Binyamín y Menashé despierta Tu poder y ven a salvarnos."
     },
     {
       "num": 4,
-      "he": "אֱלֹהִ֥ים הֲשִׁיבֵ֑נוּ וְהָאֵ֥ר פָּ֝נֶ֗יךָ וְנִוָּשֵֽׁעָה׃",
+      "he": "אֱלֹהִים הֲשִׁיבֵנוּ וְהָאֵר פָּנֶיךָ וְנִוָּשֵׁעָה׃",
       "he_plain": "אלהים השיבנו והאר פניך ונושעה",
-      "translit": "",
-      "es": ""
+      "translit": "Elohím hashivénu; vehaér panéija venivashéa.",
+      "es": "Oh Dios, restáuranos y haz resplandecer Tu rostro y seremos salvos."
     },
     {
       "num": 5,
-      "he": "יְהֹוָ֣ה אֱלֹהִ֣ים צְבָא֑וֹת עַד־מָתַ֥י עָ֝שַׁ֗נְתָּ בִּתְפִלַּ֥ת עַמֶּֽךָ׃",
+      "he": "יְהוָה אֱלֹהִים צְבָאוֹת עַד מָתַי עָשַׁנְתָּ בִּתְפִלַּת עַמֶּךָ׃",
       "he_plain": "יהוה אלהים צבאות עד מתי עשנת בתפלת עמך",
-      "translit": "",
-      "es": ""
+      "translit": "Adonái Elohím tsevot; ad matáy ashánta bitefila t ameján.",
+      "es": "Oh Eterno, Dios de los ejércitos, ¿hasta cuándo humeará Tu ira contra la oración de Tu pueblo?"
     },
     {
       "num": 6,
-      "he": "הֶ֭אֱכַלְתָּם לֶ֣חֶם דִּמְעָ֑ה וַ֝תַּשְׁקֵ֗מוֹ בִּדְמָע֥וֹת שָׁלִֽישׁ׃",
+      "he": "הֶאֱכַלְתָּם לֶחֶם דִּמְעָה וַתַּשְׁקֵמוֹ בִּדְמָעוֹת שָׁלִישׁ׃",
       "he_plain": "האכלתם לחם דמעה ותשקמו בדמעות שליש",
-      "translit": "",
-      "es": ""
+      "translit": "Heejáltam léjem dimá; vatashkémo bidmaót shalísh.",
+      "es": "Les diste a comer pan de lágrimas y les hiciste beber lágrimas en gran abundancia."
     },
     {
       "num": 7,
-      "he": "תְּשִׂימֵ֣נוּ מָ֭דוֹן לִשְׁכֵנֵ֑ינוּ וְ֝אֹיְבֵ֗ינוּ יִלְעֲגוּ־לָֽמוֹ׃",
-      "he_plain": "תשימנו מדון לשכנינו ואיבינו ילעגו למו",
-      "translit": "",
-      "es": ""
+      "he": "תְּשִׂימֵנוּ מָדוֹן לִשְׁכֵנֵינוּ וְאֹיְבֵינוּ יִלְעֲגוּ לָמוֹ׃",
+      "he_plain": "תשימנו מדון לשכנינו ואויבינו ילעגו למו",
+      "translit": "Tesiménu madón lishjenéinu; veoyevéinu yilagú lámo.",
+      "es": "Nos pusiste por objeto de contienda a nuestros vecinos y nuestros enemigos se burlan de nosotros."
     },
     {
       "num": 8,
-      "he": "אֱלֹהִ֣ים צְבָא֣וֹת הֲשִׁיבֵ֑נוּ וְהָאֵ֥ר פָּ֝נֶ֗יךָ וְנִוָּשֵֽׁעָה׃",
+      "he": "אֱלֹהִים צְבָאוֹת הֲשִׁיבֵנוּ וְהָאֵר פָּנֶיךָ וְנִוָּשֵׁעָה׃",
       "he_plain": "אלהים צבאות השיבנו והאר פניך ונושעה",
-      "translit": "",
-      "es": ""
+      "translit": "Elohím tsevot hashivénu; vehaér panéija venivashéa.",
+      "es": "Oh Dios de los ejércitos, restáuranos y haz resplandecer Tu rostro y seremos salvos."
     },
     {
       "num": 9,
-      "he": "גֶּ֭פֶן מִמִּצְרַ֣יִם תַּסִּ֑יעַ תְּגָרֵ֥שׁ גּ֝וֹיִ֗ם וַתִּטָּעֶֽהָ׃",
+      "he": "גֶּפֶן מִמִּצְרַיִם תַּסִּיעַ תְּגָרֵשׁ גּוֹיִם וַתִּטָּעֶהָ׃",
       "he_plain": "גפן ממצרים תסיע תגרש גוים ותטעה",
-      "translit": "",
-      "es": ""
+      "translit": "Géfen miMitsráyim tasía; tegarésh goyím vatiTaéha.",
+      "es": "Trasplantaste una vid de Egipto; echaste las naciones y la plantaste."
     },
     {
       "num": 10,
-      "he": "פִּנִּ֥יתָ לְפָנֶ֑יהָ וַתַּשְׁרֵ֥שׁ שׇׁ֝רָשֶׁ֗יהָ וַתְּמַלֵּא־אָֽרֶץ׃",
-      "he_plain": "פנית לפניה ותשרש שרשיה ותמלא ארץ",
-      "translit": "",
-      "es": ""
+      "he": "פִּנִּיתָ לְפָנֶיהָ וַתַּשְׁרֵשׁ שָׁרָשֶׁיהָ וַתְּמַלֵּא אָרֶץ׃",
+      "he_plain": "פינית לפניה ותשרש שרשיה ותמלא ארץ",
+      "translit": "Piníta lefanéiha vatashrész sharasháiha; vatmeLá árets.",
+      "es": "Limpiaste el terreno delante de ella y arraigó sus raíces y llenó la tierra."
     },
     {
       "num": 11,
-      "he": "כׇּסּ֣וּ הָרִ֣ים צִלָּ֑הּ וַ֝עֲנָפֶ֗יהָ אַֽרְזֵי־אֵֽל׃",
+      "he": "כָּסּוּ הָרִים צִלָּהּ וַעֲנָפֶיהָ אַרְזֵי אֵל׃",
       "he_plain": "כסו הרים צלה וענפיה ארזי אל",
-      "translit": "",
-      "es": ""
+      "translit": "Kasú harím tsilá; vaanafáiha arzéi El.",
+      "es": "Los montes fueron cubiertos con su sombra y con sus ramas los cedros de Dios."
     },
     {
       "num": 12,
-      "he": "תְּשַׁלַּ֣ח קְצִירֶ֣הָ עַד־יָ֑ם וְאֶל־נָ֝הָ֗ר יוֹנְקוֹתֶֽיהָ׃",
+      "he": "תְּשַׁלַּח קְצִירֶהָ עַד יָם וְאֶל נָהָר יוֹנְקוֹתֶיהָ׃",
       "he_plain": "תשלח קצירה עד ים ואל נהר יונקותיה",
-      "translit": "",
-      "es": ""
+      "translit": "Teshalaj ketsirá ad yám; veel nahár yonkotéiha.",
+      "es": "Extendió sus ramas hasta el mar y sus vástagos hasta el Río."
     },
     {
       "num": 13,
-      "he": "לָ֭מָּה פָּרַ֣צְתָּ גְדֵרֶ֑יהָ וְ֝אָר֗וּהָ כׇּל־עֹ֥בְרֵי דָֽרֶךְ׃",
-      "he_plain": "למה פרצת גדריה וארוה כל עברי דרך",
-      "translit": "",
-      "es": ""
+      "he": "לָמָּה פָרַצְתָּ גְדֵרֶיהָ וְאָרוּהָ כָּל עֹבְרֵי דָרֶךְ׃",
+      "he_plain": "למה פרצת גדריה וארוה כל עוברי דרך",
+      "translit": "Lamá farátseta gedéreha; veaRúha kol ovréi dárej.",
+      "es": "¿Por qué aportillaste sus cercas y la vendimian todos los que pasan por el camino?"
     },
     {
       "num": 14,
-      "he": "יְכַרְסְמֶ֣נָּֽה חֲזִ֣יר מִיָּ֑עַר וְזִ֖יז שָׂדַ֣י יִרְעֶֽנָּה׃",
+      "he": "יְכַרְסְמֶנָּה חֲזִיר מִיָּעַר וְזִיז שָׂדַי יִרְעֶנָּה׃",
       "he_plain": "יכרסמנה חזיר מיער וזיז שדי ירענה",
-      "translit": "",
-      "es": ""
+      "translit": "Yejarsemenáh jazír miyáar; vezíz sadái yiraenáh.",
+      "es": "La destroza el jabalí del bosque y la pasta la bestia del campo."
     },
     {
       "num": 15,
-      "he": "אֱלֹהִ֣ים צְבָאוֹת֮ שֽׁ֫וּב־נָ֥א הַבֵּ֣ט מִשָּׁמַ֣יִם וּרְאֵ֑ה וּ֝פְקֹ֗ד גֶּ֣פֶן זֹֽאת׃",
+      "he": "אֱלֹהִים צְבָאוֹת שׁוּב נָא הַבֵּט מִשָּׁמַיִם וּרְאֵה וּפְקֹד גֶּפֶן זֹאת׃",
       "he_plain": "אלהים צבאות שוב נא הבט משמים וראה ופקד גפן זאת",
-      "translit": "",
-      "es": ""
+      "translit": "Elohím tsevot shuv ná; habét mishamáyim ureéh; ufkód géfen zot.",
+      "es": "Oh Dios de los ejércitos, vuelve ahora; mira desde el cielo y ve y visita esta vid."
     },
     {
       "num": 16,
-      "he": "וְ֭כַנָּה אֲשֶׁר־נָטְעָ֣ה יְמִינֶ֑ךָ וְעַל־בֵּ֝֗ן אִמַּ֥צְתָּה לָּֽךְ׃",
+      "he": "וְכַנָּה אֲשֶׁר נָטְעָה יְמִינֶךָ וְעַל בֵּן אִמַּצְתָּה לָּךְ׃",
       "he_plain": "וכנה אשר נטעה ימינך ועל בן אמצתה לך",
-      "translit": "",
-      "es": ""
+      "translit": "Vejaná ashér natá yeminéja; veal bén imátsta laj.",
+      "es": "Y la cepa que plantó Tu diestra; el renuevo que para Ti fortaleciste."
     },
     {
       "num": 17,
-      "he": "שְׂרֻפָ֣ה בָאֵ֣שׁ כְּסוּחָ֑ה מִגַּעֲרַ֖ת פָּנֶ֣יךָ יֹאבֵֽדוּ׃",
-      "he_plain": "שרפה באש כסוחה מגערת פניך יאבדו",
-      "translit": "",
-      "es": ""
+      "he": "שְׂרֻפָה בָאֵשׁ כְּסוּחָה מִגַּעֲרַת פָּנֶיךָ יֹאבֵדוּ׃",
+      "he_plain": "שרופה באש כסוחה מגערת פניך יאבדו",
+      "translit": "Serufá vaésh kesujá; migáarat panéija yovédu.",
+      "es": "Está quemada a fuego y cortada; perezcan por la reprensión de Tu rostro."
     },
     {
       "num": 18,
-      "he": "תְּֽהִי־יָ֭דְךָ עַל־אִ֣ישׁ יְמִינֶ֑ךָ עַל־בֶּן־אָ֝דָ֗ם אִמַּ֥צְתָּ לָּֽךְ׃",
+      "he": "תְּהִי יָדְךָ עַל אִישׁ יְמִינֶךָ עַל בֶּן אָדָם אִמַּצְתָּ לָּךְ׃",
       "he_plain": "תהי ידך על איש ימינך על בן אדם אמצת לך",
-      "translit": "",
-      "es": ""
+      "translit": "Tehí yadejá al ísh yeminéja; al ben adám imátsta laj.",
+      "es": "Sea Tu mano sobre el varón de Tu diestra; sobre el hijo del hombre que para Ti fortaleciste."
     },
     {
       "num": 19,
-      "he": "וְלֹא־נָס֥וֹג מִמֶּ֑ךָּ תְּ֝חַיֵּ֗נוּ וּבְשִׁמְךָ֥ נִקְרָֽא׃",
-      "he_plain": "ולא נסוג ממך תחינו ובשמך נקרא",
-      "translit": "",
-      "es": ""
+      "he": "וְלֹא נָסוֹג מִמֶּךָּ תְּחַיֵּנוּ וּבְשִׁמְךָ נִקְרָא׃",
+      "he_plain": "ולא נסוג ממך תחיינו ובשמך נקרא",
+      "translit": "Veló nasóg miméja; tejayénu uveshimejá nikrá.",
+      "es": "Y no nos apartaremos de Ti; danos vida e invocaremos Tu nombre."
     },
     {
       "num": 20,
-      "he": "יְ֘הֹוָ֤ה אֱלֹהִ֣ים צְבָא֣וֹת הֲשִׁיבֵ֑נוּ הָאֵ֥ר פָּ֝נֶ֗יךָ וְנִוָּשֵֽׁעָה׃ {פ}",
-      "he_plain": "יהוה אלהים צבאות השיבנו האר פניך ונושעה {פ}",
-      "translit": "",
-      "es": ""
+      "he": "יְהוָה אֱלֹהִים צְבָאוֹת הֲשִׁיבֵנוּ הָאֵר פָּנֶיךָ וְנִוָּשֵׁעָה׃",
+      "he_plain": "יהוה אלהים צבאות השיבנו האר פניך ונושעה",
+      "translit": "Adonái Elohím tsevot hashivénu; haér panéija venivashéa.",
+      "es": "Oh Eterno, Dios de los ejércitos, restáuranos; haz resplandecer Tu rostro y seremos salvos."
     }
-  ],
-  "audio": "",
-  "title_es": "Pastor de Israel, escucha"
+  ]
 }

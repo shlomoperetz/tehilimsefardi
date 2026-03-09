@@ -1,127 +1,126 @@
 {
   "number": 81,
   "title_he": "תהילים",
+  "title_es": "Llamado a la fidelidad en la fiesta solemne",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֬חַ׀עַֽל־הַגִּתִּ֬ית לְאָסָֽף׃",
-      "he_plain": "למנצחעל הגתית לאסף",
-      "translit": "",
-      "es": ""
+      "he": "לַמְנַצֵּחַ עַל הַגִּתִּית לְאָסָף׃",
+      "he_plain": "למנצח על הגיתית לאסף",
+      "translit": "Lamnatséaj al haguití leAsáf.",
+      "es": "Al director; sobre la guitit. De Asaf."
     },
     {
       "num": 2,
-      "he": "הַ֭רְנִינוּ לֵאלֹהִ֣ים עוּזֵּ֑נוּ הָ֝רִ֗יעוּ לֵאלֹהֵ֥י יַעֲקֹֽב׃",
+      "he": "הַרְנִינוּ לֵאלֹהִים עוּזֵּנוּ הָרִיעוּ לֵאלֹהֵי יַעֲקֹב׃",
       "he_plain": "הרנינו לאלהים עוזנו הריעו לאלהי יעקב",
-      "translit": "",
-      "es": ""
+      "translit": "Harniní leElohím uzénu; harIú leElohéi Yaakóv.",
+      "es": "Cantad con gozo a Dios nuestra fortaleza; aclamad al Dios de Yaakov."
     },
     {
       "num": 3,
-      "he": "שְֽׂאוּ־זִ֭מְרָה וּתְנוּ־תֹ֑ף כִּנּ֖וֹר נָעִ֣ים עִם־נָֽבֶל׃",
-      "he_plain": "שאו זמרה ותנו תף כנור נעים עם נבל",
-      "translit": "",
-      "es": ""
+      "he": "שְׂאוּ זִמְרָה וּתְנוּ תֹף כִּנּוֹר נָעִים עִם נָבֶל׃",
+      "he_plain": "שאו זמרה ותנו תוף כינור נעים עם נבל",
+      "translit": "Seú zimrá utenú tóf; kinór naím im nával.",
+      "es": "Entonad un cántico y tocad el pandero; el arpa melodiosa con el salterio."
     },
     {
       "num": 4,
-      "he": "תִּקְע֣וּ בַחֹ֣דֶשׁ שׁוֹפָ֑ר בַּ֝כֵּ֗סֶה לְי֣וֹם חַגֵּֽנוּ׃",
-      "he_plain": "תקעו בחדש שופר בכסה ליום חגנו",
-      "translit": "",
-      "es": ""
+      "he": "תִּקְעוּ בַחֹדֶשׁ שׁוֹפָר בַּכֵּסֶה לְיוֹם חַגֵּנוּ׃",
+      "he_plain": "תקעו בחודש שופר בכסה ליום חגנו",
+      "translit": "Tikú vajódesh shofár; bakéseh leyóm jagénu.",
+      "es": "Tocad la trompeta en la nueva luna; en el plenilunio para el día de nuestra fiesta."
     },
     {
       "num": 5,
-      "he": "כִּ֤י חֹ֣ק לְיִשְׂרָאֵ֣ל ה֑וּא מִ֝שְׁפָּ֗ט לֵאלֹהֵ֥י יַעֲקֹֽב׃",
-      "he_plain": "כי חק לישראל הוא משפט לאלהי יעקב",
-      "translit": "",
-      "es": ""
+      "he": "כִּי חֹק לְיִשְׂרָאֵל הוּא מִשְׁפָּט לֵאלֹהֵי יַעֲקֹב׃",
+      "he_plain": "כי חוק לישראל הוא משפט לאלהי יעקב",
+      "translit": "Ki jok leYisraél hu; mishpát leElohéi Yaakóv.",
+      "es": "Porque esto es estatuto para Israel; ordenanza del Dios de Yaakov."
     },
     {
       "num": 6,
-      "he": "עֵד֤וּת׀ בִּיה֘וֹסֵ֤ף שָׂמ֗וֹ בְּ֭צֵאתוֹ עַל־אֶ֣רֶץ מִצְרָ֑יִם שְׂפַ֖ת לֹא־יָדַ֣עְתִּי אֶשְׁמָֽע׃",
+      "he": "עֵדוּת בִּיהוֹסֵף שָׂמוֹ בְּצֵאתוֹ עַל אֶרֶץ מִצְרָיִם שְׂפַת לֹא יָדַעְתִּי אֶשְׁמָע׃",
       "he_plain": "עדות ביהוסף שמו בצאתו על ארץ מצרים שפת לא ידעתי אשמע",
-      "translit": "",
-      "es": ""
+      "translit": "Edút beYehosép samó; betsétó al érets Mitsráyim; sefát lo yadáati eshmaá.",
+      "es": "Lo estableció como testimonio en Yehosep cuando salió por la tierra de Egipto; oí un lenguaje que no entendía."
     },
     {
       "num": 7,
-      "he": "הֲסִיר֣וֹתִי מִסֵּ֣בֶל שִׁכְמ֑וֹ כַּ֝פָּ֗יו מִדּ֥וּד תַּעֲבֹֽרְנָה׃",
-      "he_plain": "הסירותי מסבל שכמו כפיו מדוד תעברנה",
-      "translit": "",
-      "es": ""
+      "he": "הֲסִירוֹתִי מִסֵּבֶל שִׁכְמוֹ כַּפָּיו מִדּוּד תַּעֲבֹרְנָה׃",
+      "he_plain": "הסירותי מסבל שכמו כפיו מדוד תעבורנה",
+      "translit": "Hasiróti misébel shijmó; kapáv midúd taavoréna.",
+      "es": "Aparté su hombro de la carga y sus manos se libraron de los cestos."
     },
     {
       "num": 8,
-      "he": "בַּצָּרָ֥ה קָרָ֗אתָ וָאֲחַ֫לְּצֶ֥ךָּ אֶ֭עֶנְךָ בְּסֵ֣תֶר רַ֑עַם אֶבְחׇנְךָ֨ עַל־מֵ֖י מְרִיבָ֣ה סֶֽלָה׃",
+      "he": "בַּצָּרָה קָרָאתָ וָאֲחַלְּצֶךָּ אֶעֶנְךָ בְּסֵתֶר רַעַם אֶבְחָנְךָ עַל מֵי מְרִיבָה סֶלָה׃",
       "he_plain": "בצרה קראת ואחלצך אענך בסתר רעם אבחנך על מי מריבה סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Batsará karáta vaajaltseján; aaneján besétER ráam; evjanján al méi merivá. Selá.",
+      "es": "En la angustia clamaste y yo te libré; te respondí en el secreto del trueno; te probé en las aguas de Merivá. Selá."
     },
     {
       "num": 9,
-      "he": "שְׁמַ֣ע עַ֭מִּי וְאָעִ֣ידָה בָּ֑ךְ יִ֝שְׂרָאֵ֗ל אִם־תִּֽשְׁמַֽע־לִֽי׃",
+      "he": "שְׁמַע עַמִּי וְאָעִידָה בָּךְ יִשְׂרָאֵל אִם תִּשְׁמַע לִי׃",
       "he_plain": "שמע עמי ואעידה בך ישראל אם תשמע לי",
-      "translit": "",
-      "es": ""
+      "translit": "Shemá amí vaaíDa baj; Yisraél im tishmá lí.",
+      "es": "Escucha, pueblo mío, y te amonesto; Israel, si me oyeras."
     },
     {
       "num": 10,
-      "he": "לֹא־יִהְיֶ֣ה בְ֭ךָ אֵ֣ל זָ֑ר וְלֹ֥א תִ֝שְׁתַּחֲוֶ֗ה לְאֵ֣ל נֵכָֽר׃",
+      "he": "לֹא יִהְיֶה בְךָ אֵל זָר וְלֹא תִשְׁתַּחֲוֶה לְאֵל נֵכָר׃",
       "he_plain": "לא יהיה בך אל זר ולא תשתחוה לאל נכר",
-      "translit": "",
-      "es": ""
+      "translit": "Lo yihyéh vejá El zár; veló tishtajavéh leEl nejár.",
+      "es": "No habrá entre vosotros dios ajeno ni os inclinaréis ante dios extraño."
     },
     {
       "num": 11,
-      "he": "אָֽנֹכִ֨י׀ יְ֘הֹוָ֤ה אֱלֹהֶ֗יךָ הַֽ֭מַּעַלְךָ מֵאֶ֣רֶץ מִצְרָ֑יִם הַרְחֶב־פִּ֝֗יךָ וַאֲמַלְאֵֽהוּ׃",
+      "he": "אָנֹכִי יְהוָה אֱלֹהֶיךָ הַמַּעַלְךָ מֵאֶרֶץ מִצְרָיִם הַרְחֶב פִּיךָ וַאֲמַלְאֵהוּ׃",
       "he_plain": "אנכי יהוה אלהיך המעלך מארץ מצרים הרחב פיך ואמלאהו",
-      "translit": "",
-      "es": ""
+      "translit": "Anojí Adonái Elohéija; hamaaleja meérets Mitsráyim; harjév piján vaamelaéhu.",
+      "es": "Yo soy el Eterno tu Dios que te hice subir de la tierra de Egipto; abre tu boca y yo la llenaré."
     },
     {
       "num": 12,
-      "he": "וְלֹא־שָׁמַ֣ע עַמִּ֣י לְקוֹלִ֑י וְ֝יִשְׂרָאֵ֗ל לֹא־אָ֥בָה לִֽי׃",
+      "he": "וְלֹא שָׁמַע עַמִּי לְקוֹלִי וְיִשְׂרָאֵל לֹא אָבָה לִי׃",
       "he_plain": "ולא שמע עמי לקולי וישראל לא אבה לי",
-      "translit": "",
-      "es": ""
+      "translit": "Veló shamá amí lekólí; veYisraél lo avá lí.",
+      "es": "Pero Mi pueblo no escuchó Mi voz e Israel no Me obedeció."
     },
     {
       "num": 13,
-      "he": "וָ֭אֲשַׁלְּחֵהוּ בִּשְׁרִיר֣וּת לִבָּ֑ם יֵ֝לְכ֗וּ בְּֽמוֹעֲצ֖וֹתֵיהֶֽם׃",
+      "he": "וָאֲשַׁלְּחֵהוּ בִּשְׁרִירוּת לִבָּם יֵלְכוּ בְּמוֹעֲצוֹתֵיהֶם׃",
       "he_plain": "ואשלחהו בשרירות לבם ילכו במועצותיהם",
-      "translit": "",
-      "es": ""
+      "translit": "Vaashalejéhu bishreRút libám; yelJú bemoadtsotéihem.",
+      "es": "Los abandoné, pues, a la dureza de su corazón para que caminasen según sus propios consejos."
     },
     {
       "num": 14,
-      "he": "ל֗וּ עַ֭מִּי שֹׁמֵ֣עַֽ לִ֑י יִ֝שְׂרָאֵ֗ל בִּדְרָכַ֥י יְהַלֵּֽכוּ׃",
-      "he_plain": "לו עמי שמע לי ישראל בדרכי יהלכו",
-      "translit": "",
-      "es": ""
+      "he": "לוּ עַמִּי שֹׁמֵעַ לִי יִשְׂרָאֵל בִּדְרָכַי יְהַלֵּכוּ׃",
+      "he_plain": "לו עמי שומע לי ישראל בדרכי יהלכו",
+      "translit": "Lu amí shomÉa lí; Yisraél bidrjáy yehaléju.",
+      "es": "¡Oh si Mi pueblo me escuchara; si Israel caminara en Mis caminos!"
     },
     {
       "num": 15,
-      "he": "כִּ֭מְעַט אוֹיְבֵיהֶ֣ם אַכְנִ֑יעַ וְעַ֥ל צָ֝רֵיהֶ֗ם אָשִׁ֥יב יָדִֽי׃",
+      "he": "כִּמְעַט אוֹיְבֵיהֶם אַכְנִיעַ וְעַל צָרֵיהֶם אָשִׁיב יָדִי׃",
       "he_plain": "כמעט אויביהם אכניע ועל צריהם אשיב ידי",
-      "translit": "",
-      "es": ""
+      "translit": "Kimeát oyevéihem ajniá; veal tsaréihem ashív yadí.",
+      "es": "En un momento humillaría a sus enemigos y volvería mi mano contra sus adversarios."
     },
     {
       "num": 16,
-      "he": "מְשַׂנְאֵ֣י יְ֭הֹוָה יְכַחֲשׁוּ־ל֑וֹ וִיהִ֖י עִתָּ֣ם לְעוֹלָֽם׃",
+      "he": "מְשַׂנְאֵי יְהוָה יְכַחֲשׁוּ לוֹ וִיהִי עִתָּם לְעוֹלָם׃",
       "he_plain": "משנאי יהוה יכחשו לו ויהי עתם לעולם",
-      "translit": "",
-      "es": ""
+      "translit": "Mesanéi Adonái yejajashú lo; vihí itám leolám.",
+      "es": "Los que aborrecen al Eterno se le someterían con servilismo y el tiempo de ellos sería para siempre."
     },
     {
       "num": 17,
-      "he": "וַֽ֭יַּאֲכִילֵהוּ מֵחֵ֣לֶב חִטָּ֑ה וּ֝מִצּ֗וּר דְּבַ֣שׁ אַשְׂבִּיעֶֽךָ׃ {פ}",
-      "he_plain": "ויאכילהו מחלב חטה ומצור דבש אשביעך {פ}",
-      "translit": "",
-      "es": ""
+      "he": "וַיַּאֲכִילֵהוּ מֵחֵלֶב חִטָּה וּמִצּוּר דְּבַשׁ אַשְׂבִּיעֶךָ׃",
+      "he_plain": "ויאכילהו מחלב חיטה ומצור דבש אשביעך",
+      "translit": "VayaajilÉhu mejélev jiTá; umitsúr devash asbíeja.",
+      "es": "Le alimentaría con lo mejor del trigo y con miel de la peña te saciaría."
     }
-  ],
-  "audio": "",
-  "title_es": "Cantad con alegría a Dios"
+  ]
 }
