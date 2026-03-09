@@ -1,85 +1,84 @@
 {
   "number": 32,
   "title_he": "תהילים",
+  "title_es": "Dicha del perdón divino",
   "verses": [
     {
       "num": 1,
-      "he": "לְדָוִ֗ד מַ֫שְׂכִּ֥יל אַשְׁרֵ֥י נְֽשׂוּי־פֶּ֗שַׁע כְּס֣וּי חֲטָאָֽה׃",
+      "he": "לְדָוִד מַשְׂכִּיל אַשְׁרֵי נְשׂוּי פֶּשַׁע כְּסוּי חֲטָאָה׃",
       "he_plain": "לדוד משכיל אשרי נשוי פשע כסוי חטאה",
-      "translit": "",
-      "es": ""
+      "translit": "LeDavíd maskíl. Ashréi nesúy pésha; kesúy jataá.",
+      "es": "De David. Maskil. ¡Dichoso aquel cuya transgresión es perdonada y cuyo pecado es cubierto!"
     },
     {
       "num": 2,
-      "he": "אַ֥שְֽׁרֵי־אָדָ֗ם לֹ֤א יַחְשֹׁ֬ב יְהֹוָ֣ה ל֣וֹ עָוֺ֑ן וְאֵ֖ין בְּרוּח֣וֹ רְמִיָּֽה׃",
-      "he_plain": "אשרי אדם לא יחשב יהוה לו עון ואין ברוחו רמיה",
-      "translit": "",
-      "es": ""
+      "he": "אַשְׁרֵי אָדָם לֹא יַחְשֹׁב יְהוָה לוֹ עָוֹן וְאֵין בְּרוּחוֹ רְמִיָּה׃",
+      "he_plain": "אשרי אדם לא יחשוב יהוה לו עון ואין ברוחו רמיה",
+      "translit": "Ashréi adám lo yajshóv Adonái lo avón; veen berujó remiyá.",
+      "es": "¡Dichoso el hombre a quien el Eterno no le imputa iniquidad y en cuyo espíritu no hay engaño!"
     },
     {
       "num": 3,
-      "he": "כִּֽי־הֶ֭חֱרַשְׁתִּי בָּל֣וּ עֲצָמָ֑י בְּ֝שַׁאֲגָתִ֗י כׇּל־הַיּֽוֹם׃",
+      "he": "כִּי הֶחֱרַשְׁתִּי בָּלוּ עֲצָמַי בְּשַׁאֲגָתִי כָּל הַיּוֹם׃",
       "he_plain": "כי החרשתי בלו עצמי בשאגתי כל היום",
-      "translit": "",
-      "es": ""
+      "translit": "Ki hejerráshti balú atsamáy; beshaagati kol hayóm.",
+      "es": "Mientras callé se consumieron mis huesos en mi gemir todo el día."
     },
     {
       "num": 4,
-      "he": "כִּ֤י׀ יוֹמָ֣ם וָלַיְלָה֮ תִּכְבַּ֥ד עָלַ֗י יָ֫דֶ֥ךָ נֶהְפַּ֥ךְ לְשַׁדִּ֑י בְּחַרְבֹ֖נֵי קַ֣יִץ סֶֽלָה׃",
-      "he_plain": "כי יומם ולילה תכבד עלי ידך נהפך לשדי בחרבני קיץ סלה",
-      "translit": "",
-      "es": ""
+      "he": "כִּי יוֹמָם וָלַיְלָה תִּכְבַּד עָלַי יָדֶךָ נֶהְפַּךְ לְשַׁדִּי בְּחַרְבֹנֵי קַיִץ סֶלָה׃",
+      "he_plain": "כי יומם ולילה תכבד עלי ידך נהפך לשדי בחרבוני קיץ סלה",
+      "translit": "Ki yomám valailá tijbád aláy yadéja; nehpáj leshadí bejarvonéi káyits. Selá.",
+      "es": "Porque de día y de noche Tu mano se agravó sobre mí; se volvió mi vigor en sequedades de verano. Selá."
     },
     {
       "num": 5,
-      "he": "חַטָּאתִ֨י אוֹדִ֪יעֲךָ֡ וַעֲ֘וֺנִ֤י לֹֽא־כִסִּ֗יתִי אָמַ֗רְתִּי אוֹדֶ֤ה עֲלֵ֣י פְ֭שָׁעַי לַיהֹוָ֑ה וְאַתָּ֨ה נָ֘שָׂ֤אתָ עֲוֺ֖ן חַטָּאתִ֣י סֶֽלָה׃",
-      "he_plain": "חטאתי אודיעך ועוני לא כסיתי אמרתי אודה עלי פשעי ליהוה ואתה נשאת עון חטאתי סלה",
-      "translit": "",
-      "es": ""
+      "he": "חַטָּאתִי אוֹדִיעֲךָ וַעֲוֹנִי לֹא כִסִּיתִי אָמַרְתִּי אוֹדֶה עֲלֵי פְשָׁעַי לַיהוָה וְאַתָּה נָשָׂאתָ עֲוֹן חַטָּאתִי סֶלָה׃",
+      "he_plain": "חטאתי אודיעך ועוני לא כסיתי אמרти אודה עלי פשעי ליהוה ואתה נשאת עון חטאתי סלה",
+      "translit": "Jatatí odiéaja; vaaóni lo jisíti; amárti odé aléi feshaáy laAdonái; veatá nasáta avón jatatí. Selá.",
+      "es": "Mi pecado te declaré y no encubrí mi iniquidad. Dije: Confesaré mis transgresiones al Eterno; y Tú perdonaste la maldad de mi pecado. Selá."
     },
     {
       "num": 6,
-      "he": "עַל־זֹ֡את יִתְפַּלֵּ֬ל כׇּל־חָסִ֨יד׀ אֵלֶיךָ֮ לְעֵ֢ת מְ֫צֹ֥א רַ֗ק לְ֭שֵׁטֶף מַ֣יִם רַבִּ֑ים אֵ֝לָ֗יו לֹ֣א יַגִּֽיעוּ׃",
+      "he": "עַל זֹאת יִתְפַּלֵּל כָּל חָסִיד אֵלֶיךָ לְעֵת מְצֹא רַק לְשֵׁטֶף מַיִם רַבִּים אֵלָיו לֹא יַגִּיעוּ׃",
       "he_plain": "על זאת יתפלל כל חסיד אליך לעת מצא רק לשטף מים רבים אליו לא יגיעו",
-      "translit": "",
-      "es": ""
+      "translit": "Al zot yitpalél kol jasíd eléija leét metso; rak leshétef máyim rabím eláv lo yaguíu.",
+      "es": "Por esto orará a Ti todo santo en el tiempo en que puedas ser hallado; ciertamente en la inundación de muchas aguas no llegarán éstas a él."
     },
     {
       "num": 7,
-      "he": "אַתָּ֤ה׀ סֵ֥תֶר לִי֮ מִצַּ֢ר תִּ֫צְּרֵ֥נִי רׇנֵּ֥י פַלֵּ֑ט תְּס֖וֹבְבֵ֣נִי סֶֽלָה׃",
+      "he": "אַתָּה סֵתֶר לִי מִצַּר תִּצְּרֵנִי רָנֵּי פַלֵּט תְּסוֹבְבֵנִי סֶלָה׃",
       "he_plain": "אתה סתר לי מצר תצרני רני פלט תסובבני סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Atá séter lí; mitsár titsreéni; ranéi fálet tesovevéni. Selá.",
+      "es": "Tú eres mi refugio; me guardarás de la angustia; con cánticos de liberación me rodearás. Selá."
     },
     {
       "num": 8,
-      "he": "אַשְׂכִּֽילְךָ֨׀ וְֽאוֹרְךָ֗ בְּדֶֽרֶךְ־ז֥וּ תֵלֵ֑ךְ אִיעֲצָ֖ה עָלֶ֣יךָ עֵינִֽי׃",
+      "he": "אַשְׂכִּילְךָ וְאוֹרְךָ בְּדֶרֶךְ זוּ תֵלֵךְ אִיעֲצָה עָלֶיךָ עֵינִי׃",
       "he_plain": "אשכילך ואורך בדרך זו תלך איעצה עליך עיני",
-      "translit": "",
-      "es": ""
+      "translit": "Askiljá veorjá bedérej zu teléj; iiatsá aléija eíni.",
+      "es": "Te haré entender y te enseñaré el camino en que debes andar; sobre ti fijaré mis ojos."
     },
     {
       "num": 9,
-      "he": "אַל־תִּהְי֤וּ׀ כְּס֥וּס כְּפֶרֶד֮ אֵ֤ין הָ֫בִ֥ין בְּמֶתֶג־וָרֶ֣סֶן עֶדְי֣וֹ לִבְל֑וֹם בַּ֝֗ל קְרֹ֣ב אֵלֶֽיךָ׃",
+      "he": "אַל תִּהְיוּ כְּסוּס כְּפֶרֶד אֵין הָבִין בְּמֶתֶג וָרֶסֶן עֶדְיוֹ לִבְלוֹם בַּל קְרֹב אֵלֶיךָ׃",
       "he_plain": "אל תהיו כסוס כפרד אין הבין במתג ורסן עדיו לבלום בל קרב אליך",
-      "translit": "",
-      "es": ""
+      "translit": "Al tihyú kesús keféred en havín; bemetég varésen edyó livlóm; bal keróv eléija.",
+      "es": "No seáis como el caballo o como la mula, sin entendimiento; que han de ser sujetados con cabestro y con freno, porque si no, no se acercan a ti."
     },
     {
       "num": 10,
-      "he": "רַבִּ֥ים מַכְאוֹבִ֗ים לָ֫רָשָׁ֥ע וְהַבּוֹטֵ֥חַ בַּֽיהֹוָ֑ה חֶ֝֗סֶד יְסוֹבְבֶֽנּוּ׃",
+      "he": "רַבִּים מַכְאוֹבִים לָרָשָׁע וְהַבּוֹטֵחַ בַּיהוָה חֶסֶד יְסוֹבְבֶנּוּ׃",
       "he_plain": "רבים מכאובים לרשע והבוטח ביהוה חסד יסובבנו",
-      "translit": "",
-      "es": ""
+      "translit": "Rabím majaovím larásha; vehaBotéaj baAdonái jésed yesovevénu.",
+      "es": "Muchos dolores hay para el impío; pero al que confía en el Eterno, la bondad leal lo rodeará."
     },
     {
       "num": 11,
-      "he": "שִׂמְח֬וּ בַיהֹוָ֣ה וְ֭גִילוּ צַדִּיקִ֑ים וְ֝הַרְנִ֗ינוּ כׇּל־יִשְׁרֵי־לֵֽב׃ {פ}",
-      "he_plain": "שמחו ביהוה וגילו צדיקים והרנינו כל ישרי לב {פ}",
-      "translit": "",
-      "es": ""
+      "he": "שִׂמְחוּ בַיהוָה וְגִילוּ צַדִּיקִים וְהַרְנִינוּ כָּל יִשְׁרֵי לֵב׃",
+      "he_plain": "שמחו ביהוה וגילו צדיקים והרנינו כל ישרי לב",
+      "translit": "Simjú vaAdonái veguílu tsadikim; veharnínu kol yishréi léiv.",
+      "es": "Alegraos en el Eterno y gozaos, justos; y cantad con júbilo todos los rectos de corazón."
     }
-  ],
-  "audio": "",
-  "title_es": "Dichoso aquel cuya transgresión es perdonada"
+  ]
 }

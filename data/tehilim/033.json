@@ -1,162 +1,161 @@
 {
   "number": 33,
   "title_he": "תהילים",
+  "title_es": "Alabanza al Creador y Soberano",
   "verses": [
     {
       "num": 1,
-      "he": "רַנְּנ֣וּ צַ֭דִּיקִים בַּֽיהֹוָ֑ה לַ֝יְשָׁרִ֗ים נָאוָ֥ה תְהִלָּֽה׃",
+      "he": "רַנְּנוּ צַדִּיקִים בַּיהוָה לַיְשָׁרִים נָאוָה תְהִלָּה׃",
       "he_plain": "רננו צדיקים ביהוה לישרים נאוה תהלה",
-      "translit": "",
-      "es": ""
+      "translit": "Ranenu tsadikim baAdonái; layesharím naVá tehilá.",
+      "es": "Cantad con júbilo al Eterno, justos; la alabanza es hermosa para los rectos."
     },
     {
       "num": 2,
-      "he": "הוֹד֣וּ לַיהֹוָ֣ה בְּכִנּ֑וֹר בְּנֵ֥בֶל עָ֝שׂ֗וֹר זַמְּרוּ־לֽוֹ׃",
+      "he": "הוֹדוּ לַיהוָה בְּכִנּוֹר בְּנֵבֶל עָשׂוֹר זַמְּרוּ לוֹ׃",
       "he_plain": "הודו ליהוה בכנור בנבל עשור זמרו לו",
-      "translit": "",
-      "es": ""
+      "translit": "Hodú laAdonái bejinór; beNével asór zaméru lo.",
+      "es": "Alabad al Eterno con arpa; cantadle con salterio de diez cuerdas."
     },
     {
       "num": 3,
-      "he": "שִֽׁירוּ־ל֭וֹ שִׁ֣יר חָדָ֑שׁ הֵיטִ֥יבוּ נַ֝גֵּ֗ן בִּתְרוּעָֽה׃",
+      "he": "שִׁירוּ לוֹ שִׁיר חָדָשׁ הֵיטִיבוּ נַגֵּן בִּתְרוּעָה׃",
       "he_plain": "שירו לו שיר חדש היטיבו נגן בתרועה",
-      "translit": "",
-      "es": ""
+      "translit": "Shirú lo shír jadásh; hetívu nagén bitrua.",
+      "es": "Cantadle cántico nuevo; tocad bien con jubiloso aclamación."
     },
     {
       "num": 4,
-      "he": "כִּֽי־יָשָׁ֥ר דְּבַר־יְהֹוָ֑ה וְכׇל־מַ֝עֲשֵׂ֗הוּ בֶּאֱמוּנָֽה׃",
+      "he": "כִּי יָשָׁר דְּבַר יְהוָה וְכָל מַעֲשֵׂהוּ בֶּאֱמוּנָה׃",
       "he_plain": "כי ישר דבר יהוה וכל מעשהו באמונה",
-      "translit": "",
-      "es": ""
+      "translit": "Ki yashár devár Adonái; vejol maasehú beemuná.",
+      "es": "Porque la palabra del Eterno es recta y toda Su obra es hecha con fidelidad."
     },
     {
       "num": 5,
-      "he": "אֹ֭הֵב צְדָקָ֣ה וּמִשְׁפָּ֑ט חֶ֥סֶד יְ֝הֹוָ֗ה מָלְאָ֥ה הָאָֽרֶץ׃",
-      "he_plain": "אהב צדקה ומשפט חסד יהוה מלאה הארץ",
-      "translit": "",
-      "es": ""
+      "he": "אֹהֵב צְדָקָה וּמִשְׁפָּט חֶסֶד יְהוָה מָלְאָה הָאָרֶץ׃",
+      "he_plain": "אוהב צדקה ומשפט חסד יהוה מלאה הארץ",
+      "translit": "Ohév tsedaká umishpát; jésed Adonái malejá haárets.",
+      "es": "Él ama la justicia y el juicio; de la bondad leal del Eterno está llena la tierra."
     },
     {
       "num": 6,
-      "he": "בִּדְבַ֣ר יְ֭הֹוָה שָׁמַ֣יִם נַעֲשׂ֑וּ וּבְר֥וּחַ פִּ֝֗יו כׇּל־צְבָאָֽם׃",
+      "he": "בִּדְבַר יְהוָה שָׁמַיִם נַעֲשׂוּ וּבְרוּחַ פִּיו כָּל צְבָאָם׃",
       "he_plain": "בדבר יהוה שמים נעשו וברוח פיו כל צבאם",
-      "translit": "",
-      "es": ""
+      "translit": "Bidvár Adonái shamáyim naasú; uverúaj pív kol tsevaam.",
+      "es": "Por la palabra del Eterno fueron hechos los cielos y todo el ejército de ellos por el aliento de Su boca."
     },
     {
       "num": 7,
-      "he": "כֹּנֵ֣ס כַּ֭נֵּד מֵ֣י הַיָּ֑ם נֹתֵ֖ן בְּאוֹצָר֣וֹת תְּהוֹמֽוֹת׃",
-      "he_plain": "כנס כנד מי הים נתן באוצרות תהומות",
-      "translit": "",
-      "es": ""
+      "he": "כֹּנֵס כַּנֵּד מֵי הַיָּם נֹתֵן בְּאוֹצָרוֹת תְּהוֹמוֹת׃",
+      "he_plain": "כנס כנד מי הים נותן באוצרות תהומות",
+      "translit": "Konés kanéd méi hayám; notén beotsarot teomót.",
+      "es": "Él recoge como en un montón las aguas del mar; Él pone en depósitos los abismos."
     },
     {
       "num": 8,
-      "he": "יִֽירְא֣וּ מֵ֭יְהֹוָה כׇּל־הָאָ֑רֶץ מִמֶּ֥נּוּ יָ֝ג֗וּרוּ כׇּל־יֹשְׁבֵ֥י תֵבֵֽל׃",
-      "he_plain": "ייראו מיהוה כל הארץ ממנו יגורו כל ישבי תבל",
-      "translit": "",
-      "es": ""
+      "he": "יִירְאוּ מֵיְהוָה כָּל הָאָרֶץ מִמֶּנּוּ יָגוּרוּ כָּל יֹשְׁבֵי תֵבֵל׃",
+      "he_plain": "ייראו מיהוה כל הארץ ממנו יגורו כל יושבי תבל",
+      "translit": "Yiraú meAdonái kol haárets; miménu yagúru kol yoshevéi tévél.",
+      "es": "Tema al Eterno toda la tierra; teman ante Él todos los habitantes del mundo."
     },
     {
       "num": 9,
-      "he": "כִּ֤י ה֣וּא אָמַ֣ר וַיֶּ֑הִי הֽוּא־צִ֝וָּ֗ה וַֽיַּעֲמֹֽד׃",
+      "he": "כִּי הוּא אָמַר וַיֶּהִי הוּא צִוָּה וַיַּעֲמֹד׃",
       "he_plain": "כי הוא אמר ויהי הוא צוה ויעמד",
-      "translit": "",
-      "es": ""
+      "translit": "Ki hu amár vayehí; hu tsivá vayaamod.",
+      "es": "Porque Él dijo, y fue hecho; Él mandó, y existió."
     },
     {
       "num": 10,
-      "he": "יְֽהֹוָ֗ה הֵפִ֥יר עֲצַת־גּוֹיִ֑ם הֵ֝נִ֗יא מַחְשְׁב֥וֹת עַמִּֽים׃",
+      "he": "יְהוָה הֵפִיר עֲצַת גּוֹיִם הֵנִיא מַחְשְׁבוֹת עַמִּים׃",
       "he_plain": "יהוה הפיר עצת גוים הניא מחשבות עמים",
-      "translit": "",
-      "es": ""
+      "translit": "Adonái héfir atsat goyím; heniá majshevót amím.",
+      "es": "El Eterno frustra el consejo de las naciones; deshace los pensamientos de los pueblos."
     },
     {
       "num": 11,
-      "he": "עֲצַ֣ת יְ֭הֹוָה לְעוֹלָ֣ם תַּעֲמֹ֑ד מַחְשְׁב֥וֹת לִ֝בּ֗וֹ לְדֹ֣ר וָדֹֽר׃",
+      "he": "עֲצַת יְהוָה לְעוֹלָם תַּעֲמֹד מַחְשְׁבוֹת לִבּוֹ לְדֹר וָדֹר׃",
       "he_plain": "עצת יהוה לעולם תעמד מחשבות לבו לדר ודר",
-      "translit": "",
-      "es": ""
+      "translit": "Atsat Adonái leolám taamod; majshevót libó ledór vadór.",
+      "es": "El consejo del Eterno permanecerá para siempre; los pensamientos de Su corazón por todas las generaciones."
     },
     {
       "num": 12,
-      "he": "אַשְׁרֵ֣י הַ֭גּוֹי אֲשֶׁר־יְהֹוָ֣ה אֱלֹהָ֑יו הָעָ֓ם׀ בָּחַ֖ר לְנַחֲלָ֣ה לֽוֹ׃",
+      "he": "אַשְׁרֵי הַגּוֹי אֲשֶׁר יְהוָה אֱלֹהָיו הָעָם בָּחַר לְנַחֲלָה לוֹ׃",
       "he_plain": "אשרי הגוי אשר יהוה אלהיו העם בחר לנחלה לו",
-      "translit": "",
-      "es": ""
+      "translit": "Ashréi hagóy ashér Adonái Eloháv; haám bajár lenajálá lo.",
+      "es": "Dichosa la nación cuyo Dios es el Eterno; el pueblo que Él escogió como heredad para Sí."
     },
     {
       "num": 13,
-      "he": "מִ֭שָּׁמַיִם הִבִּ֣יט יְהֹוָ֑ה רָ֝אָ֗ה אֶֽת־כׇּל־בְּנֵ֥י הָאָדָֽם׃",
+      "he": "מִשָּׁמַיִם הִבִּיט יְהוָה רָאָה אֶת כָּל בְּנֵי הָאָדָם׃",
       "he_plain": "משמים הביט יהוה ראה את כל בני האדם",
-      "translit": "",
-      "es": ""
+      "translit": "Mishamáyim hibít Adonái; raá et kol benéi haadám.",
+      "es": "Desde los cielos miró el Eterno; vio a todos los hijos de los hombres."
     },
     {
       "num": 14,
-      "he": "מִֽמְּכוֹן־שִׁבְתּ֥וֹ הִשְׁגִּ֑יחַ אֶ֖ל כׇּל־יֹשְׁבֵ֣י הָאָֽרֶץ׃",
-      "he_plain": "ממכון שבתו השגיח אל כל ישבי הארץ",
-      "translit": "",
-      "es": ""
+      "he": "מִמְּכוֹן שִׁבְתּוֹ הִשְׁגִּיחַ אֶל כָּל יֹשְׁבֵי הָאָרֶץ׃",
+      "he_plain": "ממכון שבתו השגיח אל כל יושבי הארץ",
+      "translit": "Mimekón shibtó hishgíaj el kol yoshevéi haárets.",
+      "es": "Desde el lugar de Su morada miró sobre todos los habitantes de la tierra."
     },
     {
       "num": 15,
-      "he": "הַיֹּצֵ֣ר יַ֣חַד לִבָּ֑ם הַ֝מֵּבִ֗ין אֶל־כׇּל־מַעֲשֵׂיהֶֽם׃",
-      "he_plain": "היצר יחד לבם המבין אל כל מעשיהם",
-      "translit": "",
-      "es": ""
+      "he": "הַיֹּצֵר יַחַד לִבָּם הַמֵּבִין אֶל כָּל מַעֲשֵׂיהֶם׃",
+      "he_plain": "היוצר יחד לבם המבין אל כל מעשיהם",
+      "translit": "Hayotsér yájad libám; hamevín el kol maaseihem.",
+      "es": "Él formó el corazón de todos ellos; Él considera todas sus obras."
     },
     {
       "num": 16,
-      "he": "אֵֽין־הַ֭מֶּלֶךְ נוֹשָׁ֣ע בְּרׇב־חָ֑יִל גִּ֝בּ֗וֹר לֹא־יִנָּצֵ֥ל בְּרׇב־כֹּֽחַ׃",
+      "he": "אֵין הַמֶּלֶךְ נוֹשָׁע בְּרָב חָיִל גִּבּוֹר לֹא יִנָּצֵל בְּרָב כֹּחַ׃",
       "he_plain": "אין המלך נושע ברב חיל גבור לא ינצל ברב כח",
-      "translit": "",
-      "es": ""
+      "translit": "En haméleg noshá beráv jáyil; guibór lo yinatsél beráv kóaj.",
+      "es": "El rey no se salva por la multitud del ejército; el valiente no se libra por la mucha fuerza."
     },
     {
       "num": 17,
-      "he": "שֶׁ֣קֶר הַ֭סּוּס לִתְשׁוּעָ֑ה וּבְרֹ֥ב חֵ֝יל֗וֹ לֹ֣א יְמַלֵּֽט׃",
+      "he": "שֶׁקֶר הַסּוּס לִתְשׁוּעָה וּבְרֹב חֵילוֹ לֹא יְמַלֵּט׃",
       "he_plain": "שקר הסוס לתשועה וברב חילו לא ימלט",
-      "translit": "",
-      "es": ""
+      "translit": "Shéker hasús litshúa; uverov jeiló lo yemaléit.",
+      "es": "El caballo es engañoso para la victoria; con su mucha fuerza no librará."
     },
     {
       "num": 18,
-      "he": "הִנֵּ֤ה עֵ֣ין יְ֭הֹוָה אֶל־יְרֵאָ֑יו לַֽמְיַחֲלִ֥ים לְחַסְדּֽוֹ׃",
+      "he": "הִנֵּה עֵין יְהוָה אֶל יְרֵאָיו לַמְיַחֲלִים לְחַסְדּוֹ׃",
       "he_plain": "הנה עין יהוה אל יראיו למיחלים לחסדו",
-      "translit": "",
-      "es": ""
+      "translit": "Hiné ein Adonái el yereaáv; lameyajalím lejasdo.",
+      "es": "He aquí el ojo del Eterno está sobre los que le temen, sobre los que esperan en Su bondad leal,"
     },
     {
       "num": 19,
-      "he": "לְהַצִּ֣יל מִמָּ֣וֶת נַפְשָׁ֑ם וּ֝לְחַיּוֹתָ֗ם בָּרָעָֽב׃",
+      "he": "לְהַצִּיל מִמָּוֶת נַפְשָׁם וּלְחַיּוֹתָם בָּרָעָב׃",
       "he_plain": "להציל ממות נפשם ולחיותם ברעב",
-      "translit": "",
-      "es": ""
+      "translit": "Lehatsíl mamávet nafshám; ulejayotám baraáv.",
+      "es": "para librar su alma de la muerte y para darles vida en tiempo de hambre."
     },
     {
       "num": 20,
-      "he": "נַ֭פְשֵׁנוּ חִכְּתָ֣ה לַֽיהֹוָ֑ה עֶזְרֵ֖נוּ וּמָגִנֵּ֣נוּ הֽוּא׃",
+      "he": "נַפְשֵׁנוּ חִכְּתָה לַיהוָה עֶזְרֵנוּ וּמָגִנֵּנוּ הוּא׃",
       "he_plain": "נפשנו חכתה ליהוה עזרנו ומגננו הוא",
-      "translit": "",
-      "es": ""
+      "translit": "Nafshénu jiketá laAdonái; ezrénu umagínenu hu.",
+      "es": "Nuestra alma espera al Eterno; nuestra ayuda y nuestro escudo es Él."
     },
     {
       "num": 21,
-      "he": "כִּי־ב֭וֹ יִשְׂמַ֣ח לִבֵּ֑נוּ כִּ֤י בְשֵׁ֖ם קׇדְשׁ֣וֹ בָטָֽחְנוּ׃",
+      "he": "כִּי בוֹ יִשְׂמַח לִבֵּנוּ כִּי בְשֵׁם קָדְשׁוֹ בָטָחְנוּ׃",
       "he_plain": "כי בו ישמח לבנו כי בשם קדשו בטחנו",
-      "translit": "",
-      "es": ""
+      "translit": "Ki vo yismáj libénu; ki veshem kodsho vatájnu.",
+      "es": "Porque en Él se alegra nuestro corazón, porque en Su santo nombre confiamos."
     },
     {
       "num": 22,
-      "he": "יְהִי־חַסְדְּךָ֣ יְהֹוָ֣ה עָלֵ֑ינוּ כַּ֝אֲשֶׁ֗ר יִחַ֥לְנוּ לָֽךְ׃ {פ}",
-      "he_plain": "יהי חסדך יהוה עלינו כאשר יחלנו לך {פ}",
-      "translit": "",
-      "es": ""
+      "he": "יְהִי חַסְדְּךָ יְהוָה עָלֵינוּ כַּאֲשֶׁר יִחַלְנוּ לָךְ׃",
+      "he_plain": "יהי חסדך יהוה עלינו כאשר יחלנו לך",
+      "translit": "Yehí jasdeján Adonái aléinu; kaashér yijalnu laj.",
+      "es": "Sea Tu bondad leal, Eterno, sobre nosotros, según esperamos en Ti."
     }
-  ],
-  "audio": "",
-  "title_es": "Alegraos, justos, en el Eterno"
+  ]
 }
