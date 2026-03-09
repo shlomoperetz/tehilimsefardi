@@ -1,106 +1,105 @@
 {
   "number": 21,
   "title_he": "תהילים",
+  "title_es": "Acción de gracias por la victoria del rey",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֗חַ מִזְמ֥וֹר לְדָוִֽד׃",
+      "he": "לַמְנַצֵּחַ מִזְמוֹר לְדָוִד׃",
       "he_plain": "למנצח מזמור לדוד",
-      "translit": "",
-      "es": ""
+      "translit": "Lamnatséaj mizmór leDavíd.",
+      "es": "Al director. Salmo de David."
     },
     {
       "num": 2,
-      "he": "יְֽהֹוָ֗ה בְּעׇזְּךָ֥ יִשְׂמַח־מֶ֑לֶךְ וּ֝בִישׁ֥וּעָתְךָ֗ מַה־[יָּ֥גֶל] (יגיל) מְאֹֽד׃",
-      "he_plain": "יהוה בעזך ישמח מלך ובישועתך מה [יגל] (יגיל) מאד",
-      "translit": "",
-      "es": ""
+      "he": "יְהוָה בְּעֻזְּךָ יִשְׂמַח מֶלֶךְ וּבִישׁוּעָתְךָ מַה יָּגִיל מְאֹד׃",
+      "he_plain": "יהוה בעזך ישמח מלך ובישועתך מה יגיל מאד",
+      "translit": "Adonái beuzejá yismáj méleg; uvishuat ejá ma yaguíl meód.",
+      "es": "Eterno, en Tu poder se alegra el rey, y en Tu salvación, ¡cuánto se regocija!"
     },
     {
       "num": 3,
-      "he": "תַּאֲוַ֣ת לִ֭בּוֹ נָתַ֣תָּה לּ֑וֹ וַאֲרֶ֥שֶׁת שְׂ֝פָתָ֗יו בַּל־מָנַ֥עְתָּ סֶּֽלָה׃",
+      "he": "תַּאֲוַת לִבּוֹ נָתַתָּה לּוֹ וַאֲרֶשֶׁת שְׂפָתָיו בַּל מָנַעְתָּ סֶּלָה׃",
       "he_plain": "תאות לבו נתתה לו וארשת שפתיו בל מנעת סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Taaváт libó natatá lo; vaéreshet sefatáv bal manáta. Selá.",
+      "es": "Le concediste el deseo de su corazón y no negaste la petición de sus labios. Selá."
     },
     {
       "num": 4,
-      "he": "כִּֽי־תְ֭קַדְּמֶנּוּ בִּרְכ֣וֹת ט֑וֹב תָּשִׁ֥ית לְ֝רֹאשׁ֗וֹ עֲטֶ֣רֶת פָּֽז׃",
+      "he": "כִּי תְקַדְּמֶנּוּ בִּרְכוֹת טוֹב תָּשִׁית לְרֹאשׁוֹ עֲטֶרֶת פָּז׃",
       "he_plain": "כי תקדמנו ברכות טוב תשית לראשו עטרת פז",
-      "translit": "",
-      "es": ""
+      "translit": "Ki tekademenu birjót tov; tashít leroshó atéret páz.",
+      "es": "Porque lo recibiste con bendiciones de bien; pusiste en su cabeza corona de oro fino."
     },
     {
       "num": 5,
-      "he": "חַיִּ֤ים׀ שָׁאַ֣ל מִ֭מְּךָ נָתַ֣תָּה לּ֑וֹ אֹ֥רֶךְ יָ֝מִ֗ים עוֹלָ֥ם וָעֶֽד׃",
+      "he": "חַיִּים שָׁאַל מִמְּךָ נָתַתָּה לּוֹ אֹרֶךְ יָמִים עוֹלָם וָעֶד׃",
       "he_plain": "חיים שאל ממך נתתה לו ארך ימים עולם ועד",
-      "translit": "",
-      "es": ""
+      "translit": "Jayím shaál mimejá natatá lo; órej yamím olám vaéd.",
+      "es": "Vida te pidió y se la diste, largura de días para siempre jamás."
     },
     {
       "num": 6,
-      "he": "גָּד֣וֹל כְּ֭בוֹדוֹ בִּישׁוּעָתֶ֑ךָ ה֥וֹד וְ֝הָדָ֗ר תְּשַׁוֶּ֥ה עָלָֽיו׃",
+      "he": "גָּדוֹל כְּבוֹדוֹ בִּישׁוּעָתֶךָ הוֹד וְהָדָר תְּשַׁוֶּה עָלָיו׃",
       "he_plain": "גדול כבודו בישועתך הוד והדר תשוה עליו",
-      "translit": "",
-      "es": ""
+      "translit": "Gadól kevodó bishuat éja; hod vehaDár teshaVé aláv.",
+      "es": "Grande es su gloria por Tu salvación; esplendor y majestad has puesto sobre él."
     },
     {
       "num": 7,
-      "he": "כִּֽי־תְשִׁיתֵ֣הוּ בְרָכ֣וֹת לָעַ֑ד תְּחַדֵּ֥הוּ בְ֝שִׂמְחָ֗ה אֶת־פָּנֶֽיךָ׃",
+      "he": "כִּי תְשִׁיתֵהוּ בְרָכוֹת לָעַד תְּחַדֵּהוּ בְשִׂמְחָה אֶת פָּנֶיךָ׃",
       "he_plain": "כי תשיתהו ברכות לעד תחדהו בשמחה את פניך",
-      "translit": "",
-      "es": ""
+      "translit": "Ki teshitéhu verajót laad; tejadéhu vesimjá et panéija.",
+      "es": "Porque lo colmas de bendiciones para siempre; lo llenas de alegría con Tu presencia."
     },
     {
       "num": 8,
-      "he": "כִּֽי־הַ֭מֶּלֶךְ בֹּטֵ֣חַ בַּיהֹוָ֑ה וּבְחֶ֥סֶד עֶ֝לְי֗וֹן בַּל־יִמּֽוֹט׃",
-      "he_plain": "כי המלך בטח ביהוה ובחסד עליון בל ימוט",
-      "translit": "",
-      "es": ""
+      "he": "כִּי הַמֶּלֶךְ בֹּטֵחַ בַּיהוָה וּבְחֶסֶד עֶלְיוֹן בַּל יִמּוֹט׃",
+      "he_plain": "כי המלך בוטח ביהוה ובחסד עליון בל ימוט",
+      "translit": "Ki haméleg botéaj baAdonái; uvejésed Elyón bal yimót.",
+      "es": "Porque el rey confía en el Eterno, y por la bondad leal del Altísimo no será sacudido."
     },
     {
       "num": 9,
-      "he": "תִּמְצָ֣א יָ֭דְךָ לְכׇל־אֹיְבֶ֑יךָ יְ֝מִֽינְךָ֗ תִּמְצָ֥א שֹׂנְאֶֽיךָ׃",
+      "he": "תִּמְצָא יָדְךָ לְכָל אֹיְבֶיךָ יְמִינְךָ תִּמְצָא שֹׂנְאֶיךָ׃",
       "he_plain": "תמצא ידך לכל איביך ימינך תמצא שנאיך",
-      "translit": "",
-      "es": ""
+      "translit": "Timtsá yadejá lejol oyveéja; yeminejá timtsá sonéija.",
+      "es": "Tu mano alcanzará a todos Tus enemigos; Tu diestra alcanzará a los que Te aborrecen."
     },
     {
       "num": 10,
-      "he": "תְּשִׁיתֵ֤מוֹ׀ כְּתַנּ֥וּר אֵשׁ֮ לְעֵ֢ת פָּ֫נֶ֥יךָ יְ֭הֹוָה בְּאַפּ֣וֹ יְבַלְּעֵ֑ם וְֽתֹאכְלֵ֥ם אֵֽשׁ׃",
+      "he": "תְּשִׁיתֵמוֹ כְתַנּוּר אֵשׁ לְעֵת פָּנֶיךָ יְהוָה בְּאַפּוֹ יְבַלְּעֵם וְתֹאכְלֵם אֵשׁ׃",
       "he_plain": "תשיתמו כתנור אש לעת פניך יהוה באפו יבלעם ותאכלם אש",
-      "translit": "",
-      "es": ""
+      "translit": "Teshitémo jetanúr esh leét panéija; Adonái beapó yevalemém vetojlemém esh.",
+      "es": "Los pondrás como horno de fuego en el tiempo de Tu presencia; el Eterno los tragará en Su ira y el fuego los consumirá."
     },
     {
       "num": 11,
-      "he": "פִּ֭רְיָמוֹ מֵאֶ֣רֶץ תְּאַבֵּ֑ד וְ֝זַרְעָ֗ם מִבְּנֵ֥י אָדָֽם׃",
+      "he": "פִּרְיָמוֹ מֵאֶרֶץ תְּאַבֵּד וְזַרְעָם מִבְּנֵי אָדָם׃",
       "he_plain": "פרימו מארץ תאבד וזרעם מבני אדם",
-      "translit": "",
-      "es": ""
+      "translit": "Piryámo meérets teabéd; vezaramém mibenéi adám.",
+      "es": "Su fruto destruirás de la tierra y su descendencia de entre los hijos de los hombres."
     },
     {
       "num": 12,
-      "he": "כִּי־נָט֣וּ עָלֶ֣יךָ רָעָ֑ה חָֽשְׁב֥וּ מְ֝זִמָּ֗ה בַּל־יוּכָֽלוּ׃",
+      "he": "כִּי נָטוּ עָלֶיךָ רָעָה חָשְׁבוּ מְזִמָּה בַּל יוּכָלוּ׃",
       "he_plain": "כי נטו עליך רעה חשבו מזמה בל יוכלו",
-      "translit": "",
-      "es": ""
+      "translit": "Ki natú aléja raá; jashevú mezimá bal yujálu.",
+      "es": "Porque tramaron el mal contra Ti; maquinaron planes que no podrán ejecutar."
     },
     {
       "num": 13,
-      "he": "כִּ֭י תְּשִׁיתֵ֣מוֹ שֶׁ֑כֶם בְּ֝מֵֽיתָרֶ֗יךָ תְּכוֹנֵ֥ן עַל־פְּנֵיהֶֽם׃",
+      "he": "כִּי תְשִׁיתֵמוֹ שֶׁכֶם בְּמֵיתָרֶיךָ תְּכוֹנֵן עַל פְּנֵיהֶם׃",
       "he_plain": "כי תשיתמו שכם במיתריך תכונן על פניהם",
-      "translit": "",
-      "es": ""
+      "translit": "Ki teshitémo shéjem; bemeytaréija tejonén al penéihem.",
+      "es": "Porque los pondrás en fuga; con Tus cuerdas apuntarás contra sus rostros."
     },
     {
       "num": 14,
-      "he": "ר֣וּמָה יְהֹוָ֣ה בְּעֻזֶּ֑ךָ נָשִׁ֥ירָה וּֽ֝נְזַמְּרָ֗ה גְּבוּרָתֶֽךָ׃ {פ}",
-      "he_plain": "רומה יהוה בעזך נשירה ונזמרה גבורתך {פ}",
-      "translit": "",
-      "es": ""
+      "he": "רוּמָה יְהוָה בְּעֻזֶּךָ נָשִׁירָה וּנְזַמְּרָה גְּבוּרָתֶךָ׃",
+      "he_plain": "רומה יהוה בעזך נשירה ונזמרה גבורתך",
+      "translit": "Rumá Adonái beuzéja; nashirá unezaméra gevuratéja.",
+      "es": "Engrandécete, Eterno, en Tu poder; cantaremos y alabaremos Tu fortaleza."
     }
-  ],
-  "audio": "",
-  "title_es": "El rey se alegra en Tu fortaleza"
+  ]
 }
