@@ -1,106 +1,105 @@
 {
   "number": 41,
   "title_he": "תהילים",
+  "title_es": "Bienaventuranza del misericordioso y oración del enfermo",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֗חַ מִזְמ֥וֹר לְדָוִֽד׃",
+      "he": "לַמְנַצֵּחַ מִזְמוֹר לְדָוִד׃",
       "he_plain": "למנצח מזמור לדוד",
-      "translit": "",
-      "es": ""
+      "translit": "Lamnatséaj mizmór leDavíd.",
+      "es": "Al director. Salmo de David."
     },
     {
       "num": 2,
-      "he": "אַ֭שְׁרֵי מַשְׂכִּ֣יל אֶל־דָּ֑ל בְּי֥וֹם רָ֝עָ֗ה יְֽמַלְּטֵ֥הוּ יְהֹוָֽה׃",
+      "he": "אַשְׁרֵי מַשְׂכִּיל אֶל דָּל בְּיוֹם רָעָה יְמַלְּטֵהוּ יְהוָה׃",
       "he_plain": "אשרי משכיל אל דל ביום רעה ימלטהו יהוה",
-      "translit": "",
-      "es": ""
+      "translit": "Ashréi maskíl el dal; beyóm raá yemaletéhu Adonái.",
+      "es": "Dichoso el que piensa en el pobre; en el día malo lo librará el Eterno."
     },
     {
       "num": 3,
-      "he": "יְהֹוָ֤ה׀ יִשְׁמְרֵ֣הוּ וִ֭יחַיֵּהוּ (יאשר) [וְאֻשַּׁ֣ר] בָּאָ֑רֶץ וְאַֽל־תִּ֝תְּנֵ֗הוּ בְּנֶ֣פֶשׁ אֹיְבָֽיו׃",
-      "he_plain": "יהוה ישמרהו ויחיהו (יאשר) [ואשר] בארץ ואל תתנהו בנפש איביו",
-      "translit": "",
-      "es": ""
+      "he": "יְהוָה יִשְׁמְרֵהוּ וִיחַיֵּהוּ וְאֻשַּׁר בָּאָרֶץ וְאַל תִּתְּנֵהוּ בְּנֶפֶשׁ אֹיְבָיו׃",
+      "he_plain": "יהוה ישמרהו ויחיהו ואשר בארץ ואל תתנהו בנפש איביו",
+      "translit": "Adonái yishmeréhu viyajyéhu; veushár baárets; veal titeNéhu venéfesh oyváv.",
+      "es": "El Eterno lo guardará y le dará vida; será bienaventurado en la tierra y no lo entregará a la voluntad de sus enemigos."
     },
     {
       "num": 4,
-      "he": "יְֽהֹוָ֗ה יִ֭סְעָדֶנּוּ עַל־עֶ֣רֶשׂ דְּוָ֑י כׇּל־מִ֝שְׁכָּב֗וֹ הָפַ֥כְתָּ בְחׇלְיֽוֹ׃",
+      "he": "יְהוָה יִסְעָדֶנּוּ עַל עֶרֶשׂ דְּוָי כָּל מִשְׁכָּבוֹ הָפַכְתָּ בְחָלְיוֹ׃",
       "he_plain": "יהוה יסעדנו על ערש דוי כל משכבו הפכת בחליו",
-      "translit": "",
-      "es": ""
+      "translit": "Adonái yisaadénu al éres deváy; kol mishkavó hafájta bejolyo.",
+      "es": "El Eterno lo sustentará sobre el lecho del dolor; ablandaste toda su cama en su enfermedad."
     },
     {
       "num": 5,
-      "he": "אֲֽנִי־אָ֭מַרְתִּי יְהֹוָ֣ה חׇנֵּ֑נִי רְפָאָ֥ה נַ֝פְשִׁ֗י כִּי־חָטָ֥אתִי לָֽךְ׃",
+      "he": "אֲנִי אָמַרְתִּי יְהוָה חָנֵּנִי רְפָאָה נַפְשִׁי כִּי חָטָאתִי לָךְ׃",
       "he_plain": "אני אמרתי יהוה חנני רפאה נפשי כי חטאתי לך",
-      "translit": "",
-      "es": ""
+      "translit": "Aní amárti Adonái janéni; refaá nafshí ki jatáti laj.",
+      "es": "Yo dije: Eterno, ten misericordia de mí; sana mi alma, porque contra Ti he pecado."
     },
     {
       "num": 6,
-      "he": "אוֹיְבַ֗י יֹאמְר֣וּ רַ֣ע לִ֑י מָתַ֥י יָ֝מ֗וּת וְאָבַ֥ד שְׁמֽוֹ׃",
+      "he": "אוֹיְבַי יֹאמְרוּ רַע לִי מָתַי יָמוּת וְאָבַד שְׁמוֹ׃",
       "he_plain": "אויבי יאמרו רע לי מתי ימות ואבד שמו",
-      "translit": "",
-      "es": ""
+      "translit": "Oyváy yomrú rá lí; matáy yamút veabád shemó.",
+      "es": "Mis enemigos hablan mal de mí: ¿Cuándo morirá y perecerá su nombre?"
     },
     {
       "num": 7,
-      "he": "וְאִם־בָּ֤א לִרְא֨וֹת׀ שָׁ֤וְא יְדַבֵּ֗ר לִבּ֗וֹ יִקְבׇּץ־אָ֥וֶן ל֑וֹ יֵצֵ֖א לַח֣וּץ יְדַבֵּֽר׃",
+      "he": "וְאִם בָּא לִרְאוֹת שָׁוְא יְדַבֵּר לִבּוֹ יִקְבָּץ אָוֶן לוֹ יֵצֵא לַחוּץ יְדַבֵּר׃",
       "he_plain": "ואם בא לראות שוא ידבר לבו יקבץ און לו יצא לחוץ ידבר",
-      "translit": "",
-      "es": ""
+      "translit": "Veim bá lirot; shav yedabér libó; yikbáts avón lo; yetsé lajúts yedabér.",
+      "es": "Y si viene a verme habla falsedad; su corazón recoge iniquidad para sí y cuando sale fuera la divulga."
     },
     {
       "num": 8,
-      "he": "יַ֗חַד עָלַ֣י יִ֭תְלַחֲשׁוּ כׇּל־שֹׂנְאָ֑י עָלַ֓י׀ יַחְשְׁב֖וּ רָעָ֣ה לִֽי׃",
-      "he_plain": "יחד עלי יתלחשו כל שנאי עלי יחשבו רעה לי",
-      "translit": "",
-      "es": ""
+      "he": "יַחַד עָלַי יִתְלַחֲשׁוּ כָּל שֹׂנְאַי עָלַי יַחְשְׁבוּ רָעָה לִי׃",
+      "he_plain": "יחד עלי יתלחשו כל שונאי עלי יחשבו רעה לי",
+      "translit": "Yájad aláy yitlajaShú kol sonaáy; aláy yajshevú raá lí.",
+      "es": "Reunidos murmuran contra mí todos los que me aborrecen; contra mí piensan el mal:"
     },
     {
       "num": 9,
-      "he": "דְּֽבַר־בְּ֭לִיַּעַל יָצ֣וּק בּ֑וֹ וַאֲשֶׁ֥ר שָׁ֝כַ֗ב לֹא־יוֹסִ֥יף לָקֽוּם׃",
+      "he": "דְּבַר בְּלִיַּעַל יָצוּק בּוֹ וַאֲשֶׁר שָׁכַב לֹא יוֹסִיף לָקוּם׃",
       "he_plain": "דבר בליעל יצוק בו ואשר שכב לא יוסיף לקום",
-      "translit": "",
-      "es": ""
+      "translit": "Devár beliyáal yatsúk bo; vaashér shajáv lo yosíf lakúm.",
+      "es": "Cosa de Belial se ha apoderado de él y el que cayó en cama no volverá a levantarse."
     },
     {
       "num": 10,
-      "he": "גַּם־אִ֤ישׁ שְׁלוֹמִ֨י׀ אֲשֶׁר־בָּטַ֣חְתִּי ב֭וֹ אוֹכֵ֣ל לַחְמִ֑י הִגְדִּ֖יל עָלַ֣י עָקֵֽב׃",
+      "he": "גַּם אִישׁ שְׁלוֹמִי אֲשֶׁר בָּטַחְתִּי בוֹ אוֹכֵל לַחְמִי הִגְדִּיל עָלַי עָקֵב׃",
       "he_plain": "גם איש שלומי אשר בטחתי בו אוכל לחמי הגדיל עלי עקב",
-      "translit": "",
-      "es": ""
+      "translit": "Gam ísh shelomí ashér batájti vo; ojél laJmí; higdíl aláy akév.",
+      "es": "Aun el hombre de mi paz, en quien yo confiaba, el que comía mi pan, ha levantado contra mí el calcañar."
     },
     {
       "num": 11,
-      "he": "וְאַתָּ֤ה יְהֹוָ֗ה חׇנֵּ֥נִי וַהֲקִימֵ֑נִי וַאֲשַׁלְּמָ֥ה לָהֶֽם׃",
+      "he": "וְאַתָּה יְהוָה חָנֵּנִי וַהֲקִימֵנִי וַאֲשַׁלְּמָה לָהֶם׃",
       "he_plain": "ואתה יהוה חנני והקימני ואשלמה להם",
-      "translit": "",
-      "es": ""
+      "translit": "Veatá Adonái janéni; vahakiméni; vaashalemá láhem.",
+      "es": "Mas Tú, Eterno, ten misericordia de mí y levántame, y les daré su merecido."
     },
     {
       "num": 12,
-      "he": "בְּזֹ֣את יָ֭דַעְתִּי כִּֽי־חָפַ֣צְתָּ בִּ֑י כִּ֤י לֹֽא־יָרִ֖יעַ אֹיְבִ֣י עָלָֽי׃",
-      "he_plain": "בזאת ידעתי כי חפצת בי כי לא יריע איבי עלי",
-      "translit": "",
-      "es": ""
+      "he": "בְּזֹאת יָדַעְתִּי כִּי חָפַצְתָּ בִּי כִּי לֹא יָרִיעַ אֹיְבִי עָלָי׃",
+      "he_plain": "בזאת ידעתי כי חפצת בי כי לא יריע אויבי עלי",
+      "translit": "Bezot yadáati ki jafájtsa bí; ki lo yariáj oyví aláy.",
+      "es": "En esto conoceré que Te has complacido en mí: que mi enemigo no triunfe sobre mí."
     },
     {
       "num": 13,
-      "he": "וַאֲנִ֗י בְּ֭תֻמִּי תָּמַ֣כְתָּ בִּ֑י וַתַּצִּיבֵ֖נִי לְפָנֶ֣יךָ לְעוֹלָֽם׃",
+      "he": "וַאֲנִי בְּתֻמִּי תָּמַכְתָּ בִּי וַתַּצִּיבֵנִי לְפָנֶיךָ לְעוֹלָם׃",
       "he_plain": "ואני בתמי תמכת בי ותציבני לפניך לעולם",
-      "translit": "",
-      "es": ""
+      "translit": "Vaani betumí tamájta bí; vatatsivéni lefanéija leolám.",
+      "es": "En cuanto a mí, en mi integridad me has sustentado y me has puesto delante de Ti para siempre."
     },
     {
       "num": 14,
-      "he": "בָּ֘ר֤וּךְ יְהֹוָ֨ה׀ אֱלֹ֘הֵ֤י יִשְׂרָאֵ֗ל מֵֽ֭הָעוֹלָם וְעַ֥ד הָעוֹלָ֗ם אָ֘מֵ֥ן׀וְאָמֵֽן׃",
-      "he_plain": "ברוך יהוה אלהי ישראל מהעולם ועד העולם אמןואמן",
-      "translit": "",
-      "es": ""
+      "he": "בָּרוּךְ יְהוָה אֱלֹהֵי יִשְׂרָאֵל מֵהָעוֹלָם וְעַד הָעוֹלָם אָמֵן וְאָמֵן׃",
+      "he_plain": "ברוך יהוה אלהי ישראל מהעולם ועד העולם אמן ואמן",
+      "translit": "Barúj Adonái Elohéi Yisraél mehaolám vead haolám; amén veamén.",
+      "es": "Bendito sea el Eterno, Dios de Israel, desde el siglo y hasta el siglo. Amén y Amén."
     }
-  ],
-  "audio": "",
-  "title_es": "Dichoso el que considera al débil"
+  ]
 }
