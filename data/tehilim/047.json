@@ -1,78 +1,77 @@
 {
   "number": 47,
   "title_he": "תהילים",
+  "title_es": "Dios, Gran Rey sobre toda la tierra",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֬חַ׀לִבְנֵי־קֹ֬רַח מִזְמֽוֹר׃",
-      "he_plain": "למנצחלבני קרח מזמור",
-      "translit": "",
-      "es": ""
+      "he": "לַמְנַצֵּחַ לִבְנֵי קֹרַח מִזְמוֹר׃",
+      "he_plain": "למנצח לבני קרח מזמור",
+      "translit": "Lamnatséaj livnéi Kóraj mizmór.",
+      "es": "Al director. De los hijos de Koraj. Salmo."
     },
     {
       "num": 2,
-      "he": "כׇּֽל־הָ֭עַמִּים תִּקְעוּ־כָ֑ף הָרִ֥יעוּ לֵ֝אלֹהִ֗ים בְּק֣וֹל רִנָּֽה׃",
+      "he": "כָּל הָעַמִּים תִּקְעוּ כָף הָרִיעוּ לֵאלֹהִים בְּקוֹל רִנָּה׃",
       "he_plain": "כל העמים תקעו כף הריעו לאלהים בקול רנה",
-      "translit": "",
-      "es": ""
+      "translit": "Kol haamím tikú jaf; harí u leElohím bekól riná.",
+      "es": "Pueblos todos, batid las manos; aclamad a Dios con voz de júbilo."
     },
     {
       "num": 3,
-      "he": "כִּֽי־יְהֹוָ֣ה עֶלְי֣וֹן נוֹרָ֑א מֶ֥לֶךְ גָּ֝ד֗וֹל עַל־כׇּל־הָאָֽרֶץ׃",
+      "he": "כִּי יְהוָה עֶלְיוֹן נוֹרָא מֶלֶךְ גָּדוֹל עַל כָּל הָאָרֶץ׃",
       "he_plain": "כי יהוה עליון נורא מלך גדול על כל הארץ",
-      "translit": "",
-      "es": ""
+      "translit": "Ki Adonái elyón norá; méleg gadól al kol haárets.",
+      "es": "Porque el Eterno Altísimo es temible; Gran Rey sobre toda la tierra."
     },
     {
       "num": 4,
-      "he": "יַדְבֵּ֣ר עַמִּ֣ים תַּחְתֵּ֑ינוּ וּ֝לְאֻמִּ֗ים תַּ֣חַת רַגְלֵֽינוּ׃",
+      "he": "יַדְבֵּר עַמִּים תַּחְתֵּינוּ וּלְאֻמִּים תַּחַת רַגְלֵינוּ׃",
       "he_plain": "ידבר עמים תחתינו ולאמים תחת רגלינו",
-      "translit": "",
-      "es": ""
+      "translit": "Yadber amím tajtéinu; uLeumím táját ragléinu.",
+      "es": "Él somete pueblos debajo de nosotros y naciones bajo nuestros pies."
     },
     {
       "num": 5,
-      "he": "יִבְחַר־לָ֥נוּ אֶת־נַחֲלָתֵ֑נוּ אֶ֥ת־גְּא֨וֹן יַעֲקֹ֖ב אֲשֶׁר־אָהֵ֣ב סֶֽלָה׃",
+      "he": "יִבְחַר לָנוּ אֶת נַחֲלָתֵנוּ אֶת גְּאוֹן יַעֲקֹב אֲשֶׁר אָהֵב סֶלָה׃",
       "he_plain": "יבחר לנו את נחלתנו את גאון יעקב אשר אהב סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Yivjár lánu et najalaténu; et geón Yaakóv ashér ahév. Selá.",
+      "es": "Él nos escoge nuestra heredad; la gloria de Yaakov a quien amó. Selá."
     },
     {
       "num": 6,
-      "he": "עָלָ֣ה אֱ֭לֹהִים בִּתְרוּעָ֑ה יְ֝הֹוָ֗ה בְּק֣וֹל שׁוֹפָֽר׃",
+      "he": "עָלָה אֱלֹהִים בִּתְרוּעָה יְהוָה בְּקוֹל שׁוֹפָר׃",
       "he_plain": "עלה אלהים בתרועה יהוה בקול שופר",
-      "translit": "",
-      "es": ""
+      "translit": "Alá Elohím bitrúa; Adonái bekól shofár.",
+      "es": "Subió Dios con júbilo; el Eterno, al sonido de la trompeta."
     },
     {
       "num": 7,
-      "he": "זַמְּר֣וּ אֱלֹהִ֣ים זַמֵּ֑רוּ זַמְּר֖וּ לְמַלְכֵּ֣נוּ זַמֵּֽרוּ׃",
+      "he": "זַמְּרוּ אֱלֹהִים זַמֵּרוּ זַמְּרוּ לְמַלְכֵּנוּ זַמֵּרוּ׃",
       "he_plain": "זמרו אלהים זמרו זמרו למלכנו זמרו",
-      "translit": "",
-      "es": ""
+      "translit": "Zaméru Elohím zaméru; zaméru lemalkénu zaméru.",
+      "es": "Cantad a Dios, cantad; cantad a nuestro Rey, cantad."
     },
     {
       "num": 8,
-      "he": "כִּ֤י מֶ֖לֶךְ כׇּל־הָאָ֥רֶץ אֱלֹהִ֗ים זַמְּר֥וּ מַשְׂכִּֽיל׃",
+      "he": "כִּי מֶלֶךְ כָּל הָאָרֶץ אֱלֹהִים זַמְּרוּ מַשְׂכִּיל׃",
       "he_plain": "כי מלך כל הארץ אלהים זמרו משכיל",
-      "translit": "",
-      "es": ""
+      "translit": "Ki méleg kol haárets Elohím; zaméru maskíl.",
+      "es": "Porque Dios es el Rey de toda la tierra; cantad con inteligencia."
     },
     {
       "num": 9,
-      "he": "מָלַ֣ךְ אֱ֭לֹהִים עַל־גּוֹיִ֑ם אֱ֝לֹהִ֗ים יָשַׁ֤ב׀ עַל־כִּסֵּ֬א קׇדְשֽׁוֹ׃",
+      "he": "מָלַךְ אֱלֹהִים עַל גּוֹיִם אֱלֹהִים יָשַׁב עַל כִּסֵּא קָדְשׁוֹ׃",
       "he_plain": "מלך אלהים על גוים אלהים ישב על כסא קדשו",
-      "translit": "",
-      "es": ""
+      "translit": "Maláj Elohím al goyím; Elohím yasháv al kisé kodsho.",
+      "es": "Reinó Dios sobre las naciones; Dios se sentó sobre Su santo trono."
     },
     {
       "num": 10,
-      "he": "נְדִ֘יבֵ֤י עַמִּ֨ים׀ נֶאֱסָ֗פוּ עַם֮ אֱלֹהֵ֢י אַבְרָ֫הָ֥ם כִּ֣י לֵ֭אלֹהִים מָֽגִנֵּי־אֶ֗רֶץ מְאֹ֣ד נַעֲלָֽה׃ {פ}",
-      "he_plain": "נדיבי עמים נאספו עם אלהי אברהם כי לאלהים מגני ארץ מאד נעלה {פ}",
-      "translit": "",
-      "es": ""
+      "he": "נְדִיבֵי עַמִּים נֶאֱסָפוּ עַם אֱלֹהֵי אַבְרָהָם כִּי לֵאלֹהִים מָגִנֵּי אֶרֶץ מְאֹד נַעֲלָה׃",
+      "he_plain": "נדיבי עמים נאספו עם אלהי אברהם כי לאלהים מגני ארץ מאד נעלה",
+      "translit": "Nedivéi amím neesfú; am Elohéi Avrahám; ki leElohím magínei árets; meód naalá.",
+      "es": "Los príncipes de los pueblos se reunieron como pueblo del Dios de Abraham; porque de Dios son los escudos de la tierra; Él es muy exaltado."
     }
-  ],
-  "audio": "",
-  "title_es": "Aplaudan, pueblos, con las manos"
+  ]
 }

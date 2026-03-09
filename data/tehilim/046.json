@@ -1,92 +1,91 @@
 {
   "number": 46,
   "title_he": "תהילים",
+  "title_es": "Dios es nuestro refugio y fortaleza",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֥חַ לִבְנֵי־קֹ֑רַח עַֽל־עֲלָמ֥וֹת שִֽׁיר׃",
+      "he": "לַמְנַצֵּחַ לִבְנֵי קֹרַח עַל עֲלָמוֹת שִׁיר׃",
       "he_plain": "למנצח לבני קרח על עלמות שיר",
-      "translit": "",
-      "es": ""
+      "translit": "Lamnatséaj livnéi Kóraj al alamót shír.",
+      "es": "Al director. De los hijos de Koraj. Sobre «Las doncellas». Cántico."
     },
     {
       "num": 2,
-      "he": "אֱלֹהִ֣ים לָ֭נוּ מַחֲסֶ֣ה וָעֹ֑ז עֶזְרָ֥ה בְ֝צָר֗וֹת נִמְצָ֥א מְאֹֽד׃",
-      "he_plain": "אלהים לנו מחסה ועז עזרה בצרות נמצא מאד",
-      "translit": "",
-      "es": ""
+      "he": "אֱלֹהִים לָנוּ מַחֲסֶה וָעֹז עֶזְרָה בְצָרוֹת נִמְצָא מְאֹד׃",
+      "he_plain": "אלהים לנו מחסה ועוז עזרה בצרות נמצא מאד",
+      "translit": "Elohím lánu majSéh vaóz; ezrá betsarot nimtsá meód.",
+      "es": "Dios es nuestro refugio y fortaleza; socorro muy presente en las angustias."
     },
     {
       "num": 3,
-      "he": "עַל־כֵּ֣ן לֹֽא־נִ֭ירָא בְּהָמִ֣יר אָ֑רֶץ וּבְמ֥וֹט הָ֝רִ֗ים בְּלֵ֣ב יַמִּֽים׃",
+      "he": "עַל כֵּן לֹא נִירָא בְּהָמִיר אָרֶץ וּבְמוֹט הָרִים בְּלֵב יַמִּים׃",
       "he_plain": "על כן לא נירא בהמיר ארץ ובמוט הרים בלב ימים",
-      "translit": "",
-      "es": ""
+      "translit": "Al kén lo nirá behamír árets; uvemot harím belév yamím.",
+      "es": "Por tanto no temeremos aunque la tierra sea removida y aunque los montes se trasladen al corazón del mar."
     },
     {
       "num": 4,
-      "he": "יֶהֱמ֣וּ יֶחְמְר֣וּ מֵימָ֑יו יִ֥רְעֲשֽׁוּ־הָרִ֖ים בְּגַאֲוָת֣וֹ סֶֽלָה׃",
-      "he_plain": "יהמו יחמרו מימיו ירעשו הרים בגאותו סלה",
-      "translit": "",
-      "es": ""
+      "he": "יֶהֱמוּ יֶחְמְרוּ מֵימָיו יִרְעֲשׁוּ הָרִים בְּגַאֲוָתוֹ סֶלָה׃",
+      "he_plain": "יהמו יחמרו מימיו ירעשו הרים בגאוותו סלה",
+      "translit": "Yehemú yejmeru méimav; yirashu harím begaavató. Selá.",
+      "es": "Bramen y se turben sus aguas; tiemblen los montes con su hinchazón. Selá."
     },
     {
       "num": 5,
-      "he": "נָהָ֗ר פְּלָגָ֗יו יְשַׂמְּח֥וּ עִיר־אֱלֹהִ֑ים קְ֝דֹ֗שׁ מִשְׁכְּנֵ֥י עֶלְיֽוֹן׃",
-      "he_plain": "נהר פלגיו ישמחו עיר אלהים קדש משכני עליון",
-      "translit": "",
-      "es": ""
+      "he": "נָהָר פְּלָגָיו יְשַׂמְּחוּ עִיר אֱלֹהִים קְדֹשׁ מִשְׁכְּנֵי עֶלְיוֹן׃",
+      "he_plain": "נהר פלגיו ישמחו עיר אלהים קדוש משכני עליון",
+      "translit": "Nahár pelagáv yesameJú ír Elohím; kedósh mishkenéi Elyón.",
+      "es": "Del río sus corrientes alegran la ciudad de Dios; el santuario de las moradas del Altísimo."
     },
     {
       "num": 6,
-      "he": "אֱלֹהִ֣ים בְּ֭קִרְבָּהּ בַּל־תִּמּ֑וֹט יַעְזְרֶ֥הָ אֱ֝לֹהִ֗ים לִפְנ֥וֹת בֹּֽקֶר׃",
-      "he_plain": "אלהים בקרבה בל תמוט יעזרה אלהים לפנות בקר",
-      "translit": "",
-      "es": ""
+      "he": "אֱלֹהִים בְּקִרְבָּהּ בַּל תִּמּוֹט יַעְזְרֶהָ אֱלֹהִים לִפְנוֹת בֹּקֶר׃",
+      "he_plain": "אלהים בקרבה בל תמוט יעזרה אלהים לפנות בוקר",
+      "translit": "Elohím bekirbáh bal timót; yaazreáh Elohím lifnót bóker.",
+      "es": "Dios está en medio de ella; no será conmovida; Dios la ayudará al clarear la mañana."
     },
     {
       "num": 7,
-      "he": "הָמ֣וּ ג֭וֹיִם מָ֣טוּ מַמְלָכ֑וֹת נָתַ֥ן בְּ֝קוֹל֗וֹ תָּמ֥וּג אָֽרֶץ׃",
+      "he": "הָמוּ גוֹיִם מָטוּ מַמְלָכוֹת נָתַן בְּקוֹלוֹ תָּמוּג אָרֶץ׃",
       "he_plain": "המו גוים מטו ממלכות נתן בקולו תמוג ארץ",
-      "translit": "",
-      "es": ""
+      "translit": "Hamú goyím; matú mamlaJót; natán bekólo tamúg árets.",
+      "es": "Bramaron las naciones; vacilaron los reinos; dio Él Su voz y se derritió la tierra."
     },
     {
       "num": 8,
-      "he": "יְהֹוָ֣ה צְבָא֣וֹת עִמָּ֑נוּ מִשְׂגָּֽב־לָ֨נוּ אֱלֹהֵ֖י יַעֲקֹ֣ב סֶֽלָה׃",
+      "he": "יְהוָה צְבָאוֹת עִמָּנוּ מִשְׂגָּב לָנוּ אֱלֹהֵי יַעֲקֹב סֶלָה׃",
       "he_plain": "יהוה צבאות עמנו משגב לנו אלהי יעקב סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Adonái tsvaót imánu; misgáv lánu Elohéi Yaakóv. Selá.",
+      "es": "El Eterno de los ejércitos está con nosotros; nuestro refugio es el Dios de Yaakov. Selá."
     },
     {
       "num": 9,
-      "he": "לְֽכוּ־חֲ֭זוּ מִפְעֲל֣וֹת יְהֹוָ֑ה אֲשֶׁר־שָׂ֖ם שַׁמּ֣וֹת בָּאָֽרֶץ׃",
+      "he": "לְכוּ חֲזוּ מִפְעֲלוֹת יְהוָה אֲשֶׁר שָׂם שַׁמּוֹת בָּאָרֶץ׃",
       "he_plain": "לכו חזו מפעלות יהוה אשר שם שמות בארץ",
-      "translit": "",
-      "es": ""
+      "translit": "Lejú jazú mifaalót Adonái; ashér sam shamót baárets.",
+      "es": "Venid y ved las obras del Eterno, que ha puesto asolamientos en la tierra."
     },
     {
       "num": 10,
-      "he": "מַשְׁבִּ֥ית מִלְחָמוֹת֮ עַד־קְצֵ֢ה הָ֫אָ֥רֶץ קֶ֣שֶׁת יְ֭שַׁבֵּר וְקִצֵּ֣ץ חֲנִ֑ית עֲ֝גָל֗וֹת יִשְׂרֹ֥ף בָּאֵֽשׁ׃",
+      "he": "מַשְׁבִּית מִלְחָמוֹת עַד קְצֵה הָאָרֶץ קֶשֶׁת יְשַׁבֵּר וְקִצֵּץ חֲנִית עֲגָלוֹת יִשְׂרֹף בָּאֵשׁ׃",
       "he_plain": "משבית מלחמות עד קצה הארץ קשת ישבר וקצץ חנית עגלות ישרף באש",
-      "translit": "",
-      "es": ""
+      "translit": "Mashbít miljaJmót ad ketsé haárets; késhet yeshabér vekiTséts janít; agalót yisróf baésh.",
+      "es": "Él hace cesar las guerras hasta los confines de la tierra; quiebra el arco, corta la lanza y quema los carros en el fuego."
     },
     {
       "num": 11,
-      "he": "הַרְפּ֣וּ וּ֭דְעוּ כִּֽי־אָנֹכִ֣י אֱלֹהִ֑ים אָר֥וּם בַּ֝גּוֹיִ֗ם אָר֥וּם בָּאָֽרֶץ׃",
+      "he": "הַרְפּוּ וּדְעוּ כִּי אָנֹכִי אֱלֹהִים אָרוּם בַּגּוֹיִם אָרוּם בָּאָרֶץ׃",
       "he_plain": "הרפו ודעו כי אנכי אלהים ארום בגוים ארום בארץ",
-      "translit": "",
-      "es": ""
+      "translit": "Harpú udeú ki anojí Elohím; arúm bagoyím arúm baárets.",
+      "es": "Estad quietos y sabed que Yo soy Dios; seré exaltado entre las naciones, seré exaltado en la tierra."
     },
     {
       "num": 12,
-      "he": "יְהֹוָ֣ה צְבָא֣וֹת עִמָּ֑נוּ מִשְׂגָּֽב־לָ֨נוּ אֱלֹהֵ֖י יַעֲקֹ֣ב סֶֽלָה׃ {פ}",
-      "he_plain": "יהוה צבאות עמנו משגב לנו אלהי יעקב סלה {פ}",
-      "translit": "",
-      "es": ""
+      "he": "יְהוָה צְבָאוֹת עִמָּנוּ מִשְׂגָּב לָנוּ אֱלֹהֵי יַעֲקֹב סֶלָה׃",
+      "he_plain": "יהוה צבאות עמנו משגב לנו אלהי יעקב סלה",
+      "translit": "Adonái tsvaót imánu; misgáv lánu Elohéi Yaakóv. Selá.",
+      "es": "El Eterno de los ejércitos está con nosotros; nuestro refugio es el Dios de Yaakov. Selá."
     }
-  ],
-  "audio": "",
-  "title_es": "Dios es nuestro refugio y fortaleza"
+  ]
 }
