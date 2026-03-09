@@ -1,99 +1,98 @@
 {
   "number": 62,
   "title_he": "תהילים",
+  "title_es": "El alma en reposo solo en Dios",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֥חַ עַֽל־יְדוּת֗וּן מִזְמ֥וֹר לְדָוִֽד׃",
+      "he": "לַמְנַצֵּחַ עַל יְדוּתוּן מִזְמוֹר לְדָוִד׃",
       "he_plain": "למנצח על ידותון מזמור לדוד",
-      "translit": "",
-      "es": ""
+      "translit": "Lamnatséaj al Yedutún mizmór leDavíd.",
+      "es": "Al director; para Yedutún. Salmo de David."
     },
     {
       "num": 2,
-      "he": "אַ֣ךְ אֶל־אֱ֭לֹהִים דּֽוּמִיָּ֣ה נַפְשִׁ֑י מִ֝מֶּ֗נּוּ יְשׁוּעָתִֽי׃",
+      "he": "אַךְ אֶל אֱלֹהִים דּוּמִיָּה נַפְשִׁי מִמֶּנּוּ יְשׁוּעָתִי׃",
       "he_plain": "אך אל אלהים דומיה נפשי ממנו ישועתי",
-      "translit": "",
-      "es": ""
+      "translit": "Aj el Elohím dumiyá nafshí; miménu yeshuaTí.",
+      "es": "Solo en Dios reposa mi alma; de Él viene mi salvación."
     },
     {
       "num": 3,
-      "he": "אַךְ־ה֣וּא צ֭וּרִי וִישׁוּעָתִ֑י מִ֝שְׂגַּבִּ֗י לֹא־אֶמּ֥וֹט רַבָּֽה׃",
+      "he": "אַךְ הוּא צוּרִי וִישׁוּעָתִי מִשְׂגַּבִּי לֹא אֶמּוֹט רַבָּה׃",
       "he_plain": "אך הוא צורי וישועתי משגבי לא אמוט רבה",
-      "translit": "",
-      "es": ""
+      "translit": "Aj hu tsurí vishuat í; misgabí; lo emót rabá.",
+      "es": "Solo Él es mi roca y mi salvación; mi refugio; no seré grandemente conmovido."
     },
     {
       "num": 4,
-      "he": "עַד־אָ֤נָה׀ תְּה֥וֹתְת֣וּ עַל־אִישׁ֮ תְּרָצְּח֢וּ כֻ֫לְּכֶ֥ם כְּקִ֥יר נָט֑וּי גָּ֝דֵ֗ר הַדְּחוּיָֽה׃",
-      "he_plain": "עד אנה תהותתו על איש תרצחו כלכם כקיר נטוי גדר הדחויה",
-      "translit": "",
-      "es": ""
+      "he": "עַד אָנָה תְּהוֹתְתוּ עַל אִישׁ תְּרָצְּחוּ כֻלְּכֶם כְּקִיר נָטוּי גָּדֵר הַדְּחוּיָה׃",
+      "he_plain": "עד אנה תהותתו על איש תרצחו כולכם כקיר נטוי גדר הדחויה",
+      "translit": "Ad aná teHotetú al ísh; teratsJú kulJém; kekír natúy gadér hadjuyá.",
+      "es": "¿Hasta cuándo conspiráis contra un hombre? Os atacaréis todos vosotros como pared inclinada y como cerca que amenaza ruina."
     },
     {
       "num": 5,
-      "he": "אַ֤ךְ מִשְּׂאֵת֨וֹ׀ יָ֥עֲצ֣וּ לְהַדִּיחַ֮ יִרְצ֢וּ כָ֫זָ֥ב בְּפִ֥יו יְבָרֵ֑כוּ וּ֝בְקִרְבָּ֗ם יְקַֽלְלוּ־סֶֽלָה׃",
+      "he": "אַךְ מִשְּׂאֵתוֹ יָעֲצוּ לְהַדִּיחַ יִרְצוּ כָזָב בְּפִיו יְבָרֵכוּ וּבְקִרְבָּם יְקַלְלוּ סֶלָה׃",
       "he_plain": "אך משאתו יעצו להדיח ירצו כזב בפיו יברכו ובקרבם יקללו סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Aj miseetó yaatsú lehadíaj; yirtsú kazáv; befív yevaréju; uvekiRbám yekaleló. Selá.",
+      "es": "Solo consultan para derribarle de su grandeza; se complacen en la mentira; bendicen con su boca pero maldicen en su interior. Selá."
     },
     {
       "num": 6,
-      "he": "אַ֣ךְ לֵ֭אלֹהִים דּ֣וֹמִּי נַפְשִׁ֑י כִּֽי־מִ֝מֶּ֗נּוּ תִּקְוָתִֽי׃",
-      "he_plain": "אך לאלהים דומי נפשי כי ממנו תקותי",
-      "translit": "",
-      "es": ""
+      "he": "אַךְ לֵאלֹהִים דּוֹמִּי נַפְשִׁי כִּי מִמֶּנּוּ תִּקְוָתִי׃",
+      "he_plain": "אך לאלהים דומי נפשי כי ממנו תקוותי",
+      "translit": "Aj leElohím domí nafshí; ki miménu tikvatí.",
+      "es": "Solo en Dios reposa, alma mía, porque de Él es mi esperanza."
     },
     {
       "num": 7,
-      "he": "אַךְ־ה֣וּא צ֭וּרִי וִישׁוּעָתִ֑י מִ֝שְׂגַּבִּ֗י לֹ֣א אֶמּֽוֹט׃",
+      "he": "אַךְ הוּא צוּרִי וִישׁוּעָתִי מִשְׂגַּבִּי לֹא אֶמּוֹט׃",
       "he_plain": "אך הוא צורי וישועתי משגבי לא אמוט",
-      "translit": "",
-      "es": ""
+      "translit": "Aj hu tsurí vishuat í; misgabí; lo emót.",
+      "es": "Solo Él es mi roca y mi salvación; mi refugio; no seré conmovido."
     },
     {
       "num": 8,
-      "he": "עַל־אֱ֭לֹהִים יִשְׁעִ֣י וּכְבוֹדִ֑י צוּר־עֻזִּ֥י מַ֝חְסִ֗י בֵּאלֹהִֽים׃",
-      "he_plain": "על אלהים ישעי וכבודי צור עזי מחסי באלהים",
-      "translit": "",
-      "es": ""
+      "he": "עַל אֱלֹהִים יִשְׁעִי וּכְבוֹדִי צוּר עֻזִּי מַחְסִי בֵּאלֹהִים׃",
+      "he_plain": "על אלהים ישעי וכבודי צור עוזי מחסי באלהים",
+      "translit": "Al Elohím yishí ujvodí; tsúr uzí majSí beElohím.",
+      "es": "En Dios está mi salvación y mi gloria; la roca de mi fortaleza y mi refugio está en Dios."
     },
     {
       "num": 9,
-      "he": "בִּטְח֘וּ־ב֤וֹ בְכׇל־עֵ֨ת׀ עָ֗ם שִׁפְכֽוּ־לְפָנָ֥יו לְבַבְכֶ֑ם אֱלֹהִ֖ים מַחֲסֶה־לָּ֣נוּ סֶֽלָה׃",
+      "he": "בִּטְחוּ בוֹ בְכָל עֵת עָם שִׁפְכוּ לְפָנָיו לְבַבְכֶם אֱלֹהִים מַחֲסֶה לָנוּ סֶלָה׃",
       "he_plain": "בטחו בו בכל עת עם שפכו לפניו לבבכם אלהים מחסה לנו סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Bitjú vo vejál et am; shifJú lefanáv levavJém; Elohím majSéh lánu. Selá.",
+      "es": "Confiad en Él en todo tiempo, oh pueblo; derramad delante de Él vuestro corazón; Dios es nuestro refugio. Selá."
     },
     {
       "num": 10,
-      "he": "אַ֤ךְ׀ הֶ֥בֶל בְּנֵֽי־אָדָם֮ כָּזָ֢ב בְּנֵ֫י־אִ֥ישׁ בְּמֹאזְנַ֥יִם לַעֲל֑וֹת הֵ֝֗מָּה מֵהֶ֥בֶל יָֽחַד׃",
+      "he": "אַךְ הֶבֶל בְּנֵי אָדָם כָּזָב בְּנֵי אִישׁ בְּמֹאזְנַיִם לַעֲלוֹת הֵמָּה מֵהֶבֶל יַחַד׃",
       "he_plain": "אך הבל בני אדם כזב בני איש במאזנים לעלות המה מהבל יחד",
-      "translit": "",
-      "es": ""
+      "translit": "Aj hével benéi adám; kazáv benéi ísh; bemooznáyim laAlót; héma mehével yáJad.",
+      "es": "Por cierto son vanidad los hijos de los hombres de baja condición; mentira los hijos de hombres de alta; pesados en la balanza todos ellos son juntos menos que vanidad."
     },
     {
       "num": 11,
-      "he": "אַל־תִּבְטְח֣וּ בְעֹשֶׁק֮ וּבְגָזֵ֢ל אַל־תֶּ֫הְבָּ֥לוּ חַ֤יִל׀ כִּֽי־יָנ֑וּב אַל־תָּשִׁ֥יתוּ לֵֽב׃",
-      "he_plain": "אל תבטחו בעשק ובגזל אל תהבלו חיל כי ינוב אל תשיתו לב",
-      "translit": "",
-      "es": ""
+      "he": "אַל תִּבְטְחוּ בְעֹשֶׁק וּבְגָזֵל אַל תֶּהְבָּלוּ חַיִל כִּי יָנוּב אַל תָּשִׁיתוּ לֵב׃",
+      "he_plain": "אל תבטחו בעושק ובגזל אל תהבלו חיל כי ינוב אל תשיתו לב",
+      "translit": "Al tibtejú veoShek uvegaZél al tehbalú; jáyil ki yanúv al tashítu lév.",
+      "es": "No confiéis en la violencia ni en la rapiña; no os envanezcáis; si las riquezas aumentan no pongáis el corazón en ellas."
     },
     {
       "num": 12,
-      "he": "אַחַ֤ת׀ דִּבֶּ֬ר אֱלֹהִ֗ים שְׁתַּֽיִם־ז֥וּ שָׁמָ֑עְתִּי כִּ֥י עֹ֝֗ז לֵֽאלֹהִֽים׃",
-      "he_plain": "אחת דבר אלהים שתים זו שמעתי כי עז לאלהים",
-      "translit": "",
-      "es": ""
+      "he": "אַחַת דִּבֶּר אֱלֹהִים שְׁתַּיִם זוּ שָׁמָעְתִּי כִּי עֹז לֵאלֹהִים׃",
+      "he_plain": "אחת דבר אלהים שתים זו שמעתי כי עוז לאלהים",
+      "translit": "Aját dibér Elohím; shtáyim zu shamáati: ki óz leElohím.",
+      "es": "Una vez habló Dios; dos veces he oído esto: que el poder pertenece a Dios."
     },
     {
       "num": 13,
-      "he": "וּלְךָֽ־אֲדֹנָ֥י חָ֑סֶד כִּֽי־אַתָּ֨ה תְשַׁלֵּ֖ם לְאִ֣ישׁ כְּֽמַעֲשֵֽׂהוּ׃ {פ}",
-      "he_plain": "ולך אדני חסד כי אתה תשלם לאיש כמעשהו {פ}",
-      "translit": "",
-      "es": ""
+      "he": "וּלְךָ אֲדֹנָי חָסֶד כִּי אַתָּה תְשַׁלֵּם לְאִישׁ כְּמַעֲשֵׂהוּ׃",
+      "he_plain": "ולך אדני חסד כי אתה תשלם לאיש כמעשהו",
+      "translit": "Ulejá Adonái jésed; ki atá teshalém leísh kemaaséhu.",
+      "es": "Y Tuya, Señor, es la bondad leal porque Tú pagas a cada uno conforme a su obra."
     }
-  ],
-  "audio": "",
-  "title_es": "Solo en Dios reposa mi alma"
+  ]
 }

@@ -1,71 +1,70 @@
 {
   "number": 61,
   "title_he": "תהילים",
+  "title_es": "Refugio en Dios desde los confines de la tierra",
   "verses": [
     {
       "num": 1,
-      "he": "לַמְנַצֵּ֬חַ׀עַֽל־נְגִינַ֬ת לְדָוִֽד׃",
-      "he_plain": "למנצחעל נגינת לדוד",
-      "translit": "",
-      "es": ""
+      "he": "לַמְנַצֵּחַ עַל נְגִינָה לְדָוִד׃",
+      "he_plain": "למנצח על נגינה לדוד",
+      "translit": "Lamnatséaj al neguiná leDavíd.",
+      "es": "Al director; con instrumento de cuerda. De David."
     },
     {
       "num": 2,
-      "he": "שִׁמְעָ֣ה אֱ֭לֹהִים רִנָּתִ֑י הַ֝קְשִׁ֗יבָה תְּפִלָּתִֽי׃",
+      "he": "שִׁמְעָה אֱלֹהִים רִנָּתִי הַקְשִׁיבָה תְּפִלָּתִי׃",
       "he_plain": "שמעה אלהים רנתי הקשיבה תפלתי",
-      "translit": "",
-      "es": ""
+      "translit": "Shimá Elohím rinatí; hakshíva tefilatí.",
+      "es": "Oye, oh Dios, mi clamor; atiende a mi oración."
     },
     {
       "num": 3,
-      "he": "מִקְצֵ֤ה הָאָ֨רֶץ׀ אֵלֶ֣יךָ אֶ֭קְרָא בַּעֲטֹ֣ף לִבִּ֑י בְּצוּר־יָר֖וּם מִמֶּ֣נִּי תַנְחֵֽנִי׃",
-      "he_plain": "מקצה הארץ אליך אקרא בעטף לבי בצור ירום ממני תנחני",
-      "translit": "",
-      "es": ""
+      "he": "מִקְצֵה הָאָרֶץ אֵלֶיךָ אֶקְרָא בַּעֲטֹף לִבִּי בְּצוּר יָרוּם מִמֶּנִּי תַנְחֵנִי׃",
+      "he_plain": "מקצה הארץ אליך אקרא בעטוף לבי בצור ירום ממני תנחני",
+      "translit": "Miktsé haárets eléija ekrá; baatóf libí; betsúr yarúm miméni tanjéni.",
+      "es": "Desde los confines de la tierra a Ti clamaré cuando mi corazón desmaye; llévame a la roca que es más alta que yo."
     },
     {
       "num": 4,
-      "he": "כִּֽי־הָיִ֣יתָ מַחְסֶ֣ה לִ֑י מִגְדַּל־עֹ֝֗ז מִפְּנֵ֥י אוֹיֵֽב׃",
-      "he_plain": "כי היית מחסה לי מגדל עז מפני אויב",
-      "translit": "",
-      "es": ""
+      "he": "כִּי הָיִיתָ מַחֲסֶה לִי מִגְדַּל עֹז מִפְּנֵי אוֹיֵב׃",
+      "he_plain": "כי היית מחסה לי מגדל עוז מפני אויב",
+      "translit": "Ki hayíta majSéh lí; migdál oz mifnéi oyév.",
+      "es": "Porque Tú has sido mi refugio y torre fuerte delante del enemigo."
     },
     {
       "num": 5,
-      "he": "אָג֣וּרָה בְ֭אׇהׇלְךָ עוֹלָמִ֑ים אֶ֥חֱסֶ֨ה בְסֵ֖תֶר כְּנָפֶ֣יךָ סֶּֽלָה׃",
+      "he": "אָגוּרָה בְאָהָלְךָ עוֹלָמִים אֶחֱסֶה בְסֵתֶר כְּנָפֶיךָ סֶלָה׃",
       "he_plain": "אגורה באהלך עולמים אחסה בסתר כנפיך סלה",
-      "translit": "",
-      "es": ""
+      "translit": "Agurá veaHálejá olamím; ejesé veséter kenaféija. Selá.",
+      "es": "Moraré en Tu tabernáculo para siempre; me refugiaré en el amparo de Tus alas. Selá."
     },
     {
       "num": 6,
-      "he": "כִּֽי־אַתָּ֣ה אֱ֭לֹהִים שָׁמַ֣עְתָּ לִנְדָרָ֑י נָתַ֥תָּ יְ֝רֻשַּׁ֗ת יִרְאֵ֥י שְׁמֶֽךָ׃",
-      "he_plain": "כי אתה אלהים שמעת לנדרי נתת ירשת יראי שמך",
-      "translit": "",
-      "es": ""
+      "he": "כִּי אַתָּה אֱלֹהִים שָׁמַעְתָּ לִנְדָרָי נָתַתָּ יְרֻשַּׁת יִרְאֵי שְׁמֶךָ׃",
+      "he_plain": "כי אתה אלהים שמעת לנדרי נתת ירושת יראי שמך",
+      "translit": "Ki atá Elohím shamáata lindaráy; natáta yerúshat yirEéi sheméja.",
+      "es": "Porque Tú, oh Dios, has oído mis votos; has dado la heredad de los que temen Tu nombre."
     },
     {
       "num": 7,
-      "he": "יָמִ֣ים עַל־יְמֵי־מֶ֣לֶךְ תּוֹסִ֑יף שְׁ֝נוֹתָ֗יו כְּמוֹ־דֹ֥ר וָדֹֽר׃",
-      "he_plain": "ימים על ימי מלך תוסיף שנותיו כמו דר ודר",
-      "translit": "",
-      "es": ""
+      "he": "יָמִים עַל יְמֵי מֶלֶךְ תּוֹסִיף שְׁנוֹתָיו כְּמוֹ דֹר וָדֹר׃",
+      "he_plain": "ימים על ימי מלך תוסיף שנותיו כמו דור ודור",
+      "translit": "Yamím al yeméi méleg tosíf; shnótav kemó dór vadór.",
+      "es": "Días sobre días añadirás al rey; sus años serán como generación tras generación."
     },
     {
       "num": 8,
-      "he": "יֵשֵׁ֣ב ע֭וֹלָם לִפְנֵ֣י אֱלֹהִ֑ים חֶ֥סֶד וֶ֝אֱמֶ֗ת מַ֣ן יִנְצְרֻֽהוּ׃",
-      "he_plain": "ישב עולם לפני אלהים חסד ואמת מן ינצרהו",
-      "translit": "",
-      "es": ""
+      "he": "יֵשֵׁב עוֹלָם לִפְנֵי אֱלֹהִים חֶסֶד וֶאֱמֶת מַן יִנְצְרֻהוּ׃",
+      "he_plain": "ישב עולם לפני אלהים חסד ואמת מן ינצרוהו",
+      "translit": "Yeshév olám lifnéi Elohím; jésed veemét man yintserúhu.",
+      "es": "Morará para siempre delante de Dios; prepara bondad leal y verdad para que lo guarden."
     },
     {
       "num": 9,
-      "he": "כֵּ֤ן אֲזַמְּרָ֣ה שִׁמְךָ֣ לָעַ֑ד לְֽשַׁלְּמִ֥י נְ֝דָרַ֗י י֣וֹם׀יֽוֹם׃ {פ}",
-      "he_plain": "כן אזמרה שמך לעד לשלמי נדרי יוםיום {פ}",
-      "translit": "",
-      "es": ""
+      "he": "כֵּן אֲזַמְּרָה שִׁמְךָ לָעַד לְשַׁלְּמִי נְדָרַי יוֹם יוֹם׃",
+      "he_plain": "כן אזמרה שמך לעד לשלמי נדרי יום יום",
+      "translit": "Kén azaméra shimejá laád; leshalemí nedaráy yóm yóm.",
+      "es": "Así cantaré Tu nombre para siempre cumpliendo mis votos cada día."
     }
-  ],
-  "audio": "",
-  "title_es": "Escucha, Dios, mi clamor"
+  ]
 }

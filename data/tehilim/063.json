@@ -1,92 +1,91 @@
 {
   "number": 63,
   "title_he": "תהילים",
+  "title_es": "El alma sedienta de Dios",
   "verses": [
     {
       "num": 1,
-      "he": "מִזְמ֥וֹר לְדָוִ֑ד בִּ֝הְיוֹת֗וֹ בְּמִדְבַּ֥ר יְהוּדָֽה׃",
+      "he": "מִזְמוֹר לְדָוִד בִּהְיוֹתוֹ בְּמִדְבַּר יְהוּדָה׃",
       "he_plain": "מזמור לדוד בהיותו במדבר יהודה",
-      "translit": "",
-      "es": ""
+      "translit": "Mizmór leDavíd bihyotó bemidBar Yehudá.",
+      "es": "Salmo de David, cuando estaba en el desierto de Yehudá."
     },
     {
       "num": 2,
-      "he": "אֱלֹהִ֤ים׀ אֵלִ֥י אַתָּ֗ה אֲֽשַׁ֫חֲרֶ֥ךָּ צָמְאָ֬ה לְךָ֨׀ נַפְשִׁ֗י כָּמַ֣הּ לְךָ֣ בְשָׂרִ֑י בְּאֶרֶץ־צִיָּ֖ה וְעָיֵ֣ף בְּלִי־מָֽיִם׃",
+      "he": "אֱלֹהִים אֵלִי אַתָּה אֲשַׁחֲרֶךָּ צָמְאָה לְךָ נַפְשִׁי כָּמַהּ לְךָ בְשָׂרִי בְּאֶרֶץ צִיָּה וְעָיֵף בְּלִי מָיִם׃",
       "he_plain": "אלהים אלי אתה אשחרך צמאה לך נפשי כמה לך בשרי בארץ ציה ועיף בלי מים",
-      "translit": "",
-      "es": ""
+      "translit": "Elohím elí atá; ashajerEja; tsamEá lejá nafshí; kamáh lejá besarí; beérets tsiyá veayéf belí máyim.",
+      "es": "Oh Dios, Tú eres mi Dios; de madrugada te buscaré; mi alma tiene sed de Ti; mi carne te anhela en tierra seca y árida donde no hay aguas."
     },
     {
       "num": 3,
-      "he": "כֵּ֭ן בַּקֹּ֣דֶשׁ חֲזִיתִ֑ךָ לִרְא֥וֹת עֻ֝זְּךָ֗ וּכְבוֹדֶֽךָ׃",
-      "he_plain": "כן בקדש חזיתך לראות עזך וכבודך",
-      "translit": "",
-      "es": ""
+      "he": "כֵּן בַּקֹּדֶשׁ חֲזִיתִיךָ לִרְאוֹת עֻזְּךָ וּכְבוֹדֶךָ׃",
+      "he_plain": "כן בקודש חזיתיך לראות עוזך וכבודך",
+      "translit": "Kén bakódesh jazitíja; lirot uzeján ujvodéja.",
+      "es": "Para ver Tu poder y Tu gloria así como te he mirado en el santuario."
     },
     {
       "num": 4,
-      "he": "כִּי־ט֣וֹב חַ֭סְדְּךָ מֵחַיִּ֗ים שְׂפָתַ֥י יְשַׁבְּחֽוּנְךָ׃",
+      "he": "כִּי טוֹב חַסְדְּךָ מֵחַיִּים שְׂפָתַי יְשַׁבְּחוּנְךָ׃",
       "he_plain": "כי טוב חסדך מחיים שפתי ישבחונך",
-      "translit": "",
-      "es": ""
+      "translit": "Ki tov jasdeján mejayím; sfatáy yeshabe Júnja.",
+      "es": "Porque mejor es Tu bondad leal que la vida; mis labios Te alabarán."
     },
     {
       "num": 5,
-      "he": "כֵּ֣ן אֲבָרֶכְךָ֣ בְחַיָּ֑י בְּ֝שִׁמְךָ֗ אֶשָּׂ֥א כַפָּֽי׃",
+      "he": "כֵּן אֲבָרֶכְךָ בְחַיָּי בְּשִׁמְךָ אֶשָּׂא כַפָּי׃",
       "he_plain": "כן אברכך בחיי בשמך אשא כפי",
-      "translit": "",
-      "es": ""
+      "translit": "Kén avarejejá bejayáy; beshimejá esá kapáy.",
+      "es": "Así te bendeciré en mi vida; en Tu nombre alzaré mis manos."
     },
     {
       "num": 6,
-      "he": "כְּמ֤וֹ חֵ֣לֶב וָ֭דֶשֶׁן תִּשְׂבַּ֣ע נַפְשִׁ֑י וְשִׂפְתֵ֥י רְ֝נָנ֗וֹת יְהַלֶּל־פִּֽי׃",
+      "he": "כְּמוֹ חֵלֶב וָדֶשֶׁן תִּשְׂבַּע נַפְשִׁי וְשִׂפְתֵי רְנָנוֹת יְהַלֶּל פִּי׃",
       "he_plain": "כמו חלב ודשן תשבע נפשי ושפתי רננות יהלל פי",
-      "translit": "",
-      "es": ""
+      "translit": "Kemó jélev vadéshen tisvá nafshí; vesifte renanót yehalél pí.",
+      "es": "Como de meollo y grosura se saciará mi alma y con labios de júbilo te alabará mi boca."
     },
     {
       "num": 7,
-      "he": "אִם־זְכַרְתִּ֥יךָ עַל־יְצוּעָ֑י בְּ֝אַשְׁמֻר֗וֹת אֶהְגֶּה־בָּֽךְ׃",
-      "he_plain": "אם זכרתיך על יצועי באשמרות אהגה בך",
-      "translit": "",
-      "es": ""
+      "he": "אִם זְכַרְתִּיךָ עַל יְצוּעָי בְּאַשְׁמֻרוֹת אֶהְגֶּה בָּךְ׃",
+      "he_plain": "אם זכרתיך על יצועי באשמורות אהגה בך",
+      "translit": "Im zejarTíja al yetsuáy; beashmuRót ehgéh baj.",
+      "es": "Cuando me acuerdo de Ti en mi lecho cuando medito en Ti en las vigilias de la noche."
     },
     {
       "num": 8,
-      "he": "כִּֽי־הָיִ֣יתָ עֶזְרָ֣תָה לִּ֑י וּבְצֵ֖ל כְּנָפֶ֣יךָ אֲרַנֵּֽן׃",
+      "he": "כִּי הָיִיתָ עֶזְרָתָה לִּי וּבְצֵל כְּנָפֶיךָ אֲרַנֵּן׃",
       "he_plain": "כי היית עזרתה לי ובצל כנפיך ארנן",
-      "translit": "",
-      "es": ""
+      "translit": "Ki hayíta ezratá lí; uvetsél kenaféija aranén.",
+      "es": "Porque has sido mi ayuda y a la sombra de Tus alas me regocijaré."
     },
     {
       "num": 9,
-      "he": "דָּבְקָ֣ה נַפְשִׁ֣י אַחֲרֶ֑יךָ בִּ֝֗י תָּמְכָ֥ה יְמִינֶֽךָ׃",
+      "he": "דָּבְקָה נַפְשִׁי אַחֲרֶיךָ בִּי תָּמְכָה יְמִינֶךָ׃",
       "he_plain": "דבקה נפשי אחריך בי תמכה ימינך",
-      "translit": "",
-      "es": ""
+      "translit": "Davká nafshí ajaréija; bí tamjá yeminéja.",
+      "es": "Mi alma está apegada a Ti; Tu diestra me ha sostenido."
     },
     {
       "num": 10,
-      "he": "וְהֵ֗מָּה לְ֭שׁוֹאָה יְבַקְשׁ֣וּ נַפְשִׁ֑י יָ֝בֹ֗אוּ בְּֽתַחְתִּיּ֥וֹת הָאָֽרֶץ׃",
-      "he_plain": "והמה לשואה יבקשו נפשי יבאו בתחתיות הארץ",
-      "translit": "",
-      "es": ""
+      "he": "וְהֵמָּה לְשׁוֹאָה יְבַקְשׁוּ נַפְשִׁי יָבֹאוּ בְּתַחְתִּיּוֹת הָאָרֶץ׃",
+      "he_plain": "והמה לשואה יבקשו נפשי יבואו בתחתיות הארץ",
+      "translit": "Vehéma leshoá yevakshú nafshí; yavóu betajtiyót haárets.",
+      "es": "Pero los que para destrucción buscan mi alma descenderán a las profundidades de la tierra."
     },
     {
       "num": 11,
-      "he": "יַגִּירֻ֥הוּ עַל־יְדֵי־חָ֑רֶב מְנָ֖ת שֻׁעָלִ֣ים יִהְיֽוּ׃",
-      "he_plain": "יגירהו על ידי חרב מנת שעלים יהיו",
-      "translit": "",
-      "es": ""
+      "he": "יַגִּירֻהוּ עַל יְדֵי חָרֶב מְנָת שֻׁעָלִים יִהְיוּ׃",
+      "he_plain": "יגירוהו על ידי חרב מנת שועלים יהיו",
+      "translit": "Yaguirúhu al yedéi járev; menat shuaLím yihyú.",
+      "es": "Serán entregados al poder de la espada; serán porción de los chacales."
     },
     {
       "num": 12,
-      "he": "וְהַמֶּלֶךְ֮ יִשְׂמַ֢ח בֵּאלֹ֫הִ֥ים יִ֭תְהַלֵּל כׇּל־הַנִּשְׁבָּ֣ע בּ֑וֹ כִּ֥י יִ֝סָּכֵ֗ר פִּ֣י דוֹבְרֵי־שָֽׁקֶר׃ {פ}",
-      "he_plain": "והמלך ישמח באלהים יתהלל כל הנשבע בו כי יסכר פי דוברי שקר {פ}",
-      "translit": "",
-      "es": ""
+      "he": "וְהַמֶּלֶךְ יִשְׂמַח בֵּאלֹהִים יִתְהַלֵּל כָּל הַנִּשְׁבָּע בּוֹ כִּי יִסָּכֵר פִּי דוֹבְרֵי שָׁקֶר׃",
+      "he_plain": "והמלך ישמח באלהים יתהלל כל הנשבע בו כי יסכר פי דוברי שקר",
+      "translit": "VehaméleJ yismáj beElohím; yithalél kol hanishbá bo; ki yisajér pí dovréi shákер.",
+      "es": "Pero el rey se alegrará en Dios; todo el que jura por Él se gloriará porque la boca de los que hablan mentira será cerrada."
     }
-  ],
-  "audio": "",
-  "title_es": "Dios, Tú eres mi Dios"
+  ]
 }
