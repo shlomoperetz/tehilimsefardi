@@ -10,7 +10,7 @@
       "translit": "Mizmór leAsáf. Elohím nitsáv baadát El; bekérev elohím yishpót.",
       "es": "Salmo de Asaf. Dios se levanta en la asamblea de Dios; en medio de los jueces juzga.",
       "en": "A psalm of Asaph. God stands in the divine assembly, pronouncing judgment among the divine beings.",
-      "translit_en": "Mizmor leAsaf. Elohim nitsav baadat El; bekerev elohim yishpot."
+      "translit_en": "Mizmor leasaf elohim nitsav baadat el bekerev elohim yishpot"
     },
     {
       "num": 2,
@@ -19,7 +19,7 @@
       "translit": "Ad matáy tishpetú ával; ufnéi reshaím tisáu. Selá.",
       "es": "¿Hasta cuándo juzgaréis injustamente y aceptaréis la persona de los impíos? Selá.",
       "en": "How long will you judge perversely, showing favor to the wicked? Selah.",
-      "translit_en": "Ad matay tishpetu aval; ufnei reshaim tisau. Sela."
+      "translit_en": "Ad matai tishpetu avel ufne reshaim tisu sela"
     },
     {
       "num": 3,
@@ -28,7 +28,7 @@
       "translit": "Shiftú dal veyatóm; aní varash hatsdiKú.",
       "es": "Defended al débil y al huérfano; haced justicia al afligido y al menesteroso.",
       "en": "Judge the wretched and the orphan, vindicate the lowly and the poor,",
-      "translit_en": "Shiftu dal veyatom; ani varash hatsdiKu."
+      "translit_en": "Shiftu dal veyatom ani varash hatsdiku"
     },
     {
       "num": 4,
@@ -37,7 +37,7 @@
       "translit": "Paletú dal veevyón; miyád reshaím hatsílu.",
       "es": "Librad al débil y al menesteroso; rescatadlos de mano de los impíos.",
       "en": "rescue the wretched and the needy; save them from the hand of the wicked.",
-      "translit_en": "Paletu dal veevyon; miyad reshaim hatsilu."
+      "translit_en": "Paltu dal veevyon miyad reshaim hatsilu"
     },
     {
       "num": 5,
@@ -46,7 +46,7 @@
       "translit": "Lo yadéu veló yavínu; bajashejá yithaláju; yimotú kol mosedéi árets.",
       "es": "No saben ni entienden; andan en tinieblas; tiemblan todos los cimientos de la tierra.",
       "en": "They neither know nor understand, they go about in darkness; all the foundations of the earth totter.",
-      "translit_en": "Lo yadeu velo yavinu; bachashecha yithalachu; yimotu kol mosedei arets."
+      "translit_en": "Lo yadeu velo yavinu bachashecha yithalachu yimotu kal mosede arets"
     },
     {
       "num": 6,
@@ -55,7 +55,7 @@
       "translit": "Aní amárti: elohím atém; uvnéi Elyón kuljém.",
       "es": "Yo dije: Vosotros sois dioses e hijos del Altísimo todos vosotros.",
       "en": "I had taken you for divine beings, attendants a attendants Lit. “sons.” of the Most High, all of you;",
-      "translit_en": "Ani amarti: elohim atem; uvnei Elyon kulchem."
+      "translit_en": "Ani amarti elohim atem uvne elyon kulchem"
     },
     {
       "num": 7,
@@ -64,7 +64,7 @@
       "translit": "Ajén keadám temutún; ujeajád hasarím tipólu.",
       "es": "Sin embargo moriréis como hombres y caeréis como cualquiera de los príncipes.",
       "en": "but you shall die as mortals do, fall like any prince.",
-      "translit_en": "Achen keadam temutun; ucheachad hasarim tipolu."
+      "translit_en": "Achen keadam temutun uchachad hasarim tipolu"
     },
     {
       "num": 8,
@@ -73,7 +73,7 @@
       "translit": "Kumá Elohím shoftá haárets; ki atá tinJál bejol hagoyím.",
       "es": "Levántate, oh Dios, juzga la tierra porque Tú heredarás todas las naciones.",
       "en": "Arise, O God, judge the earth, for all the nations are Your possession.",
-      "translit_en": "Kuma Elohim shofta haarets; ki ata tinChal bechol hagoyim."
+      "translit_en": "Kuma elohim shafeta haarets ki ata tinchal bechal hagoyim"
     }
   ],
   "ocasiones": [

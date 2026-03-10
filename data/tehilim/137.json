@@ -9,7 +9,7 @@
       "translit": "Al naharót Bavél; shám yashávnu gam bajínu; bezojrénu et Tsiyón.",
       "es": "Junto a los ríos de Babilonia; allí nos sentábamos y llorábamos al acordarnos de Tsión.",
       "en": "By the rivers of Babylon, there we sat, sat and wept, as we thought of Zion.",
-      "translit_en": "Al naharot Bavel; sham yashavnu gam bachinu; bezochrenu et Tsiyon."
+      "translit_en": "Al naharot bavel sham yashavnu gam bachinu bezochrenu et tsion"
     },
     {
       "num": 2,
@@ -18,7 +18,7 @@
       "translit": "Al aravím betojáh; talínu kinoroteínu.",
       "es": "Sobre los sauces en medio de ella colgamos nuestras arpas.",
       "en": "There on the poplars we hung up our lyres,",
-      "translit_en": "Al aravim betochah; talinu kinoroteinu."
+      "translit_en": "Al aravim betochah talinu kinoroteinu"
     },
     {
       "num": 3,
@@ -27,7 +27,7 @@
       "translit": "Ki shám sheElúnu shoveínu divréi shír; vetolálínu simjá; shirú lánu mishír Tsiyón.",
       "es": "Y los que nos habían llevado cautivos nos pedían que cantásemos y los que nos habían desolado nos pedían alegría diciendo: Cantadnos algunos de los cánticos de Tsión.",
       "en": "for our captors asked us there for songs, our tormentors, a tormentors Meaning of Heb. uncertain. for amusement: “Sing us one of the songs of Zion.”",
-      "translit_en": "Ki sham sheElunu shoveinu divrei shir; vetolalinu simcha; shiru lanu mishir Tsiyon."
+      "translit_en": "Ki sham sheelunu shoveinu divre shir vetolaleinu simcha shiru lanu mishir tsion"
     },
     {
       "num": 4,
@@ -36,7 +36,7 @@
       "translit": "Ej nashír et shír Adonái; al admat nejár.",
       "es": "¿Cómo cantaremos el cántico del Eterno en tierra extraña?",
       "en": "How can we sing a song of G OD on alien soil?",
-      "translit_en": "Ech nashir et shir Adonai; al admat nechar."
+      "translit_en": "Eiche nashir et shir Adonai al admat nechar"
     },
     {
       "num": 5,
@@ -45,7 +45,7 @@
       "translit": "Im eshkajéj Yerushalaím; tishkáj yemini.",
       "es": "Si me olvidare de ti oh Yerushaláyim olvídese mi diestra.",
       "en": "If I forget you, O Jerusalem, let my right hand wither; b wither In contrast to others “forget its cunning.”",
-      "translit_en": "Im eshkachech Yerushalaim; tishkach yemini."
+      "translit_en": "Im eshkacheche yerushalim tishkach yemini"
     },
     {
       "num": 6,
@@ -54,7 +54,7 @@
       "translit": "TiDvak leshoni lejikí; im lo ezkeréji; im lo aAléh et Yerushalaím al rosh simjatí.",
       "es": "Mi lengua se pegue a mi paladar si de ti no me acordare; si no enalteciere a Yerushaláyim como preferente asunto de mi alegría.",
       "en": "let my tongue stick to my palate if I cease to think of you, if I do not keep Jerusalem in memory even at my happiest hour.",
-      "translit_en": "TiDvak leshoni lechiki; im lo ezkerechi; im lo aAleh et Yerushalaim al rosh simchati."
+      "translit_en": "Tidbak leshoni lechiki im lo ezkerechi im lo aale et yerushalim al rosh simchati"
     },
     {
       "num": 7,
@@ -63,7 +63,7 @@
       "translit": "Zejor Adonái livnéi Edóm; et yóm Yerushalaím; haomrím arú arú; ad hayesód báh.",
       "es": "Acuérdate, oh Eterno, de los hijos de Edom en el día de Yerushaláyim; los que decían: Arrasadla arrasadla hasta sus cimientos.",
       "en": "Remember, O E TERNAL One, against the Edomites the day of Jerusalem’s fall; how they cried, “Strip her, strip her to her very foundations!”",
-      "translit_en": "Zechor Adonai livnei Edom; et yom Yerushalaim; haomrim aru aru; ad hayesod bah."
+      "translit_en": "Zechor Adonai livne edom et yom yerushalim haomerim aru aru ad haysod bah"
     },
     {
       "num": 8,
@@ -72,7 +72,7 @@
       "translit": "Bat Bavél hashedudá; ashréi sheyeshaLém láj et guemulEj sheguamalT lánu.",
       "es": "Hija de Babilonia la desolada; bienaventurado el que te diere el pago de lo que tú nos hiciste.",
       "en": "Fair Babylon, you predator, c predator With Targum; in contrast to others “who are to be destroyed.” a blessing on the one who repays you in kind what you have inflicted on us;",
-      "translit_en": "Bat Bavel hasheduda; ashrei sheyeshaLem lach et guemulEch sheguamalT lanu."
+      "translit_en": "Bat bavel hashduda ashre sheyshalem lache et gemuleche shegamalte lanu"
     },
     {
       "num": 9,
@@ -81,7 +81,7 @@
       "translit": "Ashréi sheyoaJéz venipéts et olaláyij el haséla.",
       "es": "Dichoso el que tomare y estrellare tus pequeños contra la peña.",
       "en": "a blessing on the one who seizes your babies and dashes them against the rocks!",
-      "translit_en": "Ashrei sheyoaChez venipets et olalayich el hasela."
+      "translit_en": "Ashre sheyochez venipets et olalayich el hasala {f"
     }
   ],
   "audio": "",

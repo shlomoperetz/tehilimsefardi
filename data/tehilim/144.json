@@ -9,7 +9,7 @@
       "translit": "LeDavíd. Barúj Adonái tsurí; hamelamEd yadáy lakeráv; etsbeotáy lamilhamá.",
       "es": "De David. Bendito sea el Eterno mi roca que adiestra mis manos para la batalla y mis dedos para la guerra.",
       "en": "Of David. Blessed is G OD , my rock, who trains my hands for battle, my fingers for warfare;",
-      "translit_en": "LeDavid. Baruch Adonai tsuri; hamelamEd yaday lakerav; etsbeotay lamilhama."
+      "translit_en": "Ledavid baruch Adonai tsuri hamlamed yadai lakrav etsbeotai lamilchama"
     },
     {
       "num": 2,
@@ -18,7 +18,7 @@
       "translit": "Jasdí umetsudatí; misguabí umefaltí lí; maguiní uvó jasíti; haRodéd amí tajtáy.",
       "es": "Mi bondad leal y mi fortaleza; mi alto refugio y mi libertador; mi escudo en quien confío; el que sujeta a mi pueblo debajo de mí.",
       "en": "my faithful one, my fortress, my haven and my deliverer, my shield, in whom I take shelter, who makes peoples a peoples So Targum, Saadia; in contrast to others “my people.” subject to me.",
-      "translit_en": "Chasdi umetsudati; misguabi umefalti li; maguini uvo chasiti; haRoded ami tachtay."
+      "translit_en": "Chasdi umtsudati misgabi umfalti li magini uvo chasiti haroded ami tachtai"
     },
     {
       "num": 3,
@@ -27,7 +27,7 @@
       "translit": "Adonái má adam vateDaéhu; ben enósh vatejashevéhu.",
       "es": "Oh Eterno ¿qué es el hombre para que le conozcas y el hijo del hombre para que lo estimes?",
       "en": "O E TERNAL One, what are mortals that You should care about them, human beings, that You should think of them?",
-      "translit_en": "Adonai ma adam vateDaehu; ben enosh vatechashevehu."
+      "translit_en": "Adonai ma adam vatedaehu ben enosh vatchashvehu"
     },
     {
       "num": 4,
@@ -36,7 +36,7 @@
       "translit": "Adam lahével damá; yamáv kejétel ovér.",
       "es": "El hombre es semejante a la vanidad; sus días son como la sombra que pasa.",
       "en": "They are like a breath; their days are like a passing shadow.",
-      "translit_en": "Adam lahevel dama; yamav kechetel over."
+      "translit_en": "Adam lahevel dama yamayv ketsel over"
     },
     {
       "num": 5,
@@ -45,7 +45,7 @@
       "translit": "Adonái hat shaméija veteRéd; guá beharím veyeeshanú.",
       "es": "Oh Eterno inclina Tus cielos y desciende; toca los montes y humeen.",
       "en": "O E TERNAL One, bend Your sky and come down; touch the mountains and they will smoke.",
-      "translit_en": "Adonai hat shameicha veteRed; gua beharim veyeeshanu."
+      "translit_en": "Adonai hat shameycha vetered ga beharim veyeeshanu"
     },
     {
       "num": 6,
@@ -54,7 +54,7 @@
       "translit": "Berók barák utfitsém; shlaj jitsEija vetehummém.",
       "es": "Despide relámpagos y dispersalos; envía Tus saetas y túrbalos.",
       "en": "Make lightning flash and scatter them; shoot Your arrows and rout them.",
-      "translit_en": "Berok barak utfitsem; shlach chitsEicha vetehummem."
+      "translit_en": "Berok barak utfitsem shelach chitseycha uthumem"
     },
     {
       "num": 7,
@@ -63,7 +63,7 @@
       "translit": "Shlaj yadéija mimárom; fetsEni vehatsiléni mimáyim rabím; miyád bené nejár.",
       "es": "Envía Tu mano desde lo alto; rescátame y líbrame de las muchas aguas y de la mano de los hombres extraños.",
       "en": "Reach Your hand down from on high; rescue me, save me from the mighty waters, from the hands of foreigners,",
-      "translit_en": "Shlach yadeicha mimarom; fetsEni vehatsileni mimayim rabim; miyad bene nechar."
+      "translit_en": "Shelach yadeycha mimarom petseni vehatsileni mimayim rabim miyad bene nechar"
     },
     {
       "num": 8,
@@ -72,7 +72,7 @@
       "translit": "Ashér pihem dibér sháv; viminém yemín shéker.",
       "es": "Cuya boca habla vanidad y cuya diestra es diestra de mentira.",
       "en": "whose mouths speak lies, and whose oaths b oaths With Rashi; lit. “right hand.” are false.",
-      "translit_en": "Asher pihem diber shav; viminem yemin sheker."
+      "translit_en": "Asher pihem diber shave viminam yemin shaker"
     },
     {
       "num": 9,
@@ -81,7 +81,7 @@
       "translit": "Elohím shír jadásh ashirá láj; benével asór azamerá láj.",
       "es": "Oh Dios cantaré un cántico nuevo; con salterio de diez cuerdas Te salmearé.",
       "en": "O God, I will sing You a new song, sing a hymn to You with a ten-stringed harp—",
-      "translit_en": "Elohim shir chadash ashira lach; benevel asor azamera lach."
+      "translit_en": "Elohim shir chadash ashira lache benevel asor azamra lache"
     },
     {
       "num": 10,
@@ -90,7 +90,7 @@
       "translit": "HaNotén yeshUá lamelAjím; hapotéh et Davíd abdó mejérev raá.",
       "es": "El que da salvación a los reyes y libró a David Su siervo de la espada maligna.",
       "en": "to the One who gives victory to kings, who rescues David—God’s servant—from the deadly sword.",
-      "translit_en": "HaNoten yeshUa lamelAchim; hapoteh et David abdo mecherev raa."
+      "translit_en": "Hanoten teshua lamlachim hapotse et david avdo mecherev raa"
     },
     {
       "num": 11,
@@ -99,7 +99,7 @@
       "translit": "PetsEni vehatsileíni miyád bené nejár; ashér pihem dibér sháv; viminém yemín shéker.",
       "es": "Rescátame y líbrame de la mano de los hombres extraños cuya boca habla vanidad y cuya diestra es diestra de mentira.",
       "en": "Rescue me, save me from the hands of foreigners, whose mouths speak lies, and whose oaths c oaths See note at v. 8 . are false.",
-      "translit_en": "PetsEni vehatsileini miyad bene nechar; asher pihem diber shav; viminem yemin sheker."
+      "translit_en": "Petseni vehatsileni miyad bene nechar asher pihem diber shave viminam yemin shaker"
     },
     {
       "num": 12,
@@ -108,7 +108,7 @@
       "translit": "Ashér banéinu kintiím megudAlím bineUreihem; benotéinu kejazaviyót meHutabót tavnít heijál.",
       "es": "Para que nuestros hijos sean como plantas crecidas en su juventud; nuestras hijas como columnas labradas como las de un palacio.",
       "en": "d The meaning of several phrases in these verses is uncertain. For our sons are like saplings, well-tended in their youth; our daughters are like cornerstones trimmed to give shape to a palace.",
-      "translit_en": "Asher baneinu kintiim megudAlim bineUreihem; benoteinu kechazaviyot meHutabot tavnit heichal."
+      "translit_en": "Asher baneinu kintiim megudalim binureihem benoteinu chezaviyot mechutavot tavnit heichal"
     },
     {
       "num": 13,
@@ -117,7 +117,7 @@
       "translit": "MezaveíNu meléim mefarnikim mizán el zán; tsonenú malfíot meaVím lirevavót bisadotéinu.",
       "es": "Nuestros graneros llenos proveyendo toda clase de provisión; nuestros rebaños que se multipliquen por millares y decenas de millares en nuestros campos.",
       "en": "Our storehouses are full, supplying produce of all kinds; our flocks number thousands, even myriads, in our fields;",
-      "translit_en": "MezaveiNu meleim mefarnikim mizan el zan; tsonenu malfiot meaVim lirevavot bisadoteinu."
+      "translit_en": "Mezaveinu meleim mefikim mizan el zan tsovnenu maalifot merubavot bechutsoteinu"
     },
     {
       "num": 14,
@@ -126,7 +126,7 @@
       "translit": "AluféiNu mesubAlim; en pérets veen yotséet veen tseajá birjovotéinu.",
       "es": "Nuestros bueyes bien cargados; sin que haya brecha ni salida ni clamor en nuestras plazas.",
       "en": "our cattle are well cared for. There is no breaching and no sortie, and no wailing in our streets.",
-      "translit_en": "AlufeiNu mesubAlim; en perets veen yotseet veen tseacha birchovoteinu."
+      "translit_en": "Alufeinu mesubalim ein perets veein yotset veein tsevacha birchovoteinu"
     },
     {
       "num": 15,
@@ -135,7 +135,7 @@
       "translit": "Ashréi haám shekájá ló; ashréi haám sheAdonái Elohív.",
       "es": "¡Dichoso el pueblo que tiene esto! ¡Dichoso el pueblo cuyo Dios es el Eterno!",
       "en": "Happy the people who have it so; happy the people whose God is the E TERNAL .",
-      "translit_en": "Ashrei haam shekacha lo; ashrei haam sheAdonai Elohiv."
+      "translit_en": "Ashre haam shekacha lo ashre haam sheAdonai elohayv {f"
     }
   ],
   "audio": "",

@@ -10,7 +10,7 @@
       "translit": "Mizmór leAsáf. Elohím bau goyím benajalaTeján; timEú et héijal kodshéja; samú et Yerushalaím leiyím.",
       "es": "Salmo de Asaf. Oh Dios, las naciones han invadido Tu heredad; han profanado Tu santo templo; han reducido Jerusalén a escombros.",
       "en": "A psalm of Asaph. O God, heathens have entered Your domain, defiled Your holy temple, and turned Jerusalem into ruins.",
-      "translit_en": "Mizmor leAsaf. Elohim bau goyim benachalaTechan; timEu et heichal kodshecha; samu et Yerushalaim leiyim."
+      "translit_en": "Mizmor leasaf elohim bau goyim benachalatecha timu et heichal kadeshecha samu et yerushalayim leiyim"
     },
     {
       "num": 2,
@@ -19,7 +19,7 @@
       "translit": "Naténu et nivlát avadéija maajál leOf hashamáyim; besar jasidéija lejaitó árets.",
       "es": "Dieron los cuerpos de Tus siervos por comida a las aves del cielo; la carne de Tus santos a las bestias de la tierra.",
       "en": "They have left Your servants’ corpses as food for the fowl of heaven, and the flesh of Your faithful for the wild beasts.",
-      "translit_en": "Natenu et nivlat avadeicha maachal leOf hashamayim; besar chasideicha lechaito arets."
+      "translit_en": "Natenu et nivlat avadeycha maachal leof hashamayim besar chasideycha lechayto arets"
     },
     {
       "num": 3,
@@ -28,7 +28,7 @@
       "translit": "Shafejú damám kamáyim sevivót Yerushalaím; veen kovér.",
       "es": "Derramaron su sangre como agua en los alrededores de Jerusalén y no hubo quien los enterrase.",
       "en": "Their blood was shed like water around Jerusalem, with none to bury them.",
-      "translit_en": "Shafechu damam kamayim sevivot Yerushalaim; veen kover."
+      "translit_en": "Shafechu damam kamayim sevivot yerushalayim veein kover"
     },
     {
       "num": 4,
@@ -37,7 +37,7 @@
       "translit": "Hayínu jerPá lishjenéinu; laáG vakéles lisevivotéinu.",
       "es": "Somos el oprobio de nuestros vecinos; escarnio y burla de los que nos rodean.",
       "en": "We have become the butt of our neighbors, the scorn and derision of those around us.",
-      "translit_en": "Hayinu cherPa lishcheneinu; laaG vakeles lisevivoteinu."
+      "translit_en": "Hayinu cherpa lishcheneinu laag vakeles lisvivoteinu"
     },
     {
       "num": 5,
@@ -46,7 +46,7 @@
       "translit": "Ad má Adonái teenáf lanétsaj; tivár kemó ésh kinAtéja.",
       "es": "¿Hasta cuándo, oh Eterno, estarás airado para siempre? ¿Arderá como fuego Tu celo?",
       "en": "How long, O E TERNAL One, will You be angry forever, will Your indignation blaze like fire?",
-      "translit_en": "Ad ma Adonai teenaf lanetsach; tivar kemo esh kinAtecha."
+      "translit_en": "Ad ma Adonai teenaf lanetsach tivar kemo esh kinatecha"
     },
     {
       "num": 6,
@@ -55,7 +55,7 @@
       "translit": "Shefój jamatejá el hagoyím ashér lo yadaúja; veal mamlejót ashér beshimejá lo karáu.",
       "es": "Derrama Tu furor sobre las naciones que no Te conocen y sobre los reinos que no invocan Tu nombre.",
       "en": "Pour out Your fury on the nations that do not know You, upon the kingdoms that do not invoke Your name,",
-      "translit_en": "Shefoch chamatecha el hagoyim asher lo yadaucha; veal mamlechot asher beshimecha lo karau."
+      "translit_en": "Shefoche chamatecha el hagoyim asher lo yedaucha veal mamlachot asher beshimcha lo karau"
     },
     {
       "num": 7,
@@ -64,7 +64,7 @@
       "translit": "Ki ajál et Yaakóv; veet navéhu heshamú.",
       "es": "Porque han devorado a Yaakov y han asolado Su morada.",
       "en": "for they have devoured Jacob and desolated his home.",
-      "translit_en": "Ki achal et Yaakov; veet navehu heshamu."
+      "translit_en": "Ki achal et yaakov veet navehu heshamu"
     },
     {
       "num": 8,
@@ -73,7 +73,7 @@
       "translit": "Al tizKór lánu avonót rishoním; mahér yekademuúnu rajaméija; ki dalónu meód.",
       "es": "No recuerdes contra nosotros las iniquidades de los antepasados; apresúrense Tus misericordias a alcanzarnos porque estamos muy abatidos.",
       "en": "Do not hold our former iniquities against us; let Your compassion come swiftly toward us, for we have sunk very low.",
-      "translit_en": "Al tizKor lanu avonot rishonim; maher yekademuunu rachameicha; ki dalonu meod."
+      "translit_en": "Al tizkar lanu aonot rishonim maher yekadmunu rachameycha ki dalonu meod"
     },
     {
       "num": 9,
@@ -82,7 +82,7 @@
       "translit": "Ozrénu Elohéi yishénu; al devár kevód sheméja; vehatsílénu vejaFér al jatotéinu lemáan sheméja.",
       "es": "Ayúdanos, oh Dios de nuestra salvación, por la gloria de Tu nombre; líbranos y perdona nuestros pecados por amor de Tu nombre.",
       "en": "Help us, O God, our deliverer, for the sake of the glory of Your name. Save us and forgive our sin, for the sake of Your name.",
-      "translit_en": "Ozrenu Elohei yishenu; al devar kevod shemecha; vehatsilenu vechaFer al chatoteinu lemaan shemecha."
+      "translit_en": "Azerenu elohe yishenu al devar kevod shemecha vehatsilenu vechaper al chatoteinu lemaan shemecha"
     },
     {
       "num": 10,
@@ -91,7 +91,7 @@
       "translit": "Lamá yomrú hagoyím: ayéh Elohéihem; yivadá bagoyím leeInéinu nikMát dam avadéija hashafúj.",
       "es": "¿Por qué han de decir las naciones: ¿Dónde está su Dios? Sea conocida entre las naciones delante de nuestros ojos la venganza de la sangre de Tus siervos derramada.",
       "en": "Let the nations not say, “Where is their God?” Before our eyes let it be known among the nations that You avenge the spilled blood of Your servants.",
-      "translit_en": "Lama yomru hagoyim: ayeh Eloheihem; yivada bagoyim leeIneinu nikMat dam avadeicha hashafuch."
+      "translit_en": "Lama yomru hagoyim aye eloheihem yivada bagoyim leeineinu nikmat dam avadeycha hashafuch"
     },
     {
       "num": 11,
@@ -100,7 +100,7 @@
       "translit": "Tavó lefanéija enkát asír; kegódel zeroeján hotér benéi temutá.",
       "es": "Llegue delante de Ti el gemido del preso; conforme a la grandeza de Tu brazo preserva a los condenados a muerte.",
       "en": "Let the groans of the prisoners reach You; reprieve those condemned to death, as befits Your great strength.",
-      "translit_en": "Tavo lefaneicha enkat asir; kegodel zeroechan hoter benei temuta."
+      "translit_en": "Tavo lefaneycha enkat asir kegodel zeroacha hoter bene temuta"
     },
     {
       "num": 12,
@@ -109,7 +109,7 @@
       "translit": "Vehashév lishjenéinu shivátáyim el jéikam; jerpatám ashér jerefúja Adonái.",
       "es": "Y devuelve a nuestros vecinos siete veces en su seno el oprobio con que Te han ultrajado, oh Señor.",
       "en": "Pay back our neighbors sevenfold for the abuse they have flung at You, O Sovereign.",
-      "translit_en": "Vehashev lishcheneinu shivatayim el cheikam; cherpatam asher cherefucha Adonai."
+      "translit_en": "Vehashev lishcheneinu shivatayim el cheikam cherpatam asher cherefucha adonai"
     },
     {
       "num": 13,
@@ -118,7 +118,7 @@
       "translit": "Vaanájnu ameján vetsón maritéja; nodéh lejá leolám; ledór vadór nesapér tehilatéja.",
       "es": "Y nosotros pueblo Tuyo y ovejas de Tu prado Te daremos gracias para siempre; de generación en generación contaremos Tus alabanzas.",
       "en": "Then we, Your people, the flock You shepherd, shall glorify You forever; for all time we shall tell Your praises.",
-      "translit_en": "Vaanachnu amechan vetson maritecha; nodeh lecha leolam; ledor vador nesaper tehilatecha."
+      "translit_en": "Vaanachnu amcha vetson maritecha node lecha leolam ledor vador nesaper tehilatecha"
     }
   ],
   "ocasiones": [],

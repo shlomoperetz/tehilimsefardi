@@ -9,7 +9,7 @@
       "translit": "Haleluyá. HalelU et Adonái min hashamáyim; halelúhu bameromím.",
       "es": "¡Aleluya! Alabad al Eterno desde los cielos; alabadle en las alturas.",
       "en": "Hallelujah. Praise G OD from the heavens; give praise on high.",
-      "translit_en": "Haleluya. HalelU et Adonai min hashamayim; haleluhu bameromim."
+      "translit_en": "Hallu yah hallu et Adonai min hashamayim halluhu bamromim"
     },
     {
       "num": 2,
@@ -18,7 +18,7 @@
       "translit": "HalelúHu jol malaJáv; halelúhu jol tsvaáv.",
       "es": "Alabadle todos Sus ángeles; alabadle todos Sus ejércitos.",
       "en": "Give praise, all you angels, give praise, all divine hosts.",
-      "translit_en": "HaleluHu chol malaChav; haleluhu chol tsvaav."
+      "translit_en": "Halluhu chol malachayv halluhu kol tsevaav"
     },
     {
       "num": 3,
@@ -27,7 +27,7 @@
       "translit": "HalelúHu shémesh veyaréaj; halelúhu kol kojvéi or.",
       "es": "Alabadle sol y luna; alabadle todas las estrellas de luz.",
       "en": "Give praise, sun and moon, give praise, all bright stars.",
-      "translit_en": "HaleluHu shemesh veyareach; haleluhu kol kochvei or."
+      "translit_en": "Halluhu shemesh veyarecha halluhu kol kocheve or"
     },
     {
       "num": 4,
@@ -36,7 +36,7 @@
       "translit": "HalelúHu shméi hashamáyim; vehamáyim ashér meal hashamáyim.",
       "es": "Alabadle cielos de los cielos y las aguas que están sobre los cielos.",
       "en": "Give praise, highest heavens, and you waters that are above the heavens.",
-      "translit_en": "HaleluHu shmei hashamayim; vehamayim asher meal hashamayim."
+      "translit_en": "Halluhu sheme hashamayim vehamayim asher meal hashamayim"
     },
     {
       "num": 5,
@@ -45,7 +45,7 @@
       "translit": "YehalelU et shem Adonái; ki hú tsivá venibraú.",
       "es": "Alaben el nombre del Eterno porque Él mandó y fueron creados.",
       "en": "Let them praise the name of G OD — who commanded that they be created,",
-      "translit_en": "YehalelU et shem Adonai; ki hu tsiva venibrau."
+      "translit_en": "Yehallu et shem Adonai ki hu tsiva venivrau"
     },
     {
       "num": 6,
@@ -54,7 +54,7 @@
       "translit": "VayaamiDém laad leolám; jok natán velo yeavór.",
       "es": "Los hizo subsistir para siempre; les puso ley que no será traspasada.",
       "en": "and who made them endure forever, establishing an order that shall never change.",
-      "translit_en": "VayaamiDem laad leolam; chok natan velo yeavor."
+      "translit_en": "Vayaamidem laad leolam chok natan velo yaavor"
     },
     {
       "num": 7,
@@ -63,7 +63,7 @@
       "translit": "HalelU et Adonái min haárets; taniním vejol tehomót.",
       "es": "Alabad al Eterno desde la tierra; los dragones y todos los abismos.",
       "en": "Praise G OD , O you who are on earth, all sea monsters and ocean depths,",
-      "translit_en": "HalelU et Adonai min haarets; taninim vechol tehomot."
+      "translit_en": "Hallu et Adonai min haarets taninim vechol tehomot"
     },
     {
       "num": 8,
@@ -72,7 +72,7 @@
       "translit": "Esh ubarád shéleg vekaítor; rúaj searA osá devaró.",
       "es": "El fuego y el granizo la nieve y el vapor; el viento de tempestad que ejecuta Su palabra.",
       "en": "fire and hail, snow and smoke, storm wind that executes God’s command,",
-      "translit_en": "Esh ubarad sheleg vekaitor; ruach searA osa devaro."
+      "translit_en": "Esh uvarad sheleg vekitor rucha seara osa devaro"
     },
     {
       "num": 9,
@@ -81,7 +81,7 @@
       "translit": "HeHarím vejol guevAot; ets perí vejol arazím.",
       "es": "Los montes y todos los collados; el árbol de fruto y todos los cedros.",
       "en": "all mountains and hills, all fruit trees and cedars,",
-      "translit_en": "HeHarim vechol guevAot; ets peri vechol arazim."
+      "translit_en": "Heharim vechol gevaot ets peri vechol arazim"
     },
     {
       "num": 10,
@@ -90,7 +90,7 @@
       "translit": "HaJayá vejol behemá; rémes vetsipór kanáf.",
       "es": "La bestia y todo animal; el reptil y el ave alada.",
       "en": "all wild and tamed animals, creeping things and winged birds,",
-      "translit_en": "HaChaya vechol behema; remes vetsipor kanaf."
+      "translit_en": "Hachaya vechol behema remes vetsipor kanaf"
     },
     {
       "num": 11,
@@ -99,7 +99,7 @@
       "translit": "MalJéi érets vejol leumím; sarím vejol shofetéi árets.",
       "es": "Los reyes de la tierra y todos los pueblos; los príncipes y todos los jueces de la tierra.",
       "en": "all kings and peoples of the earth, all princes of the earth and its judges,",
-      "translit_en": "MalChei erets vechol leumim; sarim vechol shofetei arets."
+      "translit_en": "Malche erets vechol leumim sarim vechol shofete arets"
     },
     {
       "num": 12,
@@ -108,7 +108,7 @@
       "translit": "BajurIm vegam betulót; zekením im neárim.",
       "es": "Los jóvenes y también las doncellas; los ancianos y los niños.",
       "en": "youths and maidens alike, old and young together.",
-      "translit_en": "BachurIm vegam betulot; zekenim im nearim."
+      "translit_en": "Bachurim vegam betulot zekenim im nearim"
     },
     {
       "num": 13,
@@ -117,7 +117,7 @@
       "translit": "YehalelU et shem Adonái; ki nisgáv shemó levadó; hodó al érets veshamáyim.",
       "es": "Alaben el nombre del Eterno porque solo Su nombre es excelso; Su gloria es sobre tierra y cielos.",
       "en": "Let them praise G OD ’s name— for sublime is this name alone— of the One whose splendor covers heaven and earth.",
-      "translit_en": "YehalelU et shem Adonai; ki nisgav shemo levado; hodo al erets veshamayim."
+      "translit_en": "Yehallu et shem Adonai ki nisgav shemo levado hodo al erets veshamayim"
     },
     {
       "num": 14,
@@ -126,7 +126,7 @@
       "translit": "VayáRem kéren leamó; tehilá lejol jasiDáv; livnéi Yisraél am kerovó. Haleluyá.",
       "es": "Él ha exaltado el poder de Su pueblo; alábenle todos Sus santos; los hijos de Israel el pueblo a Él cercano. ¡Aleluya!",
       "en": "[God] has exalted the horn of this people for the glory of all faithful ones, Israel, the people brought close. Hallelujah.",
-      "translit_en": "VayaRem keren leamo; tehila lechol chasiDav; livnei Yisrael am kerovo. Haleluya."
+      "translit_en": "Vayarem keren leamo tehila lechol chasidayv livne yisrael am kerovo hallu yah {f"
     }
   ],
   "audio": "",
