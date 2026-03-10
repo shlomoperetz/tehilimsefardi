@@ -185,8 +185,7 @@ function applyLangToGrid() {
 }
 
 function toggleLang() {
-  const cycle = {es:'en', en:'he', he:'es'};
-  currentLang = cycle[currentLang] || 'es';
+  currentLang = currentLang === 'es' ? 'he' : 'es';
   localStorage.setItem('ui_lang', currentLang);
   applyLang();
   applyLangToGrid();
