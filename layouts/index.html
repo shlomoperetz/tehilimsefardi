@@ -28,7 +28,7 @@
     <a href="{{ $url }}" class="landing-tile landing-tile-day">
       <span class="tile-icon">תְּהִלִּים</span>
       <span class="tile-label" id="tile-daily">Salmo del día</span>
-      <span class="tile-sub">Salmo {{ $num }}{{ if $data }}{{ if $data.title_es }} · {{ $data.title_es }}{{ end }}{{ end }}</span>
+      <span class="tile-sub" id="tile-daily-sub" data-num="{{ $num }}" data-title-es="{{ if $data }}{{ $data.title_es }}{{ end }}" data-title-en="{{ if $data }}{{ $data.title_es }}{{ end }}" data-title-he="{{ if $data }}{{ $data.title_he }}{{ end }}">Salmo {{ $num }}{{ if $data }}{{ if $data.title_es }} · {{ $data.title_es }}{{ end }}{{ end }}</span>
     </a>
 
     <a href="/categories/" class="landing-tile">
@@ -51,27 +51,7 @@
 
   </div>
 
-  <!-- SALMO DEL DÍA: verso preview -->
-  {{ if $data }}
-  {{- $contentVerse := dict -}}
-  {{- range $data.verses -}}
-    {{- if and (not $contentVerse.he) (gt (len .es) 50) -}}
-      {{- $contentVerse = . -}}
-    {{- end -}}
-  {{- end -}}
-  {{ with $contentVerse }}
-  {{ if .he }}
-  <a href="{{ $url }}" class="landing-verse-preview">
-    <div class="landing-verse-divider">
-      <span id="landing-day-label">Salmo del día · {{ $num }}</span>
-    </div>
-    <div class="lvp-he" dir="rtl">{{ .he | safeHTML }}</div>
-    {{ if .es }}<div class="lvp-es" id="lvp-translation" data-verse-es="{{ .es }}" data-verse-en="{{ .en }}">{{ .es }}</div>{{ end }}
-    <span class="lvp-link" id="landing-read">Leer el salmo completo →</span>
-  </a>
-  {{ end }}
-  {{ end }}
-  {{ end }}
+
 
 </div>
 {{ end }}

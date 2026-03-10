@@ -146,6 +146,17 @@ function applyLang() {
 
 
 
+  // Tile salmo del día — subtítulo según idioma
+  const ds = document.getElementById('tile-daily-sub');
+  if (ds) {
+    const num = ds.getAttribute('data-num');
+    const titleEs = ds.getAttribute('data-title-es');
+    const titleEn = ds.getAttribute('data-title-en');
+    const titleHe = ds.getAttribute('data-title-he');
+    const prefix = currentLang === 'he' ? 'מזמור' : currentLang === 'en' ? 'Psalm' : 'Salmo';
+    const title = currentLang === 'he' ? titleHe : currentLang === 'en' ? titleEn : titleEs;
+    ds.textContent = prefix + ' ' + num + (title ? ' · ' + title : '');
+  }
   // Títulos en lista de salmos según idioma
   document.querySelectorAll('.tehilim-name').forEach(el => {
     const titleEs = el.getAttribute('data-title-es');
