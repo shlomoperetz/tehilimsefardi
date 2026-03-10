@@ -122,6 +122,10 @@ function applyLang() {
   // Dirección del documento
   document.documentElement.lang = currentLang;
   document.documentElement.dir  = currentLang === 'he' ? 'rtl' : 'ltr';
+  // Grilla de salmos: flujo RTL en hebreo
+  document.querySelectorAll('.tehilim-grid').forEach(el => {
+    el.style.direction = currentLang === 'he' ? 'rtl' : 'ltr';
+  });
 }
 
 function applyLangToGrid() {
