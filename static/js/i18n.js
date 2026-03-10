@@ -227,6 +227,7 @@ function setLang(lang) {
     if (typeof VS !== 'undefined') {
       VS.he = true; VS.tr = false; VS.es = false;
       localStorage.setItem('VS', JSON.stringify(VS));
+      if (typeof applyView === 'function') applyView();
     }
   }
   // Si sale del hebreo, restaurar traducción
@@ -234,6 +235,7 @@ function setLang(lang) {
     if (typeof VS !== 'undefined') {
       VS.es = true;
       localStorage.setItem('VS', JSON.stringify(VS));
+      if (typeof applyView === 'function') applyView();
     }
   }
   const m = document.getElementById('langMenu');
