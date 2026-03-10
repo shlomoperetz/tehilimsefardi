@@ -8,18 +8,63 @@
     {{- $groups = merge $groups (dict $oc ($existing | append $v)) -}}
   {{- end -}}
 {{- end -}}
-<div class="card categories-page">
+
+<style>
+.cat-wrap { max-width: 720px; margin: 0 auto; padding: 2rem 1rem 4rem; }
+.cat-section { margin-bottom: 2.4rem; }
+.cat-heading {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  opacity: 0.4;
+  margin-bottom: 0.8rem;
+  text-align: left;
+  direction: ltr;
+}
+.cat-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  direction: ltr;
+}
+.cat-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 10px;
+  border: 1px solid currentColor;
+  opacity: 0.55;
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: inherit;
+  transition: opacity 0.15s, transform 0.1s;
+}
+.cat-pill:hover { opacity: 1; transform: scale(1.08); }
+.cat-divider {
+  border: none;
+  border-top: 1px solid;
+  opacity: 0.08;
+  margin: 0 0 2.4rem;
+}
+</style>
+
+<div class="cat-wrap">
+  {{- $first := true -}}
   {{- range $oc := $order -}}
     {{- $psalms := index $groups $oc -}}
-    {{- if $psalms }}
-  <section class="category-group">
-    <h2 class="category-name">{{ $oc }}</h2>
-    <div class="tehilim-grid">
+    {{- if $psalms -}}
+      {{- if not $first }}<hr class="cat-divider">{{ end -}}
+      {{- $first = false }}
+  <section class="cat-section">
+    <div class="cat-heading">{{ $oc }}</div>
+    <div class="cat-pills">
       {{- range sort $psalms "number" -}}
       {{- $key := printf "%03d" .number -}}
-      <a href="/tehilim/{{ $key }}/" class="tehilim-item">
-        <span class="tehilim-num">{{ .number }}</span>
-      </a>
+      <a href="/tehilim/{{ $key }}/" class="cat-pill">{{ .number }}</a>
       {{- end }}
     </div>
   </section>
