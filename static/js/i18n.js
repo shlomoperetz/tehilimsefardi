@@ -57,7 +57,10 @@ const STRINGS = {
   }
 };
 
-let currentLang = localStorage.getItem('ui_lang') || 'es';
+let currentLang = localStorage.getItem('ui_lang') || (() => {
+  const bl = navigator.language || navigator.userLanguage || 'es';
+  return bl.startsWith('he') ? 'he' : 'es';
+})();
 
 function t(key) {
   return (STRINGS[currentLang] && STRINGS[currentLang][key]) || STRINGS['es'][key] || key;
