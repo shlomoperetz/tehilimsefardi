@@ -8,77 +8,88 @@
       "he": "לַמְנַצֵּחַ מִזְמוֹר לְדָוִד׃",
       "he_plain": "למנצח מזמור לדוד",
       "translit": "Lamnatséaj mizmór leDavíd.",
-      "es": "Al director. Salmo de David."
+      "es": "Al director. Salmo de David.",
+      "en": "For the leader. A psalm of David."
     },
     {
       "num": 2,
       "he": "שְׁמַע אֱלֹהִים קוֹלִי בְשִׂיחִי מִפַּחַד אוֹיֵב תִּצֹּר חַיָּי׃",
       "he_plain": "שמע אלהים קולי בשיחי מפחד אויב תצור חיי",
       "translit": "Shemá Elohím kolí besiJí; mipáJad oyév titsór jayáy.",
-      "es": "Oye, oh Dios, mi voz en mi queja; guarda mi vida del temor al enemigo."
+      "es": "Oye, oh Dios, mi voz en mi queja; guarda mi vida del temor al enemigo.",
+      "en": "Hear my voice, O God, when I plead; guard my life from the enemy’s terror."
     },
     {
       "num": 3,
       "he": "תַּסְתִּירֵנִי מִסּוֹד מְרֵעִים מֵרִגְשַׁת פֹּעֲלֵי אָוֶן׃",
       "he_plain": "תסתירני מסוד מרעים מרגשת פועלי און",
       "translit": "Tastireni misód mereím; merigshat poaléi áven.",
-      "es": "Escóndeme del consejo secreto de los malignos y de la conspiración de los que hacen iniquidad."
+      "es": "Escóndeme del consejo secreto de los malignos y de la conspiración de los que hacen iniquidad.",
+      "en": "Hide me from a band of evildoers, from a crowd of wrongdoers,"
     },
     {
       "num": 4,
       "he": "אֲשֶׁר שָׁנְנוּ כַחֶרֶב לְשׁוֹנָם דָּרְכוּ חִצָּם דָּבָר מָר׃",
       "he_plain": "אשר שננו כחרב לשונם דרכו חצם דבר מר",
       "translit": "Ashér shanénu jaJérev leshonám; darkú jitsám davár már.",
-      "es": "Que afilaron su lengua como espada y tendieron su arco con palabra amarga como flecha,"
+      "es": "Que afilaron su lengua como espada y tendieron su arco con palabra amarga como flecha,",
+      "en": "who whet their tongues like swords; they aim their arrows—cruel words—"
     },
     {
       "num": 5,
       "he": "לִירוֹת בַּמִּסְתָּרִים תָּם פִּתְאֹם יֹרוּהוּ וְלֹא יִירָאוּ׃",
       "he_plain": "לירות במסתרים תם פתאום יורוהו ולא ייראו",
       "translit": "Lirót bamistárim tám; pitóm yorúhu veló yiraú.",
-      "es": "para lanzar en lugares ocultos al íntegro; de repente lo hieren y no temen."
+      "es": "para lanzar en lugares ocultos al íntegro; de repente lo hieren y no temen.",
+      "en": "to shoot from hiding at someone blameless, shooting suddenly and without fear."
     },
     {
       "num": 6,
       "he": "יְחַזְּקוּ לָמוֹ דָּבָר רָע יְסַפְּרוּ לִטְמוֹן מוֹקְשִׁים אָמְרוּ מִי יִרְאֶה לָּמוֹ׃",
       "he_plain": "יחזקו למו דבר רע יספרו לטמון מוקשים אמרו מי יראה למו",
       "translit": "Yejazekú lámo davár rá; yesapéru litMón mokshím; amarú mi yiré lámo.",
-      "es": "Se alientan en la mala empresa; tratan de esconder lazos y dicen: ¿Quién los ha de ver?"
+      "es": "Se alientan en la mala empresa; tratan de esconder lazos y dicen: ¿Quién los ha de ver?",
+      "en": "They arm themselves with an evil word; when they speak, it is to conceal traps; a They arm themselves … conceal traps Meaning of Heb. uncertain. they think, “Who will see them?”"
     },
     {
       "num": 7,
       "he": "יַחְפְּשׂוּ עוֹלֹת תַּמְנוּ חֵפֶשׂ מְחֻפָּשׂ וְקֶרֶב אִישׁ וְלֵב עָמֹק׃",
       "he_plain": "יחפשו עולות תמנו חפש מחופש וקרב איש ולב עמוק",
       "translit": "YajpeSú olót; tamánu jéfesh mejupásh; vekérev ísh velév amók.",
-      "es": "Inquieren iniquidades; consuman una búsqueda bien trazada y lo íntimo del hombre y el corazón es profundo."
+      "es": "Inquieren iniquidades; consuman una búsqueda bien trazada y lo íntimo del hombre y el corazón es profundo.",
+      "en": "b Meaning of verse uncertain. Let the wrongdoings they have concealed, c they have concealed Reading ṭamnu with some mss. (cf. Minḥat Shai) and Rashi; most printed editions tamnu , traditionally rendered “they have accomplished.” each one’s inner, secret thoughts, be wholly exposed."
     },
     {
       "num": 8,
       "he": "וַיֹּרֵם אֱלֹהִים חֵץ פִּתְאוֹם הָיוּ מַכּוֹתָם׃",
       "he_plain": "ויורם אלהים חץ פתאום היו מכותם",
       "translit": "Vayorém Elohím jéts; pitóm hayú makotám.",
-      "es": "Mas Dios les lanzará una flecha; de repente serán sus heridas."
+      "es": "Mas Dios les lanzará una flecha; de repente serán sus heridas.",
+      "en": "God shall shoot them with arrows; they shall be struck down suddenly."
     },
     {
       "num": 9,
       "he": "וַיַּכְשִׁילוּהוּ עָלֵימוֹ לְשׁוֹנָם יִתְנוֹדֲדוּ כָּל רֹאֵה בָם׃",
       "he_plain": "ויכשילוהו עלימו לשונם יתנוددو כל ראה בם",
       "translit": "Vayajshilúhu; aléimo leshonám; yitnoddedú kol roéh vám.",
-      "es": "Sus propias lenguas los harán caer; se estremecerán todos los que los vean."
+      "es": "Sus propias lenguas los harán caer; se estremecerán todos los que los vean.",
+      "en": "Their tongue shall be their downfall; all who see them shall recoil in horror;"
     },
     {
       "num": 10,
       "he": "וַיִּירְאוּ כָּל אָדָם וַיַּגִּידוּ פֹּעַל אֱלֹהִים וּמַעֲשֵׂהוּ הִשְׂכִּילוּ׃",
       "he_plain": "וייראו כל אדם ויגידו פועל אלהים ומעשהו השכילו",
       "translit": "Vayiraú kol adám; vayagídu poál Elohím; umaasEhu hiskílu.",
-      "es": "Y temerán todos los hombres y anunciarán la obra de Dios y entenderán Sus hechos."
+      "es": "Y temerán todos los hombres y anunciarán la obra de Dios y entenderán Sus hechos.",
+      "en": "all people shall stand in awe; they shall proclaim the work of God whose deed they perceived."
     },
     {
       "num": 11,
       "he": "יִשְׂמַח צַדִּיק בַּיהוָה וְחָסָה בוֹ וְיִתְהַלְלוּ כָּל יִשְׁרֵי לֵב׃",
       "he_plain": "ישמח צדיק ביהוה וחסה בו ויתהללו כל ישרי לב",
       "translit": "Yismáj tsadík baAdonái vejasá bo; veyithalelú kol yishréi lév.",
-      "es": "Se alegrará el justo en el Eterno y confiará en Él y se gloriarán todos los rectos de corazón."
+      "es": "Se alegrará el justo en el Eterno y confiará en Él y se gloriarán todos los rectos de corazón.",
+      "en": "In G OD shall the righteous rejoice and take refuge; all the upright shall exult."
     }
   ],
   "ocasiones": []

@@ -1,4 +1,31 @@
 const STRINGS = {
+  en: {
+    landing_title: "Tehilim Sefardi",
+    landing_desc: "The Psalms of David in Hebrew, Sephardic transliteration and English",
+    search_placeholder: "Search psalm by number or theme...",
+    tile_today_title: "Today's Psalm",
+    tile_today_sub: "Psalms by theme",
+    tile_topics_title: "By Occasion",
+    tile_topics_sub: "Psalms by theme",
+    tile_all_title: "1 — 150",
+    tile_all_sub: "Complete list",
+    tile_start_title: "Psalm 1",
+    tile_start_sub: "Blessed is the man...",
+    landing_read: "Read the full psalm →",
+    tile_topics_icon: "By occasion",
+    tile_all_icon: "1 — 150",
+    tile_start_icon: "Psalm 1",
+    brand_title: "Tehilim Sefardi",
+    brand_byline: "by Shlomo Peretz",
+    nav_home: "Home",
+    nav_tehilim: "Psalms",
+    nav_temas: "Themes",
+    prev_psalm: "← Previous",
+    next_psalm: "Next →",
+    view_he: "עב",
+    view_tr: "tr",
+    view_es: "EN",
+  },
   he: {
     home: "בַּיִת",
     psalms: "תְּהִלִּים",
@@ -59,7 +86,9 @@ const STRINGS = {
 
 let currentLang = localStorage.getItem('ui_lang') || (() => {
   const bl = navigator.language || navigator.userLanguage || 'es';
-  return bl.startsWith('he') ? 'he' : 'es';
+  if (bl.startsWith('he')) return 'he';
+  if (bl.startsWith('en')) return 'en';
+  return 'es';
 })();
 
 function t(key) {
@@ -154,7 +183,8 @@ function applyLangToGrid() {
 }
 
 function toggleLang() {
-  currentLang = currentLang === 'es' ? 'he' : 'es';
+  const cycle = {es:'en', en:'he', he:'es'};
+  currentLang = cycle[currentLang] || 'es';
   localStorage.setItem('ui_lang', currentLang);
   applyLang();
   applyLangToGrid();

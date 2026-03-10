@@ -8,91 +8,104 @@
       "he": "מִזְמוֹר לְאָסָף אֱלֹהִים בָּאוּ גוֹיִם בְּנַחֲלָתֶךָ טִמְּאוּ אֶת הֵיכַל קָדְשֶׁךָ שָׂמוּ אֶת יְרוּשָׁלַיִם לְעִיִּים׃",
       "he_plain": "מזמור לאסף אלהים באו גוים בנחלתך טמאו את היכל קדשך שמו את ירושלים לעיים",
       "translit": "Mizmór leAsáf. Elohím bau goyím benajalaTeján; timEú et héijal kodshéja; samú et Yerushalaím leiyím.",
-      "es": "Salmo de Asaf. Oh Dios, las naciones han invadido Tu heredad; han profanado Tu santo templo; han reducido Jerusalén a escombros."
+      "es": "Salmo de Asaf. Oh Dios, las naciones han invadido Tu heredad; han profanado Tu santo templo; han reducido Jerusalén a escombros.",
+      "en": "A psalm of Asaph. O God, heathens have entered Your domain, defiled Your holy temple, and turned Jerusalem into ruins."
     },
     {
       "num": 2,
       "he": "נָתְנוּ אֶת נִבְלַת עֲבָדֶיךָ מַאֲכָל לְעוֹף הַשָּׁמָיִם בְּשַׂר חֲסִידֶיךָ לְחַיְתוֹ אָרֶץ׃",
       "he_plain": "נתנו את נבלת עבדיך מאכל לעוף השמים בשר חסידיך לחיתו ארץ",
       "translit": "Naténu et nivlát avadéija maajál leOf hashamáyim; besar jasidéija lejaitó árets.",
-      "es": "Dieron los cuerpos de Tus siervos por comida a las aves del cielo; la carne de Tus santos a las bestias de la tierra."
+      "es": "Dieron los cuerpos de Tus siervos por comida a las aves del cielo; la carne de Tus santos a las bestias de la tierra.",
+      "en": "They have left Your servants’ corpses as food for the fowl of heaven, and the flesh of Your faithful for the wild beasts."
     },
     {
       "num": 3,
       "he": "שָׁפְכוּ דָמָם כַּמַּיִם סְבִיבוֹת יְרוּשָׁלָיִם וְאֵין קוֹבֵר׃",
       "he_plain": "שפכו דמם כמים סביבות ירושלים ואין קובר",
       "translit": "Shafejú damám kamáyim sevivót Yerushalaím; veen kovér.",
-      "es": "Derramaron su sangre como agua en los alrededores de Jerusalén y no hubo quien los enterrase."
+      "es": "Derramaron su sangre como agua en los alrededores de Jerusalén y no hubo quien los enterrase.",
+      "en": "Their blood was shed like water around Jerusalem, with none to bury them."
     },
     {
       "num": 4,
       "he": "הָיִינוּ חֶרְפָּה לִשְׁכֵנֵינוּ לַעַג וָקֶלֶס לִסְבִיבוֹתֵינוּ׃",
       "he_plain": "היינו חרפה לשכנינו לעג וקלס לסביבותינו",
       "translit": "Hayínu jerPá lishjenéinu; laáG vakéles lisevivotéinu.",
-      "es": "Somos el oprobio de nuestros vecinos; escarnio y burla de los que nos rodean."
+      "es": "Somos el oprobio de nuestros vecinos; escarnio y burla de los que nos rodean.",
+      "en": "We have become the butt of our neighbors, the scorn and derision of those around us."
     },
     {
       "num": 5,
       "he": "עַד מָה יְהוָה תֶּאֱנַף לָנֶצַח תִּבְעַר כְּמוֹ אֵשׁ קִנְאָתֶךָ׃",
       "he_plain": "עד מה יהוה תאנף לנצח תבער כמו אש קנאתך",
       "translit": "Ad má Adonái teenáf lanétsaj; tivár kemó ésh kinAtéja.",
-      "es": "¿Hasta cuándo, oh Eterno, estarás airado para siempre? ¿Arderá como fuego Tu celo?"
+      "es": "¿Hasta cuándo, oh Eterno, estarás airado para siempre? ¿Arderá como fuego Tu celo?",
+      "en": "How long, O E TERNAL One, will You be angry forever, will Your indignation blaze like fire?"
     },
     {
       "num": 6,
       "he": "שְׁפֹךְ חֲמָתְךָ אֶל הַגּוֹיִם אֲשֶׁר לֹא יְדָעוּךָ וְעַל מַמְלָכוֹת אֲשֶׁר בְּשִׁמְךָ לֹא קָרָאוּ׃",
       "he_plain": "שפוך חמתך אל הגוים אשר לא ידעוך ועל ממלכות אשר בשמך לא קראו",
       "translit": "Shefój jamatejá el hagoyím ashér lo yadaúja; veal mamlejót ashér beshimejá lo karáu.",
-      "es": "Derrama Tu furor sobre las naciones que no Te conocen y sobre los reinos que no invocan Tu nombre."
+      "es": "Derrama Tu furor sobre las naciones que no Te conocen y sobre los reinos que no invocan Tu nombre.",
+      "en": "Pour out Your fury on the nations that do not know You, upon the kingdoms that do not invoke Your name,"
     },
     {
       "num": 7,
       "he": "כִּי אָכַל אֶת יַעֲקֹב וְאֶת נָוֵהוּ הֵשַׁמּוּ׃",
       "he_plain": "כי אכל את יעקב ואת נוהו השמו",
       "translit": "Ki ajál et Yaakóv; veet navéhu heshamú.",
-      "es": "Porque han devorado a Yaakov y han asolado Su morada."
+      "es": "Porque han devorado a Yaakov y han asolado Su morada.",
+      "en": "for they have devoured Jacob and desolated his home."
     },
     {
       "num": 8,
       "he": "אַל תִּזְכָּר לָנוּ עֲוֹנֹת רִאשֹׁנִים מַהֵר יְקַדְּמוּנוּ רַחֲמֶיךָ כִּי דַלּוֹנוּ מְאֹד׃",
       "he_plain": "אל תזכר לנו עונות ראשונים מהר יקדמונו רחמיך כי דלונו מאד",
       "translit": "Al tizKór lánu avonót rishoním; mahér yekademuúnu rajaméija; ki dalónu meód.",
-      "es": "No recuerdes contra nosotros las iniquidades de los antepasados; apresúrense Tus misericordias a alcanzarnos porque estamos muy abatidos."
+      "es": "No recuerdes contra nosotros las iniquidades de los antepasados; apresúrense Tus misericordias a alcanzarnos porque estamos muy abatidos.",
+      "en": "Do not hold our former iniquities against us; let Your compassion come swiftly toward us, for we have sunk very low."
     },
     {
       "num": 9,
       "he": "עָזְרֵנוּ אֱלֹהֵי יִשְׁעֵנוּ עַל דְּבַר כְּבוֹד שְׁמֶךָ וְהַצִּילֵנוּ וְכַפֵּר עַל חַטֹּאתֵינוּ לְמַעַן שְׁמֶךָ׃",
       "he_plain": "עזרנו אלהי ישענו על דבר כבוד שמך והצילנו וכפר על חטאותינו למען שמך",
       "translit": "Ozrénu Elohéi yishénu; al devár kevód sheméja; vehatsílénu vejaFér al jatotéinu lemáan sheméja.",
-      "es": "Ayúdanos, oh Dios de nuestra salvación, por la gloria de Tu nombre; líbranos y perdona nuestros pecados por amor de Tu nombre."
+      "es": "Ayúdanos, oh Dios de nuestra salvación, por la gloria de Tu nombre; líbranos y perdona nuestros pecados por amor de Tu nombre.",
+      "en": "Help us, O God, our deliverer, for the sake of the glory of Your name. Save us and forgive our sin, for the sake of Your name."
     },
     {
       "num": 10,
       "he": "לָמָּה יֹאמְרוּ הַגּוֹיִם אַיֵּה אֱלֹהֵיהֶם יִוָּדַע בַּגּוֹיִם לְעֵינֵינוּ נִקְמַת דַּם עֲבָדֶיךָ הַשָּׁפוּךְ׃",
       "he_plain": "למה יאמרו הגוים איה אלהיהם יוודע בגוים לעינינו נקמת דם עבדיך השפוך",
       "translit": "Lamá yomrú hagoyím: ayéh Elohéihem; yivadá bagoyím leeInéinu nikMát dam avadéija hashafúj.",
-      "es": "¿Por qué han de decir las naciones: ¿Dónde está su Dios? Sea conocida entre las naciones delante de nuestros ojos la venganza de la sangre de Tus siervos derramada."
+      "es": "¿Por qué han de decir las naciones: ¿Dónde está su Dios? Sea conocida entre las naciones delante de nuestros ojos la venganza de la sangre de Tus siervos derramada.",
+      "en": "Let the nations not say, “Where is their God?” Before our eyes let it be known among the nations that You avenge the spilled blood of Your servants."
     },
     {
       "num": 11,
       "he": "תָּבוֹא לְפָנֶיךָ אֶנְקַת אָסִיר כְּגֹדֶל זְרוֹעֲךָ הוֹתֵר בְּנֵי תְמוּתָה׃",
       "he_plain": "תבוא לפניך אנקת אסיר כגודל זרועך הותר בני תמותה",
       "translit": "Tavó lefanéija enkát asír; kegódel zeroeján hotér benéi temutá.",
-      "es": "Llegue delante de Ti el gemido del preso; conforme a la grandeza de Tu brazo preserva a los condenados a muerte."
+      "es": "Llegue delante de Ti el gemido del preso; conforme a la grandeza de Tu brazo preserva a los condenados a muerte.",
+      "en": "Let the groans of the prisoners reach You; reprieve those condemned to death, as befits Your great strength."
     },
     {
       "num": 12,
       "he": "וְהָשֵׁב לִשְׁכֵנֵינוּ שִׁבְעָתַיִם אֶל חֵיקָם חֶרְפָּתָם אֲשֶׁר חֵרְפוּךָ אֲדֹנָי׃",
       "he_plain": "והשב לשכנינו שבעתים אל חיקם חרפתם אשר חרפוך אדני",
       "translit": "Vehashév lishjenéinu shivátáyim el jéikam; jerpatám ashér jerefúja Adonái.",
-      "es": "Y devuelve a nuestros vecinos siete veces en su seno el oprobio con que Te han ultrajado, oh Señor."
+      "es": "Y devuelve a nuestros vecinos siete veces en su seno el oprobio con que Te han ultrajado, oh Señor.",
+      "en": "Pay back our neighbors sevenfold for the abuse they have flung at You, O Sovereign."
     },
     {
       "num": 13,
       "he": "וַאֲנַחְנוּ עַמְּךָ וְצֹאן מַרְעִיתֶךָ נוֹדֶה לְּךָ לְעוֹלָם לְדֹר וָדֹר נְסַפֵּר תְּהִלָּתֶךָ׃",
       "he_plain": "ואנחנו עמך וצאן מרעיתך נודה לך לעולם לדור ודור נספר תהלתך",
       "translit": "Vaanájnu ameján vetsón maritéja; nodéh lejá leolám; ledór vadór nesapér tehilatéja.",
-      "es": "Y nosotros pueblo Tuyo y ovejas de Tu prado Te daremos gracias para siempre; de generación en generación contaremos Tus alabanzas."
+      "es": "Y nosotros pueblo Tuyo y ovejas de Tu prado Te daremos gracias para siempre; de generación en generación contaremos Tus alabanzas.",
+      "en": "Then we, Your people, the flock You shepherd, shall glorify You forever; for all time we shall tell Your praises."
     }
   ],
   "ocasiones": []
