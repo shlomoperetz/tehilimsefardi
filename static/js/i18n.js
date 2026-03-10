@@ -220,7 +220,22 @@ function toggleLangMenu() {
   if (m) m.style.display = m.style.display === 'none' ? 'block' : 'none';
 }
 function setLang(lang) {
+  const prev = currentLang;
   currentLang = lang;
+  // Si cambia a hebreo, mostrar solo hebreo
+  if (lang === 'he' && prev !== 'he') {
+    if (typeof VS !== 'undefined') {
+      VS.he = true; VS.tr = false; VS.es = false;
+      localStorage.setItem('VS', JSON.stringify(VS));
+    }
+  }
+  // Si sale del hebreo, restaurar traducción
+  if (lang !== 'he' && prev === 'he') {
+    if (typeof VS !== 'undefined') {
+      VS.es = true;
+      localStorage.setItem('VS', JSON.stringify(VS));
+    }
+  }
   const m = document.getElementById('langMenu');
   if (m) m.style.display = 'none';
   localStorage.setItem('ui_lang', currentLang);
