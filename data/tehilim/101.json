@@ -9,7 +9,7 @@
       "translit": "LeDavíd mizmór. Jésed umishpát ashirá; lejá Adonái azamérá.",
       "es": "De David, salmo. De bondad leal y justicia cantaré; a Ti, oh Eterno, salmearé.",
       "en": "Of David. A psalm. I will sing of faithfulness and justice; I will chant a hymn to You, O E TERNAL One.",
-      "translit_en": "LeDavId mizmOr. ChEsed umishpAt ashirA, lechA AdonAi azamErA."
+      "translit_en": "LeDavid mizmor. Chesed umishpat ashira; lecha Adonai azamera."
     },
     {
       "num": 2,
@@ -18,7 +18,7 @@
       "translit": "Askíla bedérej tamím; matáy tabó eláy; ethalél betóm levabí bekeréb béiti.",
       "es": "Me conduciré con sabiduría en el camino de la integridad; cuándo vendrás a mí; andaré en la integridad de mi corazón en medio de mi casa.",
       "en": "I will study the way of the blameless; when shall I attain it? I will live without blame within my house.",
-      "translit_en": "AskIla bedErech tamIm, matAy tabO elAy, ethalEl betOm levabI bekerEb bEiti."
+      "translit_en": "Askila bederech tamim; matay tabo elay; ethalel betom levabi bekereb beiti."
     },
     {
       "num": 3,
@@ -27,7 +27,7 @@
       "translit": "Lo ashít lenegéd einái devár beliáal; asoé sétim sanéiti; lo yidBák bí.",
       "es": "No pondré delante de mis ojos cosa inicua; aborrezco la obra de los que se desvían; no se pegará a mí.",
       "en": "I will not set before my eyes anything base; I hate crooked dealing; I will have none of it.",
-      "translit_en": "Lo ashIt lenegEd einAi devAr beliAal, asoE sEtim sanEiti, lo yidBAk bI."
+      "translit_en": "Lo ashit leneged einai devar beliaal; asoe setim saneiti; lo yidBak bi."
     },
     {
       "num": 4,
@@ -36,7 +36,7 @@
       "translit": "Levav ikésh yasúr mimení; rá lo edá.",
       "es": "El corazón perverso se apartará de mí; no conoceré al malo.",
       "en": "Perverse thoughts will be far from me; I will know nothing of evil.",
-      "translit_en": "Levav ikEsh yasUr mimenI, rA lo edA."
+      "translit_en": "Levav ikesh yasur mimeni; ra lo eda."
     },
     {
       "num": 5,
@@ -45,7 +45,7 @@
       "translit": "Melajén seter reéhu otó atsmít; guevah einayím urejáv levav otó lo ujál.",
       "es": "Al que en secreto calumnia a su prójimo yo lo destruiré; al de ojos altivos y corazón arrogante no lo soportaré.",
       "en": "One who slanders a friend in secret I will destroy; I cannot endure anyone haughty and proud.",
-      "translit_en": "MelachEn seter reEhu otO atsmIt, guevah einayIm urechAv levav otO lo uchAl."
+      "translit_en": "Melachen seter reehu oto atsmit; guevah einayim urechav levav oto lo uchal."
     },
     {
       "num": 6,
@@ -54,7 +54,7 @@
       "translit": "Einái beNeeméi árets lashévet imádi; holej bedérej tamím hu yeshareténi.",
       "es": "Mis ojos estarán sobre los fieles de la tierra para que habiten conmigo; el que ande en camino de integridad me servirá.",
       "en": "My eyes are on the trustworthy ones of the land, to have them at my side. One who follows the way of the blameless shall be in my service.",
-      "translit_en": "EinAi beNeemEi Arets lashEvet imAdi, holech bedErech tamIm hu yesharetEni."
+      "translit_en": "Einai beNeemei arets lashevet imadi; holech bederech tamim hu yeshareteni."
     },
     {
       "num": 7,
@@ -63,7 +63,7 @@
       "translit": "Lo yeshév bekirév béiti oséh remiyá; dobér shekárim lo yikón lenegéd einái.",
       "es": "No habitará dentro de mi casa el que practica el engaño; el que habla mentiras no permanecerá delante de mis ojos.",
       "en": "One who deals deceitfully shall not live in my house; one who speaks untruth shall not stand before my eyes.",
-      "translit_en": "Lo yeshEv bekirEv bEiti osEh remiyA, dobEr shekArim lo yikOn lenegEd einAi."
+      "translit_en": "Lo yeshev bekirev beiti oseh remiya; dober shekarim lo yikon leneged einai."
     },
     {
       "num": 8,
@@ -72,7 +72,7 @@
       "translit": "Labekarim atsmít kol reshaéi árets; lehajrít meír Adonái kol poaléi áven.",
       "es": "Cada mañana destruiré a todos los impíos de la tierra para exterminar de la ciudad del Eterno a todos los que hacen iniquidad.",
       "en": "Each morning I will destroy all the wicked of the land, to rid G OD ’s city of all evildoers.",
-      "translit_en": "Labekarim atsmIt kol reshaEi Arets, lehachrIt meIr AdonAi kol poalEi Aven."
+      "translit_en": "Labekarim atsmit kol reshaei arets; lehachrit meir Adonai kol poalei aven."
     }
   ],
   "audio": "",
