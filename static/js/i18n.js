@@ -177,6 +177,14 @@ function applyLang() {
 
   // Botón de idioma
 
+  // Verso del salmo del día (landing)
+  const lvp = document.getElementById('lvp-translation');
+  if (lvp) {
+    const verseEs = lvp.getAttribute('data-verse-es');
+    const verseEn = lvp.getAttribute('data-verse-en');
+    if (currentLang === 'en' && verseEn) lvp.textContent = verseEn;
+    else if (verseEs) lvp.textContent = verseEs;
+  }
 
   // Título landing: fuente y tamaño según idioma
   const title = document.getElementById('landing-title');
@@ -200,7 +208,9 @@ function applyLang() {
 
 function applyLangToGrid() {
   document.querySelectorAll('.tehilim-name[data-title-es]').forEach(el => {
-    el.textContent = currentLang === 'he' ? el.dataset.titleHe : el.dataset.titleEs;
+    if (currentLang === 'he') el.textContent = el.dataset.titleHe || el.dataset.titleEs;
+    else if (currentLang === 'en') el.textContent = el.dataset.titleEn || el.dataset.titleEs;
+    else el.textContent = el.dataset.titleEs;
   });
 }
 

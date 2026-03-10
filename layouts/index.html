@@ -60,7 +60,7 @@
       <span id="landing-day-label">Salmo del día · {{ $num }}</span>
     </div>
     <div class="lvp-he" dir="rtl">{{ .he | safeHTML }}</div>
-    {{ if .es }}<div class="lvp-es">{{ .es }}</div>{{ end }}
+    {{ if .es }}<div class="lvp-es" id="lvp-translation" data-verse-es="{{ .es }}" data-verse-en="{{ .en }}">{{ .es }}</div>{{ end }}
     <span class="lvp-link" id="landing-read">Leer el salmo completo →</span>
   </a>
   {{ end }}
