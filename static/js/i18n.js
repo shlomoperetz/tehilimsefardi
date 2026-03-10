@@ -230,10 +230,10 @@ function setLang(lang) {
       if (typeof applyView === 'function') applyView();
     }
   }
-  // Si sale del hebreo, restaurar traducción
+  // Si sale del hebreo, restaurar hebreo + transliteración + traducción
   if (lang !== 'he' && prev === 'he') {
     if (typeof VS !== 'undefined') {
-      VS.es = true;
+      VS.he = true; VS.tr = true; VS.es = true;
       localStorage.setItem('VS', JSON.stringify(VS));
       if (typeof applyView === 'function') applyView();
     }
