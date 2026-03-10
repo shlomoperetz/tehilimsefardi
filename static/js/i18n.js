@@ -17,6 +17,9 @@ const STRINGS = {
     tile_start: "לְהַתְחִיל מֵהַהַתְחָלָה",
     tile_start_sub: "אַשְׁרֵי הָאִישׁ…",
     landing_read: "קְרָא אֶת הַמִּזְמוֹר הַמָּלֵא ←",
+    tile_topics_icon: "לְפִי אוֹקָזְיָה",
+    tile_all_icon: "1 — 150",
+    tile_start_icon: "מזמור 1",
     not_found: "לא נמצא",
     title_cantil: "ניקוד וטעמים",
     title_translit: "תעתיק ספרדי",
@@ -40,6 +43,9 @@ const STRINGS = {
     tile_start: "Empezar desde el principio",
     tile_start_sub: "Dichoso el hombre…",
     landing_read: "Leer el salmo completo →",
+    tile_topics_icon: "Por ocasión",
+    tile_all_icon: "1 — 150",
+    tile_start_icon: "Salmo 1",
     not_found: "No encontrado",
     title_cantil: "Cantilaciones",
     title_translit: "Transliteración",
@@ -74,6 +80,9 @@ function applyLang() {
   set('tile-start',      'tile_start');
   set('tile-start-sub',  'tile_start_sub');
   set('landing-read',    'landing_read');
+  set('tile-topics-icon', 'tile_topics_icon');
+  set('tile-all-icon',    'tile_all_icon');
+  set('tile-start-icon',  'tile_start_icon');
 
   // Bottombar
   set('nav-home',   'home');
