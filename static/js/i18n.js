@@ -20,6 +20,8 @@ const STRINGS = {
     tile_topics_icon: "לְפִי אוֹקָזְיָה",
     tile_all_icon: "1 — 150",
     tile_start_icon: "מזמור 1",
+    brand_title: "תְּהִלִּים סְפָרַדִי",
+    brand_byline: "מאת שלמה פרץ",
     not_found: "לא נמצא",
     title_cantil: "ניקוד וטעמים",
     title_translit: "תעתיק ספרדי",
@@ -46,6 +48,8 @@ const STRINGS = {
     tile_topics_icon: "Por ocasión",
     tile_all_icon: "1 — 150",
     tile_start_icon: "Salmo 1",
+    brand_title: "Tehilim Sefardí",
+    brand_byline: "by Shlomo Peretz",
     not_found: "No encontrado",
     title_cantil: "Cantilaciones",
     title_translit: "Transliteración",
@@ -83,6 +87,18 @@ function applyLang() {
   set('tile-topics-icon', 'tile_topics_icon');
   set('tile-all-icon',    'tile_all_icon');
   set('tile-start-icon',  'tile_start_icon');
+  set('brand-title', 'brand_title');
+  set('brand-byline', 'brand_byline');
+
+  // Alineación general según idioma
+  const isHe = currentLang === 'he';
+  document.querySelectorAll('.landing-head, .landing-search, .landing-tiles, .landing-verse-preview').forEach(el => {
+    el.style.direction = isHe ? 'rtl' : 'ltr';
+    el.style.textAlign = isHe ? 'right' : 'center';
+  });
+  // Brand: fuente hebrea en modo hebreo
+  const bt = document.getElementById('brand-title');
+  if (bt) bt.style.fontFamily = isHe ? '"Noto Serif Hebrew", serif' : '';
 
   // Bottombar
   set('nav-home',   'home');
