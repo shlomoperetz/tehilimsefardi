@@ -2291,3 +2291,31 @@ header.topbar {
   line-height: 1.6;
 }
 .instruction .prayer-text { font-style: normal !important; }
+
+/* Lang dropdown */
+.lang-dropdown { position: relative; }
+.lang-menu {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 6px);
+  background: var(--bg);
+  border: 1px solid var(--border, #e0d5c0);
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+  z-index: 999;
+  min-width: 140px;
+  overflow: hidden;
+}
+.lang-menu button {
+  display: block;
+  width: 100%;
+  padding: 0.55em 1em;
+  text-align: left;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: var(--ui-font);
+  font-size: 0.9em;
+  color: var(--fg);
+}
+.lang-menu button:hover { background: var(--hover, #f5f0e8); color: #d4af37; }

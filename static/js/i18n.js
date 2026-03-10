@@ -129,6 +129,9 @@ function applyLang() {
     el.style.textAlign = isHe ? 'right' : 'left';
   });
   // Brand: fuente hebrea en modo hebreo
+  // Actualizar label del botón de idioma
+  const lb = document.getElementById('langBtn');
+  if (lb) lb.textContent = currentLang === 'he' ? 'עב' : currentLang.toUpperCase();
   const bt = document.getElementById('brand-title');
   if (bt) bt.style.fontFamily = isHe ? '"Noto Serif Hebrew", serif' : '';
 
@@ -184,8 +187,14 @@ function applyLangToGrid() {
   });
 }
 
-function toggleLang() {
-  currentLang = currentLang === 'es' ? 'he' : 'es';
+function toggleLangMenu() {
+  const m = document.getElementById('langMenu');
+  if (m) m.style.display = m.style.display === 'none' ? 'block' : 'none';
+}
+function setLang(lang) {
+  currentLang = lang;
+  const m = document.getElementById('langMenu');
+  if (m) m.style.display = 'none';
   localStorage.setItem('ui_lang', currentLang);
   applyLang();
   applyLangToGrid();
@@ -194,4 +203,11 @@ function toggleLang() {
 document.addEventListener('DOMContentLoaded', () => {
   applyLang();
   applyLangToGrid();
+});
+
+// Cerrar dropdown al click fuera
+document.addEventListener('click', function(e) {
+  const dd = document.getElementById('langDropdown');
+  const m = document.getElementById('langMenu');
+  if (dd && m && !dd.contains(e.target)) m.style.display = 'none';
 });
