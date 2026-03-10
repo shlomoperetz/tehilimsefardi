@@ -30,7 +30,8 @@ const STRINGS = {
     psalms: "תְּהִלִּים",
     topics: "נוֹשְׂאִים",
     search_placeholder: "חפש מזמור לפי מספר או נושא...",
-    nav_list: "כָּל הַמְּזָמוֹרִים",
+    nav_home: "בַּיִת",
+    nav_list: "תְּהִלִּים",
     prev: "מזמור", next: "מזמור",
     landing_title: "תְּהִלִּים סְפָרַדִי",
     landing_desc: "מִזְמוֹרֵי דָּוִד בְּעִבְרִית, תַּעְתִּיק סְפָרַדִי וְסְפָרַדִּית",
@@ -131,6 +132,10 @@ function applyLang() {
   // Actualizar label del botón de idioma
   const lb = document.getElementById('langBtn');
   if (lb) lb.textContent = currentLang === 'he' ? 'עב' : currentLang.toUpperCase();
+  // Bottombar
+  set('nav-home',   'nav_home');
+  set('nav-psalms', 'nav_list');
+  set('nav-topics', 'tile_topics_icon');
   const bt = document.getElementById('brand-title');
   if (bt) bt.style.fontFamily = isHe ? '"Noto Serif Hebrew", serif' : '';
 
