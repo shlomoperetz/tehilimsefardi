@@ -432,10 +432,10 @@ body.is-landing .text-controls {
   min-height: calc(100vh - 130px);
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
   text-align: left;
-  padding: 2em 1em 5em;
+  padding: 2em 1.5em 5em;
   direction: ltr;
   gap: 0;
 }

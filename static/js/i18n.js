@@ -97,7 +97,7 @@ function applyLang() {
   const isHe = currentLang === 'he';
   document.querySelectorAll('.landing-head, .landing-search, .landing-tiles, .landing-verse-preview').forEach(el => {
     el.style.direction = isHe ? 'rtl' : 'ltr';
-    el.style.textAlign = isHe ? 'right' : 'center';
+    el.style.textAlign = isHe ? 'right' : 'left';
   });
   // Brand: fuente hebrea en modo hebreo
   const bt = document.getElementById('brand-title');
