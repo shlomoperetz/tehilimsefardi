@@ -64,7 +64,7 @@
     <div class="cat-heading">{{ $oc }}</div>
     <div class="cat-pills">
       {{- range sort $psalms "number" -}}
-      {{- $key := printf "%03d" .number -}}
+      {{- $key := printf "%03d" (int .number) -}}
       <a href="/tehilim/{{ $key }}/" class="cat-pill">{{ .number }}</a>
       {{- end }}
     </div>
