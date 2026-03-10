@@ -1,29 +1,45 @@
 const STRINGS = {
   he: {
-    home: "בַּיִת", psalms: "תְּהִלִּים", topics: "נוֹשְׂאִים",
-    search_placeholder: "חפש מזמור...",
+    home: "בַּיִת",
+    psalms: "תְּהִלִּים",
+    topics: "נוֹשְׂאִים",
+    search_placeholder: "חפש מזמור לפי מספר או נושא...",
     nav_list: "כָּל הַמְּזָמוֹרִים",
     prev: "מזמור", next: "מזמור",
-    read: "קְרָא תְּהִלִּים",
     landing_title: "תְּהִלִּים סְפָרַדִי",
-    subtitle: "נֻסַח סְפָרַד · מִזְמוֹרֵי דָּוִד",
-    landing_all: "כָּל הַמְּזָמוֹרִים",
-    landing_topics: "לְפִי נוֹשֵׂא",
+    landing_desc: "מִזְמוֹרֵי דָּוִד בְּעִבְרִית, תַּעְתִּיק סְפָרַדִי וְסְפָרַדִּית",
+    landing_search: "חפש מזמור...",
+    tile_daily: "מזמור היום",
+    tile_topics: "אֵבֶל · אַהֲבָה · הֲגָנָה",
+    tile_topics_sub: "מזמורים לפי נושא",
+    tile_all: "כָּל הַמְּזָמוֹרִים",
+    tile_all_sub: "רשימה מלאה",
+    tile_start: "לְהַתְחִיל מֵהַהַתְחָלָה",
+    tile_start_sub: "אַשְׁרֵי הָאִישׁ…",
+    landing_read: "קְרָא אֶת הַמִּזְמוֹר הַמָּלֵא ←",
     not_found: "לא נמצא",
     title_cantil: "ניקוד וטעמים",
     title_translit: "תעתיק ספרדי",
     title_es: "תרגום",
   },
   es: {
-    home: "Inicio", psalms: "Salmos", topics: "Temas",
+    home: "Inicio",
+    psalms: "Salmos",
+    topics: "Temas",
     search_placeholder: "Buscar salmo por número o tema...",
     nav_list: "Todos los salmos",
     prev: "Salmo", next: "Salmo",
-    read: "Leer Tehilim",
     landing_title: "Tehilim Sefardí",
-    subtitle: "Nusaj Sefardí · Salmos de David",
-    landing_all: "Todos los salmos",
-    landing_topics: "Por tema",
+    landing_desc: "Los Salmos de David en hebreo, transliteración sefaradí y español",
+    landing_search: "Buscar salmo por número o tema…",
+    tile_daily: "Salmo del día",
+    tile_topics: "Duelo · Amor · Protección",
+    tile_topics_sub: "Salmos por tema",
+    tile_all: "Todos los salmos",
+    tile_all_sub: "Lista completa",
+    tile_start: "Empezar desde el principio",
+    tile_start_sub: "Dichoso el hombre…",
+    landing_read: "Leer el salmo completo →",
     not_found: "No encontrado",
     title_cantil: "Cantilaciones",
     title_translit: "Transliteración",
@@ -34,31 +50,37 @@ const STRINGS = {
 let currentLang = localStorage.getItem('ui_lang') || 'es';
 
 function t(key) {
-  return STRINGS[currentLang][key] || STRINGS['es'][key] || key;
+  return (STRINGS[currentLang] && STRINGS[currentLang][key]) || STRINGS['es'][key] || key;
 }
 
 function applyLang() {
   const set = (id, key) => { const el = document.getElementById(id); if (el) el.textContent = t(key); };
   const attr = (id, a, key) => { const el = document.getElementById(id); if (el) el[a] = t(key); };
 
-  set('landing-title',      'landing_title');
-  set('landing-subtitle',   'subtitle');
-  set('landing-enter-text', 'read');
-  set('landing-all',        'landing_all');
-  set('landing-topics',     'landing_topics');
-  set('nav-home',           'home');
-  set('nav-psalms',         'psalms');
-  set('nav-topics',         'topics');
+  // Topbar / brand
+  set('landing-title',          'landing_title');
+  set('landing-desc',           'landing_desc');
 
+  // Barra de búsqueda landing
+  set('landing-search-placeholder', 'landing_search');
   attr('searchInput', 'placeholder', 'search_placeholder');
 
-  const bCantil   = document.getElementById('translitBtn');
-  const bTranslit = document.getElementById('translBtn');
-  const bEs       = document.getElementById('esBtn');
-  if (bCantil)   bCantil.title   = t('title_cantil');
-  if (bTranslit) bTranslit.title = t('title_translit');
-  if (bEs)       bEs.title       = t('title_es');
+  // Tiles landing
+  set('tile-daily',      'tile_daily');
+  set('tile-topics',     'tile_topics');
+  set('tile-topics-sub', 'tile_topics_sub');
+  set('tile-all',        'tile_all');
+  set('tile-all-sub',    'tile_all_sub');
+  set('tile-start',      'tile_start');
+  set('tile-start-sub',  'tile_start_sub');
+  set('landing-read',    'landing_read');
 
+  // Bottombar
+  set('nav-home',   'home');
+  set('nav-psalms', 'psalms');
+  set('nav-topics', 'topics');
+
+  // Navegación single psalm
   document.querySelectorAll('.nav-list').forEach(el => el.textContent = t('nav_list'));
   document.querySelectorAll('.nav-prev').forEach(el => {
     el.textContent = '← ' + t('prev') + ' ' + el.dataset.num;
@@ -67,10 +89,19 @@ function applyLang() {
     el.textContent = t('next') + ' ' + el.dataset.num + ' →';
   });
 
+  // Botones de vista
+  const bCantil   = document.getElementById('btnHe');
+  const bTranslit = document.getElementById('btnTranslit');
+  const bEs       = document.getElementById('btnEs');
+  if (bCantil)   bCantil.title   = t('title_cantil');
+  if (bTranslit) bTranslit.title = t('title_translit');
+  if (bEs)       bEs.title       = t('title_es');
+
+  // Botón de idioma
   const langBtn = document.getElementById('langBtn');
   if (langBtn) langBtn.textContent = currentLang === 'es' ? 'עב' : 'ES';
 
-  // Fuente del título: hebreo = serif hebrea, español = sans elegante
+  // Título landing: fuente y tamaño según idioma
   const title = document.getElementById('landing-title');
   if (title) {
     title.style.fontFamily = currentLang === 'he'
@@ -79,37 +110,25 @@ function applyLang() {
     title.style.fontSize = currentLang === 'he' ? '2em' : '2.4em';
   }
 
+  // Dirección del documento
   document.documentElement.lang = currentLang;
+  document.documentElement.dir  = currentLang === 'he' ? 'rtl' : 'ltr';
+}
+
+function applyLangToGrid() {
+  document.querySelectorAll('.tehilim-name[data-title-es]').forEach(el => {
+    el.textContent = currentLang === 'he' ? el.dataset.titleHe : el.dataset.titleEs;
+  });
 }
 
 function toggleLang() {
   currentLang = currentLang === 'es' ? 'he' : 'es';
   localStorage.setItem('ui_lang', currentLang);
   applyLang();
+  applyLangToGrid();
 }
 
-document.addEventListener('DOMContentLoaded', applyLang);
-
-// Actualizar títulos en la cuadrícula de salmos
-function applyLangToGrid() {
-  document.querySelectorAll('.tehilim-name[data-title-es]').forEach(el => {
-    el.textContent = currentLang === 'he'
-      ? el.dataset.titleHe
-      : el.dataset.titleEs;
-  });
-}
-
-// Sobreescribir applyLang para incluir grid
-const _applyLang = applyLang;
 document.addEventListener('DOMContentLoaded', () => {
   applyLang();
   applyLangToGrid();
 });
-
-const _toggleLang = toggleLang;
-function toggleLang() {
-  currentLang = currentLang === 'es' ? 'he' : 'es';
-  localStorage.setItem('ui_lang', currentLang);
-  applyLang();
-  applyLangToGrid();
-}
