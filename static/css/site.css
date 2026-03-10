@@ -2319,3 +2319,19 @@ header.topbar {
   color: var(--fg);
 }
 .lang-menu button:hover { background: var(--hover, #f5f0e8); color: #d4af37; }
+
+/* Lang dropdown v2 */
+.lang-menu button .lang-code {
+  display: inline-block;
+  min-width: 24px;
+  font-weight: 700;
+  color: #d4af37;
+  font-size: 0.9em;
+}
+.lang-menu button.active-lang {
+  background: rgba(212,175,55,0.1);
+  color: #d4af37;
+}
+.lang-menu button.active-lang .lang-code {
+  color: #d4af37;
+}

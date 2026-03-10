@@ -132,6 +132,10 @@ function applyLang() {
   // Actualizar label del botón de idioma
   const lb = document.getElementById('langBtn');
   if (lb) lb.textContent = currentLang === 'he' ? 'עב' : currentLang === 'en' ? 'EN' : 'ES';
+  // Marcar idioma activo en dropdown
+  document.querySelectorAll('.lang-menu button[data-lang]').forEach(btn => {
+    btn.classList.toggle('active-lang', btn.getAttribute('data-lang') === currentLang);
+  });
   // Bottombar
   set('nav-home',   'nav_home');
   set('nav-psalms', 'nav_list');
