@@ -12,6 +12,10 @@
     <meta property="og:title" content="{{ if .Title }}{{ .Title }} | {{ end }}Tehilim Sefardí">
     <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
     <meta property="og:url" content="{{ .Permalink }}">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Hebrew:wght@100..900&family=Assistant:wght@300;400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ "css/site.css" | relURL }}?v={{ now.Unix }}">
