@@ -207,5 +207,9 @@
     }
   ],
   "audio": "",
-  "title_es": "Acción de gracias por la salvación del Eterno"
+  "title_es": "Acción de gracias por la salvación del Eterno",
+  "ocasiones": [
+    "Hallel",
+    "Rosh Jodesh"
+  ]
 }

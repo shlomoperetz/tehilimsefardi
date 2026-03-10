@@ -137,5 +137,9 @@
     }
   ],
   "audio": "",
-  "title_es": "Acción de gracias por la liberación de la muerte"
+  "title_es": "Acción de gracias por la liberación de la muerte",
+  "ocasiones": [
+    "Hallel",
+    "Rosh Jodesh"
+  ]
 }

@@ -1,1 +1,78 @@
-{"number": 8, "title_he": "תהילים", "title_es": "La gloria de Dios y la dignidad del hombre", "verses": [{"num": 1, "he": "לַמְנַצֵּחַ עַל הַגִּתִּית מִזְמוֹר לְדָוִד׃", "he_plain": "למנצח על הגיתית מזמור לדוד", "translit": "Lamnatséaj al haguitít, mizmór leDavíd.", "es": "Al director, sobre la guitit. Salmo de David."}, {"num": 2, "he": "יְהוָה אֲדֹנֵינוּ מָה אַדִּיר שִׁמְךָ בְּכָל הָאָרֶץ אֲשֶׁר תְּנָה הוֹדְךָ עַל הַשָּׁמָיִם׃", "he_plain": "יהוה אדוניינו מה אדיר שמך בכל הארץ אשר תנה הודך על השמים", "translit": "Adonái Adonéinu, ma adír shimjá bejol haaréts; ashér tená hodejá al hashamáyim.", "es": "Eterno, Señor nuestro, ¡cuán glorioso es Tu nombre en toda la tierra, Tú que has puesto Tu majestad sobre los cielos!"}, {"num": 3, "he": "מִפִּי עוֹלְלִים וְיֹנְקִים יִסַּדְתָּ עֹז לְמַעַן צוֹרְרֶיךָ לְהַשְׁבִּית אוֹיֵב וּמִתְנַקֵּם׃", "he_plain": "מפי עוללים וינקים יסדת עוז למען צורריך להשבית אויב ומתנקם", "translit": "Mipí olelím veyonkím isádata oz, lemaán tsorrejéja, lehavshít oyév umitnakem.", "es": "De la boca de los niños de pecho has fundado fortaleza, a causa de Tus adversarios, para hacer callar al enemigo y al vengador."}, {"num": 4, "he": "כִּי אֶרְאֶה שָׁמֶיךָ מַעֲשֵׂה אֶצְבְּעֹתֶיךָ יָרֵחַ וְכוֹכָבִים אֲשֶׁר כּוֹנַנְתָּה׃", "he_plain": "כי אראה שמיך מעשה אצבעותיך ירח וכוכבים אשר כוננת", "translit": "Ki eré shaméja, maasé etsbeotéja, yarájy vejojabím ashér konánta.", "es": "Cuando veo Tus cielos, obra de Tus dedos, la luna y las estrellas que Tú estableciste,"}, {"num": 5, "he": "מָה אֱנוֹשׁ כִּי תִזְכְּרֶנּוּ וּבֶן אָדָם כִּי תִפְקְדֶנּוּ׃", "he_plain": "מה אנוש כי תזכרנו ובן אדם כי תפקדנו", "translit": "Ma enósh ki tizkerenu, uben adam ki tifkedenu?", "es": "¿Qué es el hombre para que lo recuerdes, y el hijo del hombre para que lo visites?"}, {"num": 6, "he": "וַתְּחַסְּרֵהוּ מְעַט מֵאֱלֹהִים וְכָבוֹד וְהָדָר תְּעַטְּרֵהוּ׃", "he_plain": "ותחסרהו מעט מאלהים וכבוד והדר תעטרהו", "translit": "Vatejaserú meat meElohím, vejabód vehadár teateréhu.", "es": "Lo hiciste un poco menor que los ángeles, y lo coronaste de gloria y de honra."}, {"num": 7, "he": "תַּמְשִׁילֵהוּ בְּמַעֲשֵׂי יָדֶיךָ כֹּל שַׁתָּה תַחַת רַגְלָיו׃", "he_plain": "תמשילהו במעשי ידיך כל שתה תחת רגליו", "translit": "Tamshiléhu bemaasé yadéja; kol shata táját ragláv.", "es": "Lo hiciste señorear sobre las obras de Tus manos; todo lo pusiste bajo sus pies."}, {"num": 8, "he": "צֹנֶה וַאֲלָפִים כֻּלָּם וְגַם בַּהֲמוֹת שָׂדָי׃", "he_plain": "צונה ואלפים כולם וגם בהמות שדי", "translit": "Tsoné vaalafím kulam, vegam behemót sadái.", "es": "Ovejas y bueyes, todos ellos, y también las bestias del campo,"}, {"num": 9, "he": "צִפּוֹר שָׁמַיִם וּדְגֵי הַיָּם עֹבֵר אָרְחוֹת יַמִּים׃", "he_plain": "ציפור שמים ודגי הים עובר ארחות ימים", "translit": "Tsipór shamáyim udguéi hayam, ovér arjót yamím.", "es": "Las aves del cielo y los peces del mar, todo lo que surca los senderos de los mares."}, {"num": 10, "he": "יְהוָה אֲדֹנֵינוּ מָה אַדִּיר שִׁמְךָ בְּכָל הָאָרֶץ׃", "he_plain": "יהוה אדוניינו מה אדיר שמך בכל הארץ", "translit": "Adonái Adonéinu, ma adír shimjá bejol haaréts.", "es": "Eterno, Señor nuestro, ¡cuán glorioso es Tu nombre en toda la tierra!"}]}
+{
+  "number": 8,
+  "title_he": "תהילים",
+  "title_es": "La gloria de Dios y la dignidad del hombre",
+  "verses": [
+    {
+      "num": 1,
+      "he": "לַמְנַצֵּחַ עַל הַגִּתִּית מִזְמוֹר לְדָוִד׃",
+      "he_plain": "למנצח על הגיתית מזמור לדוד",
+      "translit": "Lamnatséaj al haguitít, mizmór leDavíd.",
+      "es": "Al director, sobre la guitit. Salmo de David."
+    },
+    {
+      "num": 2,
+      "he": "יְהוָה אֲדֹנֵינוּ מָה אַדִּיר שִׁמְךָ בְּכָל הָאָרֶץ אֲשֶׁר תְּנָה הוֹדְךָ עַל הַשָּׁמָיִם׃",
+      "he_plain": "יהוה אדוניינו מה אדיר שמך בכל הארץ אשר תנה הודך על השמים",
+      "translit": "Adonái Adonéinu, ma adír shimjá bejol haaréts; ashér tená hodejá al hashamáyim.",
+      "es": "Eterno, Señor nuestro, ¡cuán glorioso es Tu nombre en toda la tierra, Tú que has puesto Tu majestad sobre los cielos!"
+    },
+    {
+      "num": 3,
+      "he": "מִפִּי עוֹלְלִים וְיֹנְקִים יִסַּדְתָּ עֹז לְמַעַן צוֹרְרֶיךָ לְהַשְׁבִּית אוֹיֵב וּמִתְנַקֵּם׃",
+      "he_plain": "מפי עוללים וינקים יסדת עוז למען צורריך להשבית אויב ומתנקם",
+      "translit": "Mipí olelím veyonkím isádata oz, lemaán tsorrejéja, lehavshít oyév umitnakem.",
+      "es": "De la boca de los niños de pecho has fundado fortaleza, a causa de Tus adversarios, para hacer callar al enemigo y al vengador."
+    },
+    {
+      "num": 4,
+      "he": "כִּי אֶרְאֶה שָׁמֶיךָ מַעֲשֵׂה אֶצְבְּעֹתֶיךָ יָרֵחַ וְכוֹכָבִים אֲשֶׁר כּוֹנַנְתָּה׃",
+      "he_plain": "כי אראה שמיך מעשה אצבעותיך ירח וכוכבים אשר כוננת",
+      "translit": "Ki eré shaméja, maasé etsbeotéja, yarájy vejojabím ashér konánta.",
+      "es": "Cuando veo Tus cielos, obra de Tus dedos, la luna y las estrellas que Tú estableciste,"
+    },
+    {
+      "num": 5,
+      "he": "מָה אֱנוֹשׁ כִּי תִזְכְּרֶנּוּ וּבֶן אָדָם כִּי תִפְקְדֶנּוּ׃",
+      "he_plain": "מה אנוש כי תזכרנו ובן אדם כי תפקדנו",
+      "translit": "Ma enósh ki tizkerenu, uben adam ki tifkedenu?",
+      "es": "¿Qué es el hombre para que lo recuerdes, y el hijo del hombre para que lo visites?"
+    },
+    {
+      "num": 6,
+      "he": "וַתְּחַסְּרֵהוּ מְעַט מֵאֱלֹהִים וְכָבוֹד וְהָדָר תְּעַטְּרֵהוּ׃",
+      "he_plain": "ותחסרהו מעט מאלהים וכבוד והדר תעטרהו",
+      "translit": "Vatejaserú meat meElohím, vejabód vehadár teateréhu.",
+      "es": "Lo hiciste un poco menor que los ángeles, y lo coronaste de gloria y de honra."
+    },
+    {
+      "num": 7,
+      "he": "תַּמְשִׁילֵהוּ בְּמַעֲשֵׂי יָדֶיךָ כֹּל שַׁתָּה תַחַת רַגְלָיו׃",
+      "he_plain": "תמשילהו במעשי ידיך כל שתה תחת רגליו",
+      "translit": "Tamshiléhu bemaasé yadéja; kol shata táját ragláv.",
+      "es": "Lo hiciste señorear sobre las obras de Tus manos; todo lo pusiste bajo sus pies."
+    },
+    {
+      "num": 8,
+      "he": "צֹנֶה וַאֲלָפִים כֻּלָּם וְגַם בַּהֲמוֹת שָׂדָי׃",
+      "he_plain": "צונה ואלפים כולם וגם בהמות שדי",
+      "translit": "Tsoné vaalafím kulam, vegam behemót sadái.",
+      "es": "Ovejas y bueyes, todos ellos, y también las bestias del campo,"
+    },
+    {
+      "num": 9,
+      "he": "צִפּוֹר שָׁמַיִם וּדְגֵי הַיָּם עֹבֵר אָרְחוֹת יַמִּים׃",
+      "he_plain": "ציפור שמים ודגי הים עובר ארחות ימים",
+      "translit": "Tsipór shamáyim udguéi hayam, ovér arjót yamím.",
+      "es": "Las aves del cielo y los peces del mar, todo lo que surca los senderos de los mares."
+    },
+    {
+      "num": 10,
+      "he": "יְהוָה אֲדֹנֵינוּ מָה אַדִּיר שִׁמְךָ בְּכָל הָאָרֶץ׃",
+      "he_plain": "יהוה אדוניינו מה אדיר שמך בכל הארץ",
+      "translit": "Adonái Adonéinu, ma adír shimjá bejol haaréts.",
+      "es": "Eterno, Señor nuestro, ¡cuán glorioso es Tu nombre en toda la tierra!"
+    }
+  ],
+  "ocasiones": []
+}

@@ -1,1 +1,71 @@
-{"number": 4, "title_he": "תהילים", "title_es": "Confianza en Dios al atardecer", "verses": [{"num": 1, "he": "לַמְנַצֵּחַ בִּנְגִינוֹת מִזְמוֹר לְדָוִד׃", "he_plain": "למנצח בנגינות מזמור לדוד", "translit": "Lamnatséaj binginót, mizmór leDavíd.", "es": "Al director, con instrumentos de cuerda. Salmo de David."}, {"num": 2, "he": "בְּקָרְאִי עֲנֵנִי אֱלֹהֵי צִדְקִי בַּצָּר הִרְחַבְתָּ לִּי חָנֵּנִי וּשְׁמַע תְּפִלָּתִי׃", "he_plain": "בקראי ענני אלהי צדקי בצר הרחבת לי חנני ושמע תפלתי", "translit": "Bekoraí anéni Elohéi tsidkí; batsár hirjávta li, janéni ushmaá tefilatí.", "es": "Cuando clamo, respóndeme, Dios de mi justicia; en la angustia me diste amplitud. Ten piedad de mí y escucha mi oración."}, {"num": 3, "he": "בְּנֵי אִישׁ עַד־מֶה כְׁוֹדִי לִכְלִמָּה תֶּאֱהָבוּן רִיק תְּבַקְשׁוּ כָזָב סֶלָה׃", "he_plain": "בני איש עד מה כבודי לכלמה תאהבון ריק תבקשו כזב סלה", "translit": "Bené ish, ad-má kevodí lijlimá? teehavún rik, tivakshú kazáv, Selá.", "es": "Hijos de hombres, ¿hasta cuándo mi honra será deshonrada? ¿Amáis la vanidad y buscáis la mentira? Selá."}, {"num": 4, "he": "וּדְעוּ כִּי הִפְלָה יְהוָה חָסִיד לוֹ יְהוָה יִשְׁמַע בְּקָרְאִי אֵלָיו׃", "he_plain": "ודעו כי הפלה יהוה חסיד לו יהוה ישמע בקראי אליו", "translit": "Udeú ki hiflá Adonái jasíd lo; Adonái yishmaá bekoraí eláv.", "es": "Sabed que el Eterno ha distinguido a Su piadoso; el Eterno escucha cuando clamo a Él."}, {"num": 5, "he": "רִגְזוּ וְאַל תֶּחֱטָאוּ אִמְרוּ בִלְבַבְכֶם עַל מִשְׁכַּבְכֶם וְדֹמּוּ סֶלָה׃", "he_plain": "רגזו ואל תחטאו אמרו בלבבכם על משכבכם ודמו סלה", "translit": "Rigz÷ veal tejtetaú; imrú bilvavjém, al mishkavchem vedómu, Selá.", "es": "Temblad y no pequéis; hablad en vuestro corazón sobre vuestro lecho y guardad silencio. Selá."}, {"num": 6, "he": "זִבְחוּ זִבְחֵי צֶדֶק וּבִטְחוּ אֶל יְהוָה׃", "he_plain": "זבחו זבחי צדק ובטחו אל יהוה", "translit": "Zivjú zivjéi tsédek, uvitjú el Adonái.", "es": "Ofreced sacrificios de justicia y confiad en el Eterno."}, {"num": 7, "he": "רַבִּים אֹמְרִים מִי יַרְאֶנּוּ טוֹב נְסָה עָלֵינוּ אוֹר פָּנֶיךָ יְהוָה׃", "he_plain": "רבים אמרים מי יראנו טוב נסה עלינו אור פניך יהוה", "translit": "Rabím omrím: mi yarenu tov? nesá aléinu or panéja, Adonái.", "es": "Muchos dicen: ¿Quién nos mostrará el bien? Haz brillar sobre nosotros la luz de Tu rostro, Eterno."}, {"num": 8, "he": "נָתַתָּה שִׂמְחָה בְלִבִּי מֵעֵת דְּגָנָם וְתִירוֹשָׁם רָבּוּ׃", "he_plain": "נתתה שמחה בלבי מעת דגנם ותירושם רבו", "translit": "Natáta simjá beliví, meet dganám vetirosham rabú.", "es": "Pusiste alegría en mi corazón, mayor que cuando su trigo y su vino abundan."}, {"num": 9, "he": "בְּשָׁלוֹם יַחְדָּו אֶשְׁכְּבָה וְאִישָׁן כִּי אַתָּה יְהוָה לְבָדָד לָבֶטַח תּוֹשִׁיבֵנִי׃", "he_plain": "בשלום יחדו אשכבה ואישן כי אתה יהוה לבדד לבטח תושיבני", "translit": "Beshalóm yajdáv eshkevá veishán, ki atá Adonái levadád lávétaj toshivéni.", "es": "En paz me acostaré y dormiré, porque solo Tú, Eterno, me haces habitar en seguridad."}]}
+{
+  "number": 4,
+  "title_he": "תהילים",
+  "title_es": "Confianza en Dios al atardecer",
+  "verses": [
+    {
+      "num": 1,
+      "he": "לַמְנַצֵּחַ בִּנְגִינוֹת מִזְמוֹר לְדָוִד׃",
+      "he_plain": "למנצח בנגינות מזמור לדוד",
+      "translit": "Lamnatséaj binginót, mizmór leDavíd.",
+      "es": "Al director, con instrumentos de cuerda. Salmo de David."
+    },
+    {
+      "num": 2,
+      "he": "בְּקָרְאִי עֲנֵנִי אֱלֹהֵי צִדְקִי בַּצָּר הִרְחַבְתָּ לִּי חָנֵּנִי וּשְׁמַע תְּפִלָּתִי׃",
+      "he_plain": "בקראי ענני אלהי צדקי בצר הרחבת לי חנני ושמע תפלתי",
+      "translit": "Bekoraí anéni Elohéi tsidkí; batsár hirjávta li, janéni ushmaá tefilatí.",
+      "es": "Cuando clamo, respóndeme, Dios de mi justicia; en la angustia me diste amplitud. Ten piedad de mí y escucha mi oración."
+    },
+    {
+      "num": 3,
+      "he": "בְּנֵי אִישׁ עַד־מֶה כְׁוֹדִי לִכְלִמָּה תֶּאֱהָבוּן רִיק תְּבַקְשׁוּ כָזָב סֶלָה׃",
+      "he_plain": "בני איש עד מה כבודי לכלמה תאהבון ריק תבקשו כזב סלה",
+      "translit": "Bené ish, ad-má kevodí lijlimá? teehavún rik, tivakshú kazáv, Selá.",
+      "es": "Hijos de hombres, ¿hasta cuándo mi honra será deshonrada? ¿Amáis la vanidad y buscáis la mentira? Selá."
+    },
+    {
+      "num": 4,
+      "he": "וּדְעוּ כִּי הִפְלָה יְהוָה חָסִיד לוֹ יְהוָה יִשְׁמַע בְּקָרְאִי אֵלָיו׃",
+      "he_plain": "ודעו כי הפלה יהוה חסיד לו יהוה ישמע בקראי אליו",
+      "translit": "Udeú ki hiflá Adonái jasíd lo; Adonái yishmaá bekoraí eláv.",
+      "es": "Sabed que el Eterno ha distinguido a Su piadoso; el Eterno escucha cuando clamo a Él."
+    },
+    {
+      "num": 5,
+      "he": "רִגְזוּ וְאַל תֶּחֱטָאוּ אִמְרוּ בִלְבַבְכֶם עַל מִשְׁכַּבְכֶם וְדֹמּוּ סֶלָה׃",
+      "he_plain": "רגזו ואל תחטאו אמרו בלבבכם על משכבכם ודמו סלה",
+      "translit": "Rigz÷ veal tejtetaú; imrú bilvavjém, al mishkavchem vedómu, Selá.",
+      "es": "Temblad y no pequéis; hablad en vuestro corazón sobre vuestro lecho y guardad silencio. Selá."
+    },
+    {
+      "num": 6,
+      "he": "זִבְחוּ זִבְחֵי צֶדֶק וּבִטְחוּ אֶל יְהוָה׃",
+      "he_plain": "זבחו זבחי צדק ובטחו אל יהוה",
+      "translit": "Zivjú zivjéi tsédek, uvitjú el Adonái.",
+      "es": "Ofreced sacrificios de justicia y confiad en el Eterno."
+    },
+    {
+      "num": 7,
+      "he": "רַבִּים אֹמְרִים מִי יַרְאֶנּוּ טוֹב נְסָה עָלֵינוּ אוֹר פָּנֶיךָ יְהוָה׃",
+      "he_plain": "רבים אמרים מי יראנו טוב נסה עלינו אור פניך יהוה",
+      "translit": "Rabím omrím: mi yarenu tov? nesá aléinu or panéja, Adonái.",
+      "es": "Muchos dicen: ¿Quién nos mostrará el bien? Haz brillar sobre nosotros la luz de Tu rostro, Eterno."
+    },
+    {
+      "num": 8,
+      "he": "נָתַתָּה שִׂמְחָה בְלִבִּי מֵעֵת דְּגָנָם וְתִירוֹשָׁם רָבּוּ׃",
+      "he_plain": "נתתה שמחה בלבי מעת דגנם ותירושם רבו",
+      "translit": "Natáta simjá beliví, meet dganám vetirosham rabú.",
+      "es": "Pusiste alegría en mi corazón, mayor que cuando su trigo y su vino abundan."
+    },
+    {
+      "num": 9,
+      "he": "בְּשָׁלוֹם יַחְדָּו אֶשְׁכְּבָה וְאִישָׁן כִּי אַתָּה יְהוָה לְבָדָד לָבֶטַח תּוֹשִׁיבֵנִי׃",
+      "he_plain": "בשלום יחדו אשכבה ואישן כי אתה יהוה לבדד לבטח תושיבני",
+      "translit": "Beshalóm yajdáv eshkevá veishán, ki atá Adonái levadád lávétaj toshivéni.",
+      "es": "En paz me acostaré y dormiré, porque solo Tú, Eterno, me haces habitar en seguridad."
+    }
+  ],
+  "ocasiones": []
+}

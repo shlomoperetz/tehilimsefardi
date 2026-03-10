@@ -60,5 +60,9 @@
     }
   ],
   "audio": "",
-  "title_es": "El Eterno es tu guardador"
+  "title_es": "El Eterno es tu guardador",
+  "ocasiones": [
+    "Enfermedad",
+    "Viaje"
+  ]
 }

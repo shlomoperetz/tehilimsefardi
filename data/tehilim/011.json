@@ -1,1 +1,57 @@
-{"number": 11, "title_he": "תהילים", "title_es": "Confianza en el Eterno ante el peligro", "verses": [{"num": 1, "he": "לַמְנַצֵּחַ לְדָוִד בַּיהוָה חָסִיתִי אֵיךְ תֹּאמְרוּ לְנַפְשִׁי נוּדִי הַרְכֶם צִפּוֹר׃", "he_plain": "למנצח לדוד ביהוה חסיתי איך תאמרו לנפשי נודי הרכם ציפור", "translit": "Lamnatséaj leDavíd; baAdonái jasíti; éj toamrú lenafshí nudí harjem tsipór.", "es": "Al director. De David. En el Eterno me refugio; ¿cómo dicen a mi alma: huye a tu monte como pájaro?"}, {"num": 2, "he": "כִּי הִנֵּה הָרְשָׁעִים יִדְרְכוּן קֶשֶׁת כּוֹנְנוּ חִצָּם עַל יֶתֶר לִירוֹת בְּמוֹ אֹפֶל לְיִשְׁרֵי לֵב׃", "he_plain": "כי הנה הרשעים ידרכון קשת כוננו חצם על יתר לירות במו אפל לישרי לב", "translit": "Ki hiné hareshaím yidrejún késhet; konenu jitsám al yéter lirot bemó ófel leyishréi lev.", "es": "Porque he aquí los impíos tensan el arco, preparan su flecha sobre la cuerda para disparar en la oscuridad a los rectos de corazón."}, {"num": 3, "he": "כִּי הַשָּׁתוֹת יֶהֱרָסוּן צַדִּיק מַה פָּעָל׃", "he_plain": "כי השתות יהרסון צדיק מה פעל", "translit": "Ki hashtatót yeherasún; tsadík ma paál.", "es": "Si los fundamentos son destruidos, ¿qué puede hacer el justo?"}, {"num": 4, "he": "יְהוָה בְּהֵיכַל קָדְשׁוֹ יְהוָה בַּשָּׁמַיִם כִּסְאוֹ עֵינָיו יֶחֱזוּ עַפְעַפָּיו יִבְחֲנוּ בְּנֵי אָדָם׃", "he_plain": "יהוה בהיכל קדשו יהוה בשמים כסאו עיניו יחזו עפעפיו יבחנו בני אדם", "translit": "Adonái beheijál kodshó; Adonái bashamáyim kisó; einév yejezú, afapáv yivjanú bené Adám.", "es": "El Eterno está en Su santo templo; el Eterno tiene Su trono en los cielos; Sus ojos contemplan, Sus párpados examinan a los hijos del hombre."}, {"num": 5, "he": "יְהוָה צַדִּיק יִבְחָן וְרָשָׁע וְאֹהֵב חָמָס שָׂנְאָה נַפְשׁוֹ׃", "he_plain": "יהוה צדיק יבחן ורשע ואהב חמס שנאה נפשו", "translit": "Adonái tsadík yivján; verasháa veoév jamás saneá nafsho.", "es": "El Eterno examina al justo; pero al impío y al que ama la violencia Su alma los aborrece."}, {"num": 6, "he": "יַמְטֵר עַל רְשָׁעִים פַּחִים אֵשׁ וְגָפְרִית וְרוּחַ זִלְעָפוֹת מְנָת כּוֹסָם׃", "he_plain": "ימטר על רשעים פחים אש וגפרית ורוח זלעפות מנת כוסם", "translit": "Yamtér al reshaím pajím; esh vegafrít veruaj zileafót menat kosám.", "es": "Lloverá sobre los impíos carbones encendidos; fuego, azufre y viento abrasador será la porción de su copa."}, {"num": 7, "he": "כִּי צַדִּיק יְהוָה צְדָקוֹת אָהֵב יָשָׁר יֶחֱזוּ פָנֵימוֹ׃", "he_plain": "כי צדיק יהוה צדקות אהב ישר יחזו פנימו", "translit": "Ki tsadík Adonái tsedakót ahév; yashar yejezú fanémo.", "es": "Porque el Eterno es justo; Él ama la justicia; los rectos contemplarán Su rostro."}]}
+{
+  "number": 11,
+  "title_he": "תהילים",
+  "title_es": "Confianza en el Eterno ante el peligro",
+  "verses": [
+    {
+      "num": 1,
+      "he": "לַמְנַצֵּחַ לְדָוִד בַּיהוָה חָסִיתִי אֵיךְ תֹּאמְרוּ לְנַפְשִׁי נוּדִי הַרְכֶם צִפּוֹר׃",
+      "he_plain": "למנצח לדוד ביהוה חסיתי איך תאמרו לנפשי נודי הרכם ציפור",
+      "translit": "Lamnatséaj leDavíd; baAdonái jasíti; éj toamrú lenafshí nudí harjem tsipór.",
+      "es": "Al director. De David. En el Eterno me refugio; ¿cómo dicen a mi alma: huye a tu monte como pájaro?"
+    },
+    {
+      "num": 2,
+      "he": "כִּי הִנֵּה הָרְשָׁעִים יִדְרְכוּן קֶשֶׁת כּוֹנְנוּ חִצָּם עַל יֶתֶר לִירוֹת בְּמוֹ אֹפֶל לְיִשְׁרֵי לֵב׃",
+      "he_plain": "כי הנה הרשעים ידרכון קשת כוננו חצם על יתר לירות במו אפל לישרי לב",
+      "translit": "Ki hiné hareshaím yidrejún késhet; konenu jitsám al yéter lirot bemó ófel leyishréi lev.",
+      "es": "Porque he aquí los impíos tensan el arco, preparan su flecha sobre la cuerda para disparar en la oscuridad a los rectos de corazón."
+    },
+    {
+      "num": 3,
+      "he": "כִּי הַשָּׁתוֹת יֶהֱרָסוּן צַדִּיק מַה פָּעָל׃",
+      "he_plain": "כי השתות יהרסון צדיק מה פעל",
+      "translit": "Ki hashtatót yeherasún; tsadík ma paál.",
+      "es": "Si los fundamentos son destruidos, ¿qué puede hacer el justo?"
+    },
+    {
+      "num": 4,
+      "he": "יְהוָה בְּהֵיכַל קָדְשׁוֹ יְהוָה בַּשָּׁמַיִם כִּסְאוֹ עֵינָיו יֶחֱזוּ עַפְעַפָּיו יִבְחֲנוּ בְּנֵי אָדָם׃",
+      "he_plain": "יהוה בהיכל קדשו יהוה בשמים כסאו עיניו יחזו עפעפיו יבחנו בני אדם",
+      "translit": "Adonái beheijál kodshó; Adonái bashamáyim kisó; einév yejezú, afapáv yivjanú bené Adám.",
+      "es": "El Eterno está en Su santo templo; el Eterno tiene Su trono en los cielos; Sus ojos contemplan, Sus párpados examinan a los hijos del hombre."
+    },
+    {
+      "num": 5,
+      "he": "יְהוָה צַדִּיק יִבְחָן וְרָשָׁע וְאֹהֵב חָמָס שָׂנְאָה נַפְשׁוֹ׃",
+      "he_plain": "יהוה צדיק יבחן ורשע ואהב חמס שנאה נפשו",
+      "translit": "Adonái tsadík yivján; verasháa veoév jamás saneá nafsho.",
+      "es": "El Eterno examina al justo; pero al impío y al que ama la violencia Su alma los aborrece."
+    },
+    {
+      "num": 6,
+      "he": "יַמְטֵר עַל רְשָׁעִים פַּחִים אֵשׁ וְגָפְרִית וְרוּחַ זִלְעָפוֹת מְנָת כּוֹסָם׃",
+      "he_plain": "ימטר על רשעים פחים אש וגפרית ורוח זלעפות מנת כוסם",
+      "translit": "Yamtér al reshaím pajím; esh vegafrít veruaj zileafót menat kosám.",
+      "es": "Lloverá sobre los impíos carbones encendidos; fuego, azufre y viento abrasador será la porción de su copa."
+    },
+    {
+      "num": 7,
+      "he": "כִּי צַדִּיק יְהוָה צְדָקוֹת אָהֵב יָשָׁר יֶחֱזוּ פָנֵימוֹ׃",
+      "he_plain": "כי צדיק יהוה צדקות אהב ישר יחזו פנימו",
+      "translit": "Ki tsadík Adonái tsedakót ahév; yashar yejezú fanémo.",
+      "es": "Porque el Eterno es justo; Él ama la justicia; los rectos contemplarán Su rostro."
+    }
+  ],
+  "ocasiones": []
+}

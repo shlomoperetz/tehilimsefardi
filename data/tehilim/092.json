@@ -116,5 +116,9 @@
     }
   ],
   "audio": "",
-  "title_es": "Cántico para el día de Shabat"
+  "title_es": "Cántico para el día de Shabat",
+  "ocasiones": [
+    "Shir shel Yom (Shabat)",
+    "Kabalat Shabat"
+  ]
 }
