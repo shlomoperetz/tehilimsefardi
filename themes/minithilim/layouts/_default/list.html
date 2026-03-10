@@ -8,7 +8,8 @@
       <span class="tehilim-num">{{ .Params.number }}</span>
       <span class="tehilim-name"
         data-title-he="{{ .Title }}"
-        data-title-es="{{ if $data }}{{ $data.title_es }}{{ else }}Salmo {{ .Params.number }}{{ end }}">
+        data-title-es="{{ if $data }}{{ $data.title_es }}{{ else }}Salmo {{ .Params.number }}{{ end }}"
+        data-title-en="{{ if $data }}{{ $data.title_es }}{{ else }}Psalm {{ .Params.number }}{{ end }}">
         {{ if $data }}{{ $data.title_es }}{{ else }}{{ .Title }}{{ end }}
       </span>
     </a>

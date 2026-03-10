@@ -131,7 +131,7 @@ function applyLang() {
   // Brand: fuente hebrea en modo hebreo
   // Actualizar label del botón de idioma
   const lb = document.getElementById('langBtn');
-  if (lb) lb.textContent = currentLang === 'he' ? 'עב' : currentLang.toUpperCase();
+  if (lb) lb.textContent = currentLang === 'he' ? 'עב' : currentLang === 'en' ? 'EN' : 'ES';
   // Bottombar
   set('nav-home',   'nav_home');
   set('nav-psalms', 'nav_list');
@@ -141,6 +141,15 @@ function applyLang() {
 
 
 
+  // Títulos en lista de salmos según idioma
+  document.querySelectorAll('.tehilim-name').forEach(el => {
+    const titleEs = el.getAttribute('data-title-es');
+    const titleHe = el.getAttribute('data-title-he');
+    const titleEn = el.getAttribute('data-title-en');
+    if (currentLang === 'he' && titleHe) el.textContent = titleHe;
+    else if (currentLang === 'en' && titleEn) el.textContent = titleEn;
+    else if (titleEs) el.textContent = titleEs;
+  });
   // Botones de vista (A, K, tr, ES/EN)
   const btnEs = document.getElementById('btnEs');
   if (btnEs) btnEs.textContent = currentLang === 'en' ? 'EN' : currentLang === 'he' ? 'ES' : 'ES';
