@@ -28,7 +28,7 @@
     <a href="{{ $url }}" class="landing-tile landing-tile-day">
       <span class="tile-icon">תְּהִלִּים</span>
       <span class="tile-label" id="tile-daily">Salmo del día</span>
-      <span class="tile-sub" id="tile-daily-sub" data-num="{{ $num }}" data-title-es="{{ if $data }}{{ $data.title_es }}{{ end }}" data-title-en="{{ if $data }}{{ $data.title_es }}{{ end }}" data-verse-en="{{ if $data }}{{ with index $data.verses 0 }}{{ .en }}{{ end }}{{ end }}" data-verse-es="{{ if $data }}{{ with index $data.verses 0 }}{{ .es }}{{ end }}{{ end }}" data-title-he="{{ if $data }}{{ $data.title_he }}{{ end }}">Salmo {{ $num }}{{ if $data }}{{ if $data.title_es }} · {{ $data.title_es }}{{ end }}{{ end }}</span>
+      <span class="tile-sub" id="tile-daily-sub" data-num="{{ $num }}" data-title-es="{{ if $data }}{{ $data.title_es }}{{ end }}" data-title-en="{{ if $data }}{{ $data.title_en }}{{ end }}" data-verse-en="{{ if $data }}{{ with index $data.verses 0 }}{{ .en }}{{ end }}{{ end }}" data-verse-es="{{ if $data }}{{ with index $data.verses 0 }}{{ .es }}{{ end }}{{ end }}" data-title-he="{{ if $data }}{{ $data.title_he }}{{ end }}">Salmo {{ $num }}{{ if $data }}{{ if $data.title_es }} · {{ $data.title_es }}{{ end }}{{ end }}</span>
     </a>
 
     <a href="/categories/" class="landing-tile">
