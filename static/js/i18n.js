@@ -139,11 +139,11 @@ function applyLang() {
   const bt = document.getElementById('brand-title');
   if (bt) bt.style.fontFamily = isHe ? '"Noto Serif Hebrew", serif' : '';
 
-  // Bottombar
-  set('nav-home',   'home');
-  set('nav-psalms', 'psalms');
-  set('nav-topics', 'topics');
 
+
+  // Botones de vista (A, K, tr, ES/EN)
+  const btnEs = document.getElementById('btnEs');
+  if (btnEs) btnEs.textContent = currentLang === 'en' ? 'EN' : currentLang === 'he' ? 'ES' : 'ES';
   // Navegación single psalm
   document.querySelectorAll('.nav-list').forEach(el => el.textContent = t('nav_list'));
   document.querySelectorAll('.nav-prev').forEach(el => {
