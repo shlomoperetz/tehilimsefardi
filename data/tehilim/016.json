@@ -25,10 +25,10 @@
       "num": 3,
       "he": "לִקְדוֹשִׁים אֲשֶׁר בָּאָרֶץ הֵמָּה וְאַדִּירֵי כָּל חֶפְצִי בָם׃",
       "he_plain": "לקדושים אשר בארץ המה ואדירי כל חפצי בם",
-      "translit": "Likedoshím asher baárets héma; veadirél kol jeftsí vám.",
+      "translit": "Likedoshím asher baárets héma; veadiréi kol jeftsí vám.",
       "es": "A los santos que están en la tierra, los majestuosos, en ellos está todo mi deleite.",
       "en": "As to the holy and mighty ones that are in the land, my whole desire concerning them is that",
-      "translit_en": "Likedoshim asher baarets hema; veadirel kol cheftsi vam."
+      "translit_en": "Likedoshim asher baarets hema; veadirei kol cheftsi vam."
     },
     {
       "num": 4,
@@ -52,10 +52,10 @@
       "num": 6,
       "he": "חֲבָלִים נָפְלוּ לִי בַּנְּעִמִים אַף נַחֲלָת שָׁפְרָה עָלָי׃",
       "he_plain": "חבלים נפלו לי בנעימים אף נחלת שפרה עלי",
-      "translit": "Jevalím naflu lí baneimím; af najalát shafá aláy.",
+      "translit": "Jevalím naflu lí baneimím; af najalát shafrá aláy.",
       "es": "Las cuerdas me cayeron en lugares deleitosos; sí, tengo una hermosa heredad.",
       "en": "Delightful country has fallen to my lot; lovely indeed is my estate.",
-      "translit_en": "Chevalim naflu li baneimim; af nachalat shafa alay."
+      "translit_en": "Chevalim naflu li baneimim; af nachalat shafra alay."
     },
     {
       "num": 7,
@@ -70,16 +70,16 @@
       "num": 8,
       "he": "שִׁוִּיתִי יְהוָה לְנֶגְדִּי תָמִיד כִּי מִימִינִי בַּל אֶמּוֹט׃",
       "he_plain": "שויתי יהוה לנגדי תמיד כי מימיני בל אמוט",
-      "translit": "Shivíti Adonái lenegdí tamíd; ki mimíni bal Emot.",
+      "translit": "Shivíti Adonái lenegdí tamíd; ki mimíni bal emót.",
       "es": "He puesto al Eterno siempre ante mí; por cuanto está a mi diestra, no seré conmovido.",
       "en": "I am ever mindful of G OD ’s presence— who is at my right hand; I shall never be shaken.",
-      "translit_en": "Shiviti Adonai lenegdi tamid; ki mimini bal Emot."
+      "translit_en": "Shiviti Adonai lenegdi tamid; ki mimini bal emot."
     },
     {
       "num": 9,
       "he": "לָכֵן שָׂמַח לִבִּי וַיָּגֶל כְּבוֹדִי אַף בְּשָׂרִי יִשְׁכֹּן לָבֶטַח׃",
       "he_plain": "לכן שמח לבי ויגל כבודי אף בשרי ישכן לבטח",
-      "translit": "Lajen samáj libí vayagél kevodí; af besarí yishkon lávétaj.",
+      "translit": "Lajen samáj libí vayagél kevodí; af besarí yishkon lavetáj.",
       "es": "Por tanto mi corazón se alegró y se regocijó mi alma; también mi carne reposará segura.",
       "en": "So my heart rejoices, my whole being exults, and my body rests secure.",
       "translit_en": "Lachen samach libi vayagel kevodi; af besari yishkon lavetach."
@@ -88,19 +88,19 @@
       "num": 10,
       "he": "כִּי לֹא תַעֲזֹב נַפְשִׁי לִשְׁאוֹל לֹא תִתֵּן חֲסִידְךָ לִרְאוֹת שָׁחַת׃",
       "he_plain": "כי לא תעזב נפשי לשאול לא תתן חסידך לראות שחת",
-      "translit": "Ki lo taazóv nafshí lishol; lo titin jasideja lirot sháqat.",
+      "translit": "Ki lo taazóv nafshí lishol; lo titén jasideja lirot shaját.",
       "es": "Porque no abandonarás mi alma al seol, ni permitirás que Tu piadoso vea la corrupción.",
       "en": "For You will not abandon me to Sheol, or let Your faithful one see the Pit.",
-      "translit_en": "Ki lo taazov nafshi lishol; lo titin chasidecha lirot shaqat."
+      "translit_en": "Ki lo taazov nafshi lishol; lo titen chasidecha lirot shachat."
     },
     {
       "num": 11,
       "he": "תּוֹדִיעֵנִי אֹרַח חַיִּים שֹׂבַע שָׂמָחוֹת אֶת פָּנֶיךָ נְעִמוֹת בִּימִינְךָ נֶצַח׃",
       "he_plain": "תודיעני ארח חיים שבע שמחות את פניך נעימות בימינך נצח",
-      "translit": "Todiéni óraj jayím; sóva semaját et panéja; neimót biminjá nétsaj.",
+      "translit": "Todiéni óraj jayím; sóva semajót et panéja; neimót biminjá nétsaj.",
       "es": "Me mostrarás la senda de la vida; en Tu presencia hay plenitud de alegría; delicias hay a Tu diestra para siempre.",
       "en": "You will teach me the path of life. In Your presence is perfect joy; delights are ever in Your right hand.",
-      "translit_en": "Todieni orach chayim; sova semachat et panecha; neimot bimincha netsach."
+      "translit_en": "Todieni orach chayim; sova semachot et panecha; neimot bimincha netsach."
     }
   ],
   "ocasiones": [
