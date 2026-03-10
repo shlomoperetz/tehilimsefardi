@@ -19,6 +19,9 @@
       {{ if .es }}
       <div class="verse-es" style="display:none"><sup class="verse-num-es">{{ .num }}</sup>{{ .es }}</div>
       {{ end }}
+      {{ if .en }}
+      <div class="verse-en" style="display:none"><sup class="verse-num-es">{{ .num }}</sup>{{ .en }}</div>
+      {{ end }}
     </div>
     {{ end }}
   </div>

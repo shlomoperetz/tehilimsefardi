@@ -169,6 +169,8 @@ function applyLang() {
 
   // Dirección del documento
   document.documentElement.lang = currentLang;
+  window.__uiLang = currentLang;
+  if (typeof applyView === 'function') applyView();
   document.documentElement.dir  = currentLang === 'he' ? 'rtl' : 'ltr';
   // Grilla de salmos: flujo RTL en hebreo
   document.querySelectorAll('.tehilim-grid').forEach(el => {
