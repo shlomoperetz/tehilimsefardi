@@ -9,19 +9,16 @@
   {{- end -}}
 {{- end -}}
 <div class="card categories-page">
-  <h1 class="categories-title">Salmos por ocasión</h1>
-  <p class="categories-desc">Clasificación según el Siddur Sefardí y la tradición halájica</p>
   {{- range $oc := $order -}}
     {{- $psalms := index $groups $oc -}}
     {{- if $psalms }}
   <section class="category-group">
     <h2 class="category-name">{{ $oc }}</h2>
-    <div class="category-psalms">
+    <div class="tehilim-grid">
       {{- range sort $psalms "number" -}}
       {{- $key := printf "%03d" .number -}}
-      <a href="/tehilim/{{ $key }}/" class="category-psalm-item">
-        <span class="cat-num">{{ .number }}</span>
-        <span class="cat-title">{{ .title_es | default .title_he }}</span>
+      <a href="/tehilim/{{ $key }}/" class="tehilim-item">
+        <span class="tehilim-num">{{ .number }}</span>
       </a>
       {{- end }}
     </div>
