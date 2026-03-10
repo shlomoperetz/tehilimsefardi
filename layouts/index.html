@@ -53,7 +53,13 @@
 
   <!-- SALMO DEL DÍA: verso preview -->
   {{ if $data }}
-  {{ with index $data.verses 0 }}
+  {{- $contentVerse := dict -}}
+  {{- range $data.verses -}}
+    {{- if and (not $contentVerse.he) (gt (len .es) 50) -}}
+      {{- $contentVerse = . -}}
+    {{- end -}}
+  {{- end -}}
+  {{ with $contentVerse }}
   {{ if .he }}
   <a href="{{ $url }}" class="landing-verse-preview">
     <div class="landing-verse-divider">

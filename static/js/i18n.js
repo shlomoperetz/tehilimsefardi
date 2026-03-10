@@ -59,6 +59,7 @@ const STRINGS = {
     psalms: "Salmos",
     topics: "Temas",
     search_placeholder: "Buscar salmo por número o tema...",
+    nav_home: "Inicio",
     nav_list: "Todos los salmos",
     prev: "Salmo", next: "Salmo",
     landing_title: "Tehilim Sefardí",
