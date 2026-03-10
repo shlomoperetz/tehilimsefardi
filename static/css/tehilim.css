@@ -108,7 +108,7 @@ h1.title {
   margin-top: 0.3em;
   line-height: 1.5;
 }
-.verse-es {
+.verse-es, .verse-en {
   font-family: var(--ui-font);
   font-size: 0.82em;
   direction: ltr;
@@ -415,6 +415,7 @@ nav.bottombar .bbtn.active {
 /* === SIGNOS ESPAÑOLES LTR === */
 .tehilim-name,
 .verse-es,
+.verse-en,
 .verse-translit,
 .tehilim-nav a,
 .bbtn {
