@@ -1107,7 +1107,7 @@ body.is-landing .text-controls {
 .cantil-off { display: none !important; }
 
 .verse-he { text-align: right; }
-.verse-translit, .verse-es { text-align: left !important; }
+.verse-translit, .verse-es, .verse-en { text-align: left !important; direction: ltr !important; }
 
 /* === Título salmo === */
 .psalm-header {
