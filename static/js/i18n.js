@@ -176,8 +176,7 @@ function applyLang() {
   if (bEs)       bEs.title       = t('title_es');
 
   // Botón de idioma
-  const langBtn = document.getElementById('langBtn');
-  if (langBtn) langBtn.textContent = currentLang === 'es' ? 'עב' : 'ES';
+
 
   // Título landing: fuente y tamaño según idioma
   const title = document.getElementById('landing-title');
