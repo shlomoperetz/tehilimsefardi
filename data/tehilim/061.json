@@ -9,7 +9,8 @@
       "he_plain": "למנצח על נגינה לדוד",
       "translit": "Lamnatséaj al neguiná leDavíd.",
       "es": "Al director; con instrumento de cuerda. De David.",
-      "en": "For the leader; with instrumental music. Of David."
+      "en": "For the leader; with instrumental music. Of David.",
+      "translit_en": "Lamnatséach al neguiná leDavíd."
     },
     {
       "num": 2,
@@ -17,7 +18,8 @@
       "he_plain": "שמעה אלהים רנתי הקשיבה תפלתי",
       "translit": "Shimá Elohím rinatí; hakshíva tefilatí.",
       "es": "Oye, oh Dios, mi clamor; atiende a mi oración.",
-      "en": "Hear my cry, O God, heed my prayer."
+      "en": "Hear my cry, O God, heed my prayer.",
+      "translit_en": "Shimá Elohím rinatí; hakshíva tefilatí."
     },
     {
       "num": 3,
@@ -25,7 +27,8 @@
       "he_plain": "מקצה הארץ אליך אקרא בעטוף לבי בצור ירום ממני תנחני",
       "translit": "Miktsé haárets eléija ekrá; baatóf libí; betsúr yarúm miméni tanjéni.",
       "es": "Desde los confines de la tierra a Ti clamaré cuando mi corazón desmaye; llévame a la roca que es más alta que yo.",
-      "en": "From the end of the earth I call to You; when my heart is faint, You lead me to a rock that is high above me."
+      "en": "From the end of the earth I call to You; when my heart is faint, You lead me to a rock that is high above me.",
+      "translit_en": "Miktsé haárets eléicha ekrá; baatóf libí; betsúr yarúm miméni tanchéni."
     },
     {
       "num": 4,
@@ -33,7 +36,8 @@
       "he_plain": "כי היית מחסה לי מגדל עוז מפני אויב",
       "translit": "Ki hayíta majSéh lí; migdál oz mifnéi oyév.",
       "es": "Porque Tú has sido mi refugio y torre fuerte delante del enemigo.",
-      "en": "For You have been my refuge, a tower of strength against the enemy."
+      "en": "For You have been my refuge, a tower of strength against the enemy.",
+      "translit_en": "Ki hayíta machSéh lí; migdál oz mifnéi oyév."
     },
     {
       "num": 5,
@@ -41,7 +45,8 @@
       "he_plain": "אגורה באהלך עולמים אחסה בסתר כנפיך סלה",
       "translit": "Agurá veaHálejá olamím; ejesé veséter kenaféija. Selá.",
       "es": "Moraré en Tu tabernáculo para siempre; me refugiaré en el amparo de Tus alas. Selá.",
-      "en": "O that I might dwell in Your tent forever, take refuge under Your protecting wings. Selah."
+      "en": "O that I might dwell in Your tent forever, take refuge under Your protecting wings. Selah.",
+      "translit_en": "Agurá veaHálechá olamím; echesé veséter kenaféicha. Selá."
     },
     {
       "num": 6,
@@ -49,7 +54,8 @@
       "he_plain": "כי אתה אלהים שמעת לנדרי נתת ירושת יראי שמך",
       "translit": "Ki atá Elohím shamáata lindaráy; natáta yerúshat yirEéi sheméja.",
       "es": "Porque Tú, oh Dios, has oído mis votos; has dado la heredad de los que temen Tu nombre.",
-      "en": "O God, You have heard my vows; grant the request a request Taking the noun yrsht as an alternate form of ʼrsht ; cf. Ps. 21.3 . of those who fear Your name."
+      "en": "O God, You have heard my vows; grant the request a request Taking the noun yrsht as an alternate form of ʼrsht ; cf. Ps. 21.3 . of those who fear Your name.",
+      "translit_en": "Ki atá Elohím shamáata lindaráy; natáta yerúshat yirEéi shemécha."
     },
     {
       "num": 7,
@@ -57,7 +63,8 @@
       "he_plain": "ימים על ימי מלך תוסיף שנותיו כמו דור ודור",
       "translit": "Yamím al yeméi méleg tosíf; shnótav kemó dór vadór.",
       "es": "Días sobre días añadirás al rey; sus años serán como generación tras generación.",
-      "en": "Add days to the days of the king; may his years extend through generations;"
+      "en": "Add days to the days of the king; may his years extend through generations;",
+      "translit_en": "Yamím al yeméi méleg tosíf; shnótav kemó dór vadór."
     },
     {
       "num": 8,
@@ -65,7 +72,8 @@
       "he_plain": "ישב עולם לפני אלהים חסד ואמת מן ינצרוהו",
       "translit": "Yeshév olám lifnéi Elohím; jésed veemét man yintserúhu.",
       "es": "Morará para siempre delante de Dios; prepara bondad leal y verdad para que lo guarden.",
-      "en": "may he dwell in God’s presence forever; appoint b appoint Meaning of Heb. uncertain. steadfast love to guard him."
+      "en": "may he dwell in God’s presence forever; appoint b appoint Meaning of Heb. uncertain. steadfast love to guard him.",
+      "translit_en": "Yeshév olám lifnéi Elohím; chésed veemét man yintserúhu."
     },
     {
       "num": 9,
@@ -73,7 +81,8 @@
       "he_plain": "כן אזמרה שמך לעד לשלמי נדרי יום יום",
       "translit": "Kén azaméra shimejá laád; leshalemí nedaráy yóm yóm.",
       "es": "Así cantaré Tu nombre para siempre cumpliendo mis votos cada día.",
-      "en": "So I will sing hymns to Your name forever, as I fulfill my vows day after day."
+      "en": "So I will sing hymns to Your name forever, as I fulfill my vows day after day.",
+      "translit_en": "Kén azaméra shimechá laád; leshalemí nedaráy yóm yóm."
     }
   ],
   "ocasiones": [],

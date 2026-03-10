@@ -8,7 +8,8 @@
       "he_plain": "למנצח לדוד מזמור אלהי תהלתי אל תחרש",
       "translit": "LamenatsEaj leDavíd mizmór. Elohéi tehilatí al teejarsh.",
       "es": "Al director, de David, salmo. Oh Dios de mi alabanza no guardes silencio.",
-      "en": "For the leader. Of David. A psalm. O God of my praise, do not keep aloof,"
+      "en": "For the leader. Of David. A psalm. O God of my praise, do not keep aloof,",
+      "translit_en": "LamenatsEach leDavíd mizmór. Elohéi tehilatí al teecharsh."
     },
     {
       "num": 2,
@@ -16,7 +17,8 @@
       "he_plain": "כי פי רשע ופי מרמה עלי פתחו דברו אתי לשון שקר",
       "translit": "Ki fí rásha ufí mirmá aléi patájú; dibrú ití leshón akér.",
       "es": "Porque la boca del impío y la boca del engañoso se han abierto contra mí; me han hablado con lengua mentirosa.",
-      "en": "for the wicked and the deceitful open their mouth against me; they speak to me with lying tongue."
+      "en": "for the wicked and the deceitful open their mouth against me; they speak to me with lying tongue.",
+      "translit_en": "Ki fí rásha ufí mirmá aléi patáchú; dibrú ití leshón akér."
     },
     {
       "num": 3,
@@ -24,7 +26,8 @@
       "he_plain": "ודברי שנאה סבבוני וילחמוני חנם",
       "translit": "Vedivréi siná sevavúni; vayilajamúni jinám.",
       "es": "Con palabras de odio me han rodeado y han peleado contra mí sin causa.",
-      "en": "They encircle me with words of hate; they attack me without cause."
+      "en": "They encircle me with words of hate; they attack me without cause.",
+      "translit_en": "Vedivréi siná sevavúni; vayilachamúni chinám."
     },
     {
       "num": 4,
@@ -32,7 +35,8 @@
       "he_plain": "תחת אהבתי ישטנוני ואני תפלה",
       "translit": "Tajat ahaváti yistenuní; vaaNí tefilá.",
       "es": "En pago de mi amor me acusan; pero yo estoy en oración.",
-      "en": "They answer my love with accusation and I must stand judgment a and I must stand judgment Or “but I am all prayer”; meaning of Heb. uncertain, but see v. 7 ."
+      "en": "They answer my love with accusation and I must stand judgment a and I must stand judgment Or “but I am all prayer”; meaning of Heb. uncertain, but see v. 7 .",
+      "translit_en": "Tachat ahaváti yistenuní; vaaNí tefilá."
     },
     {
       "num": 5,
@@ -40,7 +44,8 @@
       "he_plain": "וישימו עלי רעה תחת טובה ושנאה תחת אהבתי",
       "translit": "Vayashimú aláy rá taját tová; vesinA taját ahaváti.",
       "es": "Me han puesto mal por bien y odio en lugar de mi amor.",
-      "en": "They repay me with evil for good, with hatred for my love."
+      "en": "They repay me with evil for good, with hatred for my love.",
+      "translit_en": "Vayashimú aláy rá tachát tová; vesinA tachát ahaváti."
     },
     {
       "num": 6,
@@ -48,7 +53,8 @@
       "he_plain": "הפקד עליו רשע ושטן יעמד על ימינו",
       "translit": "Hafkéd aláv rashá; vesatán yaamód al yeminó.",
       "es": "Pon sobre él al impío y que el acusador esté a su diestra.",
-      "en": "Appoint someone wicked over him; may an accuser stand at his right side;"
+      "en": "Appoint someone wicked over him; may an accuser stand at his right side;",
+      "translit_en": "Hafkéd aláv rashá; vesatán yaamód al yeminó."
     },
     {
       "num": 7,
@@ -56,7 +62,8 @@
       "he_plain": "בהשפטו יצא רשע ותפלתו תהיה לחטאה",
       "translit": "Behishafetó yetsé rashá; utefilató tihjéh lejatá.",
       "es": "Cuando sea juzgado que salga culpable y su oración sea para pecado.",
-      "en": "may he be tried and convicted; may he be judged and found guilty."
+      "en": "may he be tried and convicted; may he be judged and found guilty.",
+      "translit_en": "Behishafetó yetsé rashá; utefilató tihchéh lechatá."
     },
     {
       "num": 8,
@@ -64,7 +71,8 @@
       "he_plain": "יהיו ימיו מעטים פקדתו יקח אחר",
       "translit": "Yihyú yamáv meaatím; pekudató yikáj ajér.",
       "es": "Sean pocos sus días y tome otro su oficio.",
-      "en": "May his days be few; may another take over his position. b his position Meaning of Heb. uncertain."
+      "en": "May his days be few; may another take over his position. b his position Meaning of Heb. uncertain.",
+      "translit_en": "Yihyú yamáv meaatím; pekudató yikách achér."
     },
     {
       "num": 9,
@@ -72,7 +80,8 @@
       "he_plain": "יהיו בניו יתומים ואשתו אלמנה",
       "translit": "Yihyú vanáv yetomím; veishTo almaNá.",
       "es": "Sean sus hijos huérfanos y su mujer viuda.",
-      "en": "May his children be orphans, his wife a widow."
+      "en": "May his children be orphans, his wife a widow.",
+      "translit_en": "Yihyú vanáv yetomím; veishTo almaNá."
     },
     {
       "num": 10,
@@ -80,7 +89,8 @@
       "he_plain": "ונוע ינועו בניו ושאלו ודרשו מחרבותיהם",
       "translit": "Venóa yanúu vanáv uvikEshú; vedorshú mijarBotéihem.",
       "es": "Y vaguen y mendiguen sus hijos y busquen sustento lejos de sus ruinas.",
-      "en": "May his children wander from their hovels, begging in search of [bread]."
+      "en": "May his children wander from their hovels, begging in search of [bread].",
+      "translit_en": "Venóa yanúu vanáv uvikEshú; vedorshú micharBotéihem."
     },
     {
       "num": 11,
@@ -88,7 +98,8 @@
       "he_plain": "ינקש נושה לכל אשר לו ויבזו זרים יגיעו",
       "translit": "Yenakésh nosé lejol ashér ló; veyavózu zaréim yegiéo.",
       "es": "Que el acreedor se apodere de todo lo que tiene y extraños saqueen su trabajo.",
-      "en": "May his creditor seize all his possessions; may strangers plunder his wealth."
+      "en": "May his creditor seize all his possessions; may strangers plunder his wealth.",
+      "translit_en": "Yenakésh nosé lechol ashér ló; veyavózu zaréim yegiéo."
     },
     {
       "num": 12,
@@ -96,7 +107,8 @@
       "he_plain": "אל יהי לו משך חסד ואל יהי חונן ליתומיו",
       "translit": "Al yehí ló moshéj jésen; veal yehí jonén liyetomáv.",
       "es": "No haya quien le extienda misericordia ni quien tenga compasión de sus huérfanos.",
-      "en": "May no one show him mercy; may none pity his orphans;"
+      "en": "May no one show him mercy; may none pity his orphans;",
+      "translit_en": "Al yehí ló moshéch chésen; veal yehí chonén liyetomáv."
     },
     {
       "num": 13,
@@ -104,7 +116,8 @@
       "he_plain": "יהי אחריתו להכרית בדור אחר ימח שמם",
       "translit": "Yehí ajaritó lehajrít; bedór ajér yimáj shemám.",
       "es": "Sea su posteridad destruida; en la siguiente generación sea borrado su nombre.",
-      "en": "may his posterity be cut off; may their names be blotted out in the next generation."
+      "en": "may his posterity be cut off; may their names be blotted out in the next generation.",
+      "translit_en": "Yehí acharitó lehachrít; bedór achér yimách shemám."
     },
     {
       "num": 14,
@@ -112,7 +125,8 @@
       "he_plain": "יזכר עון אבתיו אל יהוה וחטאת אמו אל תמח",
       "translit": "Yizajér avón avotáv el Adonái; vejatat imó al timáj.",
       "es": "Sea recordada la iniquidad de sus padres ante el Eterno y el pecado de su madre no sea borrado.",
-      "en": "May God be ever mindful of his father’s iniquity, and may the sin of his mother not be blotted out."
+      "en": "May God be ever mindful of his father’s iniquity, and may the sin of his mother not be blotted out.",
+      "translit_en": "Yizachér avón avotáv el Adonái; vechatat imó al timách."
     },
     {
       "num": 15,
@@ -120,7 +134,8 @@
       "he_plain": "יהיו נגד יהוה תמיד ויכרת מארץ זכרם",
       "translit": "Yihyú negéd Adonái tamíd; veyajrét meérets zijrám.",
       "es": "Estén siempre delante del Eterno y Él corte de la tierra su memoria.",
-      "en": "May G OD be aware of them always and cause their names to be cut off from the earth,"
+      "en": "May G OD be aware of them always and cause their names to be cut off from the earth,",
+      "translit_en": "Yihyú negéd Adonái tamíd; veyachrét meérets zichrám."
     },
     {
       "num": 16,
@@ -128,7 +143,8 @@
       "he_plain": "יען אשר לא זכר עשות חסד וירדף איש עני ואביון ונכאה לבב למותת",
       "translit": "Yáan ashér lo zajár asót jésed; vayirdóf ísh aní veevyón; unejéh levav lemanét.",
       "es": "Por cuanto no se acordó de hacer misericordia sino que persiguió al hombre afligido y pobre y al quebrantado de corazón para matarle.",
-      "en": "because he was not minded to act kindly, and hounded to death the poor and needy man, c the poor and needy man The psalmist himself; cf. vv. 22 , 31 . one crushed in spirit."
+      "en": "because he was not minded to act kindly, and hounded to death the poor and needy man, c the poor and needy man The psalmist himself; cf. vv. 22 , 31 . one crushed in spirit.",
+      "translit_en": "Yáan ashér lo zachár asót chésed; vayirdóf ísh aní veevyón; unechéh levav lemanét."
     },
     {
       "num": 17,
@@ -136,7 +152,8 @@
       "he_plain": "ויאהב קללה ותבואהו ולא חפץ בברכה ותרחק ממנו",
       "translit": "Vayeehav kelaLá vatevoéhu; veló jafets bivrajá vatirhák mimenu.",
       "es": "Amó la maldición y le vino; no quiso la bendición y se alejó de él.",
-      "en": "He loved to curse—may a curse come upon him! He would not bless—may blessing be far from him!"
+      "en": "He loved to curse—may a curse come upon him! He would not bless—may blessing be far from him!",
+      "translit_en": "Vayeehav kelaLá vatevoéhu; veló chafets bivrachá vatirhák mimenu."
     },
     {
       "num": 18,
@@ -144,7 +161,8 @@
       "he_plain": "וילבש קללה כמדו ותבא כמים בקרבו וכשמן בעצמותיו",
       "translit": "Vayelásh kelaLá kimdó; vatavó jamáyim bekiRBó; veJashémen leatsmoTáv.",
       "es": "Se vistió de maldición como de su ropa y entró como agua en sus entrañas y como aceite en sus huesos.",
-      "en": "May he be clothed in a curse like a garment, may it enter his body like water, his bones like oil."
+      "en": "May he be clothed in a curse like a garment, may it enter his body like water, his bones like oil.",
+      "translit_en": "Vayelásh kelaLá kimdó; vatavó chamáyim bekiRBó; veChashémen leatsmoTáv."
     },
     {
       "num": 19,
@@ -152,7 +170,8 @@
       "he_plain": "תהי לו כבגד יעטה ולמזח תמיד יחגרה",
       "translit": "Tihí ló keBéged yaatéh; ulemézaj tamíd yajgoreáh.",
       "es": "Séale como vestido con que se cubra y como cinto con que se ciña siempre.",
-      "en": "Let it be like the cloak he wraps around him, like the belt he always wears."
+      "en": "Let it be like the cloak he wraps around him, like the belt he always wears.",
+      "translit_en": "Tihí ló keBéged yaatéh; ulemézach tamíd yachgoreáh."
     },
     {
       "num": 20,
@@ -160,7 +179,8 @@
       "he_plain": "זאת פעלת שטני מאת יהוה והדברים רע על נפשי",
       "translit": "Zot peuulát sotnái meét Adonái; vehadoverím rá al nafshí.",
       "es": "Esta sea la recompensa de mis acusadores de parte del Eterno y de los que hablan mal contra mi alma.",
-      "en": "May G OD thus repay my accusers, all those who speak evil against me."
+      "en": "May G OD thus repay my accusers, all those who speak evil against me.",
+      "translit_en": "Zot peuulát sotnái meét Adonái; vehadoverím rá al nafshí."
     },
     {
       "num": 21,
@@ -168,7 +188,8 @@
       "he_plain": "ואתה יהוה אדני עשה אתי למען שמך כי טוב חסדך הצילני",
       "translit": "Veatá Adonái adonái aséh itI lemáan sheméja; ki tov jasdejá hatsileíni.",
       "es": "Pero Tú, oh Eterno mi Señor, actúa conmigo por amor de Tu nombre; porque Tu bondad leal es buena, líbrame.",
-      "en": "Now You, O G OD , my Sovereign, act in my behalf as befits Your name. Good and faithful as You are, save me."
+      "en": "Now You, O G OD , my Sovereign, act in my behalf as befits Your name. Good and faithful as You are, save me.",
+      "translit_en": "Veatá Adonái adonái aséh itI lemáan shemécha; ki tov chasdechá hatsileíni."
     },
     {
       "num": 22,
@@ -176,7 +197,8 @@
       "he_plain": "כי עני ואביון אנכי ולבי חלל בקרבי",
       "translit": "Ki aní veevyón anojí; veliBI jaláj bekiRBí.",
       "es": "Porque yo soy afligido y pobre y mi corazón está herido dentro de mí.",
-      "en": "For I am poor and needy, and my heart is pierced within me."
+      "en": "For I am poor and needy, and my heart is pierced within me.",
+      "translit_en": "Ki aní veevyón anochí; veliBI chalách bekiRBí."
     },
     {
       "num": 23,
@@ -184,7 +206,8 @@
       "he_plain": "כצל כנטותו נהלכתי ננערתי כארבה",
       "translit": "KeTsel kinTotó nehelájti; nináreti kaarbéh.",
       "es": "Me voy como la sombra cuando declina; soy sacudido como langosta.",
-      "en": "I fade away like a lengthening shadow; I am shaken off like locusts."
+      "en": "I fade away like a lengthening shadow; I am shaken off like locusts.",
+      "translit_en": "KeTsel kinTotó neheláchti; nináreti kaarbéh."
     },
     {
       "num": 24,
@@ -192,7 +215,8 @@
       "he_plain": "ברכי כשלו מצום ובשרי כחש משמן",
       "translit": "Birjáy kashelú mitsóm; uvesarí kajásh mishémen.",
       "es": "Mis rodillas flaquean por el ayuno y mi carne está consumida sin gordura.",
-      "en": "My knees give way from fasting; my flesh is lean, has lost its fat."
+      "en": "My knees give way from fasting; my flesh is lean, has lost its fat.",
+      "translit_en": "Bircháy kashelú mitsóm; uvesarí kachásh mishémen."
     },
     {
       "num": 25,
@@ -200,7 +224,8 @@
       "he_plain": "ואני הייתי חרפה להם יראוני יניעון ראשם",
       "translit": "VaaNí hayíti jeRpá lahém; yiRuni yeniúun roshám.",
       "es": "Y yo he sido para ellos objeto de oprobio; me miran y mueven su cabeza.",
-      "en": "I am the object of their scorn; when they see me, they shake their head."
+      "en": "I am the object of their scorn; when they see me, they shake their head.",
+      "translit_en": "VaaNí hayíti cheRpá lahém; yiRuni yeniúun roshám."
     },
     {
       "num": 26,
@@ -208,7 +233,8 @@
       "he_plain": "עזרני יהוה אלהי הושיעני כחסדך",
       "translit": "Azréni Adonái Elohái; hoshiéni kejasdéja.",
       "es": "Ayúdame, oh Eterno Dios mío; sálvame conforme a Tu bondad leal.",
-      "en": "Help me, O my E TERNAL God; save me in accord with Your faithfulness—"
+      "en": "Help me, O my E TERNAL God; save me in accord with Your faithfulness—",
+      "translit_en": "Azréni Adonái Elohái; hoshiéni kechasdécha."
     },
     {
       "num": 27,
@@ -216,7 +242,8 @@
       "he_plain": "וידעו כי ידך זאת אתה יהוה עשיתה",
       "translit": "Veyedaú ki yadejá zot; atá Adonái asitáh.",
       "es": "Y que sepan que esto es Tu mano; que Tú, oh Eterno, lo has hecho.",
-      "en": "that all may know that it is Your hand, that You, O E TERNAL One, have done it."
+      "en": "that all may know that it is Your hand, that You, O E TERNAL One, have done it.",
+      "translit_en": "Veyedaú ki yadechá zot; atá Adonái asitáh."
     },
     {
       "num": 28,
@@ -224,7 +251,8 @@
       "he_plain": "יקללו המה ואתה תברך קמו ויבשו ועבדך ישמח",
       "translit": "Yekalelélu hémá vatá tevArEj; kamú vayevoshú; veabdejá yismáj.",
       "es": "Que ellos maldigan pero Tú bendice; levántense y sean avergonzados y Tu siervo se alegrará.",
-      "en": "Let them curse, but You bless; let them rise up, but come to grief, while Your servant rejoices."
+      "en": "Let them curse, but You bless; let them rise up, but come to grief, while Your servant rejoices.",
+      "translit_en": "Yekalelélu hémá vatá tevArEch; kamú vayevoshú; veabdechá yismách."
     },
     {
       "num": 29,
@@ -232,7 +260,8 @@
       "he_plain": "ילבשו שוטני כלמה ויעטו כמעיל בשתם",
       "translit": "Yilbeshú sotnái kliMá; veyaatú jamántam keméil.",
       "es": "Vístanse mis acusadores de ignominia y cúbranse de su vergüenza como de manto.",
-      "en": "My accusers shall be clothed in shame, wrapped in their disgrace as in a robe."
+      "en": "My accusers shall be clothed in shame, wrapped in their disgrace as in a robe.",
+      "translit_en": "Yilbeshú sotnái kliMá; veyaatú chamántam keméil."
     },
     {
       "num": 30,
@@ -240,7 +269,8 @@
       "he_plain": "אודה יהוה מאד בפי ובתוך רבים אהללנו",
       "translit": "Odé Adonái meód befí; uvtój rabím ahalelEnu.",
       "es": "Alabaré al Eterno en gran manera con mi boca y en medio de multitudes le alabaré.",
-      "en": "My mouth shall sing much praise to G OD ; I will acclaim in the midst of a throng,"
+      "en": "My mouth shall sing much praise to G OD ; I will acclaim in the midst of a throng,",
+      "translit_en": "Odé Adonái meód befí; uvtóch rabím ahalelEnu."
     },
     {
       "num": 31,
@@ -248,7 +278,8 @@
       "he_plain": "כי יעמד לימין אביון להושיע משפטי נפשו {פ}",
       "translit": "Ki yaamód liimín evyón; lehoshía mishoftéi nafshó.",
       "es": "Porque Él se pondrá a la diestra del pobre para salvar su alma de los que le juzgan.",
-      "en": "because [God] stands at the right hand of the needy, to save them from those who would condemn them."
+      "en": "because [God] stands at the right hand of the needy, to save them from those who would condemn them.",
+      "translit_en": "Ki yaamód liimín evyón; lehoshía mishoftéi nafshó."
     }
   ],
   "audio": "",

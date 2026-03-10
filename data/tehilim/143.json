@@ -8,7 +8,8 @@
       "he_plain": "מזמור לדוד יהוה שמע תפלתי האזינה אל תחנוני באמנתך ענני בצדקתך",
       "translit": "Mizmór leDavíd. Adonái shmeá tefilaTí; haazíná el tajanunáy; beemunaTejA aníni; betsidkatejA.",
       "es": "Salmo de David. Eterno oye mi oración; escucha mis súplicas; respóndeme por Tu fidelidad y por Tu justicia.",
-      "en": "A psalm of David. O E TERNAL One, hear my prayer; give ear to my plea, as You are faithful; answer me, as You are beneficent."
+      "en": "A psalm of David. O E TERNAL One, hear my prayer; give ear to my plea, as You are faithful; answer me, as You are beneficent.",
+      "translit_en": "Mizmór leDavíd. Adonái shmeá tefilaTí; haazíná el tachanunáy; beemunaTechA aníni; betsidkatechA."
     },
     {
       "num": 2,
@@ -16,7 +17,8 @@
       "he_plain": "ואל תבוא במשפט את עבדך כי לא יצדק לפניך כל חי",
       "translit": "Veal tavó bemishpát et abdéja; ki lo yitsdák lefanéija kol jáy.",
       "es": "Y no entres en juicio con Tu siervo porque no se justificará delante de Ti ningún ser viviente.",
-      "en": "Do not enter into judgment with Your servant, for before You no creature is in the right."
+      "en": "Do not enter into judgment with Your servant, for before You no creature is in the right.",
+      "translit_en": "Veal tavó bemishpát et abdécha; ki lo yitsdák lefanéicha kol cháy."
     },
     {
       "num": 3,
@@ -24,7 +26,8 @@
       "he_plain": "כי רדף אויב נפשי דכא לארץ חיתי הושבני במחשכים כמתי עולם",
       "translit": "Ki radáf oyév nafshí; diká laárets jayaTí; heshivéni bemajashakím kemétei olám.",
       "es": "Porque el enemigo ha perseguido mi alma; ha postrado en tierra mi vida; me ha hecho habitar en tinieblas como los ya muertos.",
-      "en": "My foe hounded me; he crushed me to the ground; he made me dwell in darkness like those long dead."
+      "en": "My foe hounded me; he crushed me to the ground; he made me dwell in darkness like those long dead.",
+      "translit_en": "Ki radáf oyév nafshí; diká laárets chayaTí; heshivéni bemachashakím kemétei olám."
     },
     {
       "num": 4,
@@ -32,7 +35,8 @@
       "he_plain": "ותתעטף עלי רוחי בתוכי ישתומם לבי",
       "translit": "VatishtatEf aláy rují; betoJí yishomém libí.",
       "es": "Y mi espíritu se angustió dentro de mí; se turbó mi corazón dentro de mí.",
-      "en": "My spirit failed within me; my mind was numbed with horror."
+      "en": "My spirit failed within me; my mind was numbed with horror.",
+      "translit_en": "VatishtatEf aláy ruchí; betoChí yishomém libí."
     },
     {
       "num": 5,
@@ -40,7 +44,8 @@
       "he_plain": "זכרתי ימים מקדם הגיתי בכל פעלך במעשה ידיך אשוחח",
       "translit": "ZajaRti yamím mikédem; hagíti bejol poalEja; bemaasEh yadéija asojéj.",
       "es": "Me acordé de los días antiguos; medité en todas Tus obras; reflexioné en las obras de Tus manos.",
-      "en": "Then I thought of the days of old; I rehearsed all Your deeds, recounted the work of Your hands."
+      "en": "Then I thought of the days of old; I rehearsed all Your deeds, recounted the work of Your hands.",
+      "translit_en": "ZachaRti yamím mikédem; hagíti bechol poalEcha; bemaasEh yadéicha asochéch."
     },
     {
       "num": 6,
@@ -48,7 +53,8 @@
       "he_plain": "פרשתי ידי אליך נפשי כארץ עיפה לך סלה",
       "translit": "Peráseti yadáy eléija; nafshí keérets ayefá lEja. Selá.",
       "es": "Extendí mis manos hacia Ti; mi alma Te anhela como la tierra sedienta. Selá.",
-      "en": "I stretched out my hands to You, longing for You like thirsty earth. Selah."
+      "en": "I stretched out my hands to You, longing for You like thirsty earth. Selah.",
+      "translit_en": "Peráseti yadáy eléicha; nafshí keérets ayefá lEcha. Selá."
     },
     {
       "num": 7,
@@ -56,7 +62,8 @@
       "he_plain": "מהר ענני יהוה כלתה רוחי אל תסתר פניך ממני ונמשלתי עם ירדי בור",
       "translit": "Mahér aníni Adonái; kaltá rují; al tastér panéija miméni; veNimshálti im yordéi vór.",
       "es": "Respóndeme pronto, oh Eterno; mi espíritu desfallece; no escondas de mí Tu rostro no sea que venga a ser semejante a los que descienden al sepulcro.",
-      "en": "Answer me quickly, O E TERNAL One; my spirit can endure no more. Do not hide Your face from me, or I shall become like those who descend into the Pit."
+      "en": "Answer me quickly, O E TERNAL One; my spirit can endure no more. Do not hide Your face from me, or I shall become like those who descend into the Pit.",
+      "translit_en": "Mahér aníni Adonái; kaltá ruchí; al tastér panéicha miméni; veNimshálti im yordéi vór."
     },
     {
       "num": 8,
@@ -64,7 +71,8 @@
       "he_plain": "השמיעני בבקר חסדך כי בך בטחתי הודיעני דרך זו אלך כי אליך נשאתי נפשי",
       "translit": "HashmíEni vavoker jasdéja; ki bejá vatájti; hodíEni dérej zú eléj; ki eléija nasáti nafshí.",
       "es": "Hazme oír por la mañana Tu bondad leal porque en Ti he confiado; hazme saber el camino por donde ande porque a Ti he elevado mi alma.",
-      "en": "Let me learn of Your faithfulness by daybreak, for in You I trust; let me know the road I must take, for on You I have set my hope."
+      "en": "Let me learn of Your faithfulness by daybreak, for in You I trust; let me know the road I must take, for on You I have set my hope.",
+      "translit_en": "HashmíEni vavoker chasdécha; ki bechá vatáchti; hodíEni dérech zú eléch; ki eléicha nasáti nafshí."
     },
     {
       "num": 9,
@@ -72,7 +80,8 @@
       "he_plain": "הצילני מאיבייהוה אליך כסתי",
       "translit": "HatsileíNi meoyeVáy Adonái; eléija kiséti.",
       "es": "Líbrame de mis enemigos, oh Eterno; a Ti me acojo.",
-      "en": "Save me from my foes, O E TERNAL One; to You I look for cover. a to You I look for cover Meaning of Heb. uncertain."
+      "en": "Save me from my foes, O E TERNAL One; to You I look for cover. a to You I look for cover Meaning of Heb. uncertain.",
+      "translit_en": "HatsileíNi meoyeVáy Adonái; eléicha kiséti."
     },
     {
       "num": 10,
@@ -80,7 +89,8 @@
       "he_plain": "למדני לעשות רצונך כי אתה אלוהי רוחך טובה תנחני בארץ מישור",
       "translit": "LamedéNi laasót retsonéja; ki atá Elohái; rujejA tová tenajéni; beérets mishor.",
       "es": "Enséñame a hacer Tu voluntad porque Tú eres mi Dios; Tu buen espíritu me guíe a tierra de rectitud.",
-      "en": "Teach me to do Your will, for You are my God. Let Your gracious spirit lead me on level ground."
+      "en": "Teach me to do Your will, for You are my God. Let Your gracious spirit lead me on level ground.",
+      "translit_en": "LamedéNi laasót retsonécha; ki atá Elohái; ruchechA tová tenachéni; beérets mishor."
     },
     {
       "num": 11,
@@ -88,7 +98,8 @@
       "he_plain": "למען שמך יהוה תחיני בצדקתך תוציא מצרה נפשי",
       "translit": "LemáaN shimjA Adonái tejaYéni; betsidkatejA totsiá mitsará nafshí.",
       "es": "Por Tu nombre, oh Eterno, me vivificarás; por Tu justicia sacarás mi alma de la angustia.",
-      "en": "For the sake of Your name, O E TERNAL One, preserve me; as You are beneficent, free me from distress."
+      "en": "For the sake of Your name, O E TERNAL One, preserve me; as You are beneficent, free me from distress.",
+      "translit_en": "LemáaN shimchA Adonái techaYéni; betsidkatechA totsiá mitsará nafshí."
     },
     {
       "num": 12,
@@ -96,7 +107,8 @@
       "he_plain": "ובחסדך תצמית איבי והאבדת כל צררי נפשי כי אני עבדך {פ}",
       "translit": "UvejasdeJá tatsmiT oyeVáy; vehaabádTa kol tsoréi nafshí; ki aní abdéja.",
       "es": "Y por Tu bondad leal disiparás a mis enemigos y destruirás a todos los adversarios de mi alma porque yo soy Tu siervo.",
-      "en": "As You are faithful, put an end to my foes; destroy all my mortal enemies, for I am Your servant."
+      "en": "As You are faithful, put an end to my foes; destroy all my mortal enemies, for I am Your servant.",
+      "translit_en": "UvechasdeChá tatsmiT oyeVáy; vehaabádTa kol tsoréi nafshí; ki aní abdécha."
     }
   ],
   "audio": "",

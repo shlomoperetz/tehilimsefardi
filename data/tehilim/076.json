@@ -9,7 +9,8 @@
       "he_plain": "למנצח בנגינות מזמור לאסף שיר",
       "translit": "Lamnatséaj bineguinót mizmór leAsáf shír.",
       "es": "Al director; con instrumentos de cuerda. Salmo de Asaf. Cántico.",
-      "en": "For the leader; with instrumental music.A psalm of Asaph, a song."
+      "en": "For the leader; with instrumental music.A psalm of Asaph, a song.",
+      "translit_en": "Lamnatséach bineguinót mizmór leAsáf shír."
     },
     {
       "num": 2,
@@ -17,7 +18,8 @@
       "he_plain": "נודע ביהודה אלהים בישראל גדול שמו",
       "translit": "Nodá biYehudá Elohím; beYisraél gadól shemó.",
       "es": "Dios es conocido en Yehudá; en Israel es grande Su nombre.",
-      "en": "God is known in Judah, God’s name is great in Israel;"
+      "en": "God is known in Judah, God’s name is great in Israel;",
+      "translit_en": "Nodá biYehudá Elohím; beYisraél gadól shemó."
     },
     {
       "num": 3,
@@ -25,7 +27,8 @@
       "he_plain": "ויהי בשלם סוכו ומעונתו בציון",
       "translit": "Vayehí veshaLém sukó; umeonató beTsiyón.",
       "es": "En Shalem está Su tabernáculo y Su morada en Tsión.",
-      "en": "Salem became an abode; Zion, the divine den."
+      "en": "Salem became an abode; Zion, the divine den.",
+      "translit_en": "Vayehí veshaLém sukó; umeonató beTsiyón."
     },
     {
       "num": 4,
@@ -33,7 +36,8 @@
       "he_plain": "שמה שבר רשפי קשת מגן וחרב ומלחמה סלה",
       "translit": "Shámah shibár rishféi káshet; magén vejérev umiljaJmá. Selá.",
       "es": "Allí quebró las saetas del arco; el escudo y la espada y la guerra. Selá.",
-      "en": "There [God] broke the fiery arrows of the bow, the shield and the sword of war. Selah."
+      "en": "There [God] broke the fiery arrows of the bow, the shield and the sword of war. Selah.",
+      "translit_en": "Shámah shibár rishféi káshet; magén vechérev umilchaChmá. Selá."
     },
     {
       "num": 5,
@@ -41,7 +45,8 @@
       "he_plain": "נאור אתה אדיר מהררי טרף",
       "translit": "Naór atá adír meharréi táref.",
       "es": "Glorioso eres Tú y poderoso más que los montes llenos de presas.",
-      "en": "You were resplendent, glorious, on the mountains of prey."
+      "en": "You were resplendent, glorious, on the mountains of prey.",
+      "translit_en": "Naór atá adír meharréi táref."
     },
     {
       "num": 6,
@@ -49,7 +54,8 @@
       "he_plain": "אשתוללו אבירי לב נמו שנתם ולא מצאו כל אנשי חיל ידיהם",
       "translit": "Eshtolelú abiréi lév; namú shenatám; veló matsú kol anshéi jáyil yadéihem.",
       "es": "Los valientes de corazón fueron despojados; durmieron su sueño y no hallaron sus manos todos los hombres de guerra.",
-      "en": "The stout-hearted were despoiled; they were in a stupor; the bravest of soldiers could not lift a hand."
+      "en": "The stout-hearted were despoiled; they were in a stupor; the bravest of soldiers could not lift a hand.",
+      "translit_en": "Eshtolelú abiréi lév; namú shenatám; veló matsú kol anshéi cháyil yadéihem."
     },
     {
       "num": 7,
@@ -57,7 +63,8 @@
       "he_plain": "מגערתך אלהי יעקב נרדם ורכב וסוס",
       "translit": "Migaaratejá Elohéi Yaakóv; nirdám vérejev vasús.",
       "es": "A Tu reprensión, oh Dios de Yaakov, el carro y el caballo quedaron dormidos.",
-      "en": "At Your blast, O God of Jacob, horse and chariot lay stunned."
+      "en": "At Your blast, O God of Jacob, horse and chariot lay stunned.",
+      "translit_en": "Migaaratechá Elohéi Yaakóv; nirdám vérechev vasús."
     },
     {
       "num": 8,
@@ -65,7 +72,8 @@
       "he_plain": "אתה נורא אתה ומי יעמוד לפניך מאז אפך",
       "translit": "Atá norá atá; umi yaamod lefanéija meáz apéja.",
       "es": "Tú, Tú eres temible y ¿quién podrá estar en pie delante de Ti cuando se encienda Tu ira?",
-      "en": "O You! You are awesome! Who can withstand You when You are enraged?"
+      "en": "O You! You are awesome! Who can withstand You when You are enraged?",
+      "translit_en": "Atá norá atá; umi yaamod lefanéicha meáz apécha."
     },
     {
       "num": 9,
@@ -73,7 +81,8 @@
       "he_plain": "משמים השמעת דין ארץ יראה ושקטה",
       "translit": "Mishamáyim hishmáata dín; árets yarEá veshakaTá.",
       "es": "Desde los cielos hiciste oír el juicio; la tierra tuvo temor y quedó quieta.",
-      "en": "In heaven You pronounced sentence; the earth was numbed with fright"
+      "en": "In heaven You pronounced sentence; the earth was numbed with fright",
+      "translit_en": "Mishamáyim hishmáata dín; árets yarEá veshakaTá."
     },
     {
       "num": 10,
@@ -81,7 +90,8 @@
       "he_plain": "בקום למשפט אלהים להושיע כל ענוי ארץ סלה",
       "translit": "Bekúm lamishpát Elohím; lehoshía kol anvéi árets. Selá.",
       "es": "Cuando se levantó Dios para el juicio para salvar a todos los mansos de la tierra. Selá.",
-      "en": "as God rose to execute judgment, to deliver all the lowly of the earth. Selah."
+      "en": "as God rose to execute judgment, to deliver all the lowly of the earth. Selah.",
+      "translit_en": "Bekúm lamishpát Elohím; lehoshía kol anvéi árets. Selá."
     },
     {
       "num": 11,
@@ -89,7 +99,8 @@
       "he_plain": "כי חמת אדם תודך שארית חמות תחגור",
       "translit": "Ki jamát adám todéja; sheerit jemót tajgór.",
       "es": "Ciertamente la ira del hombre te alabará; te ceñirás con el resto de las iras.",
-      "en": "a Meaning of verse uncertain. Even the fiercest among humans shall acknowledge You, when You gird on the last bit of fury."
+      "en": "a Meaning of verse uncertain. Even the fiercest among humans shall acknowledge You, when You gird on the last bit of fury.",
+      "translit_en": "Ki chamát adám todécha; sheerit chemót tachgór."
     },
     {
       "num": 12,
@@ -97,7 +108,8 @@
       "he_plain": "נדרו ושלמו ליהוה אלהיכם כל סביביו יובילו שי למורא",
       "translit": "NidRú veshalemú laAdonái Elohéijem; kol sevivav yovílu sháy lamorá.",
       "es": "Haced votos y pagadlos al Eterno vuestro Dios; todos los que están alrededor de Él traigan presentes al Temible.",
-      "en": "Make vows and pay them to the E TERNAL your God; those all around shall bring tribute to the Awesome One— b all around … Awesome One Meaning of Heb. uncertain."
+      "en": "Make vows and pay them to the E TERNAL your God; those all around shall bring tribute to the Awesome One— b all around … Awesome One Meaning of Heb. uncertain.",
+      "translit_en": "NidRú veshalemú laAdonái Elohéichem; kol sevivav yovílu sháy lamorá."
     },
     {
       "num": 13,
@@ -105,7 +117,8 @@
       "he_plain": "יבצור רוח נגידים נורא למלכי ארץ",
       "translit": "Yivtsór rúaj negidím; norá lemalkéi árets.",
       "es": "Él cortará el espíritu de los príncipes; temible es para los reyes de la tierra.",
-      "en": "who curbs the spirit of princes, inspires awe in the kings of the earth."
+      "en": "who curbs the spirit of princes, inspires awe in the kings of the earth.",
+      "translit_en": "Yivtsór rúach negidím; norá lemalkéi árets."
     }
   ],
   "ocasiones": [],

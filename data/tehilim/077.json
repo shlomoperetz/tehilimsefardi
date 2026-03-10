@@ -9,7 +9,8 @@
       "he_plain": "למנצח על ידותון לאסף מזמור",
       "translit": "Lamnatséaj al Yedutún leAsáf mizmór.",
       "es": "Al director; para Yedutún. De Asaf. Salmo.",
-      "en": "For the leader; on Jeduthun .Of Asaph. A psalm."
+      "en": "For the leader; on Jeduthun .Of Asaph. A psalm.",
+      "translit_en": "Lamnatséach al Yedutún leAsáf mizmór."
     },
     {
       "num": 2,
@@ -17,7 +18,8 @@
       "he_plain": "קולי אל אלהים ואצעקה קולי אל אלהים והאזין אלי",
       "translit": "Kolí el Elohím veetsaKá; kolí el Elohím vehazín eláy.",
       "es": "Con mi voz clamé a Dios; con mi voz a Dios y Él me escuchó.",
-      "en": "I cry aloud to God; I cry to God that I may be heard."
+      "en": "I cry aloud to God; I cry to God that I may be heard.",
+      "translit_en": "Kolí el Elohím veetsaKá; kolí el Elohím vehazín eláy."
     },
     {
       "num": 3,
@@ -25,7 +27,8 @@
       "he_plain": "ביום צרתי אדני דרשתי ידי לילה נגרה ולא תפוג נפשי מאנה הנחם",
       "translit": "Beyóm tsaratí Adonái darashTí; yadí láyla nigRá veló tafúg; nafshí meeNá hinajém.",
       "es": "En el día de mi angustia busqué al Señor; alzaba a Él mis manos de noche sin descanso; mi alma rehusaba ser consolada.",
-      "en": "In my time of distress I turn to my Sovereign, with my hand [uplifted]; [my eyes] flow all night without respite; a with my hand … without respite Meaning of Heb. uncertain. I will not be comforted."
+      "en": "In my time of distress I turn to my Sovereign, with my hand [uplifted]; [my eyes] flow all night without respite; a with my hand … without respite Meaning of Heb. uncertain. I will not be comforted.",
+      "translit_en": "Beyóm tsaratí Adonái darashTí; yadí láyla nigRá veló tafúg; nafshí meeNá hinachém."
     },
     {
       "num": 4,
@@ -33,7 +36,8 @@
       "he_plain": "אזכרה אלהים ואהמיה אשיחה ותתעטף רוחי סלה",
       "translit": "Ezkará Elohím veeHeMáyah; asiJá vetitaTéf rují. Selá.",
       "es": "Me acordaba de Dios y me quejaba; meditaba y se angustiaba mi espíritu. Selá.",
-      "en": "I call God to mind, I moan, I complain, my spirit fails. Selah."
+      "en": "I call God to mind, I moan, I complain, my spirit fails. Selah.",
+      "translit_en": "Ezkará Elohím veeHeMáyah; asiChá vetitaTéf ruchí. Selá."
     },
     {
       "num": 5,
@@ -41,7 +45,8 @@
       "he_plain": "אחזת שמורות עיני נפעמתי ולא אדבר",
       "translit": "Ajázta shemurót einái; nifámti veló adabér.",
       "es": "Tenías tomados mis párpados; estaba yo quebrantado y no podía hablar.",
-      "en": "You have held my eyelids open; I am overwrought, I cannot speak."
+      "en": "You have held my eyelids open; I am overwrought, I cannot speak.",
+      "translit_en": "Acházta shemurót einái; nifámti veló adabér."
     },
     {
       "num": 6,
@@ -49,7 +54,8 @@
       "he_plain": "חשבתי ימים מקדם שנות עולמים",
       "translit": "Jishávti yamím mikédem; shenót olamím.",
       "es": "Consideraba los días de la antigüedad y los años de los siglos pasados.",
-      "en": "My thoughts turn to days of old, to years long past."
+      "en": "My thoughts turn to days of old, to years long past.",
+      "translit_en": "Chishávti yamím mikédem; shenót olamím."
     },
     {
       "num": 7,
@@ -57,7 +63,8 @@
       "he_plain": "אזכרה נגינתי בלילה עם לבבי אשיחה ויחפש רוחי",
       "translit": "Ezkará neguinatí baláyla; im levabí asiJá; vayeJaPéS rují.",
       "es": "Me acordaba de mis cánticos de noche; meditaba en mi corazón y mi espíritu inquiría.",
-      "en": "I recall at night their jibes at me; I commune with myself; my spirit inquires,"
+      "en": "I recall at night their jibes at me; I commune with myself; my spirit inquires,",
+      "translit_en": "Ezkará neguinatí baláyla; im levabí asiChá; vayeChaPéS ruchí."
     },
     {
       "num": 8,
@@ -65,7 +72,8 @@
       "he_plain": "הלעולמים יזנח אדני ולא יוסיף לרצות עוד",
       "translit": "Haleolámim yizNáj Adonái; veló yosíf lirtsót od.",
       "es": "¿Desechará el Señor para siempre y no volverá más a sernos propicio?",
-      "en": "“Will my Sovereign reject forever and never again show favor?"
+      "en": "“Will my Sovereign reject forever and never again show favor?",
+      "translit_en": "Haleolámim yizNách Adonái; veló yosíf lirtsót od."
     },
     {
       "num": 9,
@@ -73,7 +81,8 @@
       "he_plain": "האפס לנצח חסדו גמר אומר לדור ודור",
       "translit": "Heafés lanétsaj jasdó; gamár ómer ledór vadór.",
       "es": "¿Ha cesado para siempre Su bondad leal? ¿Ha acabado Su promesa para todas las generaciones?",
-      "en": "Has such faithfulness disappeared forever? Will those promises be unfulfilled for all time?"
+      "en": "Has such faithfulness disappeared forever? Will those promises be unfulfilled for all time?",
+      "translit_en": "Heafés lanétsach chasdó; gamár ómer ledór vadór."
     },
     {
       "num": 10,
@@ -81,7 +90,8 @@
       "he_plain": "השכח חנות אל אם קפץ באף רחמיו סלה",
       "translit": "Hashajáj janót El; im kafáts beáf rajaméiv. Selá.",
       "es": "¿Ha olvidado Dios el tener misericordia? ¿Ha encerrado en Su ira Sus misericordias? Selá.",
-      "en": "Has God forgotten how to pity? Has God’s compassion been stifled in anger?” Selah."
+      "en": "Has God forgotten how to pity? Has God’s compassion been stifled in anger?” Selah.",
+      "translit_en": "Hashachách chanót El; im kafáts beáf rachaméiv. Selá."
     },
     {
       "num": 11,
@@ -89,7 +99,8 @@
       "he_plain": "ואומר חלותי היא שנות ימין עליון",
       "translit": "Vaomár jalotí hi; shenót yemín Elyón.",
       "es": "Y dije: Esta es mi enfermedad; que hayan cambiado los años de la diestra del Altísimo.",
-      "en": "And I said, “It is my fault that the right hand of the Most High has changed.” b It is my fault / … changed Meaning of Heb. uncertain."
+      "en": "And I said, “It is my fault that the right hand of the Most High has changed.” b It is my fault / … changed Meaning of Heb. uncertain.",
+      "translit_en": "Vaomár chalotí hi; shenót yemín Elyón."
     },
     {
       "num": 12,
@@ -97,7 +108,8 @@
       "he_plain": "אזכור מעללי יה כי אזכרה מקדם פלאך",
       "translit": "Ezkór maalléi Yáh; ki ezkará mikédem pilEjá.",
       "es": "Me acordaré de las obras del Eterno; sí, haré memoria de Tus maravillas antiguas.",
-      "en": "I recall the deeds of Yah; c Yah See note at 68.5 . yes, I recall Your wonders of old;"
+      "en": "I recall the deeds of Yah; c Yah See note at 68.5 . yes, I recall Your wonders of old;",
+      "translit_en": "Ezkór maalléi Yáh; ki ezkará mikédem pilEchá."
     },
     {
       "num": 13,
@@ -105,7 +117,8 @@
       "he_plain": "והגיתי בכל פועלך ובעלילותיך אשיחה",
       "translit": "Vehagíti vejál pooLéja; ubaalilotéija asiJá.",
       "es": "Meditaré en todas Tus obras y hablaré de Tus hechos.",
-      "en": "I recount all Your works; I speak of Your acts."
+      "en": "I recount all Your works; I speak of Your acts.",
+      "translit_en": "Vehagíti vechál pooLécha; ubaalilotéicha asiChá."
     },
     {
       "num": 14,
@@ -113,7 +126,8 @@
       "he_plain": "אלהים בקודש דרכך מי אל גדול כאלהים",
       "translit": "Elohím bakódesh darkéja; mi El gadól keElohím.",
       "es": "Oh Dios, en santidad está Tu camino; ¿qué dios es grande como nuestro Dios?",
-      "en": "O God, Your ways are holiness; what god is as great as God?"
+      "en": "O God, Your ways are holiness; what god is as great as God?",
+      "translit_en": "Elohím bakódesh darkécha; mi El gadól keElohím."
     },
     {
       "num": 15,
@@ -121,7 +135,8 @@
       "he_plain": "אתה האל עושה פלא הודעת בעמים עוזך",
       "translit": "Atá haEl oséh féle; hodáata vaamím uzeján.",
       "es": "Tú eres el Dios que hace maravillas; hiciste notorio entre los pueblos Tu poder.",
-      "en": "You are the God who works wonders; You have manifested Your strength among the peoples."
+      "en": "You are the God who works wonders; You have manifested Your strength among the peoples.",
+      "translit_en": "Atá haEl oséh féle; hodáata vaamím uzechán."
     },
     {
       "num": 16,
@@ -129,7 +144,8 @@
       "he_plain": "גאלת בזרוע עמך בני יעקב ויוסף סלה",
       "translit": "Gaálta bizróa ameján; benéi Yaakóv veYosép. Selá.",
       "es": "Con Tu brazo redimiste a Tu pueblo; a los hijos de Yaakov y de Yosef. Selá.",
-      "en": "By Your arm You redeemed Your people, the children of Jacob and Joseph. Selah."
+      "en": "By Your arm You redeemed Your people, the children of Jacob and Joseph. Selah.",
+      "translit_en": "Gaálta bizróa amechán; benéi Yaakóv veYosép. Selá."
     },
     {
       "num": 17,
@@ -137,7 +153,8 @@
       "he_plain": "ראוך מים אלהים ראוך מים יחילו אף ירגזו תהומות",
       "translit": "Raúja máyim Elohím; raúja máyim yajílu; af yirgezú tehomót.",
       "es": "Te vieron las aguas, oh Dios; te vieron las aguas y temblaron; también se agitaron los abismos.",
-      "en": "The waters saw You, O God, the waters saw You and were convulsed; the very deep quaked as well."
+      "en": "The waters saw You, O God, the waters saw You and were convulsed; the very deep quaked as well.",
+      "translit_en": "Raúcha máyim Elohím; raúcha máyim yachílu; af yirgezú tehomót."
     },
     {
       "num": 18,
@@ -145,7 +162,8 @@
       "he_plain": "זרמו מים עבות קול נתנו שחקים אף חצציך יתהלכו",
       "translit": "Zorméu máyim avót; kól naténu shejakím; af jatatsEija yithaláju.",
       "es": "Las nubes derramaron aguas; tronaron los cielos y también anduvieron Tus rayos.",
-      "en": "Clouds streamed water; the heavens rumbled; Your arrows flew about;"
+      "en": "Clouds streamed water; the heavens rumbled; Your arrows flew about;",
+      "translit_en": "Zorméu máyim avót; kól naténu shechakím; af chatatsEicha yithaláchu."
     },
     {
       "num": 19,
@@ -153,7 +171,8 @@
       "he_plain": "קול רעמך בגלגל האירו ברקים תבל רגזה ותרעש הארץ",
       "translit": "Kól raamejá bagálGal; heíru verakím tévEl; ragZá vatírash haárets.",
       "es": "La voz de Tu trueno estaba en el torbellino; los relámpagos alumbraron el mundo; se estremeció y tembló la tierra.",
-      "en": "Your thunder rumbled like wheels; lightning lit up the world; the earth quaked and trembled."
+      "en": "Your thunder rumbled like wheels; lightning lit up the world; the earth quaked and trembled.",
+      "translit_en": "Kól raamechá bagálGal; heíru verakím tévEl; ragZá vatírash haárets."
     },
     {
       "num": 20,
@@ -161,7 +180,8 @@
       "he_plain": "בים דרכך ושבילך במים רבים ועקבותיך לא נודעו",
       "translit": "Bayám darkéja; ushvilEjá bemáyim rabím; veikevotéija lo nodáu.",
       "es": "En el mar fue Tu camino y Tus sendas en las muchas aguas y Tus pisadas no fueron conocidas.",
-      "en": "Your way was through the sea, Your path, through the mighty waters; Your tracks could not be seen."
+      "en": "Your way was through the sea, Your path, through the mighty waters; Your tracks could not be seen.",
+      "translit_en": "Bayám darkécha; ushvilEchá bemáyim rabím; veikevotéicha lo nodáu."
     },
     {
       "num": 21,
@@ -169,7 +189,8 @@
       "he_plain": "נחית כצאן עמך ביד משה ואהרן",
       "translit": "Najiíta jatson ameján; beyád Moshé veAharón.",
       "es": "Condujiste a Tu pueblo como ovejas por mano de Moshé y Aharón.",
-      "en": "You led Your people like a flock in the care of Moses and Aaron."
+      "en": "You led Your people like a flock in the care of Moses and Aaron.",
+      "translit_en": "Nachiíta chatson amechán; beyád Moshé veAharón."
     }
   ],
   "ocasiones": [],

@@ -9,7 +9,8 @@
       "he_plain": "למנצח מזמור לדוד שיר",
       "translit": "Lamnatséaj mizmór leDavíd shír.",
       "es": "Al director. Salmo de David. Cántico.",
-      "en": "For the leader. A psalm of David. A song."
+      "en": "For the leader. A psalm of David. A song.",
+      "translit_en": "Lamnatséach mizmór leDavíd shír."
     },
     {
       "num": 2,
@@ -17,7 +18,8 @@
       "he_plain": "לך דומיה תהלה אלהים בציון ולך ישולם נדר",
       "translit": "Lejá dumiyá tehilá Elohím beTsiyón; ulejá yeshulám néder.",
       "es": "A Ti se debe el silencio que es alabanza, oh Dios, en Tsión; y a Ti se pagará el voto.",
-      "en": "Praise befits You in Zion, O God; vows are paid to You;"
+      "en": "Praise befits You in Zion, O God; vows are paid to You;",
+      "translit_en": "Lechá dumiyá tehilá Elohím beTsiyón; ulechá yeshulám néder."
     },
     {
       "num": 3,
@@ -25,7 +27,8 @@
       "he_plain": "שומע תפלה עדיך כל בשר יבואו",
       "translit": "Shomea tefilá; adéija kol basár yavóu.",
       "es": "Tú que oyes la oración; a Ti vendrá toda carne.",
-      "en": "all humankind a humankind Lit. “flesh.” comes to You, You who hear prayer."
+      "en": "all humankind a humankind Lit. “flesh.” comes to You, You who hear prayer.",
+      "translit_en": "Shomea tefilá; adéicha kol basár yavóu."
     },
     {
       "num": 4,
@@ -33,7 +36,8 @@
       "he_plain": "דברי עוונות גברו מני פשעינו אתה תכפרם",
       "translit": "Divréi avonót gavRú méni; peshaéinu atá tejapRém.",
       "es": "Las iniquidades prevalecen contra mí; nuestras rebeliones Tú las perdonarás.",
-      "en": "When all manner of sins overwhelm me, it is You who forgive our iniquities."
+      "en": "When all manner of sins overwhelm me, it is You who forgive our iniquities.",
+      "translit_en": "Divréi avonót gavRú méni; peshaéinu atá techapRém."
     },
     {
       "num": 5,
@@ -41,7 +45,8 @@
       "he_plain": "אשרי תבחר ותקרב ישכון חצריך נשבעה בטוב ביתך קדוש היכלך",
       "translit": "Ashréi tivjár utkaréV; yishkón jatseréija; nisbéa betúv béiteja; kedósh héjalejá.",
       "es": "Bienaventurado el que Tú eliges y haces que se acerque para que habite en Tus atrios; serémos saciados del bien de Tu casa, de Tu santo templo.",
-      "en": "Happy is the one You choose and bring near to dwell in Your courts; may we be sated with the blessings of Your house, Your holy temple."
+      "en": "Happy is the one You choose and bring near to dwell in Your courts; may we be sated with the blessings of Your house, Your holy temple.",
+      "translit_en": "Ashréi tivchár utkaréV; yishkón chatseréicha; nisbéa betúv béitecha; kedósh héchalechá."
     },
     {
       "num": 6,
@@ -49,7 +54,8 @@
       "he_plain": "נוראות בצדק תעננו אלהי ישענו מבטח כל קצוי ארץ וים רחוקים",
       "translit": "Noraót betsédek taanénu; Elohéi yishénu; mibtáj kol katsvéi érets veyám rejokím.",
       "es": "Con tremendas cosas en justicia nos responderás Tú, oh Dios de nuestra salvación; esperanza de todos los confines de la tierra y de los mares lejanos.",
-      "en": "Answer us with victory through awesome deeds, O God, our deliverer, in whom all the ends of the earth and the distant seas put their trust;"
+      "en": "Answer us with victory through awesome deeds, O God, our deliverer, in whom all the ends of the earth and the distant seas put their trust;",
+      "translit_en": "Noraót betsédek taanénu; Elohéi yishénu; mibtách kol katsvéi érets veyám rechokím."
     },
     {
       "num": 7,
@@ -57,7 +63,8 @@
       "he_plain": "מכין הרים בכוחו נאזר בגבורה",
       "translit": "Mejín harím bejojó; neazár bigvurá.",
       "es": "El que afirma los montes con Su poder ceñido de fortaleza.",
-      "en": "who by divine power fixed the mountains firmly, who is girded with might,"
+      "en": "who by divine power fixed the mountains firmly, who is girded with might,",
+      "translit_en": "Mechín harím bechochó; neazár bigvurá."
     },
     {
       "num": 8,
@@ -65,7 +72,8 @@
       "he_plain": "משביח שאון ימים שאון גליהם והמון לאמים",
       "translit": "Mashbíaj sheón yamím; sheón galéihem; vahaMón leumím.",
       "es": "El que aplaca el estruendo de los mares, el estruendo de sus ondas y el alboroto de los pueblos.",
-      "en": "who stills the raging seas, the raging waves, and tumultuous peoples."
+      "en": "who stills the raging seas, the raging waves, and tumultuous peoples.",
+      "translit_en": "Mashbíach sheón yamím; sheón galéihem; vahaMón leumím."
     },
     {
       "num": 9,
@@ -73,7 +81,8 @@
       "he_plain": "וייראו יושבי קצוות מאותותיך מוצאי בוקר וערב תרנין",
       "translit": "Vayiraú yoshvéi ketsavót meototéija; motsaéi bóker vaérev tarNín.",
       "es": "Por tanto los que habitan en los extremos de la tierra temen Tus señales; Tú haces que se alegren las salidas de la mañana y de la tarde.",
-      "en": "Those who live at the ends of the earth are awed by Your signs; You make the lands of sunrise and sunset shout for joy."
+      "en": "Those who live at the ends of the earth are awed by Your signs; You make the lands of sunrise and sunset shout for joy.",
+      "translit_en": "Vayiraú yoshvéi ketsavót meototéicha; motsaéi bóker vaérev tarNín."
     },
     {
       "num": 10,
@@ -81,7 +90,8 @@
       "he_plain": "פקדת הארץ ותשוקקה רבת תעשרנה פלג אלהים מלא מים תכין דגנם כי כן תכינה",
       "translit": "Pakádta haárets vateshokekéha; rabát taasheréna; péleg Elohím malé máyim; tajín deguanám ki jén tejinéha.",
       "es": "Visitas la tierra y la riegas; en gran manera la enriqueces; el río de Dios está lleno de agua; preparas el grano de ellos cuando así la preparas.",
-      "en": "You take care of the earth and irrigate it; You enrich it greatly, with the channel of God full of water; You provide grain for all; b grain for all Heb. “their grain.” for so do You prepare it."
+      "en": "You take care of the earth and irrigate it; You enrich it greatly, with the channel of God full of water; You provide grain for all; b grain for all Heb. “their grain.” for so do You prepare it.",
+      "translit_en": "Pakádta haárets vateshokekéha; rabát taasheréna; péleg Elohím malé máyim; tachín deguanám ki chén techinéha."
     },
     {
       "num": 11,
@@ -89,7 +99,8 @@
       "he_plain": "תלמיה רווה נחת גדודיה ברביבים תמוגגנה צמחה תברך",
       "translit": "Telaméiha ravéh; naJét gedudéiha; birVivím temogegnéha; tsimJáh tevaréj.",
       "es": "Haces que se empapen sus surcos; haces descender sus lluvias; con aguaceros la ablandas y bendices sus renuevos.",
-      "en": "Saturating its furrows, leveling its ridges, You soften it with showers, You bless its growth."
+      "en": "Saturating its furrows, leveling its ridges, You soften it with showers, You bless its growth.",
+      "translit_en": "Telaméiha ravéh; naChét gedudéiha; birVivím temogegnéha; tsimCháh tevaréch."
     },
     {
       "num": 12,
@@ -97,7 +108,8 @@
       "he_plain": "עטרת שנת טובתך ומעגליך ירעפון דשן",
       "translit": "Itártá shenat tobatéja; umaagaléija yiraFún dáshen.",
       "es": "Coronas el año con Tus bienes y Tus carriles destilan grosura.",
-      "en": "You crown the year with Your bounty; fatness is distilled in Your paths—"
+      "en": "You crown the year with Your bounty; fatness is distilled in Your paths—",
+      "translit_en": "Itártá shenat tobatécha; umaagaléicha yiraFún dáshen."
     },
     {
       "num": 13,
@@ -105,7 +117,8 @@
       "he_plain": "ירעפו נאות מדבר וגיל גבעות תחגורנה",
       "translit": "Yiraféu neót midBár; veguíl gevaót tajgórna.",
       "es": "Destilan los pastizales del desierto y los collados se ciñen de alegría.",
-      "en": "the pasturelands distill it; the hills are girded with joy."
+      "en": "the pasturelands distill it; the hills are girded with joy.",
+      "translit_en": "Yiraféu neót midBár; veguíl gevaót tachgórna."
     },
     {
       "num": 14,
@@ -113,7 +126,8 @@
       "he_plain": "לבשו כרים הצאן ועמקים יעטפו בר יתרועעו אף ישירו",
       "translit": "Lavshú jarím hatsón; vaakaMím yaatFú vár; yitroaéu af yashíru.",
       "es": "Se visten los prados de ovejas y los valles se cubren de grano; dan voces de júbilo y aun cantan.",
-      "en": "The meadows are clothed with flocks, the valleys mantled with grain; they raise a shout, they break into song."
+      "en": "The meadows are clothed with flocks, the valleys mantled with grain; they raise a shout, they break into song.",
+      "translit_en": "Lavshú charím hatsón; vaakaMím yaatFú vár; yitroaéu af yashíru."
     }
   ],
   "ocasiones": [],

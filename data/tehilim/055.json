@@ -9,7 +9,8 @@
       "he_plain": "למנצח בנגינות משכיל לדוד",
       "translit": "Lamnatséaj bineguinót maskíl leDavíd.",
       "es": "Al director; con instrumentos de cuerda. Maskil de David.",
-      "en": "For the leader; with instrumental music. A maskil of David."
+      "en": "For the leader; with instrumental music. A maskil of David.",
+      "translit_en": "Lamnatséach bineguinót maskíl leDavíd."
     },
     {
       "num": 2,
@@ -17,7 +18,8 @@
       "he_plain": "האזינה אלהים תפלתי ואל תתעלם מתחנתי",
       "translit": "Haazíná Elohím tefilatí; veal titaLám mitejinaTí.",
       "es": "Escucha, oh Dios, mi oración y no te escondas de mi súplica.",
-      "en": "Give ear, O God, to my prayer; do not ignore my plea;"
+      "en": "Give ear, O God, to my prayer; do not ignore my plea;",
+      "translit_en": "Haazíná Elohím tefilatí; veal titaLám mitechinaTí."
     },
     {
       "num": 3,
@@ -25,7 +27,8 @@
       "he_plain": "הקשיבה לי וענני אריד בשיחי ואהימה",
       "translit": "Hakshíva lí vaanéni; aríd besiJí veahimá.",
       "es": "Atiéndeme y respóndeme; me agito en mi meditación y gimo,",
-      "en": "pay heed to me and answer me. I am tossed about, complaining and moaning"
+      "en": "pay heed to me and answer me. I am tossed about, complaining and moaning",
+      "translit_en": "Hakshíva lí vaanéni; aríd besiChí veahimá."
     },
     {
       "num": 4,
@@ -33,7 +36,8 @@
       "he_plain": "מקול אויב מפני עקת רשע כי ימיטו עלי און ובאף ישטמוני",
       "translit": "Mikól oyév; mifnéi akát rashá; ki yamítu aláy áven uvéaf yisteMúni.",
       "es": "a causa de la voz del enemigo y de la opresión del impío; porque sobre mí echaron iniquidad y con furor me persiguen.",
-      "en": "at the clamor of the enemy, because of the oppression of the wicked; for they bring evil upon me and furiously harass me."
+      "en": "at the clamor of the enemy, because of the oppression of the wicked; for they bring evil upon me and furiously harass me.",
+      "translit_en": "Mikól oyév; mifnéi akát rashá; ki yamítu aláy áven uvéaf yisteMúni."
     },
     {
       "num": 5,
@@ -41,7 +45,8 @@
       "he_plain": "לבי יחיל בקרבי ואימות מות נפלו עלי",
       "translit": "Libí yajíl bekirbí; veeimót mávet nafelú aláy.",
       "es": "Mi corazón está angustiado dentro de mí y terrores de muerte han caído sobre mí.",
-      "en": "My heart is convulsed within me; terrors of death assail me."
+      "en": "My heart is convulsed within me; terrors of death assail me.",
+      "translit_en": "Libí yachíl bekirbí; veeimót mávet nafelú aláy."
     },
     {
       "num": 6,
@@ -49,7 +54,8 @@
       "he_plain": "יראה ורעד יבוא בי ותכסני פלצות",
       "translit": "Yirá varáad yavó bí; vatejasEni palátsut.",
       "es": "Temor y temblor vinieron sobre mí y el horror me ha cubierto.",
-      "en": "Fear and trembling invade me; I am clothed with horror."
+      "en": "Fear and trembling invade me; I am clothed with horror.",
+      "translit_en": "Yirá varáad yavó bí; vatechasEni palátsut."
     },
     {
       "num": 7,
@@ -57,7 +63,8 @@
       "he_plain": "ואומר מי יתן לי אבר כיונה אעופה ואשכונה",
       "translit": "Vaomár: mi yitén lí evér kayoná; aefá veeshkoná.",
       "es": "Y dije: ¡Ojalá tuviera yo alas como de paloma! Volaría y descansaría.",
-      "en": "I said, “O that I had the wings of a dove! I would fly away and find rest;"
+      "en": "I said, “O that I had the wings of a dove! I would fly away and find rest;",
+      "translit_en": "Vaomár: mi yitén lí evér kayoná; aefá veeshkoná."
     },
     {
       "num": 8,
@@ -65,7 +72,8 @@
       "he_plain": "הנה ארחיק נדוד אלין במדבר סלה",
       "translit": "Hiné arjík nedód; alín bamidBár. Selá.",
       "es": "He aquí me alejaría huyendo y moraría en el desierto. Selá.",
-      "en": "surely, I would flee far off; I would lodge in the wilderness; selah"
+      "en": "surely, I would flee far off; I would lodge in the wilderness; selah",
+      "translit_en": "Hiné archík nedód; alín bamidBár. Selá."
     },
     {
       "num": 9,
@@ -73,7 +81,8 @@
       "he_plain": "אחישה מפלט לי מרוח סועה מסער",
       "translit": "Ajishá mifLát lí; merúaj soá misáar.",
       "es": "Me apresuraría a escapar del viento tempestuoso, del vendaval.",
-      "en": "I would soon find me a refuge from the sweeping wind, from the tempest.”"
+      "en": "I would soon find me a refuge from the sweeping wind, from the tempest.”",
+      "translit_en": "Achishá mifLát lí; merúach soá misáar."
     },
     {
       "num": 10,
@@ -81,7 +90,8 @@
       "he_plain": "בלע אדני פלג לשונם כי ראיתי חמס וריב בעיר",
       "translit": "Baláa Adonái; paLág leshonám; ki raíti jamás veríiv baír.",
       "es": "Destrúyelos, Señor; confunde su lengua porque he visto violencia y contienda en la ciudad.",
-      "en": "O my Sovereign, confound their speech, confuse it! For I see lawlessness and strife in the city;"
+      "en": "O my Sovereign, confound their speech, confuse it! For I see lawlessness and strife in the city;",
+      "translit_en": "Baláa Adonái; paLág leshonám; ki raíti chamás veríiv baír."
     },
     {
       "num": 11,
@@ -89,7 +99,8 @@
       "he_plain": "יומם ולילה יסובבוה על חומותיה ואון ועמל בקרבה",
       "translit": "Yomám valailá yesovevúha al jomotéiha; veáven vaamál bekirbáh.",
       "es": "De día y de noche la rodean sobre sus muros; iniquidad y trabajo hay en medio de ella.",
-      "en": "day and night they make their rounds on its walls; evil and mischief are inside it."
+      "en": "day and night they make their rounds on its walls; evil and mischief are inside it.",
+      "translit_en": "Yomám valailá yesovevúha al chomotéiha; veáven vaamál bekirbáh."
     },
     {
       "num": 12,
@@ -97,7 +108,8 @@
       "he_plain": "הוות בקרבה ולא ימיש מרחובה תוך ומרמה",
       "translit": "Havót bekirbáh; veló yamísh merejo vAh tój umirmá.",
       "es": "Maldades hay en medio de ella y el fraude y el engaño no se apartan de sus plazas.",
-      "en": "Malice is within it; fraud and deceit never leave its square."
+      "en": "Malice is within it; fraud and deceit never leave its square.",
+      "translit_en": "Havót bekirbáh; veló yamísh merecho vAh tóch umirmá."
     },
     {
       "num": 13,
@@ -105,7 +117,8 @@
       "he_plain": "כי לא אויב יחרפני ואשא לא משנאי עלי הגדיל ואסתר ממנו",
       "translit": "Ki lo oyév yejarpéni veesá; lo mesanéi aláy higdíl veestatér miménu.",
       "es": "Porque no me afrentó un enemigo, eso lo hubiera soportado; ni se engrandeció contra mí el que me aborrece, de él me hubiera escondido.",
-      "en": "It is not an enemy who reviles me —I could bear that; it is not my foe who boasts against me —for then I could hide;"
+      "en": "It is not an enemy who reviles me —I could bear that; it is not my foe who boasts against me —for then I could hide;",
+      "translit_en": "Ki lo oyév yecharpéni veesá; lo mesanéi aláy higdíl veestatér miménu."
     },
     {
       "num": 14,
@@ -113,7 +126,8 @@
       "he_plain": "ואתה אנוש כערכי אלופי ומיודעי",
       "translit": "Veatá enósh keerkí; alufí umyudaí.",
       "es": "Sino tú, un hombre, mi igual, mi compañero y mi amigo íntimo,",
-      "en": "but it is you, my equal, my companion, my friend;"
+      "en": "but it is you, my equal, my companion, my friend;",
+      "translit_en": "Veatá enósh keerkí; alufí umyudaí."
     },
     {
       "num": 15,
@@ -121,7 +135,8 @@
       "he_plain": "אשר יחדו נמתיק סוד בבית אלהים נהלך ברגש",
       "translit": "Ashér yajdáv namtík sod; bevéit Elohím nehaléj beráguesh.",
       "es": "que juntos comunicábamos dulcemente los secretos y andábamos en la casa de Dios en compañía.",
-      "en": "sweet was our fellowship; we walked together in God’s house."
+      "en": "sweet was our fellowship; we walked together in God’s house.",
+      "translit_en": "Ashér yachdáv namtík sod; bevéit Elohím nehaléch beráguesh."
     },
     {
       "num": 16,
@@ -129,7 +144,8 @@
       "he_plain": "ישי מות עלימו ירדו שאול חיים כי רעות במגורם בקרבם",
       "translit": "Yashí mávet aléimo; yeredú sheól jayím; ki raót bemeguRám bekirbám.",
       "es": "Que la muerte les sorprenda; que desciendan vivos al seol porque hay maldades en sus moradas, en medio de ellos.",
-      "en": "Let [God] incite death against them; may they go down alive into Sheol! For where they dwell, there evil is."
+      "en": "Let [God] incite death against them; may they go down alive into Sheol! For where they dwell, there evil is.",
+      "translit_en": "Yashí mávet aléimo; yeredú sheól chayím; ki raót bemeguRám bekirbám."
     },
     {
       "num": 17,
@@ -137,7 +153,8 @@
       "he_plain": "אני אל אלהים אקרא ויהוה יושיעני",
       "translit": "Aní el Elohím ekrá; vaAdonái yoshiéni.",
       "es": "En cuanto a mí, a Dios clamaré y el Eterno me salvará.",
-      "en": "As for me, I call to God; G OD will deliver me."
+      "en": "As for me, I call to God; G OD will deliver me.",
+      "translit_en": "Aní el Elohím ekrá; vaAdonái yoshiéni."
     },
     {
       "num": 18,
@@ -145,7 +162,8 @@
       "he_plain": "ערב ובוקר וצהרים אשיחה ואהמה וישמע קולי",
       "translit": "Érev vabóker vetsahoráyim asijá veehémeh; vayishmá kolí.",
       "es": "Tarde y mañana y a mediodía oraré y clamaré y Él oirá mi voz.",
-      "en": "Evening, morning, and noon, I complain and moan, and my voice is heard."
+      "en": "Evening, morning, and noon, I complain and moan, and my voice is heard.",
+      "translit_en": "Érev vabóker vetsahoráyim asichá veehémeh; vayishmá kolí."
     },
     {
       "num": 19,
@@ -153,7 +171,8 @@
       "he_plain": "פדה בשלום נפשי מקרב לי כי ברבים היו עמדי",
       "translit": "Padá veshalóm nafshí mikeráv lí; ki verabím hayú imadí.",
       "es": "Él redimió en paz mi alma de la guerra contra mí aunque muchos estaban contra mí.",
-      "en": "[God] redeems me unharmed from the battle against me; it is as though many are on my side. a it is as though many are on my side Meaning of Heb. uncertain."
+      "en": "[God] redeems me unharmed from the battle against me; it is as though many are on my side. a it is as though many are on my side Meaning of Heb. uncertain.",
+      "translit_en": "Padá veshalóm nafshí mikeráv lí; ki verabím hayú imadí."
     },
     {
       "num": 20,
@@ -161,7 +180,8 @@
       "he_plain": "ישמע אל ויענם וישב קדם סלה אשר אין חליפות למו ולא יראו אלהים",
       "translit": "Yishmá El veyaaNém; veyoshév kédem Selá; ashér en jaliFot lámo veló yarú Elohím.",
       "es": "Dios oirá y los afligirá; el que está entronizado desde la antigüedad. Selá. Por cuanto no cambian ni temen a Dios.",
-      "en": "God who has reigned from the first, who will have no successor, hears and humbles those who show no reverence. Selah."
+      "en": "God who has reigned from the first, who will have no successor, hears and humbles those who show no reverence. Selah.",
+      "translit_en": "Yishmá El veyaaNém; veyoshév kédem Selá; ashér en chaliFot lámo veló yarú Elohím."
     },
     {
       "num": 21,
@@ -169,7 +189,8 @@
       "he_plain": "שלח ידיו בשלומיו חלל בריתו",
       "translit": "Shalaj yadáv bishloMáv; jilél beritó.",
       "es": "Extendió sus manos contra los que estaban en paz con él; violó su pacto.",
-      "en": "My companion b My companion Heb. “He,” i.e., the friend of v. 14 . caused harm to allies and broke a pact—"
+      "en": "My companion b My companion Heb. “He,” i.e., the friend of v. 14 . caused harm to allies and broke a pact—",
+      "translit_en": "Shalach yadáv bishloMáv; chilél beritó."
     },
     {
       "num": 22,
@@ -177,7 +198,8 @@
       "he_plain": "חלקו מחמאות פיו וקרב לבו רכו דבריו משמן והמה פתיחות",
       "translit": "Jalkú majmaót fív; ukeráv libó; rakú devaráv mishémen; vehéma fetijót.",
       "es": "Los dichos de su boca son más suaves que mantequilla pero guerra hay en su corazón; sus palabras son más blandas que el aceite mas son espadas desnudas.",
-      "en": "with talk smoother than butter, yet with a mind set on war; with words that were softer than oil, yet in fact were drawn swords."
+      "en": "with talk smoother than butter, yet with a mind set on war; with words that were softer than oil, yet in fact were drawn swords.",
+      "translit_en": "Chalkú machmaót fív; ukeráv libó; rakú devaráv mishémen; vehéma fetichót."
     },
     {
       "num": 23,
@@ -185,7 +207,8 @@
       "he_plain": "השלך על יהוה יהבך והוא יכלכלך לא יתן לעולם מוט לצדיק",
       "translit": "Hashlej al Adonái yehavejá; vehu yejalkeleján; lo yitén leolám mot latsadík.",
       "es": "Echa sobre el Eterno tu carga y Él te sustentará; no dejará para siempre caído al justo.",
-      "en": "Cast your burden on G OD and you will be sustained; the righteous will never be allowed to collapse."
+      "en": "Cast your burden on G OD and you will be sustained; the righteous will never be allowed to collapse.",
+      "translit_en": "Hashlech al Adonái yehavechá; vehu yechalkelechán; lo yitén leolám mot latsadík."
     },
     {
       "num": 24,
@@ -193,7 +216,8 @@
       "he_plain": "ואתה אלהים תורידם לבאר שחת אנשי דמים ומרמה לא יחצו ימיהם ואני אבטח בך",
       "translit": "Veatá Elohím toridém livér shájat; anshéi damím umirmá; lo yejetsú yeméihem; vaani evtáj baj.",
       "es": "Mas Tú, oh Dios, harás descender a aquellos al pozo de la destrucción; los hombres sanguinarios y engañadores no llegarán a la mitad de sus días; pero yo en Ti confiaré.",
-      "en": "For You, O God, will bring them down to the nethermost Pit— those treacherous murderers; they shall not live out half their days— but I trust in You."
+      "en": "For You, O God, will bring them down to the nethermost Pit— those treacherous murderers; they shall not live out half their days— but I trust in You.",
+      "translit_en": "Veatá Elohím toridém livér sháchat; anshéi damím umirmá; lo yechetsú yeméihem; vaani evtách bach."
     }
   ],
   "ocasiones": [],

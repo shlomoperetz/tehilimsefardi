@@ -9,7 +9,8 @@
       "he_plain": "למנצח לבני קרח על עלמות שיר",
       "translit": "Lamnatséaj livnéi Kóraj al alamót shír.",
       "es": "Al director. De los hijos de Koraj. Sobre «Las doncellas». Cántico.",
-      "en": "For the leader. Of the Korahites; alamoth . a alamoth Meaning of Heb. uncertain. A song."
+      "en": "For the leader. Of the Korahites; alamoth . a alamoth Meaning of Heb. uncertain. A song.",
+      "translit_en": "Lamnatséach livnéi Kórach al alamót shír."
     },
     {
       "num": 2,
@@ -17,7 +18,8 @@
       "he_plain": "אלהים לנו מחסה ועוז עזרה בצרות נמצא מאד",
       "translit": "Elohím lánu majSéh vaóz; ezrá betsarot nimtsá meód.",
       "es": "Dios es nuestro refugio y fortaleza; socorro muy presente en las angustias.",
-      "en": "God is our refuge and stronghold, a help in trouble, very near."
+      "en": "God is our refuge and stronghold, a help in trouble, very near.",
+      "translit_en": "Elohím lánu machSéh vaóz; ezrá betsarot nimtsá meód."
     },
     {
       "num": 3,
@@ -25,7 +27,8 @@
       "he_plain": "על כן לא נירא בהמיר ארץ ובמוט הרים בלב ימים",
       "translit": "Al kén lo nirá behamír árets; uvemot harím belév yamím.",
       "es": "Por tanto no temeremos aunque la tierra sea removida y aunque los montes se trasladen al corazón del mar.",
-      "en": "Therefore we are not afraid though the earth reels, though mountains topple into the sea—"
+      "en": "Therefore we are not afraid though the earth reels, though mountains topple into the sea—",
+      "translit_en": "Al kén lo nirá behamír árets; uvemot harím belév yamím."
     },
     {
       "num": 4,
@@ -33,7 +36,8 @@
       "he_plain": "יהמו יחמרו מימיו ירעשו הרים בגאוותו סלה",
       "translit": "Yehemú yejmeru méimav; yirashu harím begaavató. Selá.",
       "es": "Bramen y se turben sus aguas; tiemblen los montes con su hinchazón. Selá.",
-      "en": "its waters rage and foam; in its swell mountains quake. Selah."
+      "en": "its waters rage and foam; in its swell mountains quake. Selah.",
+      "translit_en": "Yehemú yechmeru méimav; yirashu harím begaavató. Selá."
     },
     {
       "num": 5,
@@ -41,7 +45,8 @@
       "he_plain": "נהר פלגיו ישמחו עיר אלהים קדוש משכני עליון",
       "translit": "Nahár pelagáv yesameJú ír Elohím; kedósh mishkenéi Elyón.",
       "es": "Del río sus corrientes alegran la ciudad de Dios; el santuario de las moradas del Altísimo.",
-      "en": "There is a river whose streams gladden God’s city, the holy dwelling-place of the Most High."
+      "en": "There is a river whose streams gladden God’s city, the holy dwelling-place of the Most High.",
+      "translit_en": "Nahár pelagáv yesameChú ír Elohím; kedósh mishkenéi Elyón."
     },
     {
       "num": 6,
@@ -49,7 +54,8 @@
       "he_plain": "אלהים בקרבה בל תמוט יעזרה אלהים לפנות בוקר",
       "translit": "Elohím bekirbáh bal timót; yaazreáh Elohím lifnót bóker.",
       "es": "Dios está en medio de ella; no será conmovida; Dios la ayudará al clarear la mañana.",
-      "en": "God is in its midst, it will not be toppled; by daybreak God will come to its aid."
+      "en": "God is in its midst, it will not be toppled; by daybreak God will come to its aid.",
+      "translit_en": "Elohím bekirbáh bal timót; yaazreáh Elohím lifnót bóker."
     },
     {
       "num": 7,
@@ -57,7 +63,8 @@
       "he_plain": "המו גוים מטו ממלכות נתן בקולו תמוג ארץ",
       "translit": "Hamú goyím; matú mamlaJót; natán bekólo tamúg árets.",
       "es": "Bramaron las naciones; vacilaron los reinos; dio Él Su voz y se derritió la tierra.",
-      "en": "Nations rage, kingdoms topple; at the sound of God’s thunder the earth dissolves."
+      "en": "Nations rage, kingdoms topple; at the sound of God’s thunder the earth dissolves.",
+      "translit_en": "Hamú goyím; matú mamlaChót; natán bekólo tamúg árets."
     },
     {
       "num": 8,
@@ -65,7 +72,8 @@
       "he_plain": "יהוה צבאות עמנו משגב לנו אלהי יעקב סלה",
       "translit": "Adonái tsvaót imánu; misgáv lánu Elohéi Yaakóv. Selá.",
       "es": "El Eterno de los ejércitos está con nosotros; nuestro refugio es el Dios de Yaakov. Selá.",
-      "en": "G OD of hosts is with us; the God of Jacob is our haven. Selah."
+      "en": "G OD of hosts is with us; the God of Jacob is our haven. Selah.",
+      "translit_en": "Adonái tsvaót imánu; misgáv lánu Elohéi Yaakóv. Selá."
     },
     {
       "num": 9,
@@ -73,7 +81,8 @@
       "he_plain": "לכו חזו מפעלות יהוה אשר שם שמות בארץ",
       "translit": "Lejú jazú mifaalót Adonái; ashér sam shamót baárets.",
       "es": "Venid y ved las obras del Eterno, que ha puesto asolamientos en la tierra.",
-      "en": "Come and see what G OD has done, how devastation has been wrought on the earth."
+      "en": "Come and see what G OD has done, how devastation has been wrought on the earth.",
+      "translit_en": "Lechú chazú mifaalót Adonái; ashér sam shamót baárets."
     },
     {
       "num": 10,
@@ -81,7 +90,8 @@
       "he_plain": "משבית מלחמות עד קצה הארץ קשת ישבר וקצץ חנית עגלות ישרף באש",
       "translit": "Mashbít miljaJmót ad ketsé haárets; késhet yeshabér vekiTséts janít; agalót yisróf baésh.",
       "es": "Él hace cesar las guerras hasta los confines de la tierra; quiebra el arco, corta la lanza y quema los carros en el fuego.",
-      "en": "[God] puts a stop to wars throughout the earth, breaking the bow, snapping the spear, consigning wagons to the flames."
+      "en": "[God] puts a stop to wars throughout the earth, breaking the bow, snapping the spear, consigning wagons to the flames.",
+      "translit_en": "Mashbít milchaChmót ad ketsé haárets; késhet yeshabér vekiTséts chanít; agalót yisróf baésh."
     },
     {
       "num": 11,
@@ -89,7 +99,8 @@
       "he_plain": "הרפו ודעו כי אנכי אלהים ארום בגוים ארום בארץ",
       "translit": "Harpú udeú ki anojí Elohím; arúm bagoyím arúm baárets.",
       "es": "Estad quietos y sabed que Yo soy Dios; seré exaltado entre las naciones, seré exaltado en la tierra.",
-      "en": "“Desist! Realize that I am God! I dominate the nations; I dominate the earth.”"
+      "en": "“Desist! Realize that I am God! I dominate the nations; I dominate the earth.”",
+      "translit_en": "Harpú udeú ki anochí Elohím; arúm bagoyím arúm baárets."
     },
     {
       "num": 12,
@@ -97,7 +108,8 @@
       "he_plain": "יהוה צבאות עמנו משגב לנו אלהי יעקב סלה",
       "translit": "Adonái tsvaót imánu; misgáv lánu Elohéi Yaakóv. Selá.",
       "es": "El Eterno de los ejércitos está con nosotros; nuestro refugio es el Dios de Yaakov. Selá.",
-      "en": "G OD of hosts is with us; the God of Jacob is our haven. Selah."
+      "en": "G OD of hosts is with us; the God of Jacob is our haven. Selah.",
+      "translit_en": "Adonái tsvaót imánu; misgáv lánu Elohéi Yaakóv. Selá."
     }
   ],
   "ocasiones": [],

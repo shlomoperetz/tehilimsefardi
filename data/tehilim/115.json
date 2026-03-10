@@ -8,7 +8,8 @@
       "he_plain": "לא לנו יהוה לא לנו כי לשמך תן כבוד על חסדך על אמתך",
       "translit": "Lo lánu Adonái lo lánu; ki leshimejá tén kavód; al jasdejá al eMetéja.",
       "es": "No a nosotros, oh Eterno, no a nosotros sino a Tu nombre da gloria; por Tu bondad leal y por Tu verdad.",
-      "en": "Not to us, O E TERNAL One, not to us but to Your name bring glory for the sake of Your love and Your faithfulness."
+      "en": "Not to us, O E TERNAL One, not to us but to Your name bring glory for the sake of Your love and Your faithfulness.",
+      "translit_en": "Lo lánu Adonái lo lánu; ki leshimechá tén kavód; al chasdechá al eMetécha."
     },
     {
       "num": 2,
@@ -16,7 +17,8 @@
       "he_plain": "למה יאמרו הגוים איה נא אלהיהם",
       "translit": "Láma yomerú hagoyím; ayé ná Elohéihem.",
       "es": "¿Por qué dirán las naciones: Dónde está ahora su Dios?",
-      "en": "Let the nations not say, “Where, now, is their God?”"
+      "en": "Let the nations not say, “Where, now, is their God?”",
+      "translit_en": "Láma yomerú hagoyím; ayé ná Elohéihem."
     },
     {
       "num": 3,
@@ -24,7 +26,8 @@
       "he_plain": "ואלהינו בשמים כל אשר חפץ עשה",
       "translit": "Velohéinu bashamáyim; kol ashér jafets asá.",
       "es": "Nuestro Dios está en los cielos; todo lo que quiso ha hecho.",
-      "en": "when our God is in heaven and whatever [God] wants is accomplished."
+      "en": "when our God is in heaven and whatever [God] wants is accomplished.",
+      "translit_en": "Velohéinu bashamáyim; kol ashér chafets asá."
     },
     {
       "num": 4,
@@ -32,7 +35,8 @@
       "he_plain": "עצביהם כסף וזהב מעשה ידי אדם",
       "translit": "Atsabéihem késef vezaháv; maaséh yedéi adám.",
       "es": "Los ídolos de ellos son plata y oro; obra de manos de hombres.",
-      "en": "a Cf. Ps. 135.15–20 . Their idols are silver and gold, the work of human hands."
+      "en": "a Cf. Ps. 135.15–20 . Their idols are silver and gold, the work of human hands.",
+      "translit_en": "Atsabéihem késef vezaháv; maaséh yedéi adám."
     },
     {
       "num": 5,
@@ -40,7 +44,8 @@
       "he_plain": "פה להם ולא ידברו עינים להם ולא יראו",
       "translit": "Péh lahém velo yedabéru; einayím lahém velo yiRú.",
       "es": "Tienen boca pero no hablan; tienen ojos pero no ven.",
-      "en": "They have mouths, but cannot speak, eyes, but cannot see;"
+      "en": "They have mouths, but cannot speak, eyes, but cannot see;",
+      "translit_en": "Péh lahém velo yedabéru; einayím lahém velo yiRú."
     },
     {
       "num": 6,
@@ -48,7 +53,8 @@
       "he_plain": "אזנים להם ולא ישמעו אף להם ולא יריחון",
       "translit": "Oznaím lahém velo yishmáu; af lahém velo yerijanún.",
       "es": "Tienen oídos pero no oyen; tienen nariz pero no huelen.",
-      "en": "they have ears, but cannot hear, noses, but cannot smell;"
+      "en": "they have ears, but cannot hear, noses, but cannot smell;",
+      "translit_en": "Oznaím lahém velo yishmáu; af lahém velo yerichanún."
     },
     {
       "num": 7,
@@ -56,7 +62,8 @@
       "he_plain": "ידיהם ולא ימישון רגליהם ולא יהלכו לא יהגו בגרונם",
       "translit": "Yedéihem velo yemishún; ragléihem velo yehalEjú; lo yehgú bigroNám.",
       "es": "Tienen manos pero no palpan; tienen pies pero no andan; no hablan con su garganta.",
-      "en": "they have hands, but cannot touch, feet, but cannot walk; they can make no sound in their throats."
+      "en": "they have hands, but cannot touch, feet, but cannot walk; they can make no sound in their throats.",
+      "translit_en": "Yedéihem velo yemishún; ragléihem velo yehalEchú; lo yehgú bigroNám."
     },
     {
       "num": 8,
@@ -64,7 +71,8 @@
       "he_plain": "כמוהם יהיו עשיהם כל אשר בטח בהם",
       "translit": "Kemohém yihyú oséihem; kol ashér botéaj bahém.",
       "es": "Como ellos son los que los hacen; cualquiera que en ellos confía.",
-      "en": "Those who fashion them, all who trust in them, shall become like them."
+      "en": "Those who fashion them, all who trust in them, shall become like them.",
+      "translit_en": "Kemohém yihyú oséihem; kol ashér botéach bahém."
     },
     {
       "num": 9,
@@ -72,7 +80,8 @@
       "he_plain": "ישראל בטח ביהוה עזרם ומגנם הוא",
       "translit": "Yisraél betáj baAdonái; ezrám umaguinám hu.",
       "es": "Israel confía en el Eterno; Él es su ayuda y su escudo.",
-      "en": "O Israel, trust in G OD — who is your b your Heb. “their.” help and shield."
+      "en": "O Israel, trust in G OD — who is your b your Heb. “their.” help and shield.",
+      "translit_en": "Yisraél betách baAdonái; ezrám umaguinám hu."
     },
     {
       "num": 10,
@@ -80,7 +89,8 @@
       "he_plain": "בית אהרן בטחו ביהוה עזרם ומגנם הוא",
       "translit": "Beit Aharón bitjú baAdonái; ezrám umaguinám hu.",
       "es": "Casa de Aharón confiad en el Eterno; Él es vuestra ayuda y vuestro escudo.",
-      "en": "O house of Aaron, trust in G OD — who is your c your See note at v. 9 . help and shield."
+      "en": "O house of Aaron, trust in G OD — who is your c your See note at v. 9 . help and shield.",
+      "translit_en": "Beit Aharón bitchú baAdonái; ezrám umaguinám hu."
     },
     {
       "num": 11,
@@ -88,7 +98,8 @@
       "he_plain": "יראי יהוה בטחו ביהוה עזרם ומגנם הוא",
       "translit": "Yiréi Adonái bitjú baAdonái; ezrám umaguinám hu.",
       "es": "Los que teméis al Eterno confiad en el Eterno; Él es vuestra ayuda y vuestro escudo.",
-      "en": "O you who fear G OD , trust in G OD — who is your d your See note at v. 9 . help and shield."
+      "en": "O you who fear G OD , trust in G OD — who is your d your See note at v. 9 . help and shield.",
+      "translit_en": "Yiréi Adonái bitchú baAdonái; ezrám umaguinám hu."
     },
     {
       "num": 12,
@@ -96,7 +107,8 @@
       "he_plain": "יהוה זכרנו יברך יברך את בית ישראל יברך את בית אהרן",
       "translit": "Adonái zejarAnu yevarEj; yevarEj et beit Yisraél; yevarEj et beit Aharón.",
       "es": "El Eterno se acordó de nosotros y bendecirá; bendecirá a la casa de Israel; bendecirá a la casa de Aharón.",
-      "en": "G OD , mindful of us, will bless us— blessing the house of Israel, blessing the house of Aaron,"
+      "en": "G OD , mindful of us, will bless us— blessing the house of Israel, blessing the house of Aaron,",
+      "translit_en": "Adonái zecharAnu yevarEch; yevarEch et beit Yisraél; yevarEch et beit Aharón."
     },
     {
       "num": 13,
@@ -104,7 +116,8 @@
       "he_plain": "יברך יראי יהוה הקטנים עם הגדלים",
       "translit": "Yevarék yiréi Adonái; hakteNím im hagdolím.",
       "es": "Bendecirá a los que temen al Eterno; a los pequeños junto con los grandes.",
-      "en": "and blessing those who revere G OD , small and great alike."
+      "en": "and blessing those who revere G OD , small and great alike.",
+      "translit_en": "Yevarék yiréi Adonái; hakteNím im hagdolím."
     },
     {
       "num": 14,
@@ -112,7 +125,8 @@
       "he_plain": "יסף יהוה עליכם עליכם ועל בניכם",
       "translit": "Yosél Adonái aléijem; aléijem veal bnéijem.",
       "es": "El Eterno os aumentará; a vosotros y a vuestros hijos.",
-      "en": "May G OD increase your numbers, yours and your children’s also."
+      "en": "May G OD increase your numbers, yours and your children’s also.",
+      "translit_en": "Yosél Adonái aléichem; aléichem veal bnéichem."
     },
     {
       "num": 15,
@@ -120,7 +134,8 @@
       "he_plain": "ברוכים אתם ליהוה עשה שמים וארץ",
       "translit": "Brujím atem laAdonái; oséh shamáyim vaárets.",
       "es": "Benditos sois vosotros del Eterno que hizo los cielos y la tierra.",
-      "en": "May you be blessed by G OD , Maker of heaven and earth."
+      "en": "May you be blessed by G OD , Maker of heaven and earth.",
+      "translit_en": "Bruchím atem laAdonái; oséh shamáyim vaárets."
     },
     {
       "num": 16,
@@ -128,7 +143,8 @@
       "he_plain": "השמים שמים ליהוה והארץ נתן לבני אדם",
       "translit": "Hashamáyim shamáyim laAdonái; vehaárets natán livnéi adám.",
       "es": "Los cielos son los cielos del Eterno; pero la tierra la dio a los hijos de los hombres.",
-      "en": "The heavens belong to G OD , but the earth was given over to humankind."
+      "en": "The heavens belong to G OD , but the earth was given over to humankind.",
+      "translit_en": "Hashamáyim shamáyim laAdonái; vehaárets natán livnéi adám."
     },
     {
       "num": 17,
@@ -136,7 +152,8 @@
       "he_plain": "לא המתים יהללו יה ולא כל ירדי דומה",
       "translit": "Lo hamétim yehalelú Yáh; velo kol yordéi dumá.",
       "es": "No los muertos alabarán al Eterno ni ninguno de los que descienden al silencio.",
-      "en": "The dead cannot praise Yah, e Yah See note at 68.5 . nor any who go down into silence."
+      "en": "The dead cannot praise Yah, e Yah See note at 68.5 . nor any who go down into silence.",
+      "translit_en": "Lo hamétim yehalelú Yáh; velo kol yordéi dumá."
     },
     {
       "num": 18,
@@ -144,7 +161,8 @@
       "he_plain": "ואנחנו נברך יה מעתה ועד עולם הללו יה {פ}",
       "translit": "VaanájnU nevArEj Yáh; meata vead olám. Haleluyá.",
       "es": "Pero nosotros bendeciremos al Eterno desde ahora y para siempre. ¡Aleluya!",
-      "en": "But we will bless Yah now and forever. Hallelujah."
+      "en": "But we will bless Yah now and forever. Hallelujah.",
+      "translit_en": "VaanáchnU nevArEch Yáh; meata vead olám. Haleluyá."
     }
   ],
   "audio": "",

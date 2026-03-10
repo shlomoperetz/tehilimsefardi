@@ -8,7 +8,8 @@
       "he_plain": "הללו יה כי טוב זמרה אלהינו כי נעים נאוה תהלה",
       "translit": "Haleluyá. Ki tov zaméra Elohéinu; ki naím naá tehilá.",
       "es": "¡Aleluya! Porque es bueno cantar salmos a nuestro Dios; porque es agradable y bella es la alabanza.",
-      "en": "Hallelujah. It is good to chant hymns to our God; it is pleasant to sing glorious praise."
+      "en": "Hallelujah. It is good to chant hymns to our God; it is pleasant to sing glorious praise.",
+      "translit_en": "Haleluyá. Ki tov zaméra Elohéinu; ki naím naá tehilá."
     },
     {
       "num": 2,
@@ -16,7 +17,8 @@
       "he_plain": "בונה ירושל͏ם יהוה נדחי ישראל יכנס",
       "translit": "Boné Yerushalaím Adonái; nidéi Yisraél yejaNés.",
       "es": "El Eterno edifica Yerushaláyim; a los dispersos de Israel congregará.",
-      "en": "G OD rebuilds Jerusalem, gathering in the exiles of Israel—"
+      "en": "G OD rebuilds Jerusalem, gathering in the exiles of Israel—",
+      "translit_en": "Boné Yerushalaím Adonái; nidéi Yisraél yechaNés."
     },
     {
       "num": 3,
@@ -24,7 +26,8 @@
       "he_plain": "הרפא לשבורי לב ומחבש לעצבותם",
       "translit": "HaRofé lishvuréi léb; umejabésh leatsevotám.",
       "es": "El que sana a los quebrantados de corazón y venda sus heridas.",
-      "en": "healing their broken hearts, and binding up their wounds."
+      "en": "healing their broken hearts, and binding up their wounds.",
+      "translit_en": "HaRofé lishvuréi léb; umechabésh leatsevotám."
     },
     {
       "num": 4,
@@ -32,7 +35,8 @@
       "he_plain": "מונה מספר לכוכבים לכלם שמות יקרא",
       "translit": "Moné mispar lajojávím; lejulám shemót yikrá.",
       "es": "Él cuenta el número de las estrellas; a todas ellas llama por sus nombres.",
-      "en": "[God] reckoned the number of the stars and gave each its name."
+      "en": "[God] reckoned the number of the stars and gave each its name.",
+      "translit_en": "Moné mispar lachochávím; lechulám shemót yikrá."
     },
     {
       "num": 5,
@@ -40,7 +44,8 @@
       "he_plain": "גדול אדונינו ורב כח לתבונתו אין מספר",
       "translit": "Gadól adoneínu veráv koaj; litevunató en mispar.",
       "es": "Grande es el Señor nuestro y de mucho poder; y Su entendimiento es infinito.",
-      "en": "Great and full of power is our Sovereign— whose wisdom is beyond reckoning."
+      "en": "Great and full of power is our Sovereign— whose wisdom is beyond reckoning.",
+      "translit_en": "Gadól adoneínu veráv koach; litevunató en mispar."
     },
     {
       "num": 6,
@@ -48,7 +53,8 @@
       "he_plain": "מעודד ענוים יהוה משפיל רשעים עדי ארץ",
       "translit": "Meodéd anavím Adonái; mashpíl reshaím adéi árets.",
       "es": "El Eterno exalta a los humildes y humilla a los impíos hasta la tierra.",
-      "en": "G OD gives courage to the lowly, and brings the wicked down to the dust."
+      "en": "G OD gives courage to the lowly, and brings the wicked down to the dust.",
+      "translit_en": "Meodéd anavím Adonái; mashpíl reshaím adéi árets."
     },
     {
       "num": 7,
@@ -56,7 +62,8 @@
       "he_plain": "ענו ליהוה בתודה זמרו לאלהינו בכנור",
       "translit": "Anú laAdonái betodá; zaméru leElohéinu bejinór.",
       "es": "Cantad al Eterno con acción de gracias; cantad con arpa a nuestro Dios.",
-      "en": "Sing to G OD a song of praise, chant a hymn with a lyre to our God,"
+      "en": "Sing to G OD a song of praise, chant a hymn with a lyre to our God,",
+      "translit_en": "Anú laAdonái betodá; zaméru leElohéinu bechinór."
     },
     {
       "num": 8,
@@ -64,7 +71,8 @@
       "he_plain": "המכסה שמים בעבים המכין לארץ מטר המצמיח הרים חציר",
       "translit": "HaMejaséh shamáyim beabím; hamejín laárets matár; hamatsmiáj harím jasír.",
       "es": "El que cubre los cielos de nubes y prepara la lluvia para la tierra; el que hace a los montes producir hierba.",
-      "en": "who covers the heavens with clouds, provides rain for the earth, makes mountains put forth grass;"
+      "en": "who covers the heavens with clouds, provides rain for the earth, makes mountains put forth grass;",
+      "translit_en": "HaMechaséh shamáyim beabím; hamechín laárets matár; hamatsmiách harím chasír."
     },
     {
       "num": 9,
@@ -72,7 +80,8 @@
       "he_plain": "נותן לבהמה לחמה לבני ערב אשר יקראו",
       "translit": "Notén livhemá laHmáh; livnéi oréiv ashér yikráu.",
       "es": "El que da a la bestia su alimento y a los hijos del cuervo que claman.",
-      "en": "who gives the beasts their food, to the raven’s brood what they cry for."
+      "en": "who gives the beasts their food, to the raven’s brood what they cry for.",
+      "translit_en": "Notén livhemá laHmáh; livnéi oréiv ashér yikráu."
     },
     {
       "num": 10,
@@ -80,7 +89,8 @@
       "he_plain": "לא בגבורת הסוס יחפץ לא בשוקי האיש ירצה",
       "translit": "Lo viguevurát hasús yejepáts; lo veshokéi haísh yirtséh.",
       "es": "No se deleita en la fuerza del caballo ni se complace en las piernas del hombre.",
-      "en": "[God] does not prize the strength of horses, nor value the warrior’s fleetness; a fleetness Or “prowess”; lit. “thighs.”"
+      "en": "[God] does not prize the strength of horses, nor value the warrior’s fleetness; a fleetness Or “prowess”; lit. “thighs.”",
+      "translit_en": "Lo viguevurát hasús yechepáts; lo veshokéi haísh yirtséh."
     },
     {
       "num": 11,
@@ -88,7 +98,8 @@
       "he_plain": "רוצה יהוה את יראיו את המיחלים לחסדו",
       "translit": "Rotséh Adonái et yerEáv; et hameyajalím lejisdó.",
       "es": "Se complace el Eterno en los que le temen y en los que esperan en Su bondad leal.",
-      "en": "but G OD values those who show reverence, those who depend on God’s faithful care."
+      "en": "but G OD values those who show reverence, those who depend on God’s faithful care.",
+      "translit_en": "Rotséh Adonái et yerEáv; et hameyachalím lechisdó."
     },
     {
       "num": 12,
@@ -96,7 +107,8 @@
       "he_plain": "שבחי ירושל͏ם את יהוה הללי אלהיך ציון",
       "translit": "ShabeHí Yerushalaím et Adonái; halelI Elohájij Tsiyón.",
       "es": "Alaba, oh Yerushaláyim, al Eterno; alaba a tu Dios, oh Tsión.",
-      "en": "O Jerusalem, glorify G OD ; praise your God, O Zion!"
+      "en": "O Jerusalem, glorify G OD ; praise your God, O Zion!",
+      "translit_en": "ShabeHí Yerushalaím et Adonái; halelI Eloháchich Tsiyón."
     },
     {
       "num": 13,
@@ -104,7 +116,8 @@
       "he_plain": "כי חזק בריחי שעריך ברך בניך בקרבך",
       "translit": "Ki jizáK berijéi shearáyij; béraj banáyij bekirbéj.",
       "es": "Porque ha fortalecido los cerrojos de tus puertas; ha bendecido a tus hijos dentro de ti.",
-      "en": "For the bars of your gates have been made strong, and your children have been blessed within you."
+      "en": "For the bars of your gates have been made strong, and your children have been blessed within you.",
+      "translit_en": "Ki chizáK berichéi shearáyich; bérach banáyich bekirbéch."
     },
     {
       "num": 14,
@@ -112,7 +125,8 @@
       "he_plain": "השם גבולך שלום חלב חטים ישביעך",
       "translit": "HaSám guevuléj shalóm; jelév jitím yasbijéj.",
       "es": "Él pone en paz tu territorio y te sacia con lo mejor del trigo.",
-      "en": "Your realm has been endowed with well-being, and you have been satisfied with choice wheat."
+      "en": "Your realm has been endowed with well-being, and you have been satisfied with choice wheat.",
+      "translit_en": "HaSám guevuléch shalóm; chelév chitím yasbichéch."
     },
     {
       "num": 15,
@@ -120,7 +134,8 @@
       "he_plain": "השלח אמרתו ארץ עד מהרה ירוץ דברו",
       "translit": "HaSholeáj imratO árets; ad meherá yarúts devaró.",
       "es": "Él envía Su palabra a la tierra; con gran velocidad corre Su palabra.",
-      "en": "[God] sends forth words to the earth with swift commands."
+      "en": "[God] sends forth words to the earth with swift commands.",
+      "translit_en": "HaSholeách imratO árets; ad meherá yarúts devaró."
     },
     {
       "num": 16,
@@ -128,7 +143,8 @@
       "he_plain": "הנתן שלג כצמר כפור כאפר יפזר",
       "translit": "HaNotén shéleg katsamér; kefor kaéfer yefazér.",
       "es": "Da la nieve como lana y esparce la escarcha como ceniza.",
-      "en": "[God] lays down snow like fleece, scatters frost like ashes."
+      "en": "[God] lays down snow like fleece, scatters frost like ashes.",
+      "translit_en": "HaNotén shéleg katsamér; kefor kaéfer yefazér."
     },
     {
       "num": 17,
@@ -136,7 +152,8 @@
       "he_plain": "משליך קרחו כפתים לפני קרתו מי יעמד",
       "translit": "Mashléij karjó jefitím; lifné karatO mí yaamod.",
       "es": "Echa su hielo como pedazos; ante Su frío ¿quién se sostendrá?",
-      "en": "[God] tosses down hail like crumbs— who can endure such icy cold?"
+      "en": "[God] tosses down hail like crumbs— who can endure such icy cold?",
+      "translit_en": "Mashléich karchó chefitím; lifné karatO mí yaamod."
     },
     {
       "num": 18,
@@ -144,7 +161,8 @@
       "he_plain": "ישלח דברו וימסם ישב רוחו יזלו מים",
       "translit": "Yishlaj devaró veyamsém; yashéb rujó yizLú máyim.",
       "es": "Enviará Su palabra y los derretirá; soplará Su viento y fluirán las aguas.",
-      "en": "[God] issues a command—it melts them; breathes, and the waters flow."
+      "en": "[God] issues a command—it melts them; breathes, and the waters flow.",
+      "translit_en": "Yishlach devaró veyamsém; yashéb ruchó yizLú máyim."
     },
     {
       "num": 19,
@@ -152,7 +170,8 @@
       "he_plain": "מגיד דברו ליעקב חקיו ומשפטיו לישראל",
       "translit": "MaGíd devaráv leYaakóv; juKáv umishpatáv leYisraél.",
       "es": "Ha manifestado Sus palabras a Yaakov; Sus estatutos y Sus juicios a Israel.",
-      "en": "Divine commands were issued to Jacob, God’s statutes and rules to Israel."
+      "en": "Divine commands were issued to Jacob, God’s statutes and rules to Israel.",
+      "translit_en": "MaGíd devaráv leYaakóv; chuKáv umishpatáv leYisraél."
     },
     {
       "num": 20,
@@ -160,7 +179,8 @@
       "he_plain": "לא עשה כן לכל גוי ומשפטים בל ידעום הללו יה {פ}",
       "translit": "Lo asá jén lejol goy; umishpatím bal yadaúm. Haleluyá.",
       "es": "No ha hecho así con ninguna otra nación y en cuanto a Sus juicios no los conocieron. ¡Aleluya!",
-      "en": "This was not done for any other nation; of such rules they know nothing. Hallelujah."
+      "en": "This was not done for any other nation; of such rules they know nothing. Hallelujah.",
+      "translit_en": "Lo asá chén lechol goy; umishpatím bal yadaúm. Haleluyá."
     }
   ],
   "audio": "",

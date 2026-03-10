@@ -8,7 +8,8 @@
       "he_plain": "הללו יה הללו את יהוה מן השמים הללוהו במרומים",
       "translit": "Haleluyá. HalelU et Adonái min hashamáyim; halelúhu bameromím.",
       "es": "¡Aleluya! Alabad al Eterno desde los cielos; alabadle en las alturas.",
-      "en": "Hallelujah. Praise G OD from the heavens; give praise on high."
+      "en": "Hallelujah. Praise G OD from the heavens; give praise on high.",
+      "translit_en": "Haleluyá. HalelU et Adonái min hashamáyim; halelúhu bameromím."
     },
     {
       "num": 2,
@@ -16,7 +17,8 @@
       "he_plain": "הללוהו כל מלאכיו הללוהו כל צבאו",
       "translit": "HalelúHu jol malaJáv; halelúhu jol tsvaáv.",
       "es": "Alabadle todos Sus ángeles; alabadle todos Sus ejércitos.",
-      "en": "Give praise, all you angels, give praise, all divine hosts."
+      "en": "Give praise, all you angels, give praise, all divine hosts.",
+      "translit_en": "HalelúHu chol malaCháv; halelúhu chol tsvaáv."
     },
     {
       "num": 3,
@@ -24,7 +26,8 @@
       "he_plain": "הללוהו שמש וירח הללוהו כל כוכבי אור",
       "translit": "HalelúHu shémesh veyaréaj; halelúhu kol kojvéi or.",
       "es": "Alabadle sol y luna; alabadle todas las estrellas de luz.",
-      "en": "Give praise, sun and moon, give praise, all bright stars."
+      "en": "Give praise, sun and moon, give praise, all bright stars.",
+      "translit_en": "HalelúHu shémesh veyaréach; halelúhu kol kochvéi or."
     },
     {
       "num": 4,
@@ -32,7 +35,8 @@
       "he_plain": "הללוהו שמי השמים והמים אשר מעל השמים",
       "translit": "HalelúHu shméi hashamáyim; vehamáyim ashér meal hashamáyim.",
       "es": "Alabadle cielos de los cielos y las aguas que están sobre los cielos.",
-      "en": "Give praise, highest heavens, and you waters that are above the heavens."
+      "en": "Give praise, highest heavens, and you waters that are above the heavens.",
+      "translit_en": "HalelúHu shméi hashamáyim; vehamáyim ashér meal hashamáyim."
     },
     {
       "num": 5,
@@ -40,7 +44,8 @@
       "he_plain": "יהללו את שם יהוה כי הוא צוה ונבראו",
       "translit": "YehalelU et shem Adonái; ki hú tsivá venibraú.",
       "es": "Alaben el nombre del Eterno porque Él mandó y fueron creados.",
-      "en": "Let them praise the name of G OD — who commanded that they be created,"
+      "en": "Let them praise the name of G OD — who commanded that they be created,",
+      "translit_en": "YehalelU et shem Adonái; ki hú tsivá venibraú."
     },
     {
       "num": 6,
@@ -48,7 +53,8 @@
       "he_plain": "ויעמידם לעד לעולם חק נתן ולא יעבור",
       "translit": "VayaamiDém laad leolám; jok natán velo yeavór.",
       "es": "Los hizo subsistir para siempre; les puso ley que no será traspasada.",
-      "en": "and who made them endure forever, establishing an order that shall never change."
+      "en": "and who made them endure forever, establishing an order that shall never change.",
+      "translit_en": "VayaamiDém laad leolám; chok natán velo yeavór."
     },
     {
       "num": 7,
@@ -56,7 +62,8 @@
       "he_plain": "הללו את יהוה מן הארץ תנינים וכל תהמות",
       "translit": "HalelU et Adonái min haárets; taniním vejol tehomót.",
       "es": "Alabad al Eterno desde la tierra; los dragones y todos los abismos.",
-      "en": "Praise G OD , O you who are on earth, all sea monsters and ocean depths,"
+      "en": "Praise G OD , O you who are on earth, all sea monsters and ocean depths,",
+      "translit_en": "HalelU et Adonái min haárets; taniním vechol tehomót."
     },
     {
       "num": 8,
@@ -64,7 +71,8 @@
       "he_plain": "אש וברד שלג וקיטור רוח סערה עשה דברו",
       "translit": "Esh ubarád shéleg vekaítor; rúaj searA osá devaró.",
       "es": "El fuego y el granizo la nieve y el vapor; el viento de tempestad que ejecuta Su palabra.",
-      "en": "fire and hail, snow and smoke, storm wind that executes God’s command,"
+      "en": "fire and hail, snow and smoke, storm wind that executes God’s command,",
+      "translit_en": "Esh ubarád shéleg vekaítor; rúach searA osá devaró."
     },
     {
       "num": 9,
@@ -72,7 +80,8 @@
       "he_plain": "ההרים וכל גבעות עץ פרי וכל ארזים",
       "translit": "HeHarím vejol guevAot; ets perí vejol arazím.",
       "es": "Los montes y todos los collados; el árbol de fruto y todos los cedros.",
-      "en": "all mountains and hills, all fruit trees and cedars,"
+      "en": "all mountains and hills, all fruit trees and cedars,",
+      "translit_en": "HeHarím vechol guevAot; ets perí vechol arazím."
     },
     {
       "num": 10,
@@ -80,7 +89,8 @@
       "he_plain": "החיה וכל בהמה רמש וצפור כנף",
       "translit": "HaJayá vejol behemá; rémes vetsipór kanáf.",
       "es": "La bestia y todo animal; el reptil y el ave alada.",
-      "en": "all wild and tamed animals, creeping things and winged birds,"
+      "en": "all wild and tamed animals, creeping things and winged birds,",
+      "translit_en": "HaChayá vechol behemá; rémes vetsipór kanáf."
     },
     {
       "num": 11,
@@ -88,7 +98,8 @@
       "he_plain": "מלכי ארץ וכל לאמים שרים וכל שפטי ארץ",
       "translit": "MalJéi érets vejol leumím; sarím vejol shofetéi árets.",
       "es": "Los reyes de la tierra y todos los pueblos; los príncipes y todos los jueces de la tierra.",
-      "en": "all kings and peoples of the earth, all princes of the earth and its judges,"
+      "en": "all kings and peoples of the earth, all princes of the earth and its judges,",
+      "translit_en": "MalChéi érets vechol leumím; sarím vechol shofetéi árets."
     },
     {
       "num": 12,
@@ -96,7 +107,8 @@
       "he_plain": "בחורים וגם בתולות זקנים עם נערים",
       "translit": "BajurIm vegam betulót; zekením im neárim.",
       "es": "Los jóvenes y también las doncellas; los ancianos y los niños.",
-      "en": "youths and maidens alike, old and young together."
+      "en": "youths and maidens alike, old and young together.",
+      "translit_en": "BachurIm vegam betulót; zekením im neárim."
     },
     {
       "num": 13,
@@ -104,7 +116,8 @@
       "he_plain": "יהללו את שם יהוה כי נשגב שמו לבדו הודו על ארץ ושמים",
       "translit": "YehalelU et shem Adonái; ki nisgáv shemó levadó; hodó al érets veshamáyim.",
       "es": "Alaben el nombre del Eterno porque solo Su nombre es excelso; Su gloria es sobre tierra y cielos.",
-      "en": "Let them praise G OD ’s name— for sublime is this name alone— of the One whose splendor covers heaven and earth."
+      "en": "Let them praise G OD ’s name— for sublime is this name alone— of the One whose splendor covers heaven and earth.",
+      "translit_en": "YehalelU et shem Adonái; ki nisgáv shemó levadó; hodó al érets veshamáyim."
     },
     {
       "num": 14,
@@ -112,7 +125,8 @@
       "he_plain": "וירם קרן לעמו תהלה לכל חסידיו לבני ישראל עם קרבו הללו יה {פ}",
       "translit": "VayáRem kéren leamó; tehilá lejol jasiDáv; livnéi Yisraél am kerovó. Haleluyá.",
       "es": "Él ha exaltado el poder de Su pueblo; alábenle todos Sus santos; los hijos de Israel el pueblo a Él cercano. ¡Aleluya!",
-      "en": "[God] has exalted the horn of this people for the glory of all faithful ones, Israel, the people brought close. Hallelujah."
+      "en": "[God] has exalted the horn of this people for the glory of all faithful ones, Israel, the people brought close. Hallelujah.",
+      "translit_en": "VayáRem kéren leamó; tehilá lechol chasiDáv; livnéi Yisraél am kerovó. Haleluyá."
     }
   ],
   "audio": "",

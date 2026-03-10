@@ -8,7 +8,8 @@
       "he_plain": "שיר המעלות לדוד לולי יהוה שהיה לנו יאמר נא ישראל",
       "translit": "Shír hamaalót leDavíd. Luléi Adonái shehayá lánu; yomár ná Yisraél.",
       "es": "Cántico de las ascensiones, de David. A no haber estado el Eterno de nuestra parte; diga ahora Israel.",
-      "en": "A song of ascents. Of David. Were it not for G OD , who was on our side, let Israel now declare,"
+      "en": "A song of ascents. Of David. Were it not for G OD , who was on our side, let Israel now declare,",
+      "translit_en": "Shír hamaalót leDavíd. Luléi Adonái shehayá lánu; yomár ná Yisraél."
     },
     {
       "num": 2,
@@ -16,7 +17,8 @@
       "he_plain": "לולי יהוה שהיה לנו בקום עלינו אדם",
       "translit": "Luléi Adonái shehayá lánu; bekúm aléinu adám.",
       "es": "A no haber estado el Eterno de nuestra parte cuando los hombres se levantaron contra nosotros.",
-      "en": "were it not for G OD , who was on our side when others assailed us,"
+      "en": "were it not for G OD , who was on our side when others assailed us,",
+      "translit_en": "Luléi Adonái shehayá lánu; bekúm aléinu adám."
     },
     {
       "num": 3,
@@ -24,7 +26,8 @@
       "he_plain": "אזי חיים בלעונו בחרות אפם בנו",
       "translit": "Azái jayím blaUnu; bajárot apám bánu.",
       "es": "Entonces nos habrían tragado vivos cuando se encendió su furor contra nosotros.",
-      "en": "they would have swallowed us alive in their burning rage against us;"
+      "en": "they would have swallowed us alive in their burning rage against us;",
+      "translit_en": "Azái chayím blaUnu; bachárot apám bánu."
     },
     {
       "num": 4,
@@ -32,7 +35,8 @@
       "he_plain": "אזי המים שטפונו נחלה עבר על נפשנו",
       "translit": "Azái hamáyim shtafúnu; najalá avár al nafshénu.",
       "es": "Entonces nos habrían inundado las aguas; el torrente habría pasado sobre nuestra alma.",
-      "en": "the waters would have carried us off, the torrent would have swept over us;"
+      "en": "the waters would have carried us off, the torrent would have swept over us;",
+      "translit_en": "Azái hamáyim shtafúnu; nachalá avár al nafshénu."
     },
     {
       "num": 5,
@@ -40,7 +44,8 @@
       "he_plain": "אזי עבר על נפשנו המים הזידונים",
       "translit": "Azái avár al nafshénu; hamáyim hazedónim.",
       "es": "Entonces habrían pasado sobre nuestra alma las aguas turbulentas.",
-      "en": "over us would have swept the seething waters."
+      "en": "over us would have swept the seething waters.",
+      "translit_en": "Azái avár al nafshénu; hamáyim hazedónim."
     },
     {
       "num": 6,
@@ -48,7 +53,8 @@
       "he_plain": "ברוך יהוה שלא נתננו טרף לשניהם",
       "translit": "Barúj Adonái shelo netanánu; téref leshinéihem.",
       "es": "Bendito sea el Eterno que no nos dio por presa a sus dientes.",
-      "en": "Blessed is G OD , who did not let us be ripped apart by their teeth."
+      "en": "Blessed is G OD , who did not let us be ripped apart by their teeth.",
+      "translit_en": "Barúch Adonái shelo netanánu; téref leshinéihem."
     },
     {
       "num": 7,
@@ -56,7 +62,8 @@
       "he_plain": "נפשנו כצפור נמלטה מפח יוקשים הפח נשבר ואנחנו נמלטנו",
       "translit": "Nafshénu ketsipór nimletá mipáj yakushím; hapáj nishbár vaanájnu nimláTnu.",
       "es": "Nuestra alma escapó como pájaro del lazo de los cazadores; el lazo se rompió y nosotros escapamos.",
-      "en": "We are like a bird escaped from the fowler’s trap; the trap broke and we escaped."
+      "en": "We are like a bird escaped from the fowler’s trap; the trap broke and we escaped.",
+      "translit_en": "Nafshénu ketsipór nimletá mipách yakushím; hapách nishbár vaanáchnu nimláTnu."
     },
     {
       "num": 8,
@@ -64,7 +71,8 @@
       "he_plain": "עזרנו בשם יהוה עשה שמים וארץ {פ}",
       "translit": "Ezrénu beshem Adonái; oséh shamáyim vaárets.",
       "es": "Nuestro socorro está en el nombre del Eterno que hizo los cielos y la tierra.",
-      "en": "Our help is the name of G OD , maker of heaven and earth."
+      "en": "Our help is the name of G OD , maker of heaven and earth.",
+      "translit_en": "Ezrénu beshem Adonái; oséh shamáyim vaárets."
     }
   ],
   "audio": "",

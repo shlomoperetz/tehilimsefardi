@@ -8,7 +8,8 @@
       "he_plain": "שיר מזמור לדוד",
       "translit": "Shír mizmór leDavíd.",
       "es": "Cántico. Salmo de David.",
-      "en": "A song. A psalm of David."
+      "en": "A song. A psalm of David.",
+      "translit_en": "Shír mizmór leDavíd."
     },
     {
       "num": 2,
@@ -16,7 +17,8 @@
       "he_plain": "נכון לבי אלהים אשירה ואזמרה אף כבודי",
       "translit": "Najón libí Elohím; ashirá vaazamerá af kevoDí.",
       "es": "Firme está mi corazón, oh Dios; cantaré y salmearé también con mi gloria.",
-      "en": "a Cf. Ps. 57.8–12 . My heart is firm, O God; I will sing and chant a hymn with all my soul."
+      "en": "a Cf. Ps. 57.8–12 . My heart is firm, O God; I will sing and chant a hymn with all my soul.",
+      "translit_en": "Nachón libí Elohím; ashirá vaazamerá af kevoDí."
     },
     {
       "num": 3,
@@ -24,7 +26,8 @@
       "he_plain": "עורה הנבל וכנור אעירה שחר",
       "translit": "Urá hanével vejinór; airá shájar.",
       "es": "Despertad salterio y arpa; despertaré al alba.",
-      "en": "Awake, O harp and lyre! I will wake the dawn."
+      "en": "Awake, O harp and lyre! I will wake the dawn.",
+      "translit_en": "Urá hanével vechinór; airá sháchar."
     },
     {
       "num": 4,
@@ -32,7 +35,8 @@
       "he_plain": "אודך בעמיםיהוה ואזמרך בלאמים",
       "translit": "Odejá vaamím Adonái; vazamerJá valeumím.",
       "es": "Te alabaré entre los pueblos, oh Eterno y salmearé entre las naciones.",
-      "en": "I will praise You among the peoples, O E TERNAL One, sing a hymn to You among the nations;"
+      "en": "I will praise You among the peoples, O E TERNAL One, sing a hymn to You among the nations;",
+      "translit_en": "Odechá vaamím Adonái; vazamerChá valeumím."
     },
     {
       "num": 5,
@@ -40,7 +44,8 @@
       "he_plain": "כי גדול מעל שמים חסדך ועד שחקים אמתך",
       "translit": "Ki gadól meál shamáyim jasdéja; vead sjejakím eMetéja.",
       "es": "Porque grande sobre los cielos es Tu bondad leal y hasta las nubes Tu verdad.",
-      "en": "for Your faithfulness is higher than the heavens; Your steadfastness reaches to the sky."
+      "en": "for Your faithfulness is higher than the heavens; Your steadfastness reaches to the sky.",
+      "translit_en": "Ki gadól meál shamáyim chasdécha; vead schechakím eMetécha."
     },
     {
       "num": 6,
@@ -48,7 +53,8 @@
       "he_plain": "רומה על שמים אלהים ועל כל הארץ כבודך",
       "translit": "Rumá al shamáyim Elohím; veal kol haárets kevodéja.",
       "es": "Exáltate sobre los cielos, oh Dios y sobre toda la tierra Tu gloria.",
-      "en": "Exalt Yourself over the heavens, O God; let Your glory be over all the earth!"
+      "en": "Exalt Yourself over the heavens, O God; let Your glory be over all the earth!",
+      "translit_en": "Rumá al shamáyim Elohím; veal kol haárets kevodécha."
     },
     {
       "num": 7,
@@ -56,7 +62,8 @@
       "he_plain": "למען יחלצון ידידיך הושיעה ימינך וענני",
       "translit": "Lemáan yejaltsún yedideéja; hoshiá yeminjá vaanéni.",
       "es": "Para que sean librados Tus amados; salva con Tu diestra y respóndeme.",
-      "en": "b Cf. Ps. 60.7–14 . That those whom You love may be rescued, deliver with Your right hand and answer me."
+      "en": "b Cf. Ps. 60.7–14 . That those whom You love may be rescued, deliver with Your right hand and answer me.",
+      "translit_en": "Lemáan yechaltsún yedideécha; hoshiá yeminchá vaanéni."
     },
     {
       "num": 8,
@@ -64,7 +71,8 @@
       "he_plain": "אלהים דבר בקדשו אעלזה אחלקה שכם ועמק סכות אמדד",
       "translit": "Elohím dibér bekodsho; eelóza ajaleká Shejém; veémek Sukót ameléd.",
       "es": "Dios habló en Su santidad; me alegraré; repartiré Shejem y mediré el valle de Sukot.",
-      "en": "God promised in the sanctuary c in the sanctuary Or “by God’s holiness.” that I would exultingly divide up Shechem, and measure the Valley of Sukkoth;"
+      "en": "God promised in the sanctuary c in the sanctuary Or “by God’s holiness.” that I would exultingly divide up Shechem, and measure the Valley of Sukkoth;",
+      "translit_en": "Elohím dibér bekodsho; eelóza achaleká Shechém; veémek Sukót ameléd."
     },
     {
       "num": 9,
@@ -72,7 +80,8 @@
       "he_plain": "לי גלעד לי מנשה ואפרים מעוז ראשי יהודה מחקקי",
       "translit": "Li Guilád li Menashé; veEfráyim maóz roshí; Yehudá mejokekí.",
       "es": "Mío es Guilad y mío Menashé; Efráyim es la fortaleza de mi cabeza; Yehudá mi legislador.",
-      "en": "Gilead and Manasseh would be mine, Ephraim my chief stronghold, Judah my scepter;"
+      "en": "Gilead and Manasseh would be mine, Ephraim my chief stronghold, Judah my scepter;",
+      "translit_en": "Li Guilád li Menashé; veEfráyim maóz roshí; Yehudá mechokekí."
     },
     {
       "num": 10,
@@ -80,7 +89,8 @@
       "he_plain": "מואב סיר רחצי על אדום אשליך נעלי עלי פלשת אתרועע",
       "translit": "Moáv sír rajtséi; al Edóm ashLíj naálí; aléi Peléshet etróaa.",
       "es": "Moav es la vasija para lavarme; sobre Edom echaré mi sandalia; me regocijaré sobre Peléshet.",
-      "en": "Moab would be my washbasin; on Edom I would cast my shoe; I would raise a shout over Philistia."
+      "en": "Moab would be my washbasin; on Edom I would cast my shoe; I would raise a shout over Philistia.",
+      "translit_en": "Moáv sír rachtséi; al Edóm ashLích naálí; aléi Peléshet etróaa."
     },
     {
       "num": 11,
@@ -88,7 +98,8 @@
       "he_plain": "מי יבלני עיר מבצר מי נחני עד אדום",
       "translit": "Mi yoviléni ír mivtsár; mi naiáni ad Edóm.",
       "es": "¿Quién me llevará a la ciudad fortificada? ¿Quién me guiará hasta Edom?",
-      "en": "Would that I were brought to the bastion! Would that I were led to Edom!"
+      "en": "Would that I were brought to the bastion! Would that I were led to Edom!",
+      "translit_en": "Mi yoviléni ír mivtsár; mi naiáni ad Edóm."
     },
     {
       "num": 12,
@@ -96,7 +107,8 @@
       "he_plain": "הלא אלהים זנחתנו ולא תצא אלהים בצבאתינו",
       "translit": "Haló Elohím zenavtánu; velo tetséh Elohím betsivoteínu.",
       "es": "¿No eres Tú, oh Dios, quien nos había desechado? ¿Y no saldrás, oh Dios, con nuestros ejércitos?",
-      "en": "But You have rejected us, O God; God, You do not march with our armies."
+      "en": "But You have rejected us, O God; God, You do not march with our armies.",
+      "translit_en": "Haló Elohím zenavtánu; velo tetséh Elohím betsivoteínu."
     },
     {
       "num": 13,
@@ -104,7 +116,8 @@
       "he_plain": "הבה לנו עזרת מצר ושוא תשועת אדם",
       "translit": "Háva lanu ezrát mitsár; veshav teshuat adám.",
       "es": "Danos socorro contra el adversario porque vana es la ayuda del hombre.",
-      "en": "Grant us Your aid against the foe, for human help is worthless."
+      "en": "Grant us Your aid against the foe, for human help is worthless.",
+      "translit_en": "Háva lanu ezrát mitsár; veshav teshuat adám."
     },
     {
       "num": 14,
@@ -112,7 +125,8 @@
       "he_plain": "באלהים נעשה חיל והוא יבוס צרינו {פ}",
       "translit": "",
       "es": "",
-      "en": "We shall triumph with God, who will trample our foes."
+      "en": "We shall triumph with God, who will trample our foes.",
+      "translit_en": ""
     }
   ],
   "audio": "",

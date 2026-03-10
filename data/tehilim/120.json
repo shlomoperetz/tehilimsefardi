@@ -8,7 +8,8 @@
       "he_plain": "שיר המעלות אל יהוה בצרתה לי קראתי ויענני",
       "translit": "Shír hamaalót. El Adonái baTsar lí karátI; vayaanéni.",
       "es": "Cántico de las ascensiones. En mi angustia clamé al Eterno y Él me respondió.",
-      "en": "A song of ascents. a ascents A term of uncertain meaning. In my distress I called to G OD — who answered me."
+      "en": "A song of ascents. a ascents A term of uncertain meaning. In my distress I called to G OD — who answered me.",
+      "translit_en": "Shír hamaalót. El Adonái baTsar lí karátI; vayaanéni."
     },
     {
       "num": 2,
@@ -16,7 +17,8 @@
       "he_plain": "יהוה הצילה נפשי משפת שקר מלשון רמיה",
       "translit": "Adonái hatsíla nafshí misefát shéker; milashón remiyá.",
       "es": "Eterno libra mi alma del labio mentiroso y de la lengua engañosa.",
-      "en": "O E TERNAL One, save me from treacherous lips, from a deceitful tongue!"
+      "en": "O E TERNAL One, save me from treacherous lips, from a deceitful tongue!",
+      "translit_en": "Adonái hatsíla nafshí misefát shéker; milashón remiyá."
     },
     {
       "num": 3,
@@ -24,7 +26,8 @@
       "he_plain": "מה יתן לך ומה יסיף לך לשון רמיה",
       "translit": "Má yitén lejá umá yosíf láj; lashón remiyá.",
       "es": "¿Qué te dará y qué te añadirá la lengua engañosa?",
-      "en": "What can you profit, what can you gain, O deceitful tongue?"
+      "en": "What can you profit, what can you gain, O deceitful tongue?",
+      "translit_en": "Má yitén lechá umá yosíf lách; lashón remiyá."
     },
     {
       "num": 4,
@@ -32,7 +35,8 @@
       "he_plain": "חצי גבור שנונים עם גחלי רתמים",
       "translit": "Jitséi gibór shenuním; im guajalEi retamím.",
       "es": "Saetas agudas del poderoso con brasas de enebro.",
-      "en": "A warrior’s sharp arrows, with hot coals of broom-wood."
+      "en": "A warrior’s sharp arrows, with hot coals of broom-wood.",
+      "translit_en": "Chitséi gibór shenuním; im guachalEi retamím."
     },
     {
       "num": 5,
@@ -40,7 +44,8 @@
       "he_plain": "אויה לי כי גרתי משך שכנתי עם אהלי קדר",
       "translit": "Oyá lí ki guárTi méshej; shajánti im oholéi Kedár.",
       "es": "¡Ay de mí que soy forastero en Méshej; que habito entre las tiendas de Kedar!",
-      "en": "Woe is me, that I live with Meshech, that I dwell among the clans of Kedar."
+      "en": "Woe is me, that I live with Meshech, that I dwell among the clans of Kedar.",
+      "translit_en": "Oyá lí ki guárTi méshech; shachánti im oholéi Kedár."
     },
     {
       "num": 6,
@@ -48,7 +53,8 @@
       "he_plain": "רבת שכנה לה נפשי עם שונא שלום",
       "translit": "RaBat shajenerá lah nafshí; im soné shalóm.",
       "es": "Mucho tiempo ha morado mi alma con los que aborrecen la paz.",
-      "en": "Too long have I dwelt with those who hate peace."
+      "en": "Too long have I dwelt with those who hate peace.",
+      "translit_en": "RaBat shachenerá lah nafshí; im soné shalóm."
     },
     {
       "num": 7,
@@ -56,7 +62,8 @@
       "he_plain": "אני שלום וכי אדבר המה למלחמה {פ}",
       "translit": "Aní shalóm; veji adabér; héma lamilhamá.",
       "es": "Yo soy de paz; pero cuando hablo ellos están por la guerra.",
-      "en": "I am all peace; but when I speak, they are for war."
+      "en": "I am all peace; but when I speak, they are for war.",
+      "translit_en": "Aní shalóm; vechi adabér; héma lamilhamá."
     }
   ],
   "audio": "",

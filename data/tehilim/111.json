@@ -8,7 +8,8 @@
       "he_plain": "הללו יה אודה יהוה בכל לבב בסוד ישרים ועדה",
       "translit": "Haleluyá. Odé Adonái bejol levav; besod yesharim veadá.",
       "es": "¡Aleluya! Alabaré al Eterno con todo el corazón en la compañía de los rectos y en la congregación.",
-      "en": "Hallelujah. א I praise G OD with all my heart ב in the assembled congregation of the upright."
+      "en": "Hallelujah. א I praise G OD with all my heart ב in the assembled congregation of the upright.",
+      "translit_en": "Haleluyá. Odé Adonái bechol levav; besod yesharim veadá."
     },
     {
       "num": 2,
@@ -16,7 +17,8 @@
       "he_plain": "גדלים מעשי יהוה דרושים לכל חפציהם",
       "translit": "Guedolím maaséi Adonái; derushím lejol jeftseihem.",
       "es": "Grandes son las obras del Eterno; buscadas de todos los que en ellas se deleitan.",
-      "en": "ג G OD ’s works are great, ד within reach of all who desire them. a within reach of all who desire them Meaning of Heb. uncertain."
+      "en": "ג G OD ’s works are great, ד within reach of all who desire them. a within reach of all who desire them Meaning of Heb. uncertain.",
+      "translit_en": "Guedolím maaséi Adonái; derushím lechol cheftseihem."
     },
     {
       "num": 3,
@@ -24,7 +26,8 @@
       "he_plain": "הוד והדר פעלו וצדקתו עמדת לעד",
       "translit": "Hod vehadár poaló; vetsidkatO omedet laad.",
       "es": "Honor y majestad es Su obra y Su justicia permanece para siempre.",
-      "en": "ה Splendid and glorious are God’s deeds; ו God’s beneficence is everlasting;"
+      "en": "ה Splendid and glorious are God’s deeds; ו God’s beneficence is everlasting;",
+      "translit_en": "Hod vehadár poaló; vetsidkatO omedet laad."
     },
     {
       "num": 4,
@@ -32,7 +35,8 @@
       "he_plain": "זכר עשה לנפלאותיו חנון ורחום יהוה",
       "translit": "Zéjer asá lenifleotáv; janún verajúm Adonái.",
       "es": "Ha hecho memorables Sus maravillas; clemente y compasivo es el Eterno.",
-      "en": "ז renowned are God’s wonders. ח G OD is gracious and compassionate—"
+      "en": "ז renowned are God’s wonders. ח G OD is gracious and compassionate—",
+      "translit_en": "Zécher asá lenifleotáv; chanún verachúm Adonái."
     },
     {
       "num": 5,
@@ -40,7 +44,8 @@
       "he_plain": "טרף נתן ליראיו יזכר לעולם בריתו",
       "translit": "Téref natán lirerEáv; yizjór leolám beritó.",
       "es": "Dio alimento a los que Le temen; se acordará para siempre de Su pacto.",
-      "en": "ט giving food to those who show reverence, י and ever mindful of the covenant—"
+      "en": "ט giving food to those who show reverence, י and ever mindful of the covenant—",
+      "translit_en": "Téref natán lirerEáv; yizchór leolám beritó."
     },
     {
       "num": 6,
@@ -48,7 +53,8 @@
       "he_plain": "כח מעשיו הגיד לעמו לתת להם נחלת גוים",
       "translit": "Kóaj maaasáv higíd leamó; latét lahém najalat goyím.",
       "es": "El poder de Sus obras anunció a Su pueblo dándoles la heredad de las naciones.",
-      "en": "כ revealing powerful works to this people, ל and giving them the heritage of nations."
+      "en": "כ revealing powerful works to this people, ל and giving them the heritage of nations.",
+      "translit_en": "Kóach maaasáv higíd leamó; latét lahém nachalat goyím."
     },
     {
       "num": 7,
@@ -56,7 +62,8 @@
       "he_plain": "מעשי ידיו אמת ומשפט נאמנים כל פקודיו",
       "translit": "Maaséi yadáv emet umishpát; neemaním kol pikudáv.",
       "es": "Las obras de Sus manos son verdad y juicio; fieles son todos Sus mandamientos.",
-      "en": "מ Truth and justice are God’s handiwork— נ whose precepts are enduring,"
+      "en": "מ Truth and justice are God’s handiwork— נ whose precepts are enduring,",
+      "translit_en": "Maaséi yadáv emet umishpát; neemaním kol pikudáv."
     },
     {
       "num": 8,
@@ -64,7 +71,8 @@
       "he_plain": "סמוכים לעד לעולם עשוים באמת וישר",
       "translit": "Semujím laad leolám; asuyím beemet veyashár.",
       "es": "Afirmados para siempre jamás; hechos en verdad y rectitud.",
-      "en": "ס well-founded for all eternity, ע ע wrought of truth and equity."
+      "en": "ס well-founded for all eternity, ע ע wrought of truth and equity.",
+      "translit_en": "Semuchím laad leolám; asuyím beemet veyashár."
     },
     {
       "num": 9,
@@ -72,7 +80,8 @@
       "he_plain": "פדות שלח לעמו צוה לעולם בריתו קדוש ונורא שמו",
       "translit": "Pedút shalaj leamó; tsivá leolám beritó; kadósh venorá shemó.",
       "es": "Redención envió a Su pueblo; para siempre ordenó Su pacto; santo y temible es Su nombre.",
-      "en": "פ Redeeming this people, צ [God] ordained the covenant for all time; ק holy and awesome is God’s name."
+      "en": "פ Redeeming this people, צ [God] ordained the covenant for all time; ק holy and awesome is God’s name.",
+      "translit_en": "Pedút shalach leamó; tsivá leolám beritó; kadósh venorá shemó."
     },
     {
       "num": 10,
@@ -80,7 +89,8 @@
       "he_plain": "ראשית חכמה יראת יהוה שכל טוב לכל עשיהם תהלתו עמדת לעד {פ}",
       "translit": "Reshít jojmá yirát Adonái; séjel tov lejol oséihem; tehilatO omedet laad.",
       "es": "El principio de la sabiduría es el temor del Eterno; buen entendimiento tienen todos los que lo practican; Su alabanza permanece para siempre.",
-      "en": "ר The beginning b beginning Or “chief part.” of wisdom is reverence toward G OD ; ש all who practice it gain sound understanding. ת Praise of [God] is everlasting."
+      "en": "ר The beginning b beginning Or “chief part.” of wisdom is reverence toward G OD ; ש all who practice it gain sound understanding. ת Praise of [God] is everlasting.",
+      "translit_en": "Reshít chochmá yirát Adonái; séchel tov lechol oséihem; tehilatO omedet laad."
     }
   ],
   "audio": "",

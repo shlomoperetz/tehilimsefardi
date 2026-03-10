@@ -9,7 +9,8 @@
       "he_plain": "למנצח אל שושנים עדות לאסף מזמור",
       "translit": "Lamnatséaj el shoshaním edút leAsáf mizmór.",
       "es": "Al director; sobre «Las Lilas». Testimonio. De Asaf. Salmo.",
-      "en": "For the leader; on shoshannim , eduth . Of Asaph. A psalm."
+      "en": "For the leader; on shoshannim , eduth . Of Asaph. A psalm.",
+      "translit_en": "Lamnatséach el shoshaním edút leAsáf mizmór."
     },
     {
       "num": 2,
@@ -17,7 +18,8 @@
       "he_plain": "רועה ישראל האזינה נוהג כצאן יוסף יושב הכרובים הופיעה",
       "translit": "Roéh Yisraél haaziná; nohég katson Yosép; yoshév hakeruvím hofiá.",
       "es": "Escucha, oh Pastor de Israel; Tú que guías a Yosef como a rebaño; Tú que estás entre los querubines resplandece.",
-      "en": "Give ear, O shepherd of Israel who leads Joseph like a flock! Appear, You who are enthroned on the cherubim,"
+      "en": "Give ear, O shepherd of Israel who leads Joseph like a flock! Appear, You who are enthroned on the cherubim,",
+      "translit_en": "Roéh Yisraél haaziná; nohég katson Yosép; yoshév hakeruvím hofiá."
     },
     {
       "num": 3,
@@ -25,7 +27,8 @@
       "he_plain": "לפני אפרים ובנימן ומנשה עוררה את גבורתך ולכה לישועתה לנו",
       "translit": "Lifnéi Efráyim uvinyamín uMenashé; oreRá et gevuratéja; ulejá lishuat á lánu.",
       "es": "Delante de Efráyim y Binyamín y Menashé despierta Tu poder y ven a salvarnos.",
-      "en": "at the head of Ephraim, Benjamin, and Manasseh! Rouse Your might and come to our help!"
+      "en": "at the head of Ephraim, Benjamin, and Manasseh! Rouse Your might and come to our help!",
+      "translit_en": "Lifnéi Efráyim uvinyamín uMenashé; oreRá et gevuratécha; ulechá lishuat á lánu."
     },
     {
       "num": 4,
@@ -33,7 +36,8 @@
       "he_plain": "אלהים השיבנו והאר פניך ונושעה",
       "translit": "Elohím hashivénu; vehaér panéija venivashéa.",
       "es": "Oh Dios, restáuranos y haz resplandecer Tu rostro y seremos salvos.",
-      "en": "Restore us, O God; show Your favor that we may be delivered."
+      "en": "Restore us, O God; show Your favor that we may be delivered.",
+      "translit_en": "Elohím hashivénu; vehaér panéicha venivashéa."
     },
     {
       "num": 5,
@@ -41,7 +45,8 @@
       "he_plain": "יהוה אלהים צבאות עד מתי עשנת בתפלת עמך",
       "translit": "Adonái Elohím tsevot; ad matáy ashánta bitefila t ameján.",
       "es": "Oh Eterno, Dios de los ejércitos, ¿hasta cuándo humeará Tu ira contra la oración de Tu pueblo?",
-      "en": "O E TERNAL One, God of hosts, how long will You be wrathful toward the prayers of Your people?"
+      "en": "O E TERNAL One, God of hosts, how long will You be wrathful toward the prayers of Your people?",
+      "translit_en": "Adonái Elohím tsevot; ad matáy ashánta bitefila t amechán."
     },
     {
       "num": 6,
@@ -49,7 +54,8 @@
       "he_plain": "האכלתם לחם דמעה ותשקמו בדמעות שליש",
       "translit": "Heejáltam léjem dimá; vatashkémo bidmaót shalísh.",
       "es": "Les diste a comer pan de lágrimas y les hiciste beber lágrimas en gran abundancia.",
-      "en": "You have fed them tears as their daily bread, made them drink great measures of tears."
+      "en": "You have fed them tears as their daily bread, made them drink great measures of tears.",
+      "translit_en": "Heecháltam léchem dimá; vatashkémo bidmaót shalísh."
     },
     {
       "num": 7,
@@ -57,7 +63,8 @@
       "he_plain": "תשימנו מדון לשכנינו ואויבינו ילעגו למו",
       "translit": "Tesiménu madón lishjenéinu; veoyevéinu yilagú lámo.",
       "es": "Nos pusiste por objeto de contienda a nuestros vecinos y nuestros enemigos se burlan de nosotros.",
-      "en": "You set us at strife with our neighbors; our enemies mock us at will."
+      "en": "You set us at strife with our neighbors; our enemies mock us at will.",
+      "translit_en": "Tesiménu madón lishchenéinu; veoyevéinu yilagú lámo."
     },
     {
       "num": 8,
@@ -65,7 +72,8 @@
       "he_plain": "אלהים צבאות השיבנו והאר פניך ונושעה",
       "translit": "Elohím tsevot hashivénu; vehaér panéija venivashéa.",
       "es": "Oh Dios de los ejércitos, restáuranos y haz resplandecer Tu rostro y seremos salvos.",
-      "en": "O God of hosts, restore us; show Your favor that we may be delivered."
+      "en": "O God of hosts, restore us; show Your favor that we may be delivered.",
+      "translit_en": "Elohím tsevot hashivénu; vehaér panéicha venivashéa."
     },
     {
       "num": 9,
@@ -73,7 +81,8 @@
       "he_plain": "גפן ממצרים תסיע תגרש גוים ותטעה",
       "translit": "Géfen miMitsráyim tasía; tegarésh goyím vatiTaéha.",
       "es": "Trasplantaste una vid de Egipto; echaste las naciones y la plantaste.",
-      "en": "You plucked up a vine from Egypt; You expelled nations and planted it."
+      "en": "You plucked up a vine from Egypt; You expelled nations and planted it.",
+      "translit_en": "Géfen miMitsráyim tasía; tegarésh goyím vatiTaéha."
     },
     {
       "num": 10,
@@ -81,7 +90,8 @@
       "he_plain": "פינית לפניה ותשרש שרשיה ותמלא ארץ",
       "translit": "Piníta lefanéiha vatashrész sharasháiha; vatmeLá árets.",
       "es": "Limpiaste el terreno delante de ella y arraigó sus raíces y llenó la tierra.",
-      "en": "You cleared a place for it; it took deep root and filled the land."
+      "en": "You cleared a place for it; it took deep root and filled the land.",
+      "translit_en": "Piníta lefanéiha vatashrész sharasháiha; vatmeLá árets."
     },
     {
       "num": 11,
@@ -89,7 +99,8 @@
       "he_plain": "כסו הרים צלה וענפיה ארזי אל",
       "translit": "Kasú harím tsilá; vaanafáiha arzéi El.",
       "es": "Los montes fueron cubiertos con su sombra y con sus ramas los cedros de Dios.",
-      "en": "The mountains were covered by its shade, mighty cedars by its boughs."
+      "en": "The mountains were covered by its shade, mighty cedars by its boughs.",
+      "translit_en": "Kasú harím tsilá; vaanafáiha arzéi El."
     },
     {
       "num": 12,
@@ -97,7 +108,8 @@
       "he_plain": "תשלח קצירה עד ים ואל נהר יונקותיה",
       "translit": "Teshalaj ketsirá ad yám; veel nahár yonkotéiha.",
       "es": "Extendió sus ramas hasta el mar y sus vástagos hasta el Río.",
-      "en": "Its branches reached the sea, its shoots, the river."
+      "en": "Its branches reached the sea, its shoots, the river.",
+      "translit_en": "Teshalach ketsirá ad yám; veel nahár yonkotéiha."
     },
     {
       "num": 13,
@@ -105,7 +117,8 @@
       "he_plain": "למה פרצת גדריה וארוה כל עוברי דרך",
       "translit": "Lamá farátseta gedéreha; veaRúha kol ovréi dárej.",
       "es": "¿Por qué aportillaste sus cercas y la vendimian todos los que pasan por el camino?",
-      "en": "Why did You breach its wall so that every passerby plucks its fruit,"
+      "en": "Why did You breach its wall so that every passerby plucks its fruit,",
+      "translit_en": "Lamá farátseta gedéreha; veaRúha kol ovréi dárech."
     },
     {
       "num": 14,
@@ -113,7 +126,8 @@
       "he_plain": "יכרסמנה חזיר מיער וזיז שדי ירענה",
       "translit": "Yejarsemenáh jazír miyáar; vezíz sadái yiraenáh.",
       "es": "La destroza el jabalí del bosque y la pasta la bestia del campo.",
-      "en": "wild boars gnaw at it, and creatures of the field feed on it?"
+      "en": "wild boars gnaw at it, and creatures of the field feed on it?",
+      "translit_en": "Yecharsemenáh chazír miyáar; vezíz sadái yiraenáh."
     },
     {
       "num": 15,
@@ -121,7 +135,8 @@
       "he_plain": "אלהים צבאות שוב נא הבט משמים וראה ופקד גפן זאת",
       "translit": "Elohím tsevot shuv ná; habét mishamáyim ureéh; ufkód géfen zot.",
       "es": "Oh Dios de los ejércitos, vuelve ahora; mira desde el cielo y ve y visita esta vid.",
-      "en": "O God of hosts, turn again, look down from heaven and see; take note of that vine,"
+      "en": "O God of hosts, turn again, look down from heaven and see; take note of that vine,",
+      "translit_en": "Elohím tsevot shuv ná; habét mishamáyim ureéh; ufkód géfen zot."
     },
     {
       "num": 16,
@@ -129,7 +144,8 @@
       "he_plain": "וכנה אשר נטעה ימינך ועל בן אמצתה לך",
       "translit": "Vejaná ashér natá yeminéja; veal bén imátsta laj.",
       "es": "Y la cepa que plantó Tu diestra; el renuevo que para Ti fortaleciste.",
-      "en": "the stock planted by Your right hand, the stem a stem Lit. “son.” you have taken as Your own."
+      "en": "the stock planted by Your right hand, the stem a stem Lit. “son.” you have taken as Your own.",
+      "translit_en": "Vechaná ashér natá yeminécha; veal bén imátsta lach."
     },
     {
       "num": 17,
@@ -137,7 +153,8 @@
       "he_plain": "שרופה באש כסוחה מגערת פניך יאבדו",
       "translit": "Serufá vaésh kesujá; migáarat panéija yovédu.",
       "es": "Está quemada a fuego y cortada; perezcan por la reprensión de Tu rostro.",
-      "en": "For it is burned by fire and cut down, perishing before Your angry blast."
+      "en": "For it is burned by fire and cut down, perishing before Your angry blast.",
+      "translit_en": "Serufá vaésh kesuchá; migáarat panéicha yovédu."
     },
     {
       "num": 18,
@@ -145,7 +162,8 @@
       "he_plain": "תהי ידך על איש ימינך על בן אדם אמצת לך",
       "translit": "Tehí yadejá al ísh yeminéja; al ben adám imátsta laj.",
       "es": "Sea Tu mano sobre el varón de Tu diestra; sobre el hijo del hombre que para Ti fortaleciste.",
-      "en": "Grant Your help b help Lit. “hand.” to the one at Your right hand, the mortal You have taken as Your own."
+      "en": "Grant Your help b help Lit. “hand.” to the one at Your right hand, the mortal You have taken as Your own.",
+      "translit_en": "Tehí yadechá al ísh yeminécha; al ben adám imátsta lach."
     },
     {
       "num": 19,
@@ -153,7 +171,8 @@
       "he_plain": "ולא נסוג ממך תחיינו ובשמך נקרא",
       "translit": "Veló nasóg miméja; tejayénu uveshimejá nikrá.",
       "es": "Y no nos apartaremos de Ti; danos vida e invocaremos Tu nombre.",
-      "en": "We will not turn away from You; preserve our life that we may invoke Your name."
+      "en": "We will not turn away from You; preserve our life that we may invoke Your name.",
+      "translit_en": "Veló nasóg mimécha; techayénu uveshimechá nikrá."
     },
     {
       "num": 20,
@@ -161,7 +180,8 @@
       "he_plain": "יהוה אלהים צבאות השיבנו האר פניך ונושעה",
       "translit": "Adonái Elohím tsevot hashivénu; haér panéija venivashéa.",
       "es": "Oh Eterno, Dios de los ejércitos, restáuranos; haz resplandecer Tu rostro y seremos salvos.",
-      "en": "O E TERNAL One, God of hosts, restore us; show Your favor that we may be delivered."
+      "en": "O E TERNAL One, God of hosts, restore us; show Your favor that we may be delivered.",
+      "translit_en": "Adonái Elohím tsevot hashivénu; haér panéicha venivashéa."
     }
   ],
   "ocasiones": [],

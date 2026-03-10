@@ -8,7 +8,8 @@
       "he_plain": "ישב בסתר עליון בצל שדי יתלונן",
       "translit": "Yoshév besétER Elyón; betsél Shadái yitlonán.",
       "es": "El que habita al amparo del Altísimo morará bajo la sombra del Todopoderoso.",
-      "en": "O you who dwell in the shelter of the Most High and abide in the protection of Shaddai—"
+      "en": "O you who dwell in the shelter of the Most High and abide in the protection of Shaddai—",
+      "translit_en": "Yoshév besétER Elyón; betsél Shadái yitlonán."
     },
     {
       "num": 2,
@@ -16,7 +17,8 @@
       "he_plain": "אמר ליהוה מחסי ומצודתי אלהי אבטח בו",
       "translit": "Omár laAdonái majSí umtsudatí; Elohái evtáj bó.",
       "es": "Diré yo al Eterno: Refugio mío y fortaleza mía; mi Dios en quien confío.",
-      "en": "I say of G OD , my refuge and stronghold, my God in whom I trust,"
+      "en": "I say of G OD , my refuge and stronghold, my God in whom I trust,",
+      "translit_en": "Omár laAdonái machSí umtsudatí; Elohái evtách bó."
     },
     {
       "num": 3,
@@ -24,7 +26,8 @@
       "he_plain": "כי הוא יצילך מפח יקוש מדבר הוות",
       "translit": "Ki hu yatsilEja mipáj yakúsh; midéver havót.",
       "es": "Él te librará del lazo del cazador y de la pestilencia destructora.",
-      "en": "that you will be saved from the fowler’s trap, from the destructive plague."
+      "en": "that you will be saved from the fowler’s trap, from the destructive plague.",
+      "translit_en": "Ki hu yatsilEcha mipách yakúsh; midéver havót."
     },
     {
       "num": 4,
@@ -32,7 +35,8 @@
       "he_plain": "באברתו יסך לך ותחת כנפיו תחסה צנה וסחרה אמתו",
       "translit": "Beevrató yasej laj; vetajat kenafáv tejséh; tsiná vejsoRá eMetó.",
       "es": "Con Sus plumas te cubrirá y debajo de Sus alas estarás seguro; escudo y adarga es Su verdad.",
-      "en": "With pinions you will be covered; you will find refuge under God’s wings— whose fidelity is an encircling shield."
+      "en": "With pinions you will be covered; you will find refuge under God’s wings— whose fidelity is an encircling shield.",
+      "translit_en": "Beevrató yasech lach; vetachat kenafáv techséh; tsiná vechsoRá eMetó."
     },
     {
       "num": 5,
@@ -40,7 +44,8 @@
       "he_plain": "לא תירא מפחד לילה מחץ יעוף יומם",
       "translit": "Lo tirá mipájad láyla; mejéts yaúf yomám.",
       "es": "No temerás el terror nocturno ni la saeta que vuela de día.",
-      "en": "You need not fear the terror by night, or the arrow that flies by day,"
+      "en": "You need not fear the terror by night, or the arrow that flies by day,",
+      "translit_en": "Lo tirá mipáchad láyla; mechéts yaúf yomám."
     },
     {
       "num": 6,
@@ -48,7 +53,8 @@
       "he_plain": "מדבר באפל יהלך מקטב ישוד צהרים",
       "translit": "Midéver baóshej yahalój; miKétev yashúd tsohoráyim.",
       "es": "Ni la pestilencia que anda en oscuridad ni la mortandad que en medio del día destruye.",
-      "en": "the plague that stalks in the darkness, or the scourge that ravages at noon."
+      "en": "the plague that stalks in the darkness, or the scourge that ravages at noon.",
+      "translit_en": "Midéver baóshech yahalóch; miKétev yashúd tsohoráyim."
     },
     {
       "num": 7,
@@ -56,7 +62,8 @@
       "he_plain": "יפל מצדך אלף ורבבה מימינך אליך לא יגש",
       "translit": "Yipól mitsidejá élef umevaminejá revavá; eléija lo yigásh.",
       "es": "Caerán a tu lado mil y diez mil a tu diestra; pero a ti no llegará.",
-      "en": "A thousand may fall at your left side, ten thousand at your right, but it shall not reach you."
+      "en": "A thousand may fall at your left side, ten thousand at your right, but it shall not reach you.",
+      "translit_en": "Yipól mitsidechá élef umevaminechá revavá; eléicha lo yigásh."
     },
     {
       "num": 8,
@@ -64,7 +71,8 @@
       "he_plain": "רק בעיניך תביט ושלמת רשעים תראה",
       "translit": "Rak beeinéija tabít; veshilumát reshaím tiréh.",
       "es": "Solamente con tus ojos mirarás y verás la recompensa de los impíos.",
-      "en": "You will see it with your eyes, you will witness the punishment of the wicked."
+      "en": "You will see it with your eyes, you will witness the punishment of the wicked.",
+      "translit_en": "Rak beeinéicha tabít; veshilumát reshaím tiréh."
     },
     {
       "num": 9,
@@ -72,7 +80,8 @@
       "he_plain": "כי אתה יהוה מחסי עליון שמת מעונך",
       "translit": "Ki atá Adonái majSí; Elyón samtá meoneján.",
       "es": "Porque tú has puesto al Eterno que es mi refugio; al Altísimo por tu habitación.",
-      "en": "Because you took G OD —my refuge, the Most High—as your haven,"
+      "en": "Because you took G OD —my refuge, the Most High—as your haven,",
+      "translit_en": "Ki atá Adonái machSí; Elyón samtá meonechán."
     },
     {
       "num": 10,
@@ -80,7 +89,8 @@
       "he_plain": "לא תאנה אליך רעה ונגע לא יקרב באהלך",
       "translit": "Lo teUNéh eléija rá; venégua lo yikráv beoholeján.",
       "es": "No te sobrevendrá mal ni plaga tocará tu morada.",
-      "en": "no harm will befall you, no disease touch your tent."
+      "en": "no harm will befall you, no disease touch your tent.",
+      "translit_en": "Lo teUNéh eléicha rá; venégua lo yikráv beoholechán."
     },
     {
       "num": 11,
@@ -88,7 +98,8 @@
       "he_plain": "כי מלאכיו יצוה לך לשמרך בכל דרכיך",
       "translit": "Ki malacháv yetsavéh laj; lishmoreján bejol drajéija.",
       "es": "Pues a Sus ángeles mandará acerca de ti para que te guarden en todos tus caminos.",
-      "en": "For God’s angels will be ordered to guard you wherever you go."
+      "en": "For God’s angels will be ordered to guard you wherever you go.",
+      "translit_en": "Ki malacháv yetsavéh lach; lishmorechán bechol drachéicha."
     },
     {
       "num": 12,
@@ -96,7 +107,8 @@
       "he_plain": "על כפים ישאונך פן תגף באבן רגלך",
       "translit": "Al kapáyim yisaUnja; pen tigóf baéven ragléja.",
       "es": "En las manos te llevarán para que tu pie no tropiece en piedra.",
-      "en": "They will carry you in their hands lest you hurt your foot on a stone."
+      "en": "They will carry you in their hands lest you hurt your foot on a stone.",
+      "translit_en": "Al kapáyim yisaUncha; pen tigóf baéven raglécha."
     },
     {
       "num": 13,
@@ -104,7 +116,8 @@
       "he_plain": "על שחל ופתן תדרך תרמס כפיר ותנין",
       "translit": "Al shájal vafáten tirdój; tirMós kepír vetanín.",
       "es": "Sobre el león y el áspid pisarás; hollarás al cachorro del león y al dragón.",
-      "en": "You will tread on cubs and vipers; you will trample lions and asps."
+      "en": "You will tread on cubs and vipers; you will trample lions and asps.",
+      "translit_en": "Al sháchal vafáten tirdóch; tirMós kepír vetanín."
     },
     {
       "num": 14,
@@ -112,7 +125,8 @@
       "he_plain": "כי בי חשק ואפלטהו אשגבהו כי ידע שמי",
       "translit": "Ki bí jashák vaafaLetéhu; asagVéhu ki yadá shemí.",
       "es": "Por cuanto en Mí ha puesto su amor yo lo libraré; lo pondré en alto porque ha conocido Mi nombre.",
-      "en": "“Because such people are devoted to Me, I will deliver them; I will keep them safe, for they know My name."
+      "en": "“Because such people are devoted to Me, I will deliver them; I will keep them safe, for they know My name.",
+      "translit_en": "Ki bí chashák vaafaLetéhu; asagVéhu ki yadá shemí."
     },
     {
       "num": 15,
@@ -120,7 +134,8 @@
       "he_plain": "יקראני ואענהו עמו אנכי בצרה אחלצהו ואכבדהו",
       "translit": "Yikraéni veeNéhu; imó anojí vetsará; ajaltsEhu vaajabedéhu.",
       "es": "Me invocará y yo le responderé; con él estaré en la angustia; lo libraré y lo glorificaré.",
-      "en": "When they call on Me, I will answer them; I will be with them in distress; I will rescue them and make them honored;"
+      "en": "When they call on Me, I will answer them; I will be with them in distress; I will rescue them and make them honored;",
+      "translit_en": "Yikraéni veeNéhu; imó anochí vetsará; achaltsEhu vaachabedéhu."
     },
     {
       "num": 16,
@@ -128,7 +143,8 @@
       "he_plain": "ארך ימים אשביעהו ואראהו בישועתי {פ}",
       "translit": "Órej yamím asbieéhu; veareéhu bishuatí.",
       "es": "Lo saciaré de larga vida y le mostraré Mi salvación.",
-      "en": "I will let them live to a ripe old age, and show them My salvation.”"
+      "en": "I will let them live to a ripe old age, and show them My salvation.”",
+      "translit_en": "Órech yamím asbieéhu; veareéhu bishuatí."
     }
   ],
   "audio": "",

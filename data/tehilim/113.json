@@ -8,7 +8,8 @@
       "he_plain": "הללו יה הללו עבדי יהוה הללו את שם יהוה",
       "translit": "Haleluyá. Halelú avdéi Adonái; halelú et shém Adonái.",
       "es": "¡Aleluya! Alabad siervos del Eterno; alabad el nombre del Eterno.",
-      "en": "ש ת Hallelujah. O servants of G OD , give praise; praise the name of G OD ."
+      "en": "ש ת Hallelujah. O servants of G OD , give praise; praise the name of G OD .",
+      "translit_en": "Haleluyá. Halelú avdéi Adonái; halelú et shém Adonái."
     },
     {
       "num": 2,
@@ -16,7 +17,8 @@
       "he_plain": "יהי שם יהוה מברך מעתה ועד עולם",
       "translit": "Yehí shém Adonái mevorAj; meata vead olám.",
       "es": "Sea el nombre del Eterno bendito desde ahora y para siempre.",
-      "en": "Let G OD ’s name be blessed now and forever."
+      "en": "Let G OD ’s name be blessed now and forever.",
+      "translit_en": "Yehí shém Adonái mevorAch; meata vead olám."
     },
     {
       "num": 3,
@@ -24,7 +26,8 @@
       "he_plain": "ממזרח שמש עד מבואו מהלל שם יהוה",
       "translit": "MimiZráj shémesh ad mevoó; mehulál shém Adonái.",
       "es": "Desde el nacimiento del sol hasta su ocaso; alabado sea el nombre del Eterno.",
-      "en": "From east to west G OD ’s name is praised."
+      "en": "From east to west G OD ’s name is praised.",
+      "translit_en": "MimiZrách shémesh ad mevoó; mehulál shém Adonái."
     },
     {
       "num": 4,
@@ -32,7 +35,8 @@
       "he_plain": "רם על כל גויםיהוה על השמים כבודו",
       "translit": "Rám al kol goyím Adonái; al hashamáyim kevodó.",
       "es": "Exaltado es el Eterno sobre todas las naciones; sobre los cielos Su gloria.",
-      "en": "G OD is exalted above all nations; God’s glory is above the heavens."
+      "en": "G OD is exalted above all nations; God’s glory is above the heavens.",
+      "translit_en": "Rám al kol goyím Adonái; al hashamáyim kevodó."
     },
     {
       "num": 5,
@@ -40,7 +44,8 @@
       "he_plain": "מי כיהוה אלהינו המגביהי לשבת",
       "translit": "Mi kaAdonái Elohéinu; hamagbihí lashávet.",
       "es": "¿Quién como el Eterno nuestro Dios que se sienta en las alturas?",
-      "en": "Who is like the E TERNAL our God— the One who, enthroned on high,"
+      "en": "Who is like the E TERNAL our God— the One who, enthroned on high,",
+      "translit_en": "Mi kaAdonái Elohéinu; hamagbihí lashávet."
     },
     {
       "num": 6,
@@ -48,7 +53,8 @@
       "he_plain": "המשפילי לראות בשמים ובארץ",
       "translit": "HamashpilI lirot; bashamáyim uvaaárets.",
       "es": "Que se humilla a mirar en los cielos y en la tierra.",
-      "en": "sees what is below, in heaven and on earth?"
+      "en": "sees what is below, in heaven and on earth?",
+      "translit_en": "HamashpilI lirot; bashamáyim uvaaárets."
     },
     {
       "num": 7,
@@ -56,7 +62,8 @@
       "he_plain": "מקימי מעפר דל מאשפת ירים אביון",
       "translit": "Mekimí meafár dál; meashpót yarím evyón.",
       "es": "Él levanta del polvo al pobre y del muladar exalta al menesteroso.",
-      "en": "[God] raises the poor from the dust, lifts up the needy from the refuse heap"
+      "en": "[God] raises the poor from the dust, lifts up the needy from the refuse heap",
+      "translit_en": "Mekimí meafár dál; meashpót yarím evyón."
     },
     {
       "num": 8,
@@ -64,7 +71,8 @@
       "he_plain": "להושיבי עם נדיבים עם נדיבי עמו",
       "translit": "Lehoshiví im nedivím; im nedivéi amó.",
       "es": "Para hacerle sentar con los príncipes; con los príncipes de Su pueblo.",
-      "en": "to set them with the nobles, with the nobles of God’s people,"
+      "en": "to set them with the nobles, with the nobles of God’s people,",
+      "translit_en": "Lehoshiví im nedivím; im nedivéi amó."
     },
     {
       "num": 9,
@@ -72,7 +80,8 @@
       "he_plain": "מושיבי עקרת הבית אם הבנים שמחה הללו יה {פ}",
       "translit": "Moshivéi akéret habáyit; em habaním semeján. Haleluyá.",
       "es": "Él hace habitar en familia a la estéril y que sea madre gozosa de hijos. ¡Aleluya!",
-      "en": "and sets the childless woman among her household as a happy mother of children. Hallelujah."
+      "en": "and sets the childless woman among her household as a happy mother of children. Hallelujah.",
+      "translit_en": "Moshivéi akéret habáyit; em habaním semechán. Haleluyá."
     }
   ],
   "audio": "",

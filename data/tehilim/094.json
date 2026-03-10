@@ -8,7 +8,8 @@
       "he_plain": "אל נקמות יהוה אל נקמות הופיע",
       "translit": "El nekamót Adonái; El nekamót hofía.",
       "es": "Oh Dios de las venganzas, oh Eterno; Dios de las venganzas, manifiéstate.",
-      "en": "God of retribution, E TERNAL One, God of retribution, appear!"
+      "en": "God of retribution, E TERNAL One, God of retribution, appear!",
+      "translit_en": "El nekamót Adonái; El nekamót hofía."
     },
     {
       "num": 2,
@@ -16,7 +17,8 @@
       "he_plain": "הנשא שפט הארץ השב גמול על גאים",
       "translit": "Hinaséi shofét haárets; hashév gemúl al guéim.",
       "es": "Levántate, oh Juez de la tierra; da el pago a los soberbios.",
-      "en": "Rise up, judge of the earth, give the arrogant their deserts!"
+      "en": "Rise up, judge of the earth, give the arrogant their deserts!",
+      "translit_en": "Hinaséi shofét haárets; hashév gemúl al guéim."
     },
     {
       "num": 3,
@@ -24,7 +26,8 @@
       "he_plain": "עד מתי רשעיםיהוה עד מתי רשעים יעלזו",
       "translit": "Ad matáy reshaím Adonái; ad matáy reshaím yaalózu.",
       "es": "¿Hasta cuándo los impíos, oh Eterno; hasta cuándo los impíos se gloriarán?",
-      "en": "How long shall the wicked, O E TERNAL One, how long shall the wicked exult,"
+      "en": "How long shall the wicked, O E TERNAL One, how long shall the wicked exult,",
+      "translit_en": "Ad matáy reshaím Adonái; ad matáy reshaím yaalózu."
     },
     {
       "num": 4,
@@ -32,7 +35,8 @@
       "he_plain": "יביעו ידברו עתק יתאמרו כל פעלי און",
       "translit": "Yabíu yedabéru atáK; yitaméru kol poaléi áven.",
       "es": "Brotarán y hablarán con arrogancia; se jactarán todos los que hacen maldad.",
-      "en": "shall they utter insolent speech, shall all evildoers vaunt themselves?"
+      "en": "shall they utter insolent speech, shall all evildoers vaunt themselves?",
+      "translit_en": "Yabíu yedabéru atáK; yitaméru kol poaléi áven."
     },
     {
       "num": 5,
@@ -40,7 +44,8 @@
       "he_plain": "עמך יהוה ידכאו ונחלתך יענו",
       "translit": "Amejá Adonái yedaKú; venajalateján yeánu.",
       "es": "A Tu pueblo, oh Eterno, quebrantan y a Tu heredad afligen.",
-      "en": "They crush Your people, O E TERNAL One, they afflict Your very own;"
+      "en": "They crush Your people, O E TERNAL One, they afflict Your very own;",
+      "translit_en": "Amechá Adonái yedaKú; venachalatechán yeánu."
     },
     {
       "num": 6,
@@ -48,7 +53,8 @@
       "he_plain": "אלמנה וגר יהרגו ויתומים ירצחו",
       "translit": "Almáná veguér yaharógu; vitomím yeratséáju.",
       "es": "A la viuda y al extranjero matan y a los huérfanos asesinan.",
-      "en": "they kill the widow and the stranger; they murder the fatherless,"
+      "en": "they kill the widow and the stranger; they murder the fatherless,",
+      "translit_en": "Almáná veguér yaharógu; vitomím yeratséáchu."
     },
     {
       "num": 7,
@@ -56,7 +62,8 @@
       "he_plain": "ויאמרו לא יראה יה ולא יבין אלהי יעקב",
       "translit": "Vayomrú: lo yiréh Yáh; veló yavín Elohéi Yaakóv.",
       "es": "Y dicen: No lo verá el Eterno ni entenderá el Dios de Yaakov.",
-      "en": "thinking, “Yah a Yah See note at 68.5 . does not see it, the God of Jacob does not pay heed.”"
+      "en": "thinking, “Yah a Yah See note at 68.5 . does not see it, the God of Jacob does not pay heed.”",
+      "translit_en": "Vayomrú: lo yiréh Yáh; veló yavín Elohéi Yaakóv."
     },
     {
       "num": 8,
@@ -64,7 +71,8 @@
       "he_plain": "בינו בערים בעם וכסילים מתי תשכילו",
       "translit": "Bínu boarím baám; ujsilím matáy taskílu.",
       "es": "Entended, necios del pueblo; y vosotros insensatos ¿cuándo seréis sabios?",
-      "en": "Take heed, you most brutish people; fools, when will you get wisdom?"
+      "en": "Take heed, you most brutish people; fools, when will you get wisdom?",
+      "translit_en": "Bínu boarím baám; uchsilím matáy taskílu."
     },
     {
       "num": 9,
@@ -72,7 +80,8 @@
       "he_plain": "הנטע אזן הלא ישמע אם יצר עין הלא יביט",
       "translit": "Hanótéa ózen haló yishmá; im yotser áyin haló yabít.",
       "es": "El que plantó el oído ¿no oirá? El que formó el ojo ¿no verá?",
-      "en": "Shall the One who implants the ear not hear, the One who forms the eye not see?"
+      "en": "Shall the One who implants the ear not hear, the One who forms the eye not see?",
+      "translit_en": "Hanótéa ózen haló yishmá; im yotser áyin haló yabít."
     },
     {
       "num": 10,
@@ -80,7 +89,8 @@
       "he_plain": "היסר גוים הלא יוכיח המלמד אדם דעת",
       "translit": "Hayosér goyím haló yojíaj; hamelaMéd adám dáat.",
       "es": "El que castiga a las naciones ¿no reprenderá? El que enseña al hombre la ciencia.",
-      "en": "Shall the One who disciplines nations not punish, the One who instructs humankind in knowledge?"
+      "en": "Shall the One who disciplines nations not punish, the One who instructs humankind in knowledge?",
+      "translit_en": "Hayosér goyím haló yochíach; hamelaMéd adám dáat."
     },
     {
       "num": 11,
@@ -88,7 +98,8 @@
       "he_plain": "יהוה ידע מחשבות אדם כי המה הבל",
       "translit": "Adonái yodéa majshevót adám; ki héma háVel.",
       "es": "El Eterno conoce los pensamientos de los hombres; que son vanidad.",
-      "en": "G OD knows human designs to be futile."
+      "en": "G OD knows human designs to be futile.",
+      "translit_en": "Adonái yodéa machshevót adám; ki héma háVel."
     },
     {
       "num": 12,
@@ -96,7 +107,8 @@
       "he_plain": "אשרי הגבר אשר תיסרנו יה ומתורתך תלמדנו",
       "translit": "Ashréi haGuéver ashér teyasreénu Yáh; umitoratejá telamedénu.",
       "es": "Dichoso el hombre a quien Tú corriges, oh Eterno y en Tu Torá le instruyes.",
-      "en": "Happy are those b are those Or “is the virile man.” whom You discipline, O Yah, whom You instruct in Your teaching,"
+      "en": "Happy are those b are those Or “is the virile man.” whom You discipline, O Yah, whom You instruct in Your teaching,",
+      "translit_en": "Ashréi haGuéver ashér teyasreénu Yáh; umitoratechá telamedénu."
     },
     {
       "num": 13,
@@ -104,7 +116,8 @@
       "he_plain": "להשקיט לו מימי רע עד יכרה לרשע שחת",
       "translit": "Lehashkít ló miméi rá; ad yikáréh larásha shájat.",
       "es": "Para darle reposo en los días de adversidad mientras se cava la fosa para el impío.",
-      "en": "whom You give tranquility in times of misfortune, until a pit be dug for the wicked."
+      "en": "whom You give tranquility in times of misfortune, until a pit be dug for the wicked.",
+      "translit_en": "Lehashkít ló miméi rá; ad yikáréh larásha sháchat."
     },
     {
       "num": 14,
@@ -112,7 +125,8 @@
       "he_plain": "כי לא יטש יהוה עמו ונחלתו לא יעזב",
       "translit": "Ki lo yitósh Adonái amó; venajálatO lo yaazóv.",
       "es": "Porque el Eterno no abandonará a Su pueblo ni desamparará Su heredad.",
-      "en": "For G OD will not forsake this people; God’s very own will not be abandoned."
+      "en": "For G OD will not forsake this people; God’s very own will not be abandoned.",
+      "translit_en": "Ki lo yitósh Adonái amó; venachálatO lo yaazóv."
     },
     {
       "num": 15,
@@ -120,7 +134,8 @@
       "he_plain": "כי עד צדק ישוב משפט ואחריו כל ישרי לב",
       "translit": "Ki ad tsédek yashuv mishpát; veajaráv kol yishréi lév.",
       "es": "Porque el juicio volverá a la justicia y en pos de ella irán todos los rectos de corazón.",
-      "en": "Judgment shall again accord with justice and all the upright shall rally to it."
+      "en": "Judgment shall again accord with justice and all the upright shall rally to it.",
+      "translit_en": "Ki ad tsédek yashuv mishpát; veacharáv kol yishréi lév."
     },
     {
       "num": 16,
@@ -128,7 +143,8 @@
       "he_plain": "מי יקום לי עם מרעים מי יתיצב לי עם פעלי און",
       "translit": "Mi yakúm lí im mereím; mi yityaséb lí im poaléi áven.",
       "es": "¿Quién se levantará por mí contra los malignos? ¿Quién estará por mí contra los que hacen maldad?",
-      "en": "Who will take my part against evildoers? Who will stand up for me against wrongdoers?"
+      "en": "Who will take my part against evildoers? Who will stand up for me against wrongdoers?",
+      "translit_en": "Mi yakúm lí im mereím; mi yityaséb lí im poaléi áven."
     },
     {
       "num": 17,
@@ -136,7 +152,8 @@
       "he_plain": "לולי יהוה עזרתה לי כמעט שכנה דומה נפשי",
       "translit": "Lulé Adonái ezrátá lí; kimát shajená dumá nafshí.",
       "es": "Si el Eterno no me hubiera ayudado casi moraría mi alma en el silencio.",
-      "en": "Were not G OD my help, I should soon dwell in silence."
+      "en": "Were not G OD my help, I should soon dwell in silence.",
+      "translit_en": "Lulé Adonái ezrátá lí; kimát shachená dumá nafshí."
     },
     {
       "num": 18,
@@ -144,7 +161,8 @@
       "he_plain": "אם אמרתי מטה רגלי חסדך יהוה יסעדני",
       "translit": "Im amárti matá ragLí; jasdejá Adonái yisadéni.",
       "es": "Cuando yo decía: Mi pie resbala; Tu bondad leal, oh Eterno, me sostenía.",
-      "en": "When I think my foot has given way, Your faithfulness, O E TERNAL One, supports me."
+      "en": "When I think my foot has given way, Your faithfulness, O E TERNAL One, supports me.",
+      "translit_en": "Im amárti matá ragLí; chasdechá Adonái yisadéni."
     },
     {
       "num": 19,
@@ -152,7 +170,8 @@
       "he_plain": "ברב שרעפי בקרבי תנחומיך ישעשעו נפשי",
       "translit": "Beróv sareapáy bekiRBí; tanejumEija yeshaashú nafshí.",
       "es": "En la multitud de mis pensamientos dentro de mí; Tus consolaciones alegran mi alma.",
-      "en": "When I am filled with cares, Your assurance soothes my soul."
+      "en": "When I am filled with cares, Your assurance soothes my soul.",
+      "translit_en": "Beróv sareapáy bekiRBí; tanechumEicha yeshaashú nafshí."
     },
     {
       "num": 20,
@@ -160,7 +179,8 @@
       "he_plain": "היחברך כסא הוות יצר עמל עלי חק",
       "translit": "Hayajabrejá kisé havót; yotser ámal aléi jók.",
       "es": "¿Se juntará contigo el trono de iniquidades que forma el mal por estatuto?",
-      "en": "Shall the seat of injustice be Your partner, that frames mischief by statute?"
+      "en": "Shall the seat of injustice be Your partner, that frames mischief by statute?",
+      "translit_en": "Hayachabrechá kisé havót; yotser ámal aléi chók."
     },
     {
       "num": 21,
@@ -168,7 +188,8 @@
       "he_plain": "יגודו על נפש צדיק ודם נקי ירשיעו",
       "translit": "Yagodú al néfesh tsadík; vedám naKí yarshíu.",
       "es": "Se juntan contra el alma del justo y condenan la sangre inocente.",
-      "en": "They band together to do away with the righteous; they condemn the innocent to death."
+      "en": "They band together to do away with the righteous; they condemn the innocent to death.",
+      "translit_en": "Yagodú al néfesh tsadík; vedám naKí yarshíu."
     },
     {
       "num": 22,
@@ -176,7 +197,8 @@
       "he_plain": "ויהי יהוה לי למשגב ואלהי לצור מחסי",
       "translit": "Vayehí Adonái lí lemisGáv; veElohái letsúr majSí.",
       "es": "Pero el Eterno me ha sido por refugio y mi Dios por roca de mi amparo.",
-      "en": "But G OD is my haven; my God is my sheltering rock."
+      "en": "But G OD is my haven; my God is my sheltering rock.",
+      "translit_en": "Vayehí Adonái lí lemisGáv; veElohái letsúr machSí."
     },
     {
       "num": 23,
@@ -184,7 +206,8 @@
       "he_plain": "וישב עליהם את אונם וברעתם יצמיתם יצמיתם יהוה אלהינו {פ}",
       "translit": "Vayáshev aléihem et onám; uvraatám yatsmitém; yatsmitém Adonái Elohéinu.",
       "es": "Y Él hará volver sobre ellos su iniquidad y los destruirá en su propia maldad; los destruirá el Eterno nuestro Dios.",
-      "en": "Their evil will be made to recoil upon them, through their own wickedness they will be annihilated; the E TERNAL our God will annihilate them."
+      "en": "Their evil will be made to recoil upon them, through their own wickedness they will be annihilated; the E TERNAL our God will annihilate them.",
+      "translit_en": "Vayáshev aléihem et onám; uvraatám yatsmitém; yatsmitém Adonái Elohéinu."
     }
   ],
   "audio": "",

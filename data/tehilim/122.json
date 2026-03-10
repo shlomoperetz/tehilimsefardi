@@ -8,7 +8,8 @@
       "he_plain": "שיר המעלות לדוד שמחתי באמרים לי בית יהוה נלך",
       "translit": "Shír hamaalót leDavíd. SamáTti leomrím lí; beit Adonái nelEj.",
       "es": "Cántico de las ascensiones, de David. Me alegré con los que me decían: A la casa del Eterno iremos.",
-      "en": "A song of ascents. Of David. I rejoiced when they said to me, “We are going to the House of G OD .”"
+      "en": "A song of ascents. Of David. I rejoiced when they said to me, “We are going to the House of G OD .”",
+      "translit_en": "Shír hamaalót leDavíd. SamáTti leomrím lí; beit Adonái nelEch."
     },
     {
       "num": 2,
@@ -16,7 +17,8 @@
       "he_plain": "עמדות היו רגלינו בשעריך ירושל͏ם",
       "translit": "Omdót hayú ragléinu; bishearáyij Yerushalaím.",
       "es": "Nuestros pies estuvieron dentro de tus puertas, oh Yerushaláyim.",
-      "en": "Our feet stood inside your gates, O Jerusalem,"
+      "en": "Our feet stood inside your gates, O Jerusalem,",
+      "translit_en": "Omdót hayú ragléinu; bishearáyich Yerushalaím."
     },
     {
       "num": 3,
@@ -24,7 +26,8 @@
       "he_plain": "ירושל͏ם הבנויה כעיר שחברה לה יחדו",
       "translit": "Yerushalaím habenuya; kejír shejuBrá lá yaHdáv.",
       "es": "Yerushaláyim que está edificada como una ciudad que está unida entre sí.",
-      "en": "Jerusalem built up, a city knit together,"
+      "en": "Jerusalem built up, a city knit together,",
+      "translit_en": "Yerushalaím habenuya; kechír shechuBrá lá yaHdáv."
     },
     {
       "num": 4,
@@ -32,7 +35,8 @@
       "he_plain": "ששם עלו שבטים שבטי יה עדות לישראל להדות לשם יהוה",
       "translit": "Sheshám alú shevatím; shivTéi Yáh; edút leYisraél; lehodót leshem Adonái.",
       "es": "Allá subieron las tribus; las tribus del Eterno; testimonio para Israel para alabar el nombre del Eterno.",
-      "en": "to which tribes would make pilgrimage, the tribes of Yah, a Yah See note at 68.5 . as was enjoined upon Israel— to praise G OD ’s name."
+      "en": "to which tribes would make pilgrimage, the tribes of Yah, a Yah See note at 68.5 . as was enjoined upon Israel— to praise G OD ’s name.",
+      "translit_en": "Sheshám alú shevatím; shivTéi Yáh; edút leYisraél; lehodót leshem Adonái."
     },
     {
       "num": 5,
@@ -40,7 +44,8 @@
       "he_plain": "כי שמה ישבו כסאות למשפט כסאות לבית דוד",
       "translit": "Ki shamá yashvú jisóot lemishpát; kisóot lebéit Davíd.",
       "es": "Porque allá están los tronos del juicio; los tronos de la casa de David.",
-      "en": "There the thrones of judgment stood, thrones of the house of David."
+      "en": "There the thrones of judgment stood, thrones of the house of David.",
+      "translit_en": "Ki shamá yashvú chisóot lemishpát; kisóot lebéit Davíd."
     },
     {
       "num": 6,
@@ -48,7 +53,8 @@
       "he_plain": "שאלו שלום ירושל͏ם ישליו אהביך",
       "translit": "Shaálú shlóm Yerushalaím; yishlayú ohavaíj.",
       "es": "Pedid la paz para Yerushaláyim; sean prosperados los que te aman.",
-      "en": "Pray for the well-being of Jerusalem; “May those who love you be at peace."
+      "en": "Pray for the well-being of Jerusalem; “May those who love you be at peace.",
+      "translit_en": "Shaálú shlóm Yerushalaím; yishlayú ohavaích."
     },
     {
       "num": 7,
@@ -56,7 +62,8 @@
       "he_plain": "יהי שלום בחילך שלוה בארמנותיך",
       "translit": "Yehí shalóm bejélej; shalvá bearmenotáyij.",
       "es": "Haya paz dentro de tus muros y tranquilidad en tus palacios.",
-      "en": "May there be well-being within your ramparts, peace in your citadels.”"
+      "en": "May there be well-being within your ramparts, peace in your citadels.”",
+      "translit_en": "Yehí shalóm bechélech; shalvá bearmenotáyich."
     },
     {
       "num": 8,
@@ -64,7 +71,8 @@
       "he_plain": "למען אחי ורעי אדברה נא שלום בך",
       "translit": "Lemáan ajai vereáy; adaberá ná shalóm báj.",
       "es": "Por amor de mis hermanos y mis compañeros hablaré ahora de paz en ti.",
-      "en": "For the sake of my kin and friends, I pray for your well-being;"
+      "en": "For the sake of my kin and friends, I pray for your well-being;",
+      "translit_en": "Lemáan achai vereáy; adaberá ná shalóm bách."
     },
     {
       "num": 9,
@@ -72,7 +80,8 @@
       "he_plain": "למען בית יהוה אלהינו אבקשה טוב לך {פ}",
       "translit": "Lemáan beit Adonái Elohéinu; avakeshá tov láj.",
       "es": "Por amor de la casa del Eterno nuestro Dios buscaré tu bien.",
-      "en": "for the sake of the house of the E TERNAL our God, I seek your good."
+      "en": "for the sake of the house of the E TERNAL our God, I seek your good.",
+      "translit_en": "Lemáan beit Adonái Elohéinu; avakeshá tov lách."
     }
   ],
   "audio": "",

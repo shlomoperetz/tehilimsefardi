@@ -9,7 +9,8 @@
       "he_plain": "למנצח שיר מזמור הריעו לאלהים כל הארץ",
       "translit": "Lamnatséaj shír mizmór. Harí u leElohím kol haárets.",
       "es": "Al director. Cántico. Salmo. Aclamad a Dios con júbilo toda la tierra.",
-      "en": "For the leader. A song. A psalm. Raise a shout for God, all the earth;"
+      "en": "For the leader. A song. A psalm. Raise a shout for God, all the earth;",
+      "translit_en": "Lamnatséach shír mizmór. Harí u leElohím kol haárets."
     },
     {
       "num": 2,
@@ -17,7 +18,8 @@
       "he_plain": "זמרו כבוד שמו שימו כבוד תהלתו",
       "translit": "Zaméru jevód shemó; simú javód tehilató.",
       "es": "Cantad la gloria de Su nombre; poned gloria en Su alabanza.",
-      "en": "sing the glory of God’s name, make glorious God’s praise."
+      "en": "sing the glory of God’s name, make glorious God’s praise.",
+      "translit_en": "Zaméru chevód shemó; simú chavód tehilató."
     },
     {
       "num": 3,
@@ -25,7 +27,8 @@
       "he_plain": "אמרו לאלהים מה נורא מעשיך ברוב עוזך יכחשו לך אויביך",
       "translit": "Imrú leElohím: ma norá maaséija; beróv uzejá yejajashú lejá oyevéija.",
       "es": "Decid a Dios: ¡Cuán tremendas son Tus obras! Por la grandeza de Tu poder se someterán a Ti Tus enemigos.",
-      "en": "Say to God, “How awesome are Your deeds, Your enemies cower before Your great strength;"
+      "en": "Say to God, “How awesome are Your deeds, Your enemies cower before Your great strength;",
+      "translit_en": "Imrú leElohím: ma norá maaséicha; beróv uzechá yechachashú lechá oyevéicha."
     },
     {
       "num": 4,
@@ -33,7 +36,8 @@
       "he_plain": "כל הארץ ישתחוו לך ויזמרו לך יזמרו שמך סלה",
       "translit": "Kol haárets yishtajavú lejá; vizaméru laj; yezaméru shimejá. Selá.",
       "es": "Toda la tierra te adorará y cantará a Ti; cantarán Tu nombre. Selá.",
-      "en": "all the earth bows to You, and sings hymns to You; all sing hymns to Your name.” Selah."
+      "en": "all the earth bows to You, and sings hymns to You; all sing hymns to Your name.” Selah.",
+      "translit_en": "Kol haárets yishtachavú lechá; vizaméru lach; yezaméru shimechá. Selá."
     },
     {
       "num": 5,
@@ -41,7 +45,8 @@
       "he_plain": "לכו וראו מפעלות אלהים נורא עלילה על בני אדם",
       "translit": "Lejú ureú mifaalót Elohím; norá alilá al benéi adám.",
       "es": "Venid y ved las obras de Dios; terrible en Sus hechos sobre los hijos de los hombres.",
-      "en": "Come and see the works of God, who is held in awe by mortals for acts divine,"
+      "en": "Come and see the works of God, who is held in awe by mortals for acts divine,",
+      "translit_en": "Lechú ureú mifaalót Elohím; norá alilá al benéi adám."
     },
     {
       "num": 6,
@@ -49,7 +54,8 @@
       "he_plain": "הפך ים ליבשה בנהר יעברו ברגל שם נשמחה בו",
       "translit": "Hafáj yám leyabaShá; baNahár yaavRú veráGel; shám nismeJá bo.",
       "es": "Volvió el mar en seco; por el río pasaron a pie; allí nos alegramos en Él.",
-      "en": "and who turned the sea into dry land: Israel a Israel Heb. “they”; cf. Josh. 4.23 . crossed the river on foot; we therefore rejoice in [God]."
+      "en": "and who turned the sea into dry land: Israel a Israel Heb. “they”; cf. Josh. 4.23 . crossed the river on foot; we therefore rejoice in [God].",
+      "translit_en": "Hafách yám leyabaShá; baNahár yaavRú veráGel; shám nismeChá bo."
     },
     {
       "num": 7,
@@ -57,7 +63,8 @@
       "he_plain": "מושל בגבורתו עולם עיניו בגוים תצפינה הסוררים אל ירומו למו סלה",
       "translit": "Moshél bigvurató olám; eináv baGoyím titspeíná; hasoreRím al yarúmu lámo. Selá.",
       "es": "Él señorea con Su poder para siempre; Sus ojos atalayan sobre las naciones; los rebeldes no se enaltezcan. Selá.",
-      "en": "[God] rules forever with divine might, eyes scanning the nations— not letting the rebellious assert themselves. Selah."
+      "en": "[God] rules forever with divine might, eyes scanning the nations— not letting the rebellious assert themselves. Selah.",
+      "translit_en": "Moshél bigvurató olám; eináv baGoyím titspeíná; hasoreRím al yarúmu lámo. Selá."
     },
     {
       "num": 8,
@@ -65,7 +72,8 @@
       "he_plain": "ברכו עמים אלהינו והשמיעו קול תהלתו",
       "translit": "Barejú amím Elohéinu; veHashmíu kól tehilató.",
       "es": "Bendecid, pueblos, a nuestro Dios y haced oír la voz de Su alabanza.",
-      "en": "O peoples, bless our God; celebrate with praises"
+      "en": "O peoples, bless our God; celebrate with praises",
+      "translit_en": "Barechú amím Elohéinu; veHashmíu kól tehilató."
     },
     {
       "num": 9,
@@ -73,7 +81,8 @@
       "he_plain": "השם נפשנו בחיים ולא נתן למוט רגלנו",
       "translit": "Hasám nafshénu baJayím; veló natán lamót raglénu.",
       "es": "Él es quien puso nuestra alma en vida y no permitió que nuestros pies resbalasen.",
-      "en": "the One who has granted us life, and has not let our feet slip."
+      "en": "the One who has granted us life, and has not let our feet slip.",
+      "translit_en": "Hasám nafshénu baChayím; veló natán lamót raglénu."
     },
     {
       "num": 10,
@@ -81,7 +90,8 @@
       "he_plain": "כי בחנתנו אלהים צרפתנו כצרוף הכסף",
       "translit": "Ki vejantánu Elohím; tseráftanu kitsróf hakésef.",
       "es": "Porque Tú nos probaste, oh Dios; nos refinaste como se refina la plata.",
-      "en": "You have tried us, O God, refining us, as one refines silver."
+      "en": "You have tried us, O God, refining us, as one refines silver.",
+      "translit_en": "Ki vechantánu Elohím; tseráftanu kitsróf hakésef."
     },
     {
       "num": 11,
@@ -89,7 +99,8 @@
       "he_plain": "הבאתנו במצודה שמת מועקה במתנינו",
       "translit": "Haveátanu bametsudá; samtá muaká bemotNéinu.",
       "es": "Nos metiste en la red; pusiste sobre nuestros lomos pesada carga.",
-      "en": "You have caught us in a net, caught us in trammels. b caught us in trammels Lit. “put a trammel on our loins.”"
+      "en": "You have caught us in a net, caught us in trammels. b caught us in trammels Lit. “put a trammel on our loins.”",
+      "translit_en": "Haveátanu bametsudá; samtá muaká bemotNéinu."
     },
     {
       "num": 12,
@@ -97,7 +108,8 @@
       "he_plain": "הרכבת אנוש לראשנו באנו באש ובמים ותוציאנו לרויה",
       "translit": "Hirkávta enósh leroshénu; bánu vaésh uvaMáyim; vatotsiénu larváyah.",
       "es": "Hiciste cabalgar hombres sobre nuestra cabeza; pasamos por el fuego y por el agua y nos sacaste a abundancia.",
-      "en": "You have let people ride over us; we have endured fire and water, and You have brought us through to prosperity."
+      "en": "You have let people ride over us; we have endured fire and water, and You have brought us through to prosperity.",
+      "translit_en": "Hirkávta enósh leroshénu; bánu vaésh uvaMáyim; vatotsiénu larváyah."
     },
     {
       "num": 13,
@@ -105,7 +117,8 @@
       "he_plain": "אבוא ביתך בעולות אשלם לך נדרי",
       "translit": "Avó véiteja veolót; ashalém lejá nedaráy.",
       "es": "Entraré en Tu casa con holocaustos; te pagaré mis votos.",
-      "en": "I enter Your house with burnt offerings, I pay my vows to You,"
+      "en": "I enter Your house with burnt offerings, I pay my vows to You,",
+      "translit_en": "Avó véitecha veolót; ashalém lechá nedaráy."
     },
     {
       "num": 14,
@@ -113,7 +126,8 @@
       "he_plain": "אשר פצו שפתי ודיבר פי בצר לי",
       "translit": "Ashér patsú sfatáy; vedibér pí batsár lí.",
       "es": "Los que pronunciaron mis labios y habló mi boca cuando estaba en angustia.",
-      "en": "[vows] that my lips pronounced, that my mouth uttered in my distress."
+      "en": "[vows] that my lips pronounced, that my mouth uttered in my distress.",
+      "translit_en": "Ashér patsú sfatáy; vedibér pí batsár lí."
     },
     {
       "num": 15,
@@ -121,7 +135,8 @@
       "he_plain": "עולות מחים אעלה לך עם קטרת אילים אעשה בקר עם עתודים סלה",
       "translit": "Olót mejím aaLéh laj; im ketoRét eilím; aaséh bakár im atudím. Selá.",
       "es": "Holocaustos de animales engordados te ofreceré con sahumerio de carneros; haré ofrenda de bueyes con machos cabríos. Selá.",
-      "en": "I offer up fatlings to You, with the odor of burning rams; I sacrifice bulls and he-goats. Selah."
+      "en": "I offer up fatlings to You, with the odor of burning rams; I sacrifice bulls and he-goats. Selah.",
+      "translit_en": "Olót mechím aaLéh lach; im ketoRét eilím; aaséh bakár im atudím. Selá."
     },
     {
       "num": 16,
@@ -129,7 +144,8 @@
       "he_plain": "לכו שמעו ואספרה כל יראי אלהים אשר עשה לנפשי",
       "translit": "Lejú shimú vaasapeRá; kol yirEéi Elohím; ashér asá lenafshí.",
       "es": "Venid, escuchad todos los que teméis a Dios y contaré lo que ha hecho por mi alma.",
-      "en": "Come and hear, all you who fear God, as I tell what was done for me."
+      "en": "Come and hear, all you who fear God, as I tell what was done for me.",
+      "translit_en": "Lechú shimú vaasapeRá; kol yirEéi Elohím; ashér asá lenafshí."
     },
     {
       "num": 17,
@@ -137,7 +153,8 @@
       "he_plain": "אליו פי קראתי ורומם תחת לשוני",
       "translit": "Eláv pí karáti; veromám táJat leshonéi.",
       "es": "A Él clamé con mi boca y fue exaltado con mi lengua.",
-      "en": "I called aloud to [God], glorification on my tongue."
+      "en": "I called aloud to [God], glorification on my tongue.",
+      "translit_en": "Eláv pí karáti; veromám táChat leshonéi."
     },
     {
       "num": 18,
@@ -145,7 +162,8 @@
       "he_plain": "און אם ראיתי בלבי לא ישמע אדני",
       "translit": "Áven im raíti belibí; lo yishmá Adonái.",
       "es": "Si en mi corazón hubiese yo mirado a la iniquidad el Señor no me hubiera escuchado.",
-      "en": "Had I an evil thought in my mind, my Sovereign would not have listened."
+      "en": "Had I an evil thought in my mind, my Sovereign would not have listened.",
+      "translit_en": "Áven im raíti belibí; lo yishmá Adonái."
     },
     {
       "num": 19,
@@ -153,7 +171,8 @@
       "he_plain": "אכן שמע אלהים הקשיב בקול תפלתי",
       "translit": "Ajén shamá Elohím; hikshív bekól tefilatí.",
       "es": "Mas ciertamente me escuchó Dios; atendió a la voz de mi oración.",
-      "en": "But God did listen— paying heed to my prayer."
+      "en": "But God did listen— paying heed to my prayer.",
+      "translit_en": "Achén shamá Elohím; hikshív bekól tefilatí."
     },
     {
       "num": 20,
@@ -161,7 +180,8 @@
       "he_plain": "ברוך אלהים אשר לא הסיר תפלתי וחסדו מאתי",
       "translit": "Barúj Elohím ashér lo hesír tefilatí vejasdó meití.",
       "es": "Bendito sea Dios que no echó de sí mi oración ni de mí Su bondad leal.",
-      "en": "Blessed is God who has not turned away my prayer, or faithful care, from me."
+      "en": "Blessed is God who has not turned away my prayer, or faithful care, from me.",
+      "translit_en": "Barúch Elohím ashér lo hesír tefilatí vechasdó meití."
     }
   ],
   "ocasiones": [],
