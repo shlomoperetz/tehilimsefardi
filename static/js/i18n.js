@@ -154,8 +154,12 @@ function applyLang() {
     const titleEn = ds.getAttribute('data-title-en');
     const titleHe = ds.getAttribute('data-title-he');
     const prefix = currentLang === 'he' ? 'מזמור' : currentLang === 'en' ? 'Psalm' : 'Salmo';
+    const verseEs = ds.getAttribute('data-verse-es');
+    const verseEn = ds.getAttribute('data-verse-en');
     const title = currentLang === 'he' ? titleHe : currentLang === 'en' ? titleEn : titleEs;
-    ds.textContent = prefix + ' ' + num + (title ? ' · ' + title : '');
+    const verse = currentLang === 'en' && verseEn ? verseEn.substring(0, 60) + '…' : verseEs ? verseEs.substring(0, 60) + '…' : '';
+    ds.textContent = prefix + ' ' + num + (title ? ' · ' + title : '') ;
+    ds.title = verse;
   }
   // Títulos en lista de salmos según idioma
   document.querySelectorAll('.tehilim-name').forEach(el => {
