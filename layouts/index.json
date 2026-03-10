@@ -1,13 +1,11 @@
-{{- $pages := where .Site.RegularPages "Section" "tehilim" -}}
+{{- $psalms := .Site.Data.tehilim -}}
+{{- $keys := slice -}}
+{{- range $k, $v := $psalms }}{{ $keys = $keys | append $k }}{{ end -}}
+{{- $sorted := sort $keys -}}
 [
-{{- range $i, $p := $pages -}}
+{{- range $i, $k := $sorted -}}
+{{- $p := index $psalms $k -}}
 {{- if $i }},{{ end }}
-{
-  "number": {{ $p.Params.number | default 0 }},
-  "title": {{ $p.Title | jsonify }},
-  "permalink": {{ $p.Permalink | jsonify }},
-  "categories": {{ $p.Params.categories | jsonify }},
-  "content": {{ $p.Plain | truncate 300 | jsonify }}
-}
+{"number":{{ $p.number }},"url":"/tehilim/{{ $k }}/","title_he":{{ $p.title_he | jsonify }},"title_es":{{ $p.title_es | jsonify }},"translit":{{ if $p.verses }}{{ with index $p.verses 0 }}{{ .translit | jsonify }}{{ else }}""{{ end }}{{ else }}""{{ end }},"es_preview":{{ if $p.verses }}{{ with index $p.verses 0 }}{{ .es | jsonify }}{{ else }}""{{ end }}{{ else }}""{{ end }}}
 {{- end }}
 ]
