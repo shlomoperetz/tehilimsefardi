@@ -1,25 +1,35 @@
 #!/usr/bin/env python3
 """
-Generate translit_en for every verse in data/tehilim/*.json.
+Regenerate translit_en for every verse in data/tehilim/*.json.
 
 Sephardic Spanish → English transliteration rules:
-  j  → ch   (ח / כ sound: 'j' in Spanish = 'ch' in English)
-  J  → Ch   (capitalized)
-  Everything else stays the same (accented vowels, sh, ts, etc.)
+  1. Stressed vowel marked with UPPERCASE (removing diacritic):
+       á→A  é→E  í→I  ó→O  ú→U   (and Á→A É→E Í→I Ó→O Ú→U)
+  2. j → ch  (ח/כ: 'j' in Spanish sephardic = 'ch' in English)
+     J → Ch
+  3. '; ' → ', '  (semicolons between clauses → commas)
+  All other characters unchanged (sh, ts, accented → plain elsewhere).
 """
 
 import json
 import os
-import re
 
 BASE = os.path.join(os.path.dirname(__file__), '..', 'data', 'tehilim')
 
+# Stressed accented vowel → uppercase plain vowel
+STRESS_MAP = {
+    'á': 'A', 'é': 'E', 'í': 'I', 'ó': 'O', 'ú': 'U',
+    'Á': 'A', 'É': 'E', 'Í': 'I', 'Ó': 'O', 'Ú': 'U',
+}
 
-def to_translit_en(translit_es: str) -> str:
-    """Convert Sephardic Spanish transliteration to English convention."""
-    # Replace 'j' → 'ch', preserving case of the letter that follows
-    # Simple: J → Ch, j → ch
-    result = translit_es.replace('J', 'Ch').replace('j', 'ch')
+
+def to_translit_en(text: str) -> str:
+    # 1. Stressed accented vowels → uppercase plain vowels
+    result = ''.join(STRESS_MAP.get(c, c) for c in text)
+    # 2. j → ch  (Spanish sephardic 'j' = English 'ch' for ח/כ)
+    result = result.replace('J', 'Ch').replace('j', 'ch')
+    # 3. Semicolons between clauses → commas
+    result = result.replace('; ', ', ')
     return result
 
 
@@ -35,10 +45,12 @@ def main():
 
         changed = False
         for verse in data.get('verses', []):
-            if 'translit' in verse and 'translit_en' not in verse:
-                verse['translit_en'] = to_translit_en(verse['translit'])
-                updated_verses += 1
-                changed = True
+            if 'translit' in verse:
+                new_val = to_translit_en(verse['translit'])
+                if verse.get('translit_en') != new_val:
+                    verse['translit_en'] = new_val
+                    updated_verses += 1
+                    changed = True
 
         if changed:
             with open(path, 'w', encoding='utf-8') as f:

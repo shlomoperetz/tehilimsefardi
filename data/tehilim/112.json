@@ -9,7 +9,7 @@
       "translit": "Haleluyá. Ashréi ísh yarÉ et Adonái; bemitsvotáv jafets meód.",
       "es": "¡Aleluya! Dichoso el hombre que teme al Eterno y en Sus mandamientos se deleita en gran manera.",
       "en": "Hallelujah. א Happy are those who fear G OD , who are ardently devoted to God’s commandments.",
-      "translit_en": "Haleluyá. Ashréi ísh yarÉ et Adonái; bemitsvotáv chafets meód."
+      "translit_en": "HaleluyA. AshrEi Ish yarE et AdonAi, bemitsvotAv chafets meOd."
     },
     {
       "num": 2,
@@ -18,7 +18,7 @@
       "translit": "Gibór baárets yihéh zarO; dór yesharim yevorAj.",
       "es": "Su descendencia será poderosa en la tierra; la generación de los rectos será bendita.",
       "en": "ג Their descendants will be mighty in the land, ד a blessed generation of the upright.",
-      "translit_en": "Gibór baárets yihéh zarO; dór yesharim yevorAch."
+      "translit_en": "GibOr baArets yihEh zarO, dOr yesharim yevorAch."
     },
     {
       "num": 3,
@@ -27,7 +27,7 @@
       "translit": "Hón vaóshef bebeití; vetsidkatO omedet laad.",
       "es": "Riquezas y abundancia habrá en su casa y su justicia permanece para siempre.",
       "en": "ה Wealth and riches are in their house, ו and their beneficence lasts forever.",
-      "translit_en": "Hón vaóshef bebeití; vetsidkatO omedet laad."
+      "translit_en": "HOn vaOshef bebeitI, vetsidkatO omedet laad."
     },
     {
       "num": 4,
@@ -36,7 +36,7 @@
       "translit": "Záraj bajóshej or layesharim; janún verajúm vetsadík.",
       "es": "Resplandece en las tinieblas luz para los rectos; clemente, compasivo y justo.",
       "en": "ז A light shines a A light shines Or “[God] shines as a light.” for the upright in the darkness; b they are Or “[God] is.” gracious, compassionate, and beneficent.",
-      "translit_en": "Zárach bachóshech or layesharim; chanún verachúm vetsadík."
+      "translit_en": "ZArach bachOshech or layesharim, chanUn verachUm vetsadIk."
     },
     {
       "num": 5,
@@ -45,7 +45,7 @@
       "translit": "Tov ísh jonén umalvéh; yejalkél devaráv bemishpát.",
       "es": "Bien le va al hombre que tiene misericordia y presta; gobierna sus asuntos con justicia.",
       "en": "ח ט All goes well with those who lend generously, י who conduct affairs with equity.",
-      "translit_en": "Tov ísh chonén umalvéh; yechalkél devaráv bemishpát."
+      "translit_en": "Tov Ish chonEn umalvEh, yechalkEl devarAv bemishpAt."
     },
     {
       "num": 6,
@@ -54,7 +54,7 @@
       "translit": "Ki leolám lo yimót; lezéjer olám yihéh tsadík.",
       "es": "Porque nunca será conmovido; en memoria eterna será el justo.",
       "en": "כ They shall never be shaken; ל the beneficent will be remembered forever.",
-      "translit_en": "Ki leolám lo yimót; lezécher olám yihéh tsadík."
+      "translit_en": "Ki leolAm lo yimOt, lezEcher olAm yihEh tsadIk."
     },
     {
       "num": 7,
@@ -63,7 +63,7 @@
       "translit": "Mishemúa raá lo yirá; nakón libó batúaj baAdonái.",
       "es": "No temerá las malas noticias; su corazón está firme confiando en el Eterno.",
       "en": "מ They are not afraid of evil tidings; נ their heart is firm, they trust in G OD .",
-      "translit_en": "Mishemúa raá lo yirá; nakón libó batúach baAdonái."
+      "translit_en": "MishemUa raA lo yirA, nakOn libO batUach baAdonAi."
     },
     {
       "num": 8,
@@ -72,7 +72,7 @@
       "translit": "Samúj libó lo yirá; ad ashér yiréh betsaráv.",
       "es": "Su corazón está afirmado; no temerá hasta que vea en sus enemigos su deseo.",
       "en": "ס Their heart is resolute, they are unafraid; ע in the end they will see the fall of their foes.",
-      "translit_en": "Samúch libó lo yirá; ad ashér yiréh betsaráv."
+      "translit_en": "SamUch libO lo yirA, ad ashEr yirEh betsarAv."
     },
     {
       "num": 9,
@@ -81,7 +81,7 @@
       "translit": "Pizár natán laevyoním; tsidkatO omedet laad; karNó tarúm bejavód.",
       "es": "Repartió y dio a los pobres; su justicia permanece para siempre; su poder será exaltado en gloria.",
       "en": "פ They give freely to the poor; צ their beneficence lasts forever; ק their horn is exalted in honor.",
-      "translit_en": "Pizár natán laevyoním; tsidkatO omedet laad; karNó tarúm bechavód."
+      "translit_en": "PizAr natAn laevyonIm, tsidkatO omedet laad, karNO tarUm bechavOd."
     },
     {
       "num": 10,
@@ -90,7 +90,7 @@
       "translit": "Rashá yiréh vejáas; shináv yajrok venimasés; taavát reshaím tovéd.",
       "es": "El impío lo verá y se enojará; crujirá los dientes y se consumirá; el deseo de los impíos perecerá.",
       "en": "ר The wicked shall see it and be vexed; ש they shall gnash their teeth; their courage shall fail. ת The desire of the wicked shall come to nothing.",
-      "translit_en": "Rashá yiréh vecháas; shináv yachrok venimasés; taavát reshaím tovéd."
+      "translit_en": "RashA yirEh vechAas, shinAv yachrok venimasEs, taavAt reshaIm tovEd."
     }
   ],
   "audio": "",
