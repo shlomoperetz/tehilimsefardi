@@ -9,7 +9,7 @@
       "translit": "Mizmór shír leyóm haShaBát.",
       "es": "Salmo. Cántico para el día de Shabat.",
       "en": "A psalm. A song; for the sabbath day.",
-      "translit_en": "Mizmor shir leyom haShaBat."
+      "translit_en": "Mizmor shir leyom haShabat."
     },
     {
       "num": 2,
@@ -18,7 +18,7 @@
       "translit": "Tov lehodót laAdonái; ulezamér leshimejá Elyón.",
       "es": "Bueno es alabar al Eterno y cantar salmos a Tu nombre, oh Altísimo.",
       "en": "It is good to praise G OD , to sing hymns to Your name, O Most High,",
-      "translit_en": "Tov lehodot laadonai; ulezamer leshimecha Elyon."
+      "translit_en": "Tov lehodot laAdonai; ulezamer leshimecha Elyon."
     },
     {
       "num": 3,
@@ -36,7 +36,7 @@
       "translit": "Aléi ásor valéi náVel; aléi higayón bejinór.",
       "es": "En el salterio de diez cuerdas y en el arpa; con melodía en la lira.",
       "en": "With a ten-stringed harp, with voice and lyre together.",
-      "translit_en": "Alei asor valei naVel; alei higayon bechinor."
+      "translit_en": "Alei asor valei navel; alei higayon bechinor."
     },
     {
       "num": 5,
@@ -45,7 +45,7 @@
       "translit": "Ki simantáni Adonái befóaLéja; bemaaséi yadéija araNén.",
       "es": "Por cuanto me alegraste, oh Eterno, con Tus obras; en las obras de Tus manos me regocijaré.",
       "en": "You have gladdened me by Your deeds, O E TERNAL One; I shout for joy at Your handiwork.",
-      "translit_en": "Ki simantani Adonai befoaLecha; bemaasei yadeicha araNen."
+      "translit_en": "Ki simantani Adonai befoalecha; bemaasei yadeicha aranen."
     },
     {
       "num": 6,
@@ -90,7 +90,7 @@
       "translit": "Ki hiné oyeváija Adonái; ki hiné oyeváija yovédu; yitpaRedú kol poaléi áven.",
       "es": "Porque he aquí Tus enemigos, oh Eterno; porque he aquí Tus enemigos perecerán y serán dispersados todos los que hacen maldad.",
       "en": "Surely, Your enemies, O E TERNAL One, surely, Your enemies perish; all evildoers are scattered.",
-      "translit_en": "Ki hine oyevaicha Adonai; ki hine oyevaicha yovedu; yitpaRedu kol poalei aven."
+      "translit_en": "Ki hine oyevaicha Adonai; ki hine oyevaicha yovedu; yitparedu kol poalei aven."
     },
     {
       "num": 11,
@@ -99,7 +99,7 @@
       "translit": "Vatárem kirém karNí; balóti beshémen raanán.",
       "es": "Pero Tú exaltarás mi cuerno como el del búfalo; seré ungido con aceite fresco.",
       "en": "You raise my horn high like that of a wild ox; I am soaked in freshening oil.",
-      "translit_en": "Vatarem kirem karNi; baloti beshemen raanan."
+      "translit_en": "Vatarem kirem karni; baloti beshemen raanan."
     },
     {
       "num": 12,
@@ -135,7 +135,7 @@
       "translit": "Od yenuvún beseivá; deshením veraanaNím yihyú.",
       "es": "Aún en la vejez fructificarán; estarán vigorosos y frondosos.",
       "en": "In old age they still produce fruit; they are full of sap and freshness—",
-      "translit_en": "Od yenuvun beseiva; deshenim veraanaNim yihyu."
+      "translit_en": "Od yenuvun beseiva; deshenim veraananim yihyu."
     },
     {
       "num": 16,
@@ -144,7 +144,7 @@
       "translit": "Lehagíd ki yasHár Adonái; tsurí veló avlatá bó.",
       "es": "Para anunciar que el Eterno es recto; Él es mi roca y en Él no hay injusticia.",
       "en": "attesting that G OD is upright, my rock, in whom there is no wrong.",
-      "translit_en": "Lehagid ki yasHar Adonai; tsuri velo avlata bo."
+      "translit_en": "Lehagid ki yashar Adonai; tsuri velo avlata bo."
     }
   ],
   "audio": "",
