@@ -9,7 +9,7 @@
       "translit": "Haleluyá. HalelI nafshI et Adonái.",
       "es": "¡Aleluya! Alaba, oh alma mía, al Eterno.",
       "en": "Hallelujah. Praise G OD , O my soul!",
-      "translit_en": "Hallu yah halli nafshi et Adonai"
+      "translit_en": "Haleluya. HalelI nafshI et Adonai."
     },
     {
       "num": 2,
@@ -18,7 +18,7 @@
       "translit": "AhalelA Adonái bejayáy; azamerá leElohái beodí.",
       "es": "Alabaré al Eterno en mi vida; cantaré salmos a mi Dios mientras tenga ser.",
       "en": "I will praise G OD all my life, sing hymns to my God while I exist.",
-      "translit_en": "Ahalla Adonai bechayai azamra lelohai beodi"
+      "translit_en": "AhalelA Adonai bechayay; azamera leElohai beodi."
     },
     {
       "num": 3,
@@ -27,7 +27,7 @@
       "translit": "Al tivetjú vineDiv im; beben adám shein ló teshuá.",
       "es": "No confiéis en los príncipes ni en hijo de hombre porque no hay en él salvación.",
       "en": "Put not your trust in the great, in mortals who cannot save.",
-      "translit_en": "Al tivtechu vindivim beven adam sheein lo teshua"
+      "translit_en": "Al tivetchu vineDiv im; beben adam shein lo teshua."
     },
     {
       "num": 4,
@@ -36,7 +36,7 @@
       "translit": "Tetsé rujó yashuv leadmatO; bayóm hahú avdú eshjnotáv.",
       "es": "Sale su espíritu y vuelve a la tierra; en ese mismo día perecen sus pensamientos.",
       "en": "Their breath departs; they return to the dust; on that day their plans come to nothing.",
-      "translit_en": "Tetse rucho yashuv leadmato bayom hahu avedu eshtonotayv"
+      "translit_en": "Tetse rucho yashuv leadmatO; bayom hahu avdu eshchnotav."
     },
     {
       "num": 5,
@@ -45,7 +45,7 @@
       "translit": "Ashréi sheEl Yaakóv beezró; sivró al Adonái Elohív.",
       "es": "Dichoso aquel cuya ayuda es el Dios de Yaakov; cuya esperanza está en el Eterno su Dios.",
       "en": "Happy are those whose help is the God of Jacob, whose hope is in the E TERNAL their God,",
-      "translit_en": "Ashre sheel yaakov beezro sivro al Adonai elohayv"
+      "translit_en": "Ashrei sheEl Yaakov beezro; sivro al Adonai Elohiv."
     },
     {
       "num": 6,
@@ -54,7 +54,7 @@
       "translit": "Oséh shamáyim vaárets; et hayám veet kol ashér bám; hashomér emet leolám.",
       "es": "El que hizo los cielos y la tierra el mar y todo lo que en ellos hay; el que guarda la verdad para siempre.",
       "en": "maker of heaven and earth, the sea and all that is in them; who keeps faith forever;",
-      "translit_en": "Ose shamayim vaarets et hayam veet kol asher bam hashomer emet leolam"
+      "translit_en": "Oseh shamayim vaarets; et hayam veet kol asher bam; hashomer emet leolam."
     },
     {
       "num": 7,
@@ -63,7 +63,7 @@
       "translit": "Oséh mishpát laashukím; notén léjem lareevím; Adonái matír asurim.",
       "es": "El que hace justicia a los agraviados; el que da pan a los hambrientos; el Eterno liberta a los cautivos.",
       "en": "who secures justice for those who are wronged, gives food to the hungry. G OD sets prisoners free;",
-      "translit_en": "Ose mishpat laashukim noten lechem lareevim Adonai matir asurim"
+      "translit_en": "Oseh mishpat laashukim; noten lechem lareevim; Adonai matir asurim."
     },
     {
       "num": 8,
@@ -72,7 +72,7 @@
       "translit": "Adonái pokéaj ivrim; Adonái zokéf kefufím; Adonái ohév tsadikim.",
       "es": "El Eterno abre los ojos a los ciegos; el Eterno levanta a los caídos; el Eterno ama a los justos.",
       "en": "G OD restores sight to the blind; G OD makes those who are bent stand straight; G OD loves the righteous;",
-      "translit_en": "Adonai pokecha ivrim Adonai zokef kefufim Adonai ohev tsadikim"
+      "translit_en": "Adonai pokeach ivrim; Adonai zokef kefufim; Adonai ohev tsadikim."
     },
     {
       "num": 9,
@@ -81,7 +81,7 @@
       "translit": "Adonái shomér et guérim; yatóm vealmaNá yeoddéd; vederej reshaím yeaKésh.",
       "es": "El Eterno guarda a los extranjeros; al huérfano y a la viuda sostiene y el camino de los impíos trastorna.",
       "en": "G OD watches over the stranger and gives courage to the orphan and widow, but makes the path of the wicked tortuous.",
-      "translit_en": "Adonai shomer et gerim yatom vealmana yeoded vederech reshaim yeavet"
+      "translit_en": "Adonai shomer et guerim; yatom vealmaNa yeodded; vederech reshaim yeaKesh."
     },
     {
       "num": 10,
@@ -90,7 +90,7 @@
       "translit": "Yimlój Adonái leolám; Elohájij Tsiyón ledór vadór. Haleluyá.",
       "es": "Reinará el Eterno para siempre; tu Dios, oh Tsión, de generación en generación. ¡Aleluya!",
       "en": "G OD shall reign forever, your God, O Zion, for all generations. Hallelujah.",
-      "translit_en": "Yimloche Adonai leolam elohayich tsion ledor vador hallu yah {f"
+      "translit_en": "Yimloch Adonai leolam; Elohachich Tsiyon ledor vador. Haleluya."
     }
   ],
   "audio": "",

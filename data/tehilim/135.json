@@ -9,7 +9,7 @@
       "translit": "Haleluyá. Halelú et shém Adonái; halelú avdéi Adonái.",
       "es": "¡Aleluya! Alabad el nombre del Eterno; alabad siervos del Eterno.",
       "en": "Hallelujah. Praise the name of G OD ; give praise, you servants of G OD",
-      "translit_en": "Hallu yah hallu et shem Adonai hallu avde Adonai"
+      "translit_en": "Haleluya. Halelu et shem Adonai; halelu avdei Adonai."
     },
     {
       "num": 2,
@@ -18,7 +18,7 @@
       "translit": "Sheomdím bebéit Adonái; bejatsrót beit Elohéinu.",
       "es": "Los que estáis en la casa del Eterno en los atrios de la casa de nuestro Dios.",
       "en": "who stand in the house of G OD , in the courts of the house of our God.",
-      "translit_en": "Sheomedim beveit Adonai bechatsrot beit eloheinu"
+      "translit_en": "Sheomdim bebeit Adonai; bechatsrot beit Eloheinu."
     },
     {
       "num": 3,
@@ -27,7 +27,7 @@
       "translit": "Haleluyá ki tov Adonái; zaméru lishemó ki naím.",
       "es": "¡Aleluya! porque bueno es el Eterno; cantad salmos a Su nombre porque es agradable.",
       "en": "Praise Yah, a Yah See note at 68.5 . for G OD is good; sing hymns to this name, for it is pleasant.",
-      "translit_en": "Hallu yah ki tov Adonai zamru lishmo ki naim"
+      "translit_en": "Haleluya ki tov Adonai; zameru lishemo ki naim."
     },
     {
       "num": 4,
@@ -36,7 +36,7 @@
       "translit": "Ki Yaakóv bajár ló Yáh; Yisraél lisgulatO.",
       "es": "Porque el Eterno escogió a Yaakov para Sí y a Israel por Su especial tesoro.",
       "en": "For Yah has chosen to keep Jacob close, [treating] Israel as a treasured possession.",
-      "translit_en": "Ki yaakov bachar lo yah yisrael lisgulato"
+      "translit_en": "Ki Yaakov bachar lo Yah; Yisrael lisgulatO."
     },
     {
       "num": 5,
@@ -45,7 +45,7 @@
       "translit": "Ki aní yadáTi ki gadól Adonái; vaadoneínu mikol elohím.",
       "es": "Porque yo sé que el Eterno es grande y el Señor nuestro más que todos los dioses.",
       "en": "For I know that G OD is great, that our Sovereign is greater than all gods.",
-      "translit_en": "Ki ani yadati ki gadol Adonai vaadoneinu mikol elohim"
+      "translit_en": "Ki ani yadaTi ki gadol Adonai; vaadoneinu mikol elohim."
     },
     {
       "num": 6,
@@ -54,7 +54,7 @@
       "translit": "Kol ashér jafets Adonái asá; bashamáyim uvaaárets; bayamím vejol tehomót.",
       "es": "Todo lo que el Eterno quiso lo hizo en los cielos y en la tierra en los mares y en todos los abismos.",
       "en": "Whatever G OD desires is done in heaven and earth, in the seas and all the depths.",
-      "translit_en": "Kol asher chafets Adonai asa bashamayim uvaarets bayamim vechol tehomot"
+      "translit_en": "Kol asher chafets Adonai asa; bashamayim uvaaarets; bayamim vechol tehomot."
     },
     {
       "num": 7,
@@ -63,7 +63,7 @@
       "translit": "MaAlé nesiím miktsé haárets; berakím lamatar asá; motséh rúaj meotserotáv.",
       "es": "Hace subir las nubes de los extremos de la tierra; hace los relámpagos para la lluvia; saca el viento de Sus tesoros.",
       "en": "This is who makes clouds rise from the end of the earth; who makes lightning for the rain; who releases the wind from divine vaults.",
-      "translit_en": "Maale nesiim miktse haarets berakim lamatar asa motse rucha meotserotayv"
+      "translit_en": "MaAle nesiim miktse haarets; berakim lamatar asa; motseh ruach meotserotav."
     },
     {
       "num": 8,
@@ -72,7 +72,7 @@
       "translit": "SheHikáh bejoréi Mitsráyim; meadám ad behemá.",
       "es": "Él hirió a los primogénitos de Mitsráyim desde el hombre hasta la bestia.",
       "en": "[God] struck down the first-born of Egypt, human and animal alike—",
-      "translit_en": "Shehika bechore mitsrayim meadam ad behema"
+      "translit_en": "SheHikah bechorei Mitsrayim; meadam ad behema."
     },
     {
       "num": 9,
@@ -81,7 +81,7 @@
       "translit": "Shalaj otót umoftím betojéji Mitsráyim; beFaró uvejol avadáv.",
       "es": "Envió señales y prodigios en medio de ti oh Mitsráyim contra Faraón y contra todos sus siervos.",
       "en": "sending signs and portents against b against In contrast to others “against you.” Egypt, against Pharaoh and all his servants,",
-      "translit_en": "Shalach otot umofetim betochechi mitsrayim befaro uvchol avadayv"
+      "translit_en": "Shalach otot umoftim betochechi Mitsrayim; beFaro uvechol avadav."
     },
     {
       "num": 10,
@@ -90,7 +90,7 @@
       "translit": "SheHikáh goyím rabím; veharag melajím atsumím.",
       "es": "Hirió a naciones numerosas y mató a reyes poderosos.",
       "en": "striking down many nations and slaying numerous kings—",
-      "translit_en": "Shehika goyim rabim veharag melachim atsumim"
+      "translit_en": "SheHikah goyim rabim; veharag melachim atsumim."
     },
     {
       "num": 11,
@@ -99,7 +99,7 @@
       "translit": "LeSijón méleg haEmori; ulOg méleg haBashán; ulejol mamlejót Kenáan.",
       "es": "A Sijón rey del Emori y a Og rey del Bashán y a todos los reinos de Kenaan.",
       "en": "Sihon, king of the Amorites, Og, king of Bashan, and all the royalty of Canaan—",
-      "translit_en": "Lesichon melech haemori ulog melech habashan ulchol mamlechot kenaan"
+      "translit_en": "LeSichon meleg haEmori; ulOg meleg haBashan; ulechol mamlechot Kenaan."
     },
     {
       "num": 12,
@@ -108,7 +108,7 @@
       "translit": "VeNatán artseján najalá; najalá leYisraél amó.",
       "es": "Y dio su tierra en heredad; heredad a Israel Su pueblo.",
       "en": "and giving their lands as a heritage, as a heritage to Israel—God’s people.",
-      "translit_en": "Venatan artsam nachala nachala leyisrael amo"
+      "translit_en": "VeNatan artsechan nachala; nachala leYisrael amo."
     },
     {
       "num": 13,
@@ -117,7 +117,7 @@
       "translit": "Adonái shimejá leolám; Adonái zijrejá ledór vadór.",
       "es": "Oh Eterno Tu nombre es eterno; oh Eterno Tu memoria es de generación en generación.",
       "en": "O E TERNAL One, Your name endures forever, Your fame, O E TERNAL One, through all generations;",
-      "translit_en": "Adonai shimcha leolam Adonai zichrecha ledor vador"
+      "translit_en": "Adonai shimecha leolam; Adonai zichrecha ledor vador."
     },
     {
       "num": 14,
@@ -126,7 +126,7 @@
       "translit": "Ki yadín Adonái amó; veal avadáv yitnajém.",
       "es": "Porque el Eterno juzgará a Su pueblo y de Sus siervos se compadecerá.",
       "en": "for G OD will champion this people, and obtain satisfaction for their service. c their service Lit. “His servants.”",
-      "translit_en": "Ki yadin Adonai amo veal avadayv yitnecham"
+      "translit_en": "Ki yadin Adonai amo; veal avadav yitnachem."
     },
     {
       "num": 15,
@@ -135,7 +135,7 @@
       "translit": "Atsabéi hagoyím késef vezaháv; maaséh yedéi adám.",
       "es": "Los ídolos de las naciones son plata y oro obra de manos de hombres.",
       "en": "d Cf. Ps. 115.4–11 . The idols of the nations are silver and gold, the work of human hands.",
-      "translit_en": "Atsabe hagoyim kesef vezahav maase yede adam"
+      "translit_en": "Atsabei hagoyim kesef vezahav; maaseh yedei adam."
     },
     {
       "num": 16,
@@ -144,7 +144,7 @@
       "translit": "Péh lahém velo yedabéru; einayím lahém velo yiRú.",
       "es": "Tienen boca pero no hablan; tienen ojos pero no ven.",
       "en": "They have mouths, but cannot speak; they have eyes, but cannot see;",
-      "translit_en": "Pe lahem velo yedaberu einayim lahem velo yiru"
+      "translit_en": "Peh lahem velo yedaberu; einayim lahem velo yiRu."
     },
     {
       "num": 17,
@@ -153,7 +153,7 @@
       "translit": "Oznaím lahém velo yaazínu; af ein yesh befihem.",
       "es": "Tienen oídos pero no oyen; tampoco hay aliento en sus bocas.",
       "en": "they have ears, but cannot hear, nor is there breath in their mouths.",
-      "translit_en": "Oznayim lahem velo yaazinu af ein yesh rucha befihem"
+      "translit_en": "Oznaim lahem velo yaazinu; af ein yesh befihem."
     },
     {
       "num": 18,
@@ -162,7 +162,7 @@
       "translit": "Kemohém yihyú oséihem; kol ashér botéaj bahém.",
       "es": "Como ellos serán los que los hacen y cualquiera que en ellos confía.",
       "en": "Those who fashion them, all who trust in them, shall become like them.",
-      "translit_en": "Kemohem yihyu oseihem kol asher botecha bahem"
+      "translit_en": "Kemohem yihyu oseihem; kol asher boteach bahem."
     },
     {
       "num": 19,
@@ -171,7 +171,7 @@
       "translit": "Beit Yisraél barejú et Adonái; beit Aharón barejú et Adonái.",
       "es": "Casa de Israel bendecid al Eterno; casa de Aharón bendecid al Eterno.",
       "en": "O house of Israel, bless G OD ; O house of Aaron, bless G OD ;",
-      "translit_en": "Beit yisrael barechu et Adonai beit aharon barechu et Adonai"
+      "translit_en": "Beit Yisrael barechu et Adonai; beit Aharon barechu et Adonai."
     },
     {
       "num": 20,
@@ -180,7 +180,7 @@
       "translit": "Beit haLévi barejú et Adonái; yiréi Adonái barejú et Adonái.",
       "es": "Casa de Leví bendecid al Eterno; los que teméis al Eterno bendecid al Eterno.",
       "en": "O house of Levi, bless G OD ; you who fear G OD , bless G OD .",
-      "translit_en": "Beit halevi barechu et Adonai yire Adonai barechu et Adonai"
+      "translit_en": "Beit haLevi barechu et Adonai; yirei Adonai barechu et Adonai."
     },
     {
       "num": 21,
@@ -189,7 +189,7 @@
       "translit": "Barúj Adonái miTsiyón; shoJén Yerushalaím. Haleluyá.",
       "es": "Bendito sea el Eterno desde Tsión; Él que mora en Yerushaláyim. ¡Aleluya!",
       "en": "Blessed is G OD from Zion, the One who dwells in Jerusalem. Hallelujah.",
-      "translit_en": "Baruch Adonai mitsion shochen yerushalim hallu yah {f"
+      "translit_en": "Baruch Adonai miTsiyon; shoJen Yerushalaim. Haleluya."
     }
   ],
   "audio": "",

@@ -10,7 +10,7 @@
       "translit": "Maskíl leAsáf. Haazíná amí toratí; hatú oznejém leimréi fí.",
       "es": "Maskil de Asaf. Escucha, pueblo mío, mi Torá; inclinad vuestros oídos a las palabras de mi boca.",
       "en": "A maskil of Asaph. Give ear, my people, to my teaching, turn your ear to what I say.",
-      "translit_en": "Maskil leasaf haazina ami torati hatu azenechem leimre fi"
+      "translit_en": "Maskil leAsaf. Haazina ami torati; hatu oznechem leimrei fi."
     },
     {
       "num": 2,
@@ -19,7 +19,7 @@
       "translit": "Eftejá vemashál pí; abía jidót miní kédem.",
       "es": "Abriré mi boca en parábola; hablaré enigmas de tiempos antiguos.",
       "en": "I will expound a theme, hold forth on the lessons of the past—",
-      "translit_en": "Eftecha vemashal pi abia chidot mini kedem"
+      "translit_en": "Eftecha vemashal pi; abia chidot mini kedem."
     },
     {
       "num": 3,
@@ -28,7 +28,7 @@
       "translit": "Ashér shamáanu vanedaém; vaavotéinu sipRú lánu.",
       "es": "Lo que hemos oído y conocemos y lo que nuestros padres nos contaron.",
       "en": "things we have heard and known, that our ancestors have told us.",
-      "translit_en": "Asher shamanu vanedaem vaavoteinu sipru lanu"
+      "translit_en": "Asher shamaanu vanedaem; vaavoteinu sipRu lanu."
     },
     {
       "num": 4,
@@ -37,7 +37,7 @@
       "translit": "Lo nejajéd mibéneihem ledór ajarón; mesapeRím tehilót Adonái; veezuzó venifleotáv ashér asá.",
       "es": "No lo ocultaremos a sus hijos contando a la generación venidera las alabanzas del Eterno y Su poder y las maravillas que hizo.",
       "en": "We will not withhold them from their children, telling the coming generation the praises of G OD and of divine might, and the wonders performed.",
-      "translit_en": "Lo nechached mibneihem ledor acharon mesaprim tehilot Adonai veezuzo venifleotayv asher asa"
+      "translit_en": "Lo nechached mibeneihem ledor acharon; mesapeRim tehilot Adonai; veezuzo venifleotav asher asa."
     },
     {
       "num": 5,
@@ -46,7 +46,7 @@
       "translit": "Vayakém edút beYaakóv; veToRá sám beYisraél; ashér tsivá et avotéinu lehodi'ám livnéihem.",
       "es": "Pues Él estableció testimonio en Yaakov y puso Torá en Israel la cual mandó a nuestros padres que la enseñasen a sus hijos.",
       "en": "[God] established a decree in Jacob, ordained a teaching in Israel, charging our ancestors to make them known to their children,",
-      "translit_en": "Vayakem edut beyaakov vetora sam beyisrael asher tsiva et avoteinu lehodiam livneihem"
+      "translit_en": "Vayakem edut beYaakov; veToRa sam beYisrael; asher tsiva et avoteinu lehodi'am livneihem."
     },
     {
       "num": 6,
@@ -55,7 +55,7 @@
       "translit": "Lemaán yedú dór ajarón; baním yivaledú yakúmu; visapeRú livnéihem.",
       "es": "Para que lo sepa la generación venidera; los hijos que nazcan se levanten y lo cuenten a sus hijos.",
       "en": "that a future generation might know— children yet to be born— and in turn tell their children",
-      "translit_en": "Lemaan yedeu dor acharon banim yivaledu yakumu visapru livneihem"
+      "translit_en": "Lemaan yedu dor acharon; banim yivaledu yakumu; visapeRu livneihem."
     },
     {
       "num": 7,
@@ -64,7 +64,7 @@
       "translit": "Veyasímu veElohím kislám; veló yishkejú maalléi El; umitsvotáv yintsorú.",
       "es": "A fin de que pongan en Dios su confianza y no se olviden de las obras de Dios sino que guarden Sus mandamientos.",
       "en": "that they might put their confidence in God, and not forget God’s great deeds, but observe the commandments,",
-      "translit_en": "Veyasimu velohim kislam velo yishkechu maalle el umitsotayv yintsoru"
+      "translit_en": "Veyasimu veElohim kislam; velo yishkechu maallei El; umitsvotav yintsoru."
     },
     {
       "num": 8,
@@ -73,7 +73,7 @@
       "translit": "Veló yihyú kaavotám; dór soréR umoRéh; dór lo hejín libó; veló neemNá et El rujó.",
       "es": "Y no sean como sus padres; generación contumaz y rebelde; generación que no dispuso su corazón y cuyo espíritu no fue fiel para con Dios.",
       "en": "and not be like their ancestors, a wayward and defiant generation, a generation whose heart was inconstant, whose spirit was not true to God.",
-      "translit_en": "Velo yihyu kaavotam dor sorer umore dor lo hechin libo velo neemna et el rucho"
+      "translit_en": "Velo yihyu kaavotam; dor soreR umoReh; dor lo hechin libo; velo neemNa et El rucho."
     },
     {
       "num": 9,
@@ -82,7 +82,7 @@
       "translit": "Benéi Efráyim noshkéi roméi káshet; hafejú beyóm kerév.",
       "es": "Los hijos de Efráyim armados y arqueros volvieron las espaldas en el día de la batalla.",
       "en": "Like the Ephraimite archers who played false in the day of battle,",
-      "translit_en": "Bene efrayim nosheke rome kashet hafechu beyom kerav"
+      "translit_en": "Benei Efrayim noshkei romei kashet; hafechu beyom kerev."
     },
     {
       "num": 10,
@@ -91,7 +91,7 @@
       "translit": "Lo shamrú berít Elohím; uveTora tó meenú laléjet.",
       "es": "No guardaron el pacto de Dios y rehusaron andar en Su Torá.",
       "en": "they did not keep God’s covenant, they refused to follow divine instruction;",
-      "translit_en": "Lo shameru berit elohim uvtorato meanu lalechet"
+      "translit_en": "Lo shamru berit Elohim; uveTora to meenu lalechet."
     },
     {
       "num": 11,
@@ -100,7 +100,7 @@
       "translit": "Vayishkejú alilotáv; venifleotáv ashér heRám.",
       "es": "Y se olvidaron de Sus obras y de Sus maravillas que les había mostrado.",
       "en": "they forgot what was done for them and the wonders they were shown.",
-      "translit_en": "Vayishkechu alilotayv venifleotayv asher heram"
+      "translit_en": "Vayishkechu alilotav; venifleotav asher heRam."
     },
     {
       "num": 12,
@@ -109,7 +109,7 @@
       "translit": "Néged avotám asá féle; beérets Mitsráyim sedéh Tsóan.",
       "es": "Delante de sus padres hizo maravillas en la tierra de Egipto en el campo de Tsoan.",
       "en": "[God] performed marvels in the sight of their ancestors, in the land of Egypt, the plain of Zoan.",
-      "translit_en": "Neged avotam asa fele beerets mitsrayim sede tsoan"
+      "translit_en": "Neged avotam asa fele; beerets Mitsrayim sedeh Tsoan."
     },
     {
       "num": 13,
@@ -118,7 +118,7 @@
       "translit": "Baká yám vayabirém; vayatséb máyim kemó néd.",
       "es": "Dividió el mar y los hizo pasar; detuvo las aguas como en un montón.",
       "en": "[God] split the sea and took them through it— making the waters stand like a wall.",
-      "translit_en": "Baka yam vayaavirem vayatsev mayim kemo ned"
+      "translit_en": "Baka yam vayabirem; vayatseb mayim kemo ned."
     },
     {
       "num": 14,
@@ -127,7 +127,7 @@
       "translit": "Vayanjém beaNán yomám; vejal haláyla beór ésh.",
       "es": "Los guió de día con nube y toda la noche con luz de fuego.",
       "en": "[God] led them with a cloud by day, and throughout the night by the light of fire.",
-      "translit_en": "Vayanchem beanan yomam vechal halayla beor esh"
+      "translit_en": "Vayanchem beaNan yomam; vechal halayla beor esh."
     },
     {
       "num": 15,
@@ -136,7 +136,7 @@
       "translit": "Yevakáa tsuRím bamidBár; vayashké kitehomót rabá.",
       "es": "Hendió las peñas en el desierto y les dio a beber como de grandes abismos.",
       "en": "[God] split rocks in the wilderness and gave them drink as if from the great deep.",
-      "translit_en": "Yevaka tsurim bamidbar vayashke kithomot raba"
+      "translit_en": "Yevakaa tsuRim bamidBar; vayashke kitehomot raba."
     },
     {
       "num": 16,
@@ -145,7 +145,7 @@
       "translit": "Vayotsí nozlím miséla; vayóred kaNeharót máyim.",
       "es": "Hizo salir corrientes de la peña y las hizo correr como ríos.",
       "en": "[God] brought forth streams from a rock and made them flow down like a river.",
-      "translit_en": "Vayotsi nozelim misela vayored kanharot mayim"
+      "translit_en": "Vayotsi nozlim misela; vayored kaNeharot mayim."
     },
     {
       "num": 17,
@@ -154,7 +154,7 @@
       "translit": "Vayosífu od laJató lo; lamrót Elyón batsiyá.",
       "es": "Pero aún volvieron a pecar contra Él; rebeldía contra el Altísimo en el desierto.",
       "en": "But they went on sinning, defying the Most High in the parched land.",
-      "translit_en": "Vayosifu od lachato lo lamrot elyon batsiya"
+      "translit_en": "Vayosifu od laJato lo; lamrot Elyon batsiya."
     },
     {
       "num": 18,
@@ -163,7 +163,7 @@
       "translit": "Vayenasú El belevavám; lisheól ójel lenafshám.",
       "es": "Y tentaron a Dios en sus corazones pidiendo comida a su gusto.",
       "en": "To test God was in their mind when they demanded food for themselves.",
-      "translit_en": "Vaynasu el bilvavam lishal ochel lenafsham"
+      "translit_en": "Vayenasu El belevavam; lisheol ochel lenafsham."
     },
     {
       "num": 19,
@@ -172,7 +172,7 @@
       "translit": "Vayedaberú veElohím; amarú: hayujál El larojéj shulján bamidBár.",
       "es": "Y hablaron contra Dios diciendo: ¿Podrá Dios poner mesa en el desierto?",
       "en": "They spoke against God, saying, “Can God spread a feast in the wilderness?",
-      "translit_en": "Vaydabru velohim ameru hayuchal el laaroche shulchan bamidbar"
+      "translit_en": "Vayedaberu veElohim; amaru: hayuchal El larochech shulchan bamidBar."
     },
     {
       "num": 20,
@@ -181,7 +181,7 @@
       "translit": "Hén hikáh tsúr vayazúvu máyim; unjelaím yishtófu; hagám léjem yujál tét; im yajín sheér leamó.",
       "es": "He aquí hirió la peña y fluyeron aguas y torrentes inundaron; ¿podrá también dar pan? ¿Proveerá de carne a Su pueblo?",
       "en": "True, [God] a [God] I.e., Moses, acting as God’s agent; cf. Exod. 17.5–6 . struck the rock and waters flowed, streams gushed forth; but can [God] provide bread and supply meat for this people?”",
-      "translit_en": "Hen hika tsur vayazuvu mayim unchalim yishtofu hagam lechem yuchal tet im yachin sheer leamo"
+      "translit_en": "Hen hikah tsur vayazuvu mayim; unchelaim yishtofu; hagam lechem yuchal tet; im yachin sheer leamo."
     },
     {
       "num": 21,
@@ -190,7 +190,7 @@
       "translit": "Lajén shamá Adonái vayitabár; veésh nishká veYaakóv; vegam af alá veYisraél.",
       "es": "Por tanto oyó el Eterno y se indignó; y se encendió fuego contra Yaakov y también subió la ira contra Israel.",
       "en": "G OD heard and then raged; fire broke out against Jacob, anger flared up at Israel,",
-      "translit_en": "Lachen shama Adonai vayitabar veesh niska veyaakov vegam af ala veyisrael"
+      "translit_en": "Lachen shama Adonai vayitabar; veesh nishka veYaakov; vegam af ala veYisrael."
     },
     {
       "num": 22,
@@ -199,7 +199,7 @@
       "translit": "Ki lo heemínu beElohím; veló batéju bishuat ó.",
       "es": "Porque no creyeron en Dios ni confiaron en Su salvación.",
       "en": "because they did not put their trust in God, did not rely on divine deliverance.",
-      "translit_en": "Ki lo heeminu belohim velo vatechu bishuato"
+      "translit_en": "Ki lo heeminu beElohim; velo batechu bishuat o."
     },
     {
       "num": 23,
@@ -208,7 +208,7 @@
       "translit": "Vayetsáv shejakím mimáal; vedaltéi shamáyim patáj.",
       "es": "Sin embargo mandó a las nubes de arriba y abrió las puertas de los cielos.",
       "en": "So [God] commanded the skies above, opened the doors of heaven",
-      "translit_en": "Vaytsav shechakim mimaal vedalte shamayim patach"
+      "translit_en": "Vayetsav shechakim mimaal; vedaltei shamayim patach."
     },
     {
       "num": 24,
@@ -217,7 +217,7 @@
       "translit": "Vayamtér aléihem mán leejól; udegán shamáyim natán lámo.",
       "es": "E hizo llover sobre ellos maná para comer y les dio trigo de los cielos.",
       "en": "and rained manna upon them for food, giving them heavenly grain.",
-      "translit_en": "Vayamter aleihem man leechol udgan shamayim natan lamo"
+      "translit_en": "Vayamter aleihem man leechol; udegan shamayim natan lamo."
     },
     {
       "num": 25,
@@ -226,7 +226,7 @@
       "translit": "Léjem abirím ajál ísh; tsedá shalaj lahém lasobéa.",
       "es": "Pan de los poderosos comió el hombre; les envió comida hasta saciarlos.",
       "en": "Each person ate a hero’s meal; they were sent provision in plenty.",
-      "translit_en": "Lechem abirim achal ish tseida shalach lahem lasova"
+      "translit_en": "Lechem abirim achal ish; tseda shalach lahem lasobea."
     },
     {
       "num": 26,
@@ -235,7 +235,7 @@
       "translit": "Yasá kadím bashamáyim; vayenaHég beuzó temán.",
       "es": "Hizo soplar el viento del oriente en el cielo y con Su poder trajo el viento del sur.",
       "en": "[God] set the east wind moving in heaven, and drove the south wind mightily.",
-      "translit_en": "Yasa kadim bashamayim vaynaheg beuzo teiman"
+      "translit_en": "Yasa kadim bashamayim; vayenaHeg beuzo teman."
     },
     {
       "num": 27,
@@ -244,7 +244,7 @@
       "translit": "Vayamtér aléihem keafár sheér; ukejol yamím of janáf.",
       "es": "E hizo llover sobre ellos carne como polvo y aves de alas como la arena del mar.",
       "en": "[God] rained meat on them like dust, winged birds like the sands of the sea,",
-      "translit_en": "Vayamter aleihem keafar sheer uchchol yamim of kanaf"
+      "translit_en": "Vayamter aleihem keafar sheer; ukechol yamim of chanaf."
     },
     {
       "num": 28,
@@ -253,7 +253,7 @@
       "translit": "Vayapél bekérev majanéhu; savív lemishkenotáv.",
       "es": "Las hizo caer en medio de su campamento alrededor de sus tiendas.",
       "en": "making them come down inside God’s camp, around the divine dwelling-place.",
-      "translit_en": "Vayapel bekerev machanehu saviv lemishkenotayv"
+      "translit_en": "Vayapel bekerev machanehu; saviv lemishkenotav."
     },
     {
       "num": 29,
@@ -262,7 +262,7 @@
       "translit": "Vayojlú vayisvéu meód; vetaavaTám yavé lahém.",
       "es": "Comieron y se saciaron mucho pues les trajo lo que habían deseado.",
       "en": "They ate till they were sated; they were given what they craved.",
-      "translit_en": "Vayochlu vayisbeu meod vetaavatam yavi lahem"
+      "translit_en": "Vayochlu vayisveu meod; vetaavaTam yave lahem."
     },
     {
       "num": 30,
@@ -271,7 +271,7 @@
       "translit": "Lo zarú mitaavaTám; od ojlám befíhem.",
       "es": "No se habían alejado de su deseo; aún tenían la comida en su boca.",
       "en": "They had not yet wearied of what they craved, the food was still in their mouths",
-      "translit_en": "Lo zaru mitaavatam od achelam befihem"
+      "translit_en": "Lo zaru mitaavaTam; od ochlam befihem."
     },
     {
       "num": 31,
@@ -280,7 +280,7 @@
       "translit": "Veaf Elohím alá vahém; vayahRóg bemishmanéihem; uvajuréi Yisraél hikRía.",
       "es": "Cuando la ira de Dios subió contra ellos mató a los más robustos de ellos y derribó a los jóvenes de Israel.",
       "en": "when God’s anger flared up at them. [God] slew their sturdiest, struck down the youth of Israel.",
-      "translit_en": "Veaf elohim ala vahem vayaharog bemishmaneihem uvachure yisrael hichria"
+      "translit_en": "Veaf Elohim ala vahem; vayahRog bemishmaneihem; uvachurei Yisrael hikRia."
     },
     {
       "num": 32,
@@ -289,7 +289,7 @@
       "translit": "Bejol zot jatEu od; veló heemínu benifleotáv.",
       "es": "Con todo esto volvieron a pecar y no creyeron en Sus maravillas.",
       "en": "Nonetheless, they went on sinning and had no faith in God’s wonders.",
-      "translit_en": "Bechal zot chateu od velo heeminu benifleotayv"
+      "translit_en": "Bechol zot chatEu od; velo heeminu benifleotav."
     },
     {
       "num": 33,
@@ -298,7 +298,7 @@
       "translit": "Vayejál bahével yeméihem; ushenotám babehalá.",
       "es": "Por tanto consumió en vanidad sus días y sus años en turbación.",
       "en": "Their days were made to end in futility, their years in sudden death.",
-      "translit_en": "Vaychal bahevel yemeihem ushnotam babehala"
+      "translit_en": "Vayechal bahevel yemeihem; ushenotam babehala."
     },
     {
       "num": 34,
@@ -307,7 +307,7 @@
       "translit": "Im haRagám udeRashúhu; veshavú veshijerú El.",
       "es": "Si los mataba entonces le buscaban y se convertían y madrugaban a buscar a Dios.",
       "en": "When stricken, b stricken Lit. “killed.” they returned, and sought God once again.",
-      "translit_en": "Im haragam udrashuhu veshavu veshicharu el"
+      "translit_en": "Im haRagam udeRashuhu; veshavu veshicheru El."
     },
     {
       "num": 35,
@@ -316,7 +316,7 @@
       "translit": "Vayizkerú ki Elohím tsurám; veEl Elyón goaLám.",
       "es": "Y se acordaban de que Dios era su roca y el Dios Altísimo su redentor.",
       "en": "They remembered that God was their rock, God Most High, their Redeemer.",
-      "translit_en": "Vayizkeru ki elohim tsuram veel elyon goalam"
+      "translit_en": "Vayizkeru ki Elohim tsuram; veEl Elyon goaLam."
     },
     {
       "num": 36,
@@ -325,7 +325,7 @@
       "translit": "Vayefatúhu befíhem; uvilshonám yejazevú lo.",
       "es": "Pero le halagaban con su boca y con su lengua le mentían.",
       "en": "Yet they deceived [God] with their speech, and lied with their words.",
-      "translit_en": "Vayfatuhu befihem uvilshonam yechazvu lo"
+      "translit_en": "Vayefatuhu befihem; uvilshonam yechazevu lo."
     },
     {
       "num": 37,
@@ -334,7 +334,7 @@
       "translit": "Velibám lo najón imó; veló neemNú bivrít ó.",
       "es": "Pues su corazón no era recto con Él ni fueron fieles en Su pacto.",
       "en": "Their hearts were inconstant; they were untrue to the covenant.",
-      "translit_en": "Velibam lo nachon imo velo neemnu bivrito"
+      "translit_en": "Velibam lo nachon imo; velo neemNu bivrit o."
     },
     {
       "num": 38,
@@ -343,7 +343,7 @@
       "translit": "Vehu rajúm yejapér avón; veló yashJít; vehiRbá lehashív apó; veló yaír kol jamató.",
       "es": "Pero Él siendo misericordioso perdonaba la maldad y no los destruía; muchas veces apartó Su ira y no despertó todo Su furor.",
       "en": "But [God], being merciful, forgave iniquity and would not destroy— restraining wrath time and again and not giving full vent to such fury—",
-      "translit_en": "Vehu rachum yechaper aon velo yashchit vehirba lehashiv apo velo yair kal chamato"
+      "translit_en": "Vehu rachum yechaper avon; velo yashJit; vehiRba lehashiv apo; velo yair kol chamato."
     },
     {
       "num": 39,
@@ -352,7 +352,7 @@
       "translit": "Vayizkór ki vasár héma; rúaj holéj veló yashuv.",
       "es": "Y se acordaba de que eran carne; un viento que pasa y no vuelve.",
       "en": "remembering that they were but flesh, a passing breath that does not return.",
-      "translit_en": "Vayizkor ki vasar hema rucha holeche velo yashuv"
+      "translit_en": "Vayizkor ki vasar hema; ruach holech velo yashuv."
     },
     {
       "num": 40,
@@ -361,7 +361,7 @@
       "translit": "Kamá yamrúhu bamidBár; yaatstivúhu bishimón.",
       "es": "¡Cuántas veces le provocaron en el desierto y le entristecieron en el yermo!",
       "en": "How often did they act defiantly in the wilderness, then cause grief in the wasteland!",
-      "translit_en": "Kama yamruhu vamidbar yaatsivuhu bishimon"
+      "translit_en": "Kama yamruhu bamidBar; yaatstivuhu bishimon."
     },
     {
       "num": 41,
@@ -370,7 +370,7 @@
       "translit": "Vayashúvu vayenasú El; ukdósh Yisraél hitávu.",
       "es": "Y volvieron y tentaron a Dios y provocaron al Santo de Israel.",
       "en": "Again and again they tested God, vexed c vexed Or “set a limit to.” the Holy One of Israel.",
-      "translit_en": "Vayashuvu vaynasu el ukdosh yisrael hitvu"
+      "translit_en": "Vayashuvu vayenasu El; ukdosh Yisrael hitavu."
     },
     {
       "num": 42,
@@ -379,7 +379,7 @@
       "translit": "Lo zajrú et yadó; yóm ashér padám miní tsár.",
       "es": "No se acordaron de Su mano del día en que los redimió del angustiador.",
       "en": "They did not remember God’s strength, or the day they were redeemed from the foe;",
-      "translit_en": "Lo zacheru et yado yom asher padam mini tsar"
+      "translit_en": "Lo zachru et yado; yom asher padam mini tsar."
     },
     {
       "num": 43,
@@ -388,7 +388,7 @@
       "translit": "Ashér sám beMitsráyim ototáv; umoftáv bisedéh Tsóan.",
       "es": "Cuando puso Sus señales en Egipto y Sus maravillas en el campo de Tsoan.",
       "en": "how [God] displayed signs in Egypt, and wonders in the plain of Zoan.",
-      "translit_en": "Asher sam bemitsrayim ototayv umofetayv bisde tsoan"
+      "translit_en": "Asher sam beMitsrayim ototav; umoftav bisedeh Tsoan."
     },
     {
       "num": 44,
@@ -397,7 +397,7 @@
       "translit": "Vayahafój ledám yeorEihem; veNozléihem bal yishtayún.",
       "es": "Y convirtió en sangre sus ríos y sus corrientes para que no pudieran beber.",
       "en": "[God first] turned their rivers into blood— making their waters undrinkable;",
-      "translit_en": "Vayahafoche ledam yeoreihem venozeleihem bal yishtayun"
+      "translit_en": "Vayahafoch ledam yeorEihem; veNozleihem bal yishtayun."
     },
     {
       "num": 45,
@@ -406,7 +406,7 @@
       "translit": "Yeshalaj bahém arOv vayojlém; utsefardéa vatashJitém.",
       "es": "Envió contra ellos enjambres de moscas que los devoraron y ranas que los destruyeron.",
       "en": "then inflicted upon them swarms of insects to devour them, frogs to destroy them;",
-      "translit_en": "Yeshalach bahem arov vayochlem utsfardea vatashchitem"
+      "translit_en": "Yeshalach bahem arOv vayochlem; utsefardea vatashJitem."
     },
     {
       "num": 46,
@@ -415,7 +415,7 @@
       "translit": "Vayitén lejasíl yevulám; vigiám laarbéh.",
       "es": "Entregó además a la oruga sus cosechas y su trabajo a la langosta.",
       "en": "then gave their crops over to grubs, their produce to locusts;",
-      "translit_en": "Vayiten lechasil yevulam vigiam laarbe"
+      "translit_en": "Vayiten lechasil yevulam; vigiam laarbeh."
     },
     {
       "num": 47,
@@ -424,7 +424,7 @@
       "translit": "Yahróg babará gafnám; veshikmotám bajanamal.",
       "es": "Destruyó sus viñas con granizo y sus higuerales con escarcha.",
       "en": "then killed their vines with hail, their sycamores with frost; d with frost Meaning of Heb. uncertain.",
-      "translit_en": "Yaharog babarad gafnam veshikmotam bachanamal"
+      "translit_en": "Yahrog babara gafnam; veshikmotam bachanamal."
     },
     {
       "num": 48,
@@ -433,7 +433,7 @@
       "translit": "Vayasgér labará beirám; umikNéihem lareshafím.",
       "es": "Entregó al granizo su ganado y sus bestias a los rayos.",
       "en": "then gave their beasts over to hail, their cattle to lightning bolts;",
-      "translit_en": "Vayasger labarad beiram umikneihem lareshafim"
+      "translit_en": "Vayasger labara beiram; umikNeihem lareshafim."
     },
     {
       "num": 49,
@@ -442,7 +442,7 @@
       "translit": "Yeshalaj vám jarón apó; evRá vazáam vetsará; mishlájat malachéi raím.",
       "es": "Envió contra ellos el ardor de Su ira; enojo, furor y angustia; misión de ángeles destructores.",
       "en": "and inflicted a burning anger upon them— wrath, indignation, trouble, a band of deadly messengers.",
-      "translit_en": "Yeshalach bam charon apo evra vazaam vetsara mishlachat malache raim"
+      "translit_en": "Yeshalach vam charon apo; evRa vazaam vetsara; mishlachat malachei raim."
     },
     {
       "num": 50,
@@ -451,7 +451,7 @@
       "translit": "Yefalés natív leapó; lo jasáj mimávet nafshám; vejaYatám ladéver hisgír.",
       "es": "Preparó camino a Su furor; no eximió de la muerte a sus almas sino que entregó su vida a la pestilencia.",
       "en": "[God] cleared a path for that anger, and did not stop short of slaying them, but gave them over to pestilence.",
-      "translit_en": "Yefales nativ leapo lo chasach mimavet nafsham vechayatam ladever hisgir"
+      "translit_en": "Yefales nativ leapo; lo chasach mimavet nafsham; vechaYatam ladever hisgir."
     },
     {
       "num": 51,
@@ -460,7 +460,7 @@
       "translit": "Vayáj kol bejór beMitsráyim; reshít oním beaholéi Jám.",
       "es": "E hirió a todo primogénito en Egipto; las primicias de su fuerza en las tiendas de Jam.",
       "en": "[God] struck every [male] first-born in Egypt, the first fruits of their vigor in the tents of Ham.",
-      "translit_en": "Vayach kal bechor bemitsrayim reshit onim beahole cham"
+      "translit_en": "Vayach kol bechor beMitsrayim; reshit onim beaholei Jam."
     },
     {
       "num": 52,
@@ -469,7 +469,7 @@
       "translit": "Vayasá katson amó; vayenahagém kaéder bamidBár.",
       "es": "Hizo salir a Su pueblo como ovejas y los llevó como un rebaño por el desierto.",
       "en": "God’s own people were set moving like sheep, driven like a flock in the wilderness.",
-      "translit_en": "Vayasa katson amo vaynahagem kaeder bamidbar"
+      "translit_en": "Vayasa katson amo; vayenahagem kaeder bamidBar."
     },
     {
       "num": 53,
@@ -478,7 +478,7 @@
       "translit": "Vayanjém labétaj veló pajadú; veet oyevéihem kisá hayám.",
       "es": "Los guió con seguridad de modo que no tuvieron temor; y el mar cubrió a sus enemigos.",
       "en": "[God] led them in safety; they were unafraid; as for their enemies, the sea covered them.",
-      "translit_en": "Vayanchem lavetach velo fachadu veet oyeveihem kisa hayam"
+      "translit_en": "Vayanchem labetach velo pachadu; veet oyeveihem kisa hayam."
     },
     {
       "num": 54,
@@ -487,7 +487,7 @@
       "translit": "Vayeviém el gevúl kodsho; har ze kanetá yeminó.",
       "es": "Los trajo a Su tierra santa; a este monte que ganó Su diestra.",
       "en": "[God] brought them to the holy realm, e realm Or “hill” with Septuagint and Saadia. the mountain God’s right hand had acquired.",
-      "translit_en": "Vayviem el gevul kadesho har ze kaneta yemino"
+      "translit_en": "Vayeviem el gevul kodsho; har ze kaneta yemino."
     },
     {
       "num": 55,
@@ -496,7 +496,7 @@
       "translit": "Vayegarésh mifnéihem goyím; vayapilém bejével najAlá; vayashkén beoholéihem shivtéi Yisraél.",
       "es": "Echó también las naciones de delante de ellos y los repartió por suerte de heredad e hizo habitar en sus tiendas a las tribus de Israel.",
       "en": "[God] expelled nations before them, settled the tribes of Israel in their tents, allotting them their portion by the line. f settled the tribes of Israel in their tents, / allotting them their portion by the line Clauses transposed for clarity.",
-      "translit_en": "Vaygaresh mipneihem goyim vayapilem bechevel nachala vayashken beaholeihem shivte yisrael"
+      "translit_en": "Vayegaresh mifneihem goyim; vayapilem bechevel nachAla; vayashken beoholeihem shivtei Yisrael."
     },
     {
       "num": 56,
@@ -505,7 +505,7 @@
       "translit": "Vayenasú vayamRú et Elohím Elyón; veet edotáv lo shamáru.",
       "es": "Pero tentaron y se rebelaron contra Dios el Altísimo y no guardaron Sus testimonios.",
       "en": "Yet they defiantly tested God Most High, and did not observe divine decrees.",
-      "translit_en": "Vaynasu vayamru et elohim elyon veet edotayv lo shamaru"
+      "translit_en": "Vayenasu vayamRu et Elohim Elyon; veet edotav lo shamaru."
     },
     {
       "num": 57,
@@ -514,7 +514,7 @@
       "translit": "Vayisogú vayivgedú kaavotám; nehpejú kekéshet remiyá.",
       "es": "Y se volvieron y se portaron deslealmente como sus padres; se volvieron como arco engañoso.",
       "en": "They fell away, disloyal like their ancestors; they played false like a treacherous bow.",
-      "translit_en": "Vayisogu vayivgedu kaavotam nehpechu kekeshet remiya"
+      "translit_en": "Vayisogu vayivgedu kaavotam; nehpechu kekeshet remiya."
     },
     {
       "num": 58,
@@ -523,7 +523,7 @@
       "translit": "Vayakísúhu bevamotám; uvifsiléihem yakniúhu.",
       "es": "Le provocaron a ira con sus lugares altos y le movieron a celo con sus ídolos.",
       "en": "They provoked anger with their high places; they kindled wrath with their idols.",
-      "translit_en": "Vayachisuhu bevamotam uvifsileihem yakniuhu"
+      "translit_en": "Vayakisuhu bevamotam; uvifsileihem yakniuhu."
     },
     {
       "num": 59,
@@ -532,7 +532,7 @@
       "translit": "Shamá Elohím vayitabár; vayimás meód beYisraél.",
       "es": "Lo oyó Dios y se enojó y en gran manera aborreció a Israel.",
       "en": "God heard it and was enraged— utterly rejecting Israel.",
-      "translit_en": "Shama elohim vayitabar vayimas meod beyisrael"
+      "translit_en": "Shama Elohim vayitabar; vayimas meod beYisrael."
     },
     {
       "num": 60,
@@ -541,7 +541,7 @@
       "translit": "Vayitósh mishkán Shiló; óhel shikén baadám.",
       "es": "Abandonó el tabernáculo de Shiló; la tienda en que habitó entre los hombres.",
       "en": "[God] forsook the tabernacle of Shiloh, the tent that had been set among mortals.",
-      "translit_en": "Vayitosh mishkan shilo ohel shiken baadam"
+      "translit_en": "Vayitosh mishkan Shilo; ohel shiken baadam."
     },
     {
       "num": 61,
@@ -550,7 +550,7 @@
       "translit": "Vayitén lashevÍ uzó; vetifartó beyád tsár.",
       "es": "Y entregó a cautiverio Su poder y Su gloria en mano del enemigo.",
       "en": "God’s might g God’s might I.e., the Ark; cf. Ps. 132.8 . was allowed to go into captivity, that glory into the hands of the foe.",
-      "translit_en": "Vayiten lashvi uzo vetifarto beyad tsar"
+      "translit_en": "Vayiten lashevI uzo; vetifarto beyad tsar."
     },
     {
       "num": 62,
@@ -559,7 +559,7 @@
       "translit": "Vayasgér lajérev amó; uvenajalató hitabár.",
       "es": "Entregó también Su pueblo a la espada y se enojó contra Su heredad.",
       "en": "This people was given over to the sword; God’s very own the object of rage.",
-      "translit_en": "Vayasger lacherev amo uvnachalato hitabar"
+      "translit_en": "Vayasger lacherev amo; uvenachalato hitabar."
     },
     {
       "num": 63,
@@ -568,7 +568,7 @@
       "translit": "Bajuráv ojlá ésh; uvtuloTáv lo hululú.",
       "es": "El fuego consumió a sus jóvenes y sus vírgenes no tuvieron cantos nupciales.",
       "en": "Fire consumed their young men, and their maidens remained unwed. h remained unwed Lit. “had no nuptial song.”",
-      "translit_en": "Bachurayv achela esh uvtulotayv lo hulalu"
+      "translit_en": "Bachurav ochla esh; uvtuloTav lo hululu."
     },
     {
       "num": 64,
@@ -577,7 +577,7 @@
       "translit": "Kohanáv bajérev nafálu; vealmnotáv lo tivkéina.",
       "es": "Sus sacerdotes cayeron a espada y sus viudas no hicieron lamentación.",
       "en": "Their priests fell by the sword, and their widows could not weep.",
-      "translit_en": "Kohanayv bacherev nafalu vealmenotayv lo tivkeyna"
+      "translit_en": "Kohanav bacherev nafalu; vealmnotav lo tivkeina."
     },
     {
       "num": 65,
@@ -586,7 +586,7 @@
       "translit": "Vayikáts keyashén Adonái; keguibór mitrounén meyáyin.",
       "es": "Entonces despertó el Señor como el que duerme; como un guerrero que grita excitado por el vino.",
       "en": "The Sovereign awoke as from sleep— like a warrior shaking off i shaking off Meaning of Heb. uncertain. wine—",
-      "translit_en": "Vayikats keyashen adonai kegibor mitronen miyayin"
+      "translit_en": "Vayikats keyashen Adonai; keguibor mitrounen meyayin."
     },
     {
       "num": 66,
@@ -595,7 +595,7 @@
       "translit": "Vayáj tsaráv ajór; jerpát olám natán lámo.",
       "es": "E hirió a Sus adversarios hacia atrás; les dio perpetua afrenta.",
       "en": "and beat back all foes, dealing them lasting disgrace.",
-      "translit_en": "Vayach tsarayv achor cherpat olam natan lamo"
+      "translit_en": "Vayach tsarav achor; cherpat olam natan lamo."
     },
     {
       "num": 67,
@@ -604,7 +604,7 @@
       "translit": "Vayimás beoHel Yosép; uveshévet Efráyim lo vajár.",
       "es": "Rechazó la tienda de Yosef y no escogió la tribu de Efráyim.",
       "en": "[God] rejected the clan of Joseph and did not choose the tribe of Ephraim.",
-      "translit_en": "Vayimas beohel yosef uvshevet efrayim lo vachar"
+      "translit_en": "Vayimas beoHel Yosep; uveshevet Efrayim lo vachar."
     },
     {
       "num": 68,
@@ -613,7 +613,7 @@
       "translit": "Vayivjár et shévet Yehudá; et har Tsiyón ashér ahév.",
       "es": "Sino que escogió la tribu de Yehudá; el monte de Tsión al que amó.",
       "en": "[God] did choose the tribe of Judah— Mount Zion, which was beloved—",
-      "translit_en": "Vayivchar et shevet yehuda et har tsion asher ahev"
+      "translit_en": "Vayivchar et shevet Yehuda; et har Tsiyon asher ahev."
     },
     {
       "num": 69,
@@ -622,7 +622,7 @@
       "translit": "Vayivén kemó ramím mikdashó; keérets yesadáh leolám.",
       "es": "Y edificó Su santuario a manera de las alturas; como la tierra que fundó para siempre.",
       "en": "building the Sanctuary like the heavens, like the earth that [God] established forever.",
-      "translit_en": "Vayiven kemo ramim mikdasho keerets yesadah leolam"
+      "translit_en": "Vayiven kemo ramim mikdasho; keerets yesadah leolam."
     },
     {
       "num": 70,
@@ -631,7 +631,7 @@
       "translit": "Vayivjár beDavíd abdó; vayikajéhu mimikleót hatson.",
       "es": "Eligió también a David Su siervo y lo tomó de los apriscos de las ovejas.",
       "en": "David, God’s servant, was chosen, and taken from the sheepfolds.",
-      "translit_en": "Vayivchar bedavid avdo vayikachehu mimichleot hatson"
+      "translit_en": "Vayivchar beDavid abdo; vayikachehu mimikleot hatson."
     },
     {
       "num": 71,
@@ -640,7 +640,7 @@
       "translit": "Meajár alót hevió; lirot beYaakóv amó; uvYisraél najalató.",
       "es": "Lo trajo de detrás de las ovejas paridas para que apacentara a Yaakov Su pueblo y a Israel Su heredad.",
       "en": "He was brought from minding the nursing ewes to tend the people of Jacob, Israel, God’s very own.",
-      "translit_en": "Meachar alot hevio lirot beyaakov amo uvyisrael nachalato"
+      "translit_en": "Meachar alot hevio; lirot beYaakov amo; uvYisrael nachalato."
     },
     {
       "num": 72,
@@ -649,7 +649,7 @@
       "translit": "Vayirém ketóm levavó; uvitunoT kapáv yanjém.",
       "es": "Y los apacentó conforme a la integridad de su corazón y los guió con la pericia de sus manos.",
       "en": "He tended them with blameless heart; with skillful hands he led them.",
-      "translit_en": "Vayirem ketom levavo uvitvunot kapayv yanchem"
+      "translit_en": "Vayirem ketom levavo; uvitunoT kapav yanchem."
     }
   ],
   "ocasiones": [],

@@ -10,7 +10,7 @@
       "translit": "Shír mizmór leAsáf.",
       "es": "Cántico. Salmo de Asaf.",
       "en": "A song, a psalm of Asaph.",
-      "translit_en": "Shir mizmor leasaf"
+      "translit_en": "Shir mizmor leAsaf."
     },
     {
       "num": 2,
@@ -19,7 +19,7 @@
       "translit": "Elohím al domí laj; al tejErash veal tishkót El.",
       "es": "Oh Dios, no guardes silencio; no calles ni te estés quieto, oh Dios.",
       "en": "O God, do not be silent; do not hold aloof; do not be quiet, O God!",
-      "translit_en": "Elohim al domi lache al techerash veal tishkot el"
+      "translit_en": "Elohim al domi lach; al techErash veal tishkot El."
     },
     {
       "num": 3,
@@ -28,7 +28,7 @@
       "translit": "Ki hiné oyevéija yehemáyun; umsanéija nasáu rosh.",
       "es": "Porque he aquí que Tus enemigos alborotan y los que Te aborrecen han alzado cabeza.",
       "en": "For Your enemies rage, Your foes assert themselves. a assert themselves Lit. “lift up the head.”",
-      "translit_en": "Ki hine oyeveycha yehemayun umsaneycha naseu rosh"
+      "translit_en": "Ki hine oyeveicha yehemayun; umsaneicha nasau rosh."
     },
     {
       "num": 4,
@@ -37,7 +37,7 @@
       "translit": "Al ameján yaarimú sod; veyityaatsú al tsefunéija.",
       "es": "Contra Tu pueblo han consultado con astucia y han conspirado contra los que Tú proteges.",
       "en": "They plot craftily against Your people, take counsel against Your treasured ones.",
-      "translit_en": "Al amcha yaarimu sod veyityaatsu al tsefuneycha"
+      "translit_en": "Al amechan yaarimu sod; veyityaatsu al tsefuneicha."
     },
     {
       "num": 5,
@@ -46,7 +46,7 @@
       "translit": "Amarú: lejú venejJidém migóy; veló yizajér shém Yisraél od.",
       "es": "Dijeron: Venid y destruyámoslos como nación para que el nombre de Israel no sea recordado más.",
       "en": "They say, “Let us wipe them out as a nation; Israel’s name will be mentioned no more.”",
-      "translit_en": "Ameru lechu venachchidem migoi velo yizacher shem yisrael od"
+      "translit_en": "Amaru: lechu venechJidem migoy; velo yizacher shem Yisrael od."
     },
     {
       "num": 6,
@@ -55,7 +55,7 @@
       "translit": "Ki noadSú lév yajdáv; aléija berít yijrotú.",
       "es": "Porque han conspirado a una y han hecho pacto contra Ti.",
       "en": "Unanimous in their counsel they have made an alliance against You—",
-      "translit_en": "Ki noatsu lev yachdav aleycha berit yichrotu"
+      "translit_en": "Ki noadSu lev yachdav; aleicha berit yichrotu."
     },
     {
       "num": 7,
@@ -64,7 +64,7 @@
       "translit": "Aholéi Edóm veYishmeeím; Moáv vehaGrím.",
       "es": "Las tiendas de Edom y los ismaelitas; Moav y los hagreos.",
       "en": "the clans of Edom and the Ishmaelites, Moab and the Hagrites,",
-      "translit_en": "Ahole edom veyishmeelim moav vehagrim"
+      "translit_en": "Aholei Edom veYishmeeim; Moav vehaGrim."
     },
     {
       "num": 8,
@@ -73,7 +73,7 @@
       "translit": "Guevál veAmón vaAmaléj; Peléshet im yoshvéi Tsór.",
       "es": "Gueval y Amón y Amaléj; Filistea con los habitantes de Tsur.",
       "en": "Gebal, Ammon, and Amalek, Philistia with the inhabitants of Tyre;",
-      "translit_en": "Geval veamon vaamalek peleshet im yosheve tsor"
+      "translit_en": "Gueval veAmon vaAmalech; Peleshet im yoshvei Tsor."
     },
     {
       "num": 9,
@@ -82,7 +82,7 @@
       "translit": "Gam Ashúr nilevá imám; hayú zeróa livnéi Lot. Selá.",
       "es": "También Ashur se ha unido a ellos; sirven de brazo a los hijos de Lot. Selá.",
       "en": "Assyria too joins forces with them; they give support to the descendants of Lot. b the descendants of Lot I.e., the Moabites and the Ammonites; cf. Gen. 19.36–38 . Selah.",
-      "translit_en": "Gam ashur nilva imam hayu zeroa livne lot sela"
+      "translit_en": "Gam Ashur nileva imam; hayu zeroa livnei Lot. Sela."
     },
     {
       "num": 10,
@@ -91,7 +91,7 @@
       "translit": "Aséh lahém keMidyán; keSiSerá jejávín; benájal Kishón.",
       "es": "Hazles como a Midyán; como a Sisera; como a Yavín en el torrente de Kishón.",
       "en": "Deal with them as You did with Midian, with Sisera, with Jabin, at the brook Kishon—",
-      "translit_en": "Ase lahem kemidyan kesisra cheyavin benachal kishon"
+      "translit_en": "Aseh lahem keMidyan; keSiSera chechavin; benachal Kishon."
     },
     {
       "num": 11,
@@ -100,7 +100,7 @@
       "translit": "Nishmedú veen Dor; hayú dómen laadamá.",
       "es": "Fueron destruidos en En-Dor; vinieron a ser como estiércol para la tierra.",
       "en": "who were destroyed at En-dor, who became dung for the field.",
-      "translit_en": "Nishmedu veein dor hayu domen laadama"
+      "translit_en": "Nishmedu veen Dor; hayu domen laadama."
     },
     {
       "num": 12,
@@ -109,7 +109,7 @@
       "translit": "Shetémo nedivéimo keoréb ujezeév; ukiZévaj ujeTs almuná kol nesiJéimo.",
       "es": "Pon a sus nobles como a Orev y a Zeev; a todos sus príncipes como a Zévaj y como a Tsalmuna.",
       "en": "Treat their nobles like Oreb and Zeeb, all their princes like Zebah and Zalmunna,",
-      "translit_en": "Shitemo nediveimo keorev vechizev vechizevach vechatsalmuna kal nesicheimo"
+      "translit_en": "Shetemo nediveimo keoreb uchezeev; ukiZevach ucheTs almuna kol nesiJeimo."
     },
     {
       "num": 13,
@@ -118,7 +118,7 @@
       "translit": "Ashér amarú: nireshá lánu et neót Elohím.",
       "es": "Quienes dijeron: Tomemos en posesión para nosotros los pastizales de Dios.",
       "en": "who said, “Let us take the meadows of God as our possession.”",
-      "translit_en": "Asher ameru nirsha lanu et neot elohim"
+      "translit_en": "Asher amaru: niresha lanu et neot Elohim."
     },
     {
       "num": 14,
@@ -127,7 +127,7 @@
       "translit": "Eloháy shetémo jagualgál; kekásh lifnéi rúaj.",
       "es": "Oh Dios mío, ponlos como torbellino; como hojarasca delante del viento.",
       "en": "O my God, make them like thistledown, like stubble driven by the wind.",
-      "translit_en": "Elohai shitemo chagalgal kekash lifne rucha"
+      "translit_en": "Elohay shetemo chagualgal; kekash lifnei ruach."
     },
     {
       "num": 15,
@@ -136,7 +136,7 @@
       "translit": "Keésh tivár yáar; ujelahaVá telahét harím.",
       "es": "Como fuego que quema el bosque y como llama que abrasa los montes.",
       "en": "As a fire burns a forest, as flames scorch the hills,",
-      "translit_en": "Keesh tivar yaar uchlahava telahet harim"
+      "translit_en": "Keesh tivar yaar; uchelahaVa telahet harim."
     },
     {
       "num": 16,
@@ -145,7 +145,7 @@
       "translit": "Kén tirdefém besaarEjá; uvesufatejá tevahalém.",
       "es": "Así los perseguirás con Tu tempestad y con Tu torbellino los atemorizarás.",
       "en": "pursue them with Your tempest, terrify them with Your storm.",
-      "translit_en": "Ken tirdefem besaarecha uvsufatecha tevahalem"
+      "translit_en": "Ken tirdefem besaarEcha; uvesufatecha tevahalem."
     },
     {
       "num": 17,
@@ -154,7 +154,7 @@
       "translit": "Malé fNéihem kalón; vivakeshú shimejá Adonái.",
       "es": "Llena sus rostros de vergüenza para que busquen Tu nombre, oh Eterno.",
       "en": "Cover c Cover Lit. “Fill.” their faces with shame so that they seek Your name, O E TERNAL One.",
-      "translit_en": "Male feneihem kalon vivakshu shimcha Adonai"
+      "translit_en": "Male fNeihem kalon; vivakeshu shimecha Adonai."
     },
     {
       "num": 18,
@@ -163,7 +163,7 @@
       "translit": "Yevoshú veyibahalú adéi ad; veyajperú veyovédu.",
       "es": "Sean avergonzados y aterrados para siempre; sean confundidos y perezcan.",
       "en": "May they be frustrated and terrified, disgraced and doomed forever.",
-      "translit_en": "Yevoshu veyibahalu ade ad veyachperu veyovedu"
+      "translit_en": "Yevoshu veyibahalu adei ad; veyachperu veyovedu."
     },
     {
       "num": 19,
@@ -172,7 +172,7 @@
       "translit": "Veyedú ki atá shimejá Adonái; levadejá Elyón al kol haárets.",
       "es": "Y sepan que Tú, cuyo nombre es el Eterno, Tú solo eres el Altísimo sobre toda la tierra.",
       "en": "May they know that Your name, Yours alone, is G OD , supreme over all the earth.",
-      "translit_en": "Veyedeu ki ata shimcha Adonai levadcha elyon al kal haarets"
+      "translit_en": "Veyedu ki ata shimecha Adonai; levadecha Elyon al kol haarets."
     }
   ],
   "ocasiones": [],

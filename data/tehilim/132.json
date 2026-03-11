@@ -9,7 +9,7 @@
       "translit": "Shír hamaalót. Zejor Adonái leDavíd; et kol unató.",
       "es": "Cántico de las ascensiones. Acuérdate, oh Eterno, de David y de toda su aflicción.",
       "en": "A song of ascents. O E TERNAL One, remember in David’s favor his extreme self-denial,",
-      "translit_en": "Shir hamaalot zechor Adonai ledavid et kol unoto"
+      "translit_en": "Shir hamaalot. Zechor Adonai leDavid; et kol unato."
     },
     {
       "num": 2,
@@ -18,7 +18,7 @@
       "translit": "Ashér nishbá laAdonái; nadár leabír Yaakóv.",
       "es": "De cómo juró al Eterno y prometió al Fuerte de Yaakov.",
       "en": "how he swore to G OD , vowed to the Mighty One of Jacob,",
-      "translit_en": "Asher nishba laAdonai nadar laavir yaakov"
+      "translit_en": "Asher nishba laAdonai; nadar leabir Yaakov."
     },
     {
       "num": 3,
@@ -27,7 +27,7 @@
       "translit": "Im avó beóhel beití; im eéléh al eres yetsuáy.",
       "es": "No entraré en la morada de mi casa ni subiré sobre el lecho de mi descanso.",
       "en": "“I will not enter my house, nor will I mount my bed,",
-      "translit_en": "Im avo beohel beiti im eele al eres yetsuai"
+      "translit_en": "Im avo beohel beiti; im eeleh al eres yetsuay."
     },
     {
       "num": 4,
@@ -36,7 +36,7 @@
       "translit": "Im etén shenát leeinái; leafapáy tenumá.",
       "es": "No daré sueño a mis ojos ni a mis párpados adormecimiento.",
       "en": "I will not give sleep to my eyes, or slumber to my eyelids a eyelids Lit. “eyes.”",
-      "translit_en": "Im eten shenat leeinai leafapai tenuma"
+      "translit_en": "Im eten shenat leeinai; leafapay tenuma."
     },
     {
       "num": 5,
@@ -45,7 +45,7 @@
       "translit": "Ad emtsá makóm laAdonái; mishkenót leabír Yaakóv.",
       "es": "Hasta que halle lugar para el Eterno; moradas para el Fuerte de Yaakov.",
       "en": "until I find a place for G OD , an abode for the Mighty One of Jacob.”",
-      "translit_en": "Ad emtsa makom laAdonai mishkanot laavir yaakov"
+      "translit_en": "Ad emtsa makom laAdonai; mishkenot leabir Yaakov."
     },
     {
       "num": 6,
@@ -54,7 +54,7 @@
       "translit": "Hiné shemaánuha beEfrát; metsaEnuha bisedéi yáar.",
       "es": "He aquí que lo oímos en Éfrat; lo hallamos en los campos del bosque.",
       "en": "We heard it was in Ephrath; we came upon it in the region of Jaar. b region of Jaar Cf. 1 Sam. 7.1–2 ; 1 Chron. 13.5–6 .",
-      "translit_en": "Hine shemaanuha veefrata metsanuha bisde yaar"
+      "translit_en": "Hine shemaanuha beEfrat; metsaEnuha bisedei yaar."
     },
     {
       "num": 7,
@@ -63,7 +63,7 @@
       "translit": "Navoá lemishkenotáv; nishtajavéh lahadóm ragláv.",
       "es": "Entraremos en Sus moradas; nos postraremos ante el estrado de Sus pies.",
       "en": "Let us enter God’s abode, bow at the divine footstool.",
-      "translit_en": "Navoa lemishkenotayv nishtachave lahadom raglayv"
+      "translit_en": "Navoa lemishkenotav; nishtachaveh lahadom raglav."
     },
     {
       "num": 8,
@@ -72,7 +72,7 @@
       "translit": "Kúma Adonái limnuJatéja; atá vaaarón uzéja.",
       "es": "Levántate, oh Eterno, a Tu reposo; Tú y el arca de Tu poder.",
       "en": "Advance, O E TERNAL One, to Your resting-place, You and Your mighty Ark!",
-      "translit_en": "Kuma Adonai limnuchatecha ata vaaron uzecha"
+      "translit_en": "Kuma Adonai limnuJatecha; ata vaaaron uzecha."
     },
     {
       "num": 9,
@@ -81,7 +81,7 @@
       "translit": "Kohanéija yilbeshú tsédek; vajasiDéija yeranénu.",
       "es": "Tus sacerdotes se vistan de justicia y Tus santos se regocijen.",
       "en": "Your priests are clothed in triumph; Your loyal ones sing for joy.",
-      "translit_en": "Kohaneycha yilbeshu tsedek vachasideycha yeranenu"
+      "translit_en": "Kohaneicha yilbeshu tsedek; vachasiDeicha yeranenu."
     },
     {
       "num": 10,
@@ -90,7 +90,7 @@
       "translit": "Baavúr Davíd abdéja; al tashév penéi meshijéja.",
       "es": "Por amor de David Tu siervo no rechaces el rostro de Tu ungido.",
       "en": "For the sake of Your servant David do not reject Your anointed one.",
-      "translit_en": "Baavur david avdecha al tashev pene meshichecha"
+      "translit_en": "Baavur David abdecha; al tashev penei meshichecha."
     },
     {
       "num": 11,
@@ -99,7 +99,7 @@
       "translit": "Nishbá Adonái leDavíd emet; lo yashuv miména; miprí vitnEja ashít lejisé láj.",
       "es": "Juró el Eterno a David con verdad y no se retractará: Del fruto de tu vientre pondré sobre tu trono.",
       "en": "G OD swore to David a firm oath that will not be renounced, “One of your own issue I will set upon your throne.",
-      "translit_en": "Nishba Adonai ledavid emet lo yashuv mimena mipri vitnecha ashit lechise lache"
+      "translit_en": "Nishba Adonai leDavid emet; lo yashuv mimena; mipri vitnEcha ashit lechise lach."
     },
     {
       "num": 12,
@@ -108,7 +108,7 @@
       "translit": "Im yishmRú vanéija beritI; veeidotI zó alamedém; gam bnéihem adéi ad; yeshvú lejisé láj.",
       "es": "Si tus hijos guardaren Mi pacto y Mi testimonio que yo les enseñaré; también sus hijos para siempre se sentarán en tu trono.",
       "en": "If your sons keep My covenant and My decrees that I teach them, then their sons also, to the end of time, shall sit upon your throne.”",
-      "translit_en": "Im yishmeru vaneycha beriti veedoti zo alamdem gam beneihem ade ad yeshevu lechise lache"
+      "translit_en": "Im yishmRu vaneicha beritI; veeidotI zo alamedem; gam bneihem adei ad; yeshvu lechise lach."
     },
     {
       "num": 13,
@@ -117,7 +117,7 @@
       "translit": "Ki bajár Adonái beTsiyón; ivá lemosháv ló.",
       "es": "Porque el Eterno ha elegido a Tsión; la quiso por habitación para Sí.",
       "en": "For G OD has chosen Zion, desiring it for a seat.",
-      "translit_en": "Ki vachar Adonai betsion ivah lemoshav lo"
+      "translit_en": "Ki bachar Adonai beTsiyon; iva lemoshav lo."
     },
     {
       "num": 14,
@@ -126,7 +126,7 @@
       "translit": "Zot menujatí adéi ad; po eshév ki ivitíha.",
       "es": "Este es Mi reposo para siempre; aquí habitaré porque la he deseado.",
       "en": "“This is my resting-place for all time; here I will dwell, for I desire it.",
-      "translit_en": "Zot menuchati ade ad po eshev ki ivitiha"
+      "translit_en": "Zot menuchati adei ad; po eshev ki ivitiha."
     },
     {
       "num": 15,
@@ -135,7 +135,7 @@
       "translit": "Tsedáh barEj avarEj; evyonéiha asbía léjem.",
       "es": "Su provisión bendeciré abundantemente; a sus pobres saciaré de pan.",
       "en": "I will amply bless its store of food, give its needy their fill of bread.",
-      "translit_en": "Tseidah bareche avareche evyoneyha asbia lachem"
+      "translit_en": "Tsedah barEch avarEch; evyoneiha asbia lechem."
     },
     {
       "num": 16,
@@ -144,7 +144,7 @@
       "translit": "VeKohanéiha albísh yésha; vajasiDéiha ranén yeranénu.",
       "es": "Y a sus sacerdotes vestiré de salvación y sus santos con gran júbilo se regocijarán.",
       "en": "I will clothe its priests in victory, its loyal ones shall sing for joy.",
-      "translit_en": "Vechohaneyha albish yesha vachasideyha ranen yeranenu"
+      "translit_en": "VeKohaneiha albish yesha; vachasiDeiha ranen yeranenu."
     },
     {
       "num": 17,
@@ -153,7 +153,7 @@
       "translit": "Shám atsmíaj kéren leDavíd; araájti nér limshijí.",
       "es": "Allí haré brotar el poder de David; he dispuesto lámpara para Mi ungido.",
       "en": "There I will make a horn sprout for David; I have prepared a lamp for My anointed one.",
-      "translit_en": "Sham atsmicha keren ledavid arachti ner limshichi"
+      "translit_en": "Sham atsmiach keren leDavid; araachti ner limshichi."
     },
     {
       "num": 18,
@@ -162,7 +162,7 @@
       "translit": "OyeváV albísh bósheth; vealáv yatsíts nezró.",
       "es": "A sus enemigos vestiré de vergüenza y sobre él florecerá su corona.",
       "en": "I will clothe his enemies in disgrace, while on him his crown shall sparkle.”",
-      "translit_en": "Oyevayv albish boshet vealayv yatsits nizro {f"
+      "translit_en": "OyevaV albish bosheth; vealav yatsits nezro."
     }
   ],
   "audio": "",

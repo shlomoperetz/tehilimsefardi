@@ -9,7 +9,7 @@
       "translit": "El nekamót Adonái; El nekamót hofía.",
       "es": "Oh Dios de las venganzas, oh Eterno; Dios de las venganzas, manifiéstate.",
       "en": "God of retribution, E TERNAL One, God of retribution, appear!",
-      "translit_en": "El nekamot Adonai el nekamot hofia"
+      "translit_en": "El nekamot Adonai; El nekamot hofia."
     },
     {
       "num": 2,
@@ -18,7 +18,7 @@
       "translit": "Hinaséi shofét haárets; hashév gemúl al guéim.",
       "es": "Levántate, oh Juez de la tierra; da el pago a los soberbios.",
       "en": "Rise up, judge of the earth, give the arrogant their deserts!",
-      "translit_en": "Hinase shofet haarets hashev gemul al geim"
+      "translit_en": "Hinasei shofet haarets; hashev gemul al gueim."
     },
     {
       "num": 3,
@@ -27,7 +27,7 @@
       "translit": "Ad matáy reshaím Adonái; ad matáy reshaím yaalózu.",
       "es": "¿Hasta cuándo los impíos, oh Eterno; hasta cuándo los impíos se gloriarán?",
       "en": "How long shall the wicked, O E TERNAL One, how long shall the wicked exult,",
-      "translit_en": "Ad matai reshaimAdonai ad matai reshaim yaalozu"
+      "translit_en": "Ad matay reshaim Adonai; ad matay reshaim yaalozu."
     },
     {
       "num": 4,
@@ -36,7 +36,7 @@
       "translit": "Yabíu yedabéru atáK; yitaméru kol poaléi áven.",
       "es": "Brotarán y hablarán con arrogancia; se jactarán todos los que hacen maldad.",
       "en": "shall they utter insolent speech, shall all evildoers vaunt themselves?",
-      "translit_en": "Yabiu yedabru atak yitamru kol poale aven"
+      "translit_en": "Yabiu yedaberu ataK; yitameru kol poalei aven."
     },
     {
       "num": 5,
@@ -45,7 +45,7 @@
       "translit": "Amejá Adonái yedaKú; venajalateján yeánu.",
       "es": "A Tu pueblo, oh Eterno, quebrantan y a Tu heredad afligen.",
       "en": "They crush Your people, O E TERNAL One, they afflict Your very own;",
-      "translit_en": "Amcha Adonai yedaku venachalatecha yeanu"
+      "translit_en": "Amecha Adonai yedaKu; venachalatechan yeanu."
     },
     {
       "num": 6,
@@ -54,7 +54,7 @@
       "translit": "Almáná veguér yaharógu; vitomím yeratséáju.",
       "es": "A la viuda y al extranjero matan y a los huérfanos asesinan.",
       "en": "they kill the widow and the stranger; they murder the fatherless,",
-      "translit_en": "Almana veger yaharogu vitomim yeratsechu"
+      "translit_en": "Almana veguer yaharogu; vitomim yeratseachu."
     },
     {
       "num": 7,
@@ -63,7 +63,7 @@
       "translit": "Vayomrú: lo yiréh Yáh; veló yavín Elohéi Yaakóv.",
       "es": "Y dicen: No lo verá el Eterno ni entenderá el Dios de Yaakov.",
       "en": "thinking, “Yah a Yah See note at 68.5 . does not see it, the God of Jacob does not pay heed.”",
-      "translit_en": "Vayomru lo yire yah velo yavin elohe yaakov"
+      "translit_en": "Vayomru: lo yireh Yah; velo yavin Elohei Yaakov."
     },
     {
       "num": 8,
@@ -72,7 +72,7 @@
       "translit": "Bínu boarím baám; ujsilím matáy taskílu.",
       "es": "Entended, necios del pueblo; y vosotros insensatos ¿cuándo seréis sabios?",
       "en": "Take heed, you most brutish people; fools, when will you get wisdom?",
-      "translit_en": "Binu boarim baam uchsilim matai taskilu"
+      "translit_en": "Binu boarim baam; uchsilim matay taskilu."
     },
     {
       "num": 9,
@@ -81,7 +81,7 @@
       "translit": "Hanótéa ózen haló yishmá; im yotser áyin haló yabít.",
       "es": "El que plantó el oído ¿no oirá? El que formó el ojo ¿no verá?",
       "en": "Shall the One who implants the ear not hear, the One who forms the eye not see?",
-      "translit_en": "Hanota ozen halo yishma im yotser ayin halo yabit"
+      "translit_en": "Hanotea ozen halo yishma; im yotser ayin halo yabit."
     },
     {
       "num": 10,
@@ -90,7 +90,7 @@
       "translit": "Hayosér goyím haló yojíaj; hamelaMéd adám dáat.",
       "es": "El que castiga a las naciones ¿no reprenderá? El que enseña al hombre la ciencia.",
       "en": "Shall the One who disciplines nations not punish, the One who instructs humankind in knowledge?",
-      "translit_en": "Hayoser goyim halo yochicha hamlamed adam daat"
+      "translit_en": "Hayoser goyim halo yochiach; hamelaMed adam daat."
     },
     {
       "num": 11,
@@ -99,7 +99,7 @@
       "translit": "Adonái yodéa majshevót adám; ki héma háVel.",
       "es": "El Eterno conoce los pensamientos de los hombres; que son vanidad.",
       "en": "G OD knows human designs to be futile.",
-      "translit_en": "Adonai yodea machshevot adam ki hema havel"
+      "translit_en": "Adonai yodea machshevot adam; ki hema haVel."
     },
     {
       "num": 12,
@@ -108,7 +108,7 @@
       "translit": "Ashréi haGuéver ashér teyasreénu Yáh; umitoratejá telamedénu.",
       "es": "Dichoso el hombre a quien Tú corriges, oh Eterno y en Tu Torá le instruyes.",
       "en": "Happy are those b are those Or “is the virile man.” whom You discipline, O Yah, whom You instruct in Your teaching,",
-      "translit_en": "Ashre hagever asher teyasrenu yah umitoratecha telamdenu"
+      "translit_en": "Ashrei haGuever asher teyasreenu Yah; umitoratecha telamedenu."
     },
     {
       "num": 13,
@@ -117,7 +117,7 @@
       "translit": "Lehashkít ló miméi rá; ad yikáréh larásha shájat.",
       "es": "Para darle reposo en los días de adversidad mientras se cava la fosa para el impío.",
       "en": "whom You give tranquility in times of misfortune, until a pit be dug for the wicked.",
-      "translit_en": "Lehashkit lo mime ra ad yikare larasha shachat"
+      "translit_en": "Lehashkit lo mimei ra; ad yikareh larasha shachat."
     },
     {
       "num": 14,
@@ -126,7 +126,7 @@
       "translit": "Ki lo yitósh Adonái amó; venajálatO lo yaazóv.",
       "es": "Porque el Eterno no abandonará a Su pueblo ni desamparará Su heredad.",
       "en": "For G OD will not forsake this people; God’s very own will not be abandoned.",
-      "translit_en": "Ki lo yitosh Adonai amo venachalato lo yaazov"
+      "translit_en": "Ki lo yitosh Adonai amo; venachalatO lo yaazov."
     },
     {
       "num": 15,
@@ -135,7 +135,7 @@
       "translit": "Ki ad tsédek yashuv mishpát; veajaráv kol yishréi lév.",
       "es": "Porque el juicio volverá a la justicia y en pos de ella irán todos los rectos de corazón.",
       "en": "Judgment shall again accord with justice and all the upright shall rally to it.",
-      "translit_en": "Ki ad tsedek yashuv mishpat veacharayv kol yishre lev"
+      "translit_en": "Ki ad tsedek yashuv mishpat; veacharav kol yishrei lev."
     },
     {
       "num": 16,
@@ -144,7 +144,7 @@
       "translit": "Mi yakúm lí im mereím; mi yityaséb lí im poaléi áven.",
       "es": "¿Quién se levantará por mí contra los malignos? ¿Quién estará por mí contra los que hacen maldad?",
       "en": "Who will take my part against evildoers? Who will stand up for me against wrongdoers?",
-      "translit_en": "Mi yakum li im mereim mi yityatsev li im poale aven"
+      "translit_en": "Mi yakum li im mereim; mi yityaseb li im poalei aven."
     },
     {
       "num": 17,
@@ -153,7 +153,7 @@
       "translit": "Lulé Adonái ezrátá lí; kimát shajená dumá nafshí.",
       "es": "Si el Eterno no me hubiera ayudado casi moraría mi alma en el silencio.",
       "en": "Were not G OD my help, I should soon dwell in silence.",
-      "translit_en": "Lule Adonai ezrata li kimat shachena duma nafshi"
+      "translit_en": "Lule Adonai ezrata li; kimat shachena duma nafshi."
     },
     {
       "num": 18,
@@ -162,7 +162,7 @@
       "translit": "Im amárti matá ragLí; jasdejá Adonái yisadéni.",
       "es": "Cuando yo decía: Mi pie resbala; Tu bondad leal, oh Eterno, me sostenía.",
       "en": "When I think my foot has given way, Your faithfulness, O E TERNAL One, supports me.",
-      "translit_en": "Im amarti mata ragli chasdecha Adonai yisadeni"
+      "translit_en": "Im amarti mata ragLi; chasdecha Adonai yisadeni."
     },
     {
       "num": 19,
@@ -171,7 +171,7 @@
       "translit": "Beróv sareapáy bekiRBí; tanejumEija yeshaashú nafshí.",
       "es": "En la multitud de mis pensamientos dentro de mí; Tus consolaciones alegran mi alma.",
       "en": "When I am filled with cares, Your assurance soothes my soul.",
-      "translit_en": "Berov sarapai bekirbi tanchumeycha yeshaashu nafshi"
+      "translit_en": "Berov sareapay bekiRBi; tanechumEicha yeshaashu nafshi."
     },
     {
       "num": 20,
@@ -180,7 +180,7 @@
       "translit": "Hayajabrejá kisé havót; yotser ámal aléi jók.",
       "es": "¿Se juntará contigo el trono de iniquidades que forma el mal por estatuto?",
       "en": "Shall the seat of injustice be Your partner, that frames mischief by statute?",
-      "translit_en": "Haychovrecha kise hauot yotser amal ale chok"
+      "translit_en": "Hayachabrecha kise havot; yotser amal alei chok."
     },
     {
       "num": 21,
@@ -189,7 +189,7 @@
       "translit": "Yagodú al néfesh tsadík; vedám naKí yarshíu.",
       "es": "Se juntan contra el alma del justo y condenan la sangre inocente.",
       "en": "They band together to do away with the righteous; they condemn the innocent to death.",
-      "translit_en": "Yagodu al nefesh tsadik vedam naki yarshiu"
+      "translit_en": "Yagodu al nefesh tsadik; vedam naKi yarshiu."
     },
     {
       "num": 22,
@@ -198,7 +198,7 @@
       "translit": "Vayehí Adonái lí lemisGáv; veElohái letsúr majSí.",
       "es": "Pero el Eterno me ha sido por refugio y mi Dios por roca de mi amparo.",
       "en": "But G OD is my haven; my God is my sheltering rock.",
-      "translit_en": "Vayhi Adonai li lemisgav velohai letsur machsi"
+      "translit_en": "Vayehi Adonai li lemisGav; veElohai letsur machSi."
     },
     {
       "num": 23,
@@ -207,7 +207,7 @@
       "translit": "Vayáshev aléihem et onám; uvraatám yatsmitém; yatsmitém Adonái Elohéinu.",
       "es": "Y Él hará volver sobre ellos su iniquidad y los destruirá en su propia maldad; los destruirá el Eterno nuestro Dios.",
       "en": "Their evil will be made to recoil upon them, through their own wickedness they will be annihilated; the E TERNAL our God will annihilate them.",
-      "translit_en": "Vayashev aleihem et onam uvraatam yatsmitem yatsmitem Adonai eloheinu {f"
+      "translit_en": "Vayashev aleihem et onam; uvraatam yatsmitem; yatsmitem Adonai Eloheinu."
     }
   ],
   "audio": "",
