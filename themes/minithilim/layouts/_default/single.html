@@ -14,7 +14,7 @@
       <div class="verse-he cantil-on"><sup class="verse-num">{{ .num }}</sup>{{ .he | safeHTML }}</div>
       <div class="verse-he cantil-off" style="display:none"><sup class="verse-num">{{ .num }}</sup>{{ .he_plain }}</div>
       {{ if .translit }}
-      <div class="verse-translit" style="display:none"><sup class="verse-num">{{ .num }}</sup>{{ .translit }}</div>
+      <div class="verse-translit" style="display:none" data-translit-es="{{ .translit }}" data-translit-en="{{ .translit_en }}"><sup class="verse-num">{{ .num }}</sup>{{ .translit }}</div>
       {{ end }}
       {{ if .es }}
       <div class="verse-es" style="display:none"><sup class="verse-num-es">{{ .num }}</sup>{{ .es }}</div>
