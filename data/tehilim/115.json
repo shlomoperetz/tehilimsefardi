@@ -9,7 +9,7 @@
       "translit": "Lo lánu Adonái lo lánu; ki leshimejá tén kavód; al jasdejá al eMetéja.",
       "es": "No a nosotros, oh Eterno, no a nosotros sino a Tu nombre da gloria; por Tu bondad leal y por Tu verdad.",
       "en": "Not to us, O E TERNAL One, not to us but to Your name bring glory for the sake of Your love and Your faithfulness.",
-      "translit_en": "Lo lanu Adonai lo lanu; ki leshimecha ten kavod; al chasdecha al eMetecha."
+      "translit_en": "Lo lanu Adonai lo lanu; ki leshimecha ten kavod; al chasdecha al emetecha."
     },
     {
       "num": 2,
@@ -45,7 +45,7 @@
       "translit": "Péh lahém velo yedabéru; einayím lahém velo yiRú.",
       "es": "Tienen boca pero no hablan; tienen ojos pero no ven.",
       "en": "They have mouths, but cannot speak, eyes, but cannot see;",
-      "translit_en": "Peh lahem velo yedaberu; einayim lahem velo yiRu."
+      "translit_en": "Peh lahem velo yedaberu; einayim lahem velo yiru."
     },
     {
       "num": 6,
@@ -63,7 +63,7 @@
       "translit": "Yedéihem velo yemishún; ragléihem velo yehalEjú; lo yehgú bigroNám.",
       "es": "Tienen manos pero no palpan; tienen pies pero no andan; no hablan con su garganta.",
       "en": "they have hands, but cannot touch, feet, but cannot walk; they can make no sound in their throats.",
-      "translit_en": "Yedeihem velo yemishun; ragleihem velo yehalechu; lo yehgu bigroNam."
+      "translit_en": "Yedeihem velo yemishun; ragleihem velo yehalechu; lo yehgu bigronam."
     },
     {
       "num": 8,
@@ -81,7 +81,7 @@
       "translit": "Yisraél betáj baAdonái; ezrám umaguinám hu.",
       "es": "Israel confía en el Eterno; Él es su ayuda y su escudo.",
       "en": "O Israel, trust in G OD — who is your b your Heb. “their.” help and shield.",
-      "translit_en": "Yisrael betach baadonai; ezram umaguinam hu."
+      "translit_en": "Yisrael betach baAdonai; ezram umaguinam hu."
     },
     {
       "num": 10,
@@ -90,7 +90,7 @@
       "translit": "Beit Aharón bitjú baAdonái; ezrám umaguinám hu.",
       "es": "Casa de Aharón confiad en el Eterno; Él es vuestra ayuda y vuestro escudo.",
       "en": "O house of Aaron, trust in G OD — who is your c your See note at v. 9 . help and shield.",
-      "translit_en": "Beit Aharon bitchu baadonai; ezram umaguinam hu."
+      "translit_en": "Beit Aharon bitchu baAdonai; ezram umaguinam hu."
     },
     {
       "num": 11,
@@ -99,7 +99,7 @@
       "translit": "Yiréi Adonái bitjú baAdonái; ezrám umaguinám hu.",
       "es": "Los que teméis al Eterno confiad en el Eterno; Él es vuestra ayuda y vuestro escudo.",
       "en": "O you who fear G OD , trust in G OD — who is your d your See note at v. 9 . help and shield.",
-      "translit_en": "Yirei Adonai bitchu baadonai; ezram umaguinam hu."
+      "translit_en": "Yirei Adonai bitchu baAdonai; ezram umaguinam hu."
     },
     {
       "num": 12,
@@ -117,7 +117,7 @@
       "translit": "Yevarék yiréi Adonái; hakteNím im hagdolím.",
       "es": "Bendecirá a los que temen al Eterno; a los pequeños junto con los grandes.",
       "en": "and blessing those who revere G OD , small and great alike.",
-      "translit_en": "Yevarek yirei Adonai; hakteNim im hagdolim."
+      "translit_en": "Yevarek yirei Adonai; haktenim im hagdolim."
     },
     {
       "num": 14,
@@ -135,7 +135,7 @@
       "translit": "Brujím atem laAdonái; oséh shamáyim vaárets.",
       "es": "Benditos sois vosotros del Eterno que hizo los cielos y la tierra.",
       "en": "May you be blessed by G OD , Maker of heaven and earth.",
-      "translit_en": "Bruchim atem laadonai; oseh shamayim vaarets."
+      "translit_en": "Bruchim atem laAdonai; oseh shamayim vaarets."
     },
     {
       "num": 16,
@@ -144,7 +144,7 @@
       "translit": "Hashamáyim shamáyim laAdonái; vehaárets natán livnéi adám.",
       "es": "Los cielos son los cielos del Eterno; pero la tierra la dio a los hijos de los hombres.",
       "en": "The heavens belong to G OD , but the earth was given over to humankind.",
-      "translit_en": "Hashamayim shamayim laadonai; vehaarets natan livnei adam."
+      "translit_en": "Hashamayim shamayim laAdonai; vehaarets natan livnei adam."
     },
     {
       "num": 17,
@@ -162,7 +162,7 @@
       "translit": "VaanájnU nevArEj Yáh; meata vead olám. Haleluyá.",
       "es": "Pero nosotros bendeciremos al Eterno desde ahora y para siempre. ¡Aleluya!",
       "en": "But we will bless Yah now and forever. Hallelujah.",
-      "translit_en": "VaanachnU nevarech Yah; meata vead olam. Haleluya."
+      "translit_en": "Vaanachnu nevarech Yah; meata vead olam. Haleluya."
     }
   ],
   "audio": "",
