@@ -19,7 +19,7 @@
       "translit": "Haazíná Elohím tefilatí; veal titaLám mitejinaTí.",
       "es": "Escucha, oh Dios, mi oración y no te escondas de mi súplica.",
       "en": "Give ear, O God, to my prayer; do not ignore my plea;",
-      "translit_en": "Haazina Elohim tefilati; veal titaLam mitechinaTi."
+      "translit_en": "Haazina Elohim tefilati; veal titalam mitechinati."
     },
     {
       "num": 3,
@@ -37,7 +37,7 @@
       "translit": "Mikól oyév; mifnéi akát rashá; ki yamítu aláy áven uvéaf yisteMúni.",
       "es": "a causa de la voz del enemigo y de la opresión del impío; porque sobre mí echaron iniquidad y con furor me persiguen.",
       "en": "at the clamor of the enemy, because of the oppression of the wicked; for they bring evil upon me and furiously harass me.",
-      "translit_en": "Mikol oyev; mifnei akat rasha; ki yamitu alay aven uveaf yisteMuni."
+      "translit_en": "Mikol oyev; mifnei akat rasha; ki yamitu alay aven uveaf yistemuni."
     },
     {
       "num": 5,
@@ -73,7 +73,7 @@
       "translit": "Hiné arjík nedód; alín bamidBár. Selá.",
       "es": "He aquí me alejaría huyendo y moraría en el desierto. Selá.",
       "en": "surely, I would flee far off; I would lodge in the wilderness; selah",
-      "translit_en": "Hine archik nedod; alin bamidBar. Sela."
+      "translit_en": "Hine archik nedod; alin bamidbar. Sela."
     },
     {
       "num": 9,
@@ -82,7 +82,7 @@
       "translit": "Ajishá mifLát lí; merúaj soá misáar.",
       "es": "Me apresuraría a escapar del viento tempestuoso, del vendaval.",
       "en": "I would soon find me a refuge from the sweeping wind, from the tempest.”",
-      "translit_en": "Achisha mifLat li; meruach soa misaar."
+      "translit_en": "Achisha miflat li; meruach soa misaar."
     },
     {
       "num": 10,
@@ -91,7 +91,7 @@
       "translit": "Baláa Adonái; paLág leshonám; ki raíti jamás veríiv baír.",
       "es": "Destrúyelos, Señor; confunde su lengua porque he visto violencia y contienda en la ciudad.",
       "en": "O my Sovereign, confound their speech, confuse it! For I see lawlessness and strife in the city;",
-      "translit_en": "Balaa Adonai; paLag leshonam; ki raiti chamas veriiv bair."
+      "translit_en": "Balaa Adonai; palag leshonam; ki raiti chamas veriiv bair."
     },
     {
       "num": 11,
@@ -109,7 +109,7 @@
       "translit": "Havót bekirbáh; veló yamísh merejo vAh tój umirmá.",
       "es": "Maldades hay en medio de ella y el fraude y el engaño no se apartan de sus plazas.",
       "en": "Malice is within it; fraud and deceit never leave its square.",
-      "translit_en": "Havot bekirbah; velo yamish merecho vah toch umirma."
+      "translit_en": "Havot bekirbah; velo yamish merechova toch umirma."
     },
     {
       "num": 13,
@@ -145,7 +145,7 @@
       "translit": "Yashí mávet aléimo; yeredú sheól jayím; ki raót bemeguRám bekirbám.",
       "es": "Que la muerte les sorprenda; que desciendan vivos al seol porque hay maldades en sus moradas, en medio de ellos.",
       "en": "Let [God] incite death against them; may they go down alive into Sheol! For where they dwell, there evil is.",
-      "translit_en": "Yashi mavet aleimo; yeredu sheol chayim; ki raot bemeguRam bekirbam."
+      "translit_en": "Yashi mavet aleimo; yeredu sheol chayim; ki raot bemeguram bekirbam."
     },
     {
       "num": 17,
@@ -154,7 +154,7 @@
       "translit": "Aní el Elohím ekrá; vaAdonái yoshiéni.",
       "es": "En cuanto a mí, a Dios clamaré y el Eterno me salvará.",
       "en": "As for me, I call to God; G OD will deliver me.",
-      "translit_en": "Ani el Elohim ekra; vaadonai yoshieni."
+      "translit_en": "Ani el Elohim ekra; vaAdonai yoshieni."
     },
     {
       "num": 18,
@@ -181,7 +181,7 @@
       "translit": "Yishmá El veyaaNém; veyoshév kédem Selá; ashér en jaliFot lámo veló yarú Elohím.",
       "es": "Dios oirá y los afligirá; el que está entronizado desde la antigüedad. Selá. Por cuanto no cambian ni temen a Dios.",
       "en": "God who has reigned from the first, who will have no successor, hears and humbles those who show no reverence. Selah.",
-      "translit_en": "Yishma El veyaaNem; veyoshev kedem Sela; asher en chaliFot lamo velo yaru Elohim."
+      "translit_en": "Yishma El veyaanem; veyoshev kedem Sela; asher en chalifot lamo velo yaru Elohim."
     },
     {
       "num": 21,
@@ -190,7 +190,7 @@
       "translit": "Shalaj yadáv bishloMáv; jilél beritó.",
       "es": "Extendió sus manos contra los que estaban en paz con él; violó su pacto.",
       "en": "My companion b My companion Heb. “He,” i.e., the friend of v. 14 . caused harm to allies and broke a pact—",
-      "translit_en": "Shalach yadav bishloMav; chilel berito."
+      "translit_en": "Shalach yadav bishlomav; chilel berito."
     },
     {
       "num": 22,
@@ -199,7 +199,7 @@
       "translit": "Jalkú majmaót fív; ukeráv libó; rakú devaráv mishémen; vehéma fetijót.",
       "es": "Los dichos de su boca son más suaves que mantequilla pero guerra hay en su corazón; sus palabras son más blandas que el aceite mas son espadas desnudas.",
       "en": "with talk smoother than butter, yet with a mind set on war; with words that were softer than oil, yet in fact were drawn swords.",
-      "translit_en": "Jalku machmaot fiv; ukerav libo; raku devarav mishemen; vehema fetichot."
+      "translit_en": "Chalku machmaot fiv; ukerav libo; raku devarav mishemen; vehema fetichot."
     },
     {
       "num": 23,
