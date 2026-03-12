@@ -1156,22 +1156,40 @@ body.show-es-only .psalm-title-es { display: block; }
 .psalm-number-big { font-size: 2.5em; font-weight: 700; color: var(--accent); line-height: 1; }
 .psalm-subtitle { font-size: 0.85em; color: var(--muted); margin-top: 0.3em; font-style: italic; }
 
-/* === TOPBAR MÓVIL === */
+/* === TOPBAR MÓVIL — dos filas === */
 @media (max-width: 520px) {
+  /* Topbar wrappea en dos filas: brand arriba, controles abajo */
   header.topbar {
-    padding: 0 10px;
-    gap: 6px;
-    height: 52px;
+    flex-wrap: wrap;
+    height: auto;
+    padding: 8px 14px 6px;
+    gap: 0;
+    align-items: center;
   }
 
-  /* Ocultar subtítulo para ganar espacio */
+  /* Fila 1: Brand ocupa todo el ancho disponible */
+  .brand {
+    flex: 1 1 auto;
+  }
+  /* Igualar especificidad de header.topbar .brand {text-align:right} en site.css */
+  header.topbar .brand {
+    text-align: left;
+  }
+
   .brand-byline {
     display: none;
   }
 
-  /* Título un poco más compacto */
   .brand-title {
-    font-size: 15px;
+    font-size: 16px;
+  }
+
+  /* Fila 2: Controles a ancho completo, alineados a la derecha */
+  .topbar-actions {
+    width: 100%;
+    justify-content: flex-end;
+    gap: 3px;
+    margin-top: 4px;
   }
 
   /* Ocultar separadores verticales */
@@ -1179,33 +1197,33 @@ body.show-es-only .psalm-title-es { display: block; }
     display: none;
   }
 
-  /* Reducir topbar-actions y sus hijos */
-  .topbar-actions {
-    gap: 2px;
-  }
-
   .text-controls {
-    padding: 3px 6px;
-    gap: 2px;
-    margin-inline-end: 2px;
+    padding: 3px 8px;
+    gap: 3px;
+    margin-inline-end: 4px;
   }
 
   .ui-controls {
-    gap: 1px;
+    gap: 3px;
   }
 
-  /* Botones más compactos */
+  /* Botones compactos pero usables */
   .tbar-btn {
-    min-width: 30px;
+    min-width: 32px;
     height: 32px;
-    padding: 0 5px;
+    padding: 0 6px;
     font-size: 13px;
     border-radius: 8px;
   }
 
-  /* Popover de fuente: evitar que se salga a la izquierda */
+  /* Popover de fuente: no se sale a la izquierda */
   .font-popover {
     left: 0;
     transform: none;
+  }
+
+  /* En landing, text-controls oculto → quitar espacio muerto */
+  body.is-landing .text-controls {
+    display: none;
   }
 }
