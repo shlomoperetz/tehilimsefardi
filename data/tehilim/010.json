@@ -10,7 +10,9 @@
       "translit": "Lamá Adonái taamod berajók; taelím leité batsará.",
       "es": "¿Por qué, Eterno, Te mantienes lejos? ¿Por qué Te ocultas en los tiempos de angustia?",
       "en": "Why, O E TERNAL One, do You stand aloof, heedless in times of trouble?",
-      "translit_en": "Lama Adonai taamod berachok; taelim leite batsara."
+      "translit_en": "Lama Adonai taamod berachok; taelim leite batsara.",
+      "fr": "Pourquoi, Adonaï, Te tiens-Tu à l'écart ? Pourquoi Te caches-Tu dans les temps de détresse ?",
+      "translit_fr": "Lama Adonaï taamed berakbok, taèlim leittot batsara."
     },
     {
       "num": 2,
@@ -19,7 +21,9 @@
       "translit": "Begaavát rashá yidlak aní; yitafsu bimzimót zu jashávu.",
       "es": "En la arrogancia del impío el pobre es acosado; son atrapados en los planes que ellos maquinaron.",
       "en": "The wicked in their arrogance hound the lowly— may they be caught in the schemes they devise! a may they be caught in the schemes they devise Or “they (i.e., the lowly) are caught by the schemes they devised.”",
-      "translit_en": "Begaavat rasha yidlak ani; yitafsu bimzimot zu chashavu."
+      "translit_en": "Begaavat rasha yidlak ani; yitafsu bimzimot zu chashavu.",
+      "fr": "Dans l'orgueil du méchant le pauvre est persécuté ; ils sont pris dans les ruses qu'ils ont tramées.",
+      "translit_fr": "Beguavat racha yidlak ani, yitapseou bemezimot zou kachavou."
     },
     {
       "num": 3,
@@ -28,7 +32,9 @@
       "translit": "Ki hilél rashá al taavát nafsho; uvotsé béraj niatséts Adonái.",
       "es": "Porque el impío se jacta del deseo de su alma; el codicioso bendice y desprecia al Eterno.",
       "en": "The wicked crow about their unbridled lusts; the grasping revile and scorn G OD .",
-      "translit_en": "Ki hilel rasha al taavat nafsho; uvotse berach niatsets Adonai."
+      "translit_en": "Ki hilel rasha al taavat nafsho; uvotse berach niatsets Adonai.",
+      "fr": "Car le méchant se vante du désir de son âme ; le cupide bénit et méprise Adonaï.",
+      "translit_fr": "Ki hilel racha al taavat nafcho, ouvotsea bérekh niets Adonaï."
     },
     {
       "num": 4,
@@ -37,7 +43,9 @@
       "translit": "Rashá kegováh apó bal yidrosh; ein Elohím, kol mezimotáv.",
       "es": "El impío, en la altivez de su rostro, no inquiere; en todos sus pensamientos no hay lugar para Dios.",
       "en": "The wicked, arrogant as they are, in all their scheming [think], b The wicked crow … their scheming [think] Meaning of Heb. uncertain. “God does not care c God does not care Lit. “There is no God.” and does not call to account.” d Clauses transposed for clarity.",
-      "translit_en": "Rasha kegovah apo bal yidrosh; ein Elohim, kol mezimotav."
+      "translit_en": "Rasha kegovah apo bal yidrosh; ein Elohim, kol mezimotav.",
+      "fr": "Le méchant, dans l'arrogance de son visage, ne cherche pas ; il n'y a pas de place pour Dieu dans toutes ses pensées.",
+      "translit_fr": "Racha keguovah apo, bal yidroch, én Elohim kol mezimotav."
     },
     {
       "num": 5,
@@ -46,7 +54,9 @@
       "translit": "Yajílu derajáv bejol et; maróm mishpatéja minegedó; kol tsorerév yafíaj bahem.",
       "es": "Sus caminos prosperan en todo tiempo; Tus juicios están lejos de él; a todos sus adversarios los desprecia.",
       "en": "Their ways prosper at all times; Your judgments are far beyond them; they snort at all their foes.",
-      "translit_en": "Yachilu derachav bechol et; marom mishpatecha minegedo; kol tsorerav yafiach bahem."
+      "translit_en": "Yachilu derachav bechol et; marom mishpatecha minegedo; kol tsorerav yafiach bahem.",
+      "fr": "Ses voies prospèrent en tout temps ; Tes jugements sont loin de lui ; il souffle sur tous ses adversaires.",
+      "translit_fr": "Yakhilou drakhaïv bekhol et, marom michpatékha minegdo, kol tsoreraïv yafiakh bahem."
     },
     {
       "num": 6,
@@ -55,7 +65,9 @@
       "translit": "Amár beliból bal Emot; ledor Vador asher lo veráa.",
       "es": "Dice en su corazón: No seré sacudido; de generación en generación nunca me alcanzará el mal.",
       "en": "Such people think, “I shall not be shaken, through all time never be in trouble.”",
-      "translit_en": "Amar belibo bal emot; ledor vador asher lo veraa."
+      "translit_en": "Amar belibo bal emot; ledor vador asher lo veraa.",
+      "fr": "Il dit en son cœur : « Je ne serai pas ébranlé ; de génération en génération le malheur ne m'atteindra pas. »",
+      "translit_fr": "Amar belibo bal emot, ledor vador acher lo vera."
     },
     {
       "num": 7,
@@ -64,7 +76,9 @@
       "translit": "Alá fíu malé umirmot vatój; tajat leshonó amál vaavén.",
       "es": "Su boca está llena de maldición, de engaño y opresión; bajo su lengua hay aflicción e iniquidad.",
       "en": "Their mouth is full of oaths, deceit, and fraud; mischief and evil are under their tongue.",
-      "translit_en": "Ala fiu male umirmot vatoch; tachat leshono amal vaaven."
+      "translit_en": "Ala fiu male umirmot vatoch; tachat leshono amal vaaven.",
+      "fr": "Sa bouche est pleine de malédiction, de tromperie et de violence ; sous sa langue il y a de la peine et de l'iniquité.",
+      "translit_fr": "Ala piou male oumirmot vatokh, takhat lechono amal vaaven."
     },
     {
       "num": 8,
@@ -73,7 +87,9 @@
       "translit": "Yeshév bemaaráv jatserím; bamistárim yahrog naké; einév lejejá yitsponú.",
       "es": "Se sienta en acecho en los lugares ocultos; en los escondrijos mata al inocente; sus ojos acechan al desvalido.",
       "en": "They lurk in outlying places; from a covert they slay the innocent; their eyes spy out the hapless.",
-      "translit_en": "Yeshev bemaarav chatserim; bamistarim yahrog nake; einev lechecha yitsponu."
+      "translit_en": "Yeshev bemaarav chatserim; bamistarim yahrog nake; einev lechecha yitsponu.",
+      "fr": "Il s'embusque dans les cours des villages ; dans les cachettes il tue l'innocent ; ses yeux épient le malheureux.",
+      "translit_fr": "Yéchev bemaarav khatseirim, bemistariim yahareg naki, einaïv lekhalkha yitsponou."
     },
     {
       "num": 9,
@@ -82,7 +98,9 @@
       "translit": "Yeeróv bamistár kearyé vesujá; yeeróv lajtóf aní; yijatóf aní bemoshejó verishto.",
       "es": "Acecha en el escondrijo como un león en su guarida; acecha para arrebatar al pobre; lo arrastra con su red.",
       "en": "They wait in a covert like a lion in a lair; wait to seize the lowly; they seize the lowly as they pull their net shut;",
-      "translit_en": "Yeerov bamistar kearye vesucha; yeerov lachtof ani; yichatof ani bemoshecho verishto."
+      "translit_en": "Yeerov bamistar kearye vesucha; yeerov lachtof ani; yichatof ani bemoshecho verishto.",
+      "fr": "Il est à l'affût dans le secret comme un lion dans son repaire ; il est à l'affût pour saisir le pauvre, il saisit le pauvre en le tirant dans son filet.",
+      "translit_fr": "Yéerov bemisttar kearyé vesouka, yéerov lakhto ani, yakhtof ani bemochkho berichto."
     },
     {
       "num": 10,
@@ -91,7 +109,9 @@
       "translit": "Yidké yashoáj venafál; baatsumáv jeljaím.",
       "es": "Se encoge, se agacha, y los desvalidos caen bajo su fuerza.",
       "en": "they stoop, they crouch, and the hapless fall prey to their might. e and the hapless fall prey to their might Meaning of Heb. uncertain.",
-      "translit_en": "Yidke yashoach venafal; baatsumav chelchaim."
+      "translit_en": "Yidke yashoach venafal; baatsumav chelchaim.",
+      "fr": "Il se courbe, s'abaisse, et les malheureux tombent sous sa force.",
+      "translit_fr": "Ydakhé yichoakh, venafal beatsoumaïv khalkhéim."
     },
     {
       "num": 11,
@@ -100,7 +120,9 @@
       "translit": "Amár beliból shajáj El; histír panáv bal raá lanétsaj.",
       "es": "Dice en su corazón: Dios lo ha olvidado; ocultó Su rostro, nunca verá.",
       "en": "They think, “God is not mindful, the divine face is hidden and never looks.”",
-      "translit_en": "Amar belibol shachach El; histir panav bal raa lanetsach."
+      "translit_en": "Amar belibol shachach El; histir panav bal raa lanetsach.",
+      "fr": "Il dit en son cœur : « Dieu a oublié ; Il a caché Sa face, Il ne verra jamais. »",
+      "translit_fr": "Amar belibo, chakhat El, histir panaïv, bal raa lanétsakh."
     },
     {
       "num": 12,
@@ -109,7 +131,9 @@
       "translit": "Kumá Adonái El, nesá yadéja; al tishkáq anavím.",
       "es": "¡Levántate, Eterno Dios, alza Tu mano! No olvides a los humildes.",
       "en": "Rise, O E TERNAL One! Strike at them, f Strike at them Lit. “Lift Your hand.” O God! Do not forget the lowly.",
-      "translit_en": "Kuma Adonai El, nesa yadecha; al tishkaq anavim."
+      "translit_en": "Kuma Adonai El, nesa yadecha; al tishkaq anavim.",
+      "fr": "Lève-Toi, Adonaï Dieu, élève Ta main ! N'oublie pas les humbles.",
+      "translit_fr": "Kouma Adonaï El, nessa yadékha, al tichkakh anaviim."
     },
     {
       "num": 13,
@@ -118,7 +142,9 @@
       "translit": "Al me niatséts rashá Elohím? Amár beliból lo tidrosh.",
       "es": "¿Por qué desprecia el impío a Dios? Ha dicho en su corazón: No pedirás cuentas.",
       "en": "Why should the wicked scorn God, thinking You do not call to account?",
-      "translit_en": "Al me niatsets rasha Elohim? Amar belibol lo tidrosh."
+      "translit_en": "Al me niatsets rasha Elohim? Amar belibol lo tidrosh.",
+      "fr": "Pourquoi le méchant méprise-t-il Dieu ? Il a dit en son cœur : « Tu ne demanderas pas de comptes. »",
+      "translit_fr": "Al ma niets racha Elohim, amar belibo lo tidroch."
     },
     {
       "num": 14,
@@ -127,7 +153,9 @@
       "translit": "Raíta ki atá amál vejáas tabít; latét beyadéja; aléja yaazóv jelká yatóm; atá hayíta ozér.",
       "es": "Tú lo ves; contemplas la aflicción y el dolor para tomar el asunto en Tu mano; a Ti se encomienda el desvalido; Tú has sido el ayudador del huérfano.",
       "en": "You do look! You take note of mischief and vexation! To requite is in Your power. g To requite is in Your power Meaning of Heb. uncertain. To You the hapless can entrust themselves; You have ever been the orphans’ help.",
-      "translit_en": "Raita ki ata amal vechaas tabit; latet beyadecha; alecha yaazov chelka yatom; ata hayita ozer."
+      "translit_en": "Raita ki ata amal vechaas tabit; latet beyadecha; alecha yaazov chelka yatom; ata hayita ozer.",
+      "fr": "Tu vois, car Tu contemples la peine et la douleur pour les prendre en main ; à Toi se confie le malheureux ; Tu as été le secours de l'orphelin.",
+      "translit_fr": "Raita, ki ata amal vakhas tabit, latet beyadékha, alékha yaazov khalkhé yatom ata hayita ozér."
     },
     {
       "num": 15,
@@ -136,7 +164,9 @@
       "translit": "Shevór zeroa rashá varáa; tidrosh rishó bal timtsá.",
       "es": "Quiebra el brazo del impío y del malvado; demanda su impiedad hasta que no la encuentres.",
       "en": "O break the power of the wicked and evildoers, so that when You look for h look for A play on darash , which in vv. 4 and 13 means “to call to account.” their wickedness You will find it no more.",
-      "translit_en": "Shevor zeroa rasha varaa; tidrosh risho bal timtsa."
+      "translit_en": "Shevor zeroa rasha varaa; tidrosh risho bal timtsa.",
+      "fr": "Brise le bras du méchant et du pervers ; recherche sa méchanceté jusqu'à ce que Tu n'en trouves plus.",
+      "translit_fr": "Chvor zeroa racha vara, tidroch richao bal timtsa."
     },
     {
       "num": 16,
@@ -145,7 +175,9 @@
       "translit": "Adonái mélej olám vaéd; avdú goyím meeartso.",
       "es": "El Eterno es Rey eternamente y para siempre; las naciones han perecido de Su tierra.",
       "en": "G OD is sovereign for ever and ever; the nations will perish from this i this Heb. “His.” land.",
-      "translit_en": "Adonai melech olam vaed; avdu goyim meeartso."
+      "translit_en": "Adonai melech olam vaed; avdu goyim meeartso.",
+      "fr": "Adonaï est Roi pour toujours et à jamais ; les nations ont péri de Sa terre.",
+      "translit_fr": "Adonaï mélekh olam vaed, avdou goyim meartso."
     },
     {
       "num": 17,
@@ -154,7 +186,9 @@
       "translit": "Taavát anavím shaméata Adonái; tajín libám, takshív ozneja.",
       "es": "El deseo de los humildes Tú lo oíste, Eterno; afirmas su corazón, inclinas Tu oído,",
       "en": "You will listen to the entreaty of the lowly, O E TERNAL One, You will make their hearts firm; You will incline Your ear",
-      "translit_en": "Taavat anavim shameata Adonai; tachin libam, takshiv oznecha."
+      "translit_en": "Taavat anavim shameata Adonai; tachin libam, takshiv oznecha.",
+      "fr": "Tu as exaucé le désir des humbles, Adonaï ; Tu affermis leur cœur, Tu prêtes l'oreille,",
+      "translit_fr": "Taavat anaviim shamata Adonaï, takhin libam, takchiv oznékha."
     },
     {
       "num": 18,
@@ -163,7 +197,9 @@
       "translit": "Lishpot yatóm vadáq; bal yosíf od laartóts enósh min haárets.",
       "es": "para hacer justicia al huérfano y al oprimido, para que el hombre de la tierra no siga sembrando terror.",
       "en": "to champion the orphan and the downtrodden, that mere earthly mortals tyrannize no more. j that mere earthly mortals tyrannize no more Meaning of Heb. uncertain.",
-      "translit_en": "Lishpot yatom vadaq; bal yosif od laartots enosh min haarets."
+      "translit_en": "Lishpot yatom vadaq; bal yosif od laartots enosh min haarets.",
+      "fr": "pour faire justice à l'orphelin et à l'opprimé, afin que l'homme de la terre ne répande plus la terreur.",
+      "translit_fr": "Lichpot yatom vedakh, bal yossif od laaarots enoch min haarets."
     }
   ],
   "ocasiones": [],
