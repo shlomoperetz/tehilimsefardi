@@ -1155,3 +1155,57 @@ body.show-es-only .psalm-title-es { display: block; }
 .psalm-header { text-align: center; margin: 0.5em 0 1.5em; }
 .psalm-number-big { font-size: 2.5em; font-weight: 700; color: var(--accent); line-height: 1; }
 .psalm-subtitle { font-size: 0.85em; color: var(--muted); margin-top: 0.3em; font-style: italic; }
+
+/* === TOPBAR MÓVIL === */
+@media (max-width: 520px) {
+  header.topbar {
+    padding: 0 10px;
+    gap: 6px;
+    height: 52px;
+  }
+
+  /* Ocultar subtítulo para ganar espacio */
+  .brand-byline {
+    display: none;
+  }
+
+  /* Título un poco más compacto */
+  .brand-title {
+    font-size: 15px;
+  }
+
+  /* Ocultar separadores verticales */
+  .tbar-sep {
+    display: none;
+  }
+
+  /* Reducir topbar-actions y sus hijos */
+  .topbar-actions {
+    gap: 2px;
+  }
+
+  .text-controls {
+    padding: 3px 6px;
+    gap: 2px;
+    margin-inline-end: 2px;
+  }
+
+  .ui-controls {
+    gap: 1px;
+  }
+
+  /* Botones más compactos */
+  .tbar-btn {
+    min-width: 30px;
+    height: 32px;
+    padding: 0 5px;
+    font-size: 13px;
+    border-radius: 8px;
+  }
+
+  /* Popover de fuente: evitar que se salga a la izquierda */
+  .font-popover {
+    left: 0;
+    transform: none;
+  }
+}
