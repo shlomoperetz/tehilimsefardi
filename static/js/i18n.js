@@ -91,7 +91,7 @@ const STRINGS = {
     nav_home: "Accueil",
     nav_list: "Tous les psaumes",
     prev: "Psaume", next: "Psaume",
-    landing_title: "Tehilim Séfarade",
+    landing_title: "Tehilim Sefardí",
     landing_desc: "Les Psaumes de David en hébreu, translittération séfarade et français",
     landing_search: "Chercher un psaume par numéro ou thème…",
     tile_daily: "Psaume du jour",
@@ -105,7 +105,7 @@ const STRINGS = {
     tile_topics_icon: "Par occasion",
     tile_all_icon: "1 — 150",
     tile_start_icon: "Psaume 1",
-    brand_title: "Tehilim Séfarade",
+    brand_title: "Tehilim Sefardí",
     brand_byline: "by Shlomo Peretz",
     not_found: "Non trouvé",
     title_cantil: "Cantillations",
@@ -186,8 +186,9 @@ function applyLang() {
     const prefix = currentLang === 'he' ? 'מזמור' : currentLang === 'en' ? 'Psalm' : currentLang === 'fr' ? 'Psaume' : 'Salmo';
     const verseEs = ds.getAttribute('data-verse-es');
     const verseEn = ds.getAttribute('data-verse-en');
+    const verseFr = ds.getAttribute('data-verse-fr');
     const title = currentLang === 'he' ? titleHe : currentLang === 'en' ? titleEn : titleEs;
-    const verse = currentLang === 'en' && verseEn ? verseEn.substring(0, 60) + '…' : verseEs ? verseEs.substring(0, 60) + '…' : '';
+    const verse = currentLang === 'en' && verseEn ? verseEn.substring(0, 60) + '…' : currentLang === 'fr' && verseFr ? verseFr.substring(0, 60) + '…' : verseEs ? verseEs.substring(0, 60) + '…' : '';
     ds.textContent = prefix + ' ' + num + (title ? ' · ' + title : '') ;
     ds.title = verse;
   }

@@ -108,7 +108,7 @@ h1.title {
   margin-top: 0.3em;
   line-height: 1.5;
 }
-.verse-es, .verse-en {
+.verse-es, .verse-en, .verse-fr {
   font-family: var(--ui-font);
   font-size: 0.82em;
   direction: ltr;
@@ -416,6 +416,7 @@ nav.bottombar .bbtn.active {
 .tehilim-name,
 .verse-es,
 .verse-en,
+.verse-fr,
 .verse-translit,
 .tehilim-nav a,
 .bbtn {
@@ -1108,7 +1109,7 @@ body.is-landing .text-controls {
 .cantil-off { display: none !important; }
 
 .verse-he { text-align: right; }
-.verse-translit, .verse-es, .verse-en { text-align: left !important; direction: ltr !important; }
+.verse-translit, .verse-es, .verse-en, .verse-fr { text-align: left !important; direction: ltr !important; }
 
 /* === Título salmo === */
 .psalm-header {
