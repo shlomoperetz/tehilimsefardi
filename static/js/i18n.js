@@ -82,6 +82,35 @@ const STRINGS = {
     title_cantil: "Cantilaciones",
     title_translit: "Transliteración",
     title_es: "Traducción",
+  },
+  fr: {
+    home: "Accueil",
+    psalms: "Psaumes",
+    topics: "Thèmes",
+    search_placeholder: "Chercher un psaume par numéro ou thème...",
+    nav_home: "Accueil",
+    nav_list: "Tous les psaumes",
+    prev: "Psaume", next: "Psaume",
+    landing_title: "Tehilim Séfarade",
+    landing_desc: "Les Psaumes de David en hébreu, translittération séfarade et français",
+    landing_search: "Chercher un psaume par numéro ou thème…",
+    tile_daily: "Psaume du jour",
+    tile_topics: "Deuil · Amour · Protection",
+    tile_topics_sub: "Psaumes par thème",
+    tile_all: "Tous les psaumes",
+    tile_all_sub: "Liste complète",
+    tile_start: "Commencer depuis le début",
+    tile_start_sub: "Heureux l'homme…",
+    landing_read: "Lire le psaume complet →",
+    tile_topics_icon: "Par occasion",
+    tile_all_icon: "1 — 150",
+    tile_start_icon: "Psaume 1",
+    brand_title: "Tehilim Séfarade",
+    brand_byline: "by Shlomo Peretz",
+    not_found: "Non trouvé",
+    title_cantil: "Cantillations",
+    title_translit: "Translittération",
+    title_es: "Traduction",
   }
 };
 
@@ -89,6 +118,7 @@ let currentLang = localStorage.getItem('ui_lang') || (() => {
   const bl = navigator.language || navigator.userLanguage || 'es';
   if (bl.startsWith('he')) return 'he';
   if (bl.startsWith('en')) return 'en';
+  if (bl.startsWith('fr')) return 'fr';
   return 'es';
 })();
 
@@ -132,7 +162,7 @@ function applyLang() {
   // Brand: fuente hebrea en modo hebreo
   // Actualizar label del botón de idioma
   const lb = document.getElementById('langBtn');
-  if (lb) lb.textContent = currentLang === 'he' ? 'עב' : currentLang === 'en' ? 'EN' : 'ES';
+  if (lb) lb.textContent = currentLang === 'he' ? 'עב' : currentLang === 'en' ? 'EN' : currentLang === 'fr' ? 'FR' : 'ES';
   // Marcar idioma activo en dropdown
   document.querySelectorAll('.lang-menu button[data-lang]').forEach(btn => {
     btn.classList.toggle('active-lang', btn.getAttribute('data-lang') === currentLang);
@@ -153,7 +183,7 @@ function applyLang() {
     const titleEs = ds.getAttribute('data-title-es');
     const titleEn = ds.getAttribute('data-title-en');
     const titleHe = ds.getAttribute('data-title-he');
-    const prefix = currentLang === 'he' ? 'מזמור' : currentLang === 'en' ? 'Psalm' : 'Salmo';
+    const prefix = currentLang === 'he' ? 'מזמור' : currentLang === 'en' ? 'Psalm' : currentLang === 'fr' ? 'Psaume' : 'Salmo';
     const verseEs = ds.getAttribute('data-verse-es');
     const verseEn = ds.getAttribute('data-verse-en');
     const title = currentLang === 'he' ? titleHe : currentLang === 'en' ? titleEn : titleEs;
@@ -172,8 +202,8 @@ function applyLang() {
   });
   // Botones de vista (A, K, tr, ES/EN)
   const btnEs = document.getElementById('btnEs');
-  if (btnEs) btnEs.textContent = currentLang === 'en' ? 'EN' : 'ES';
-  if (btnEs) btnEs.title = currentLang === 'en' ? 'English translation' : 'Traducción al español';
+  if (btnEs) btnEs.textContent = currentLang === 'en' ? 'EN' : currentLang === 'fr' ? 'FR' : 'ES';
+  if (btnEs) btnEs.title = currentLang === 'en' ? 'English translation' : currentLang === 'fr' ? 'Traduction française' : 'Traducción al español';
   // Navegación single psalm
   document.querySelectorAll('.nav-list').forEach(el => el.textContent = t('nav_list'));
   document.querySelectorAll('.nav-prev').forEach(el => {
@@ -198,7 +228,9 @@ function applyLang() {
   if (lvp) {
     const verseEs = lvp.getAttribute('data-verse-es');
     const verseEn = lvp.getAttribute('data-verse-en');
+    const verseFr = lvp.getAttribute('data-verse-fr');
     if (currentLang === 'en' && verseEn) lvp.textContent = verseEn;
+    else if (currentLang === 'fr' && verseFr) lvp.textContent = verseFr;
     else if (verseEs) lvp.textContent = verseEs;
   }
 
