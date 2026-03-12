@@ -10,7 +10,9 @@
       "translit": "Lamnatséaj binginót, al hashminít, mizmór leDavíd.",
       "es": "Al director, con instrumentos de cuerda, sobre la octava. Salmo de David.",
       "en": "For the leader; with instrumental music on the sheminith . a For the leader; with instrumental music on the sheminith Meaning of Heb. uncertain. A psalm of David.",
-      "translit_en": "Lamnatseach binginot, al hashminit, mizmor leDavid."
+      "translit_en": "Lamnatseach binginot, al hashminit, mizmor leDavid.",
+      "fr": "Au chef de chœur, avec instruments à cordes, sur la huitième. Psaume de David.",
+      "translit_fr": "Lamenatséakh binginot al hachmint, mizmor leDavid."
     },
     {
       "num": 2,
@@ -19,7 +21,9 @@
       "translit": "Adonái, al beapejá tojiéni, veal bajamatkejá teyasereni.",
       "es": "Eterno, no me reprendas en Tu ira, ni me castigues en Tu furor.",
       "en": "O E TERNAL One, do not punish me in anger, do not chastise me in fury.",
-      "translit_en": "Adonai, al beapecha tochieni, veal bachamatkecha teyasereni."
+      "translit_en": "Adonai, al beapecha tochieni, veal bachamatkecha teyasereni.",
+      "fr": "Adonaï, ne me reprends pas dans Ta colère, et ne me châties pas dans Ta fureur.",
+      "translit_fr": "Adonaï al beapkha tokhikhéni, veal bakhamatékha tesseréni."
     },
     {
       "num": 3,
@@ -28,7 +32,9 @@
       "translit": "Janéni Adonái ki umlál ani; refaini Adonái ki nivhalú atsami.",
       "es": "Ten piedad de mí, Eterno, porque estoy debilitado; sáname, Eterno, porque mis huesos están perturbados.",
       "en": "Have mercy on me, O E TERNAL One, for I languish; heal me, O E TERNAL One, for my bones shake with terror.",
-      "translit_en": "Chaneni Adonai ki umlal ani; refaini Adonai ki nivhalu atsami."
+      "translit_en": "Chaneni Adonai ki umlal ani; refaini Adonai ki nivhalu atsami.",
+      "fr": "Aie pitié de moi, Adonaï, car je suis épuisé ; guéris-moi, Adonaï, car mes os sont troublés.",
+      "translit_fr": "Khonéni Adonaï ki umlal ani, reféni Adonaï ki nivhaloU atsamaï."
     },
     {
       "num": 4,
@@ -37,7 +43,9 @@
       "translit": "Venafshí nivhalá meod; veatá Adonái, ad matái?",
       "es": "Y mi alma está muy perturbada; y Tú, Eterno, ¿hasta cuándo?",
       "en": "My whole being is stricken with terror, while You, E TERNAL One—O, how long!",
-      "translit_en": "Venafshi nivhala meod; veata Adonai, ad matai?"
+      "translit_en": "Venafshi nivhala meod; veata Adonai, ad matai?",
+      "fr": "Mon âme est profondément troublée ; et Toi, Adonaï, jusqu'à quand ?",
+      "translit_fr": "Venafchi nivhala meod, veata Adonaï, ad mata."
     },
     {
       "num": 5,
@@ -46,7 +54,9 @@
       "translit": "Shuva Adonái, jaltsá nafshí; hoshiini lemaán jasdéja.",
       "es": "Vuélvete, Eterno, libera mi alma; sálvame por Tu bondad leal.",
       "en": "O E TERNAL One, turn! Rescue me! Deliver me as befits Your faithfulness.",
-      "translit_en": "Shuva Adonai, chaltsa nafshi; hoshiini lemaan chasdecha."
+      "translit_en": "Shuva Adonai, chaltsa nafshi; hoshiini lemaan chasdecha.",
+      "fr": "Reviens, Adonaï, délivre mon âme ; sauve-moi à cause de Ta grâce.",
+      "translit_fr": "Chouba Adonaï khaltsa nafchi, hochiaéni lemaan khasdékha."
     },
     {
       "num": 6,
@@ -55,7 +65,9 @@
       "translit": "Ki ein bamávet zijréja; bisheól mi yodé laj?",
       "es": "Porque en la muerte no hay recuerdo de Ti; en el seol, ¿quién Te alabará?",
       "en": "For there is no praise of You among the dead; in Sheol, who can acclaim You?",
-      "translit_en": "Ki ein bamavet zichrecha; bisheol mi yode lach?"
+      "translit_en": "Ki ein bamavet zichrecha; bisheol mi yode lach?",
+      "fr": "Car dans la mort il n'est plus question de Toi ; au Cheol, qui Te louera ?",
+      "translit_fr": "Ki ein bamavet zikhrekha, baCheol mi yodé lakh."
     },
     {
       "num": 7,
@@ -64,7 +76,9 @@
       "translit": "Yagáti beanjaí; asjé vejól láylá mitati, bedimati arshí amse.",
       "es": "Estoy agotado de tanto gemir; cada noche inundo mi cama, con mis lágrimas empapa mi lecho.",
       "en": "I am weary with groaning; every night I drench my bed, I melt my couch in tears.",
-      "translit_en": "Yagati beanchai; asche vechol layla mitati, bedimati arshi amse."
+      "translit_en": "Yagati beanchai; asche vechol layla mitati, bedimati arshi amse.",
+      "fr": "Je suis épuisé de gémir ; chaque nuit j'inonde mon lit, j'arrose ma couche de mes larmes.",
+      "translit_fr": "Yagati beankhatei, askhe bekhol laïla mitatei, bedimati arsi amsse."
     },
     {
       "num": 8,
@@ -73,7 +87,9 @@
       "translit": "Asheshá mikás einí; atká bejol tsorrerái.",
       "es": "Mis ojos se han debilitado de dolor; envejecieron a causa de todos mis angustiadores.",
       "en": "My eyes are wasted by vexation, worn out because of all my foes.",
-      "translit_en": "Ashesha mikas eini; atka bechol tsorrerai."
+      "translit_en": "Ashesha mikas eini; atka bechol tsorrerai.",
+      "fr": "Mon œil est consumé de douleur, il a vieilli à cause de tous mes adversaires.",
+      "translit_fr": "Achecha mikhaaS eini, atka bekhol tsoreraï."
     },
     {
       "num": 9,
@@ -82,7 +98,9 @@
       "translit": "Suru mimeni kol poaléi avén; ki shamá Adonái kol bijyí.",
       "es": "Apartaos de mí, todos los que obráis iniquidad, porque el Eterno ha escuchado la voz de mi llanto.",
       "en": "Away from me, all you evildoers, for G OD heeds the sound of my weeping.",
-      "translit_en": "Suru mimeni kol poalei aven; ki shama Adonai kol bichyi."
+      "translit_en": "Suru mimeni kol poalei aven; ki shama Adonai kol bichyi.",
+      "fr": "Éloignez-vous de moi, vous tous qui faites le mal, car Adonaï a entendu la voix de mes pleurs.",
+      "translit_fr": "Sourou mimeni kol poaléï aven, ki chama Adonaï kol bikhyi."
     },
     {
       "num": 10,
@@ -91,7 +109,9 @@
       "translit": "Shamá Adonái tejinati; Adonái tefilatí yikaj.",
       "es": "El Eterno ha escuchado mi súplica; el Eterno acepta mi oración.",
       "en": "G OD heeds my plea, G OD accepts my prayer.",
-      "translit_en": "Shama Adonai techinati; Adonai tefilati yikach."
+      "translit_en": "Shama Adonai techinati; Adonai tefilati yikach.",
+      "fr": "Adonaï a entendu ma supplication ; Adonaï reçoit ma prière.",
+      "translit_fr": "Chama Adonaï tekhinnati, Adonaï tefilati yikakh."
     },
     {
       "num": 11,
@@ -100,7 +120,9 @@
       "translit": "Yevoshu veyibahalu meod kol oyevái; yashuvu yevoshu ragá.",
       "es": "Que sean avergonzados y muy perturbados todos mis enemigos; que se vuelvan atrás y sean avergonzados de repente.",
       "en": "All my enemies will be frustrated and stricken with terror; they will turn back in an instant, frustrated.",
-      "translit_en": "Yevoshu veyibahalu meod kol oyevai; yashuvu yevoshu raga."
+      "translit_en": "Yevoshu veyibahalu meod kol oyevai; yashuvu yevoshu raga.",
+      "fr": "Que tous mes ennemis soient honteux et très troublés ; qu'ils reculent et soient soudainement confondus.",
+      "translit_fr": "Yévochu veyivahaloU meod kol oyvaï, yachouvoU yévochu ragua."
     }
   ],
   "ocasiones": [
