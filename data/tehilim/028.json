@@ -10,7 +10,9 @@
       "translit": "LeDavíd. Eléija Adonái ekrá; tsurí al tejérash miméni; pen tejeshé miméni veNimshálti im yoredéi vór.",
       "es": "De David. A Ti, Eterno, clamaré; roca mía, no te desentiendas de mí, no sea que si te quedas callado, yo sea comparado con los que descienden al sepulcro.",
       "en": "Of David. O E TERNAL One, I call to You; my rock, do not disregard me, for if You hold aloof from me, I shall be like those gone down into the Pit.",
-      "translit_en": "LeDavid. Eleicha Adonai ekra; tsuri al techerash mimeni; pen techeshe mimeni venimshalti im yoredei vor."
+      "translit_en": "LeDavid. Eleicha Adonai ekra; tsuri al techerash mimeni; pen techeshe mimeni venimshalti im yoredei vor.",
+      "fr": "De David. Vers Toi, Adonaï, je crie ; mon Rocher, ne Te tais pas à mon égard, de peur que si Tu Te tais, je sois semblable à ceux qui descendent dans la fosse.",
+      "translit_fr": "LeDavid, elékha Adonaï ekra, tsouri al tekhérach mimeni, pen tekhché mimeni venimchalti im yordé vor."
     },
     {
       "num": 2,
@@ -19,7 +21,9 @@
       "translit": "Shemá kol tajanunáy beshaví eléija; benasí yadáy el devír kodshéja.",
       "es": "Oye la voz de mis súplicas cuando clamo a Ti, cuando alzo mis manos hacia Tu santo lugar.",
       "en": "Listen to my plea for mercy when I cry out to You, when I lift my hands toward Your inner sanctuary.",
-      "translit_en": "Shema kol tachanunay beshavi eleicha; benasi yaday el devir kodshecha."
+      "translit_en": "Shema kol tachanunay beshavi eleicha; benasi yaday el devir kodshecha.",
+      "fr": "Entends la voix de mes supplications quand je crie vers Toi, quand j'élève mes mains vers Ton saint sanctuaire.",
+      "translit_fr": "Chema kol takhanounaï beshavei elékha, benechai yadaï el devir kodchékha."
     },
     {
       "num": 3,
@@ -28,7 +32,9 @@
       "translit": "Al timshejéni im reshaím veim poaléi áven; doVréi shalóm im reéihem veraá bilevavám.",
       "es": "No me arrastres junto con los impíos ni con los que hacen iniquidad, que hablan paz con su prójimo pero el mal está en su corazón.",
       "en": "Do not count me a count me Or “drag me off”; meaning of Heb. uncertain. with the wicked and evildoers who profess goodwill toward their fellows while malice is in their heart.",
-      "translit_en": "Al timshecheni im reshaim veim poalei aven; dovrei shalom im reeihem veraa bilevavam."
+      "translit_en": "Al timshecheni im reshaim veim poalei aven; dovrei shalom im reeihem veraa bilevavam.",
+      "fr": "Ne m'entraîne pas avec les méchants et avec les faiseurs d'iniquité, qui parlent de paix à leurs prochains mais ont le mal dans le cœur.",
+      "translit_fr": "Al timcheéni im rechaïm veim poaléï aven, dovréï chalom im reéhem veraa bilvavam."
     },
     {
       "num": 4,
@@ -37,7 +43,9 @@
       "translit": "Ten láhem kefoolám ujeróa maalaléihem; kemaaséi yedéihem ten láhem; hashév gemulám láhem.",
       "es": "Dales conforme a su obra y conforme a la maldad de sus hechos; dales conforme a la obra de sus manos; devuélveles su merecido.",
       "en": "Pay them according to their deeds, their malicious acts; according to their handiwork pay them, give them their deserts.",
-      "translit_en": "Ten lahem kefoolam ucheroa maalaleihem; kemaasei yedeihem ten lahem; hashev gemulam lahem."
+      "translit_en": "Ten lahem kefoolam ucheroa maalaleihem; kemaasei yedeihem ten lahem; hashev gemulam lahem.",
+      "fr": "Rends-leur selon leurs œuvres et selon la méchanceté de leurs actes ; rends-leur selon l'œuvre de leurs mains, retourne-leur ce qu'ils méritent.",
+      "translit_fr": "Ten lahem kifoolam oukheroa maaleléhem, kemaassé ydéhem ten lahem, hachev guemoullam lahem."
     },
     {
       "num": 5,
@@ -46,7 +54,9 @@
       "translit": "Ki lo yavínu el peulót Adonái veel maaséi yadáv; yeherSém veló yivném.",
       "es": "Por cuanto no atienden a los hechos del Eterno ni a la obra de Sus manos, Él los derribará y no los edificará.",
       "en": "For they do not consider G OD ’s deeds, the work of divine hands. May [God] tear them down, never to rebuild them!",
-      "translit_en": "Ki lo yavinu el peulot Adonai veEl maasei yadav; yehersem velo yivnem."
+      "translit_en": "Ki lo yavinu el peulot Adonai veEl maasei yadav; yehersem velo yivnem.",
+      "fr": "Parce qu'ils ne comprennent pas les œuvres d'Adonaï ni l'ouvrage de Ses mains, Il les renversera et ne les relèvera pas.",
+      "translit_fr": "Ki lo yavinoU el poulot Adonaï veal maassé yadaïv, yeharssem velo yivnem."
     },
     {
       "num": 6,
@@ -55,7 +65,9 @@
       "translit": "Barúj Adonái ki shamá kol tajanunáy.",
       "es": "Bendito sea el Eterno, porque oyó la voz de mis súplicas.",
       "en": "Blessed is G OD , who listens to my plea for mercy.",
-      "translit_en": "Baruch Adonai ki shama kol tachanunay."
+      "translit_en": "Baruch Adonai ki shama kol tachanunay.",
+      "fr": "Béni soit Adonaï, car Il a entendu la voix de mes supplications.",
+      "translit_fr": "Baroukh Adonaï, ki chama kol takhanounaï."
     },
     {
       "num": 7,
@@ -64,7 +76,9 @@
       "translit": "Adonái uzí umagíni; bo vatáj libí veneezárti; vayaalóz libí; umishirí ahodénu.",
       "es": "El Eterno es mi fortaleza y mi escudo; en Él confió mi corazón y fui ayudado; por lo que se regocijó mi corazón y con mi cántico le alabaré.",
       "en": "G OD is my strength and my shield, the One in whom my heart trusts. I was helped, b helped Or “strengthened.” and my heart exulted, so I will give glory with my song.",
-      "translit_en": "Adonai uzi umagini; bo vatach libi veneezarti; vayaaloz libi; umishiri ahodenu."
+      "translit_en": "Adonai uzi umagini; bo vatach libi veneezarti; vayaaloz libi; umishiri ahodenu.",
+      "fr": "Adonaï est ma force et mon bouclier ; en Lui mon cœur s'est confié et j'ai été secouru ; aussi mon cœur exulte et je Le louerai de mon cantique.",
+      "translit_fr": "Adonaï uzi oumaguéni, bo vatakh libi veneezarti, vayaaloz libi, oumichiri ahodenou."
     },
     {
       "num": 8,
@@ -73,7 +87,9 @@
       "translit": "Adonái oz lamó; umaóz yeshuót meshijó hu.",
       "es": "El Eterno es la fortaleza de Su pueblo y el refugio salvador de Su ungido.",
       "en": "G OD is their strength; c their strength Septuagint, Saadia, and others render, and some mss. read, ʻoz leʻammo , “the strength of God’s people.” and a stronghold for the deliverance of our anointed ruler. d our anointed ruler Heb. “His anointed one.”",
-      "translit_en": "Adonai oz lamo; umaoz yeshuot meshicho hu."
+      "translit_en": "Adonai oz lamo; umaoz yeshuot meshicho hu.",
+      "fr": "Adonaï est la force de Son peuple et le refuge salutaire de Son oint.",
+      "translit_fr": "Adonaï oz lamo, oumaaoz yechouot mechikho hou."
     },
     {
       "num": 9,
@@ -82,7 +98,9 @@
       "translit": "Hoshiá et améja uvareJ et najalatéja; ureém venasém ad haolám.",
       "es": "Salva a Tu pueblo y bendice Tu heredad; cuídalos y llévalos para siempre.",
       "en": "Deliver and bless Your very own people; tend them and sustain them forever.",
-      "translit_en": "Hoshia et amecha uvarech et nachalatecha; ureem venasem ad haolam."
+      "translit_en": "Hoshia et amecha uvarech et nachalatecha; ureem venasem ad haolam.",
+      "fr": "Sauve Ton peuple et bénis Ton héritage ; fais-les paître et porte-les pour toujours.",
+      "translit_fr": "Hochiah et amékha ouvarekh et nakhalatékha, oreém venassem ad haolam."
     }
   ],
   "ocasiones": [],
