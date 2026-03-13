@@ -10,7 +10,9 @@
       "translit": "Lamnatséaj mizmór leDavíd.",
       "es": "Al director. Salmo de David.",
       "en": "For the leader. A psalm of David.",
-      "translit_en": "Lamnatseach mizmor leDavid."
+      "translit_en": "Lamnatseach mizmor leDavid.",
+      "fr": "Au chef de chœur. Psaume de David.",
+      "translit_fr": "Lamenatséakh, mizmor leDavid."
     },
     {
       "num": 2,
@@ -19,7 +21,9 @@
       "translit": "Bejá Adonái jasíti al evoshá leolám; betsidkatejá falteéni.",
       "es": "En Ti, Eterno, me he refugiado; no sea yo avergonzado jamás; en Tu justicia líbrame.",
       "en": "I seek refuge in You, O E TERNAL One; may I never be disappointed; as You are righteous, rescue me.",
-      "translit_en": "Becha Adonai chasiti al evosha leolam; betsidkatecha falteeni."
+      "translit_en": "Becha Adonai chasiti al evosha leolam; betsidkatecha falteeni.",
+      "fr": "En Toi, Adonaï, je me suis réfugié ; que je ne sois jamais confondu ; dans Ta justice délivre-moi.",
+      "translit_fr": "Bekha Adonaï khassiti, al evoucha leolam, betsidkatékha palteéni."
     },
     {
       "num": 3,
@@ -28,7 +32,9 @@
       "translit": "Haté eláy ozenejá meherá hatsiléni; heyé lí letsúr maóz; levéit metsudót lehoshiéni.",
       "es": "Inclina a mí Tu oído, líbrame pronto; sé para mí una roca fuerte, una casa de refugios para salvarme.",
       "en": "Incline Your ear to me; be quick to save me; be a rock, a stronghold for me, a citadel, for my deliverance.",
-      "translit_en": "Hate elay ozenecha mehera hatsileni; heye li letsur maoz; leveit metsudot lehoshieni."
+      "translit_en": "Hate elay ozenecha mehera hatsileni; heye li letsur maoz; leveit metsudot lehoshieni.",
+      "fr": "Incline Ton oreille vers moi, délivre-moi vite ; sois pour moi un rocher de refuge, une maison fortifiée pour me sauver.",
+      "translit_fr": "Hat elaï oznékha meherah hatsileéni, heyé li letsour maoz, levét metsoudot lehochiaéni."
     },
     {
       "num": 4,
@@ -37,7 +43,9 @@
       "translit": "Ki salí umtsudatí atá; ulmaán shimjá tanjéni utenahaléni.",
       "es": "Porque Tú eres mi roca y mi fortaleza; por amor de Tu nombre me guiarás y me conducirás.",
       "en": "For You are my rock and my fortress; You lead me and guide me as befits Your name.",
-      "translit_en": "Ki sali umtsudati ata; ulmaan shimcha tancheni utenahaleni."
+      "translit_en": "Ki sali umtsudati ata; ulmaan shimcha tancheni utenahaleni.",
+      "fr": "Car Tu es mon rocher et ma forteresse ; à cause de Ton nom Tu me guideras et me conduiras.",
+      "translit_fr": "Ki salei oumetsoudati ata, oulemaan chimékha tankheéni vetenhaléni."
     },
     {
       "num": 5,
@@ -46,7 +54,9 @@
       "translit": "Totsiani méreshet zu tamenu lí; ki atá mauzí.",
       "es": "Sácame de la red que han tendido para mí, porque Tú eres mi refugio.",
       "en": "You free me from the net laid for me, for You are my stronghold.",
-      "translit_en": "Totsiani mereshet zu tamenu li; ki ata mauzi."
+      "translit_en": "Totsiani mereshet zu tamenu li; ki ata mauzi.",
+      "fr": "Tu me tireras du filet qu'ils m'ont tendu, car Tu es mon refuge.",
+      "translit_fr": "Totsiéni merééchet zou tamnou li, ki ata maouzi."
     },
     {
       "num": 6,
@@ -55,7 +65,9 @@
       "translit": "Beyadejá afkíd rují; padíta otí Adonái El emét.",
       "es": "En Tu mano encomiendo mi espíritu; Tú me has redimido, Eterno, Dios de verdad.",
       "en": "Into Your hand I entrust my spirit; You redeem me, O E TERNAL One, faithful God.",
-      "translit_en": "Beyadecha afkid ruchi; padita oti Adonai El emet."
+      "translit_en": "Beyadecha afkid ruchi; padita oti Adonai El emet.",
+      "fr": "En Ta main je remets mon esprit ; Tu m'as racheté, Adonaï, Dieu de vérité.",
+      "translit_fr": "Beyadékha afkid roukkhi, padita oti Adonaï El emet."
     },
     {
       "num": 7,
@@ -64,7 +76,9 @@
       "translit": "Sanéiti hashomrím havléi shav; vaani el Adonái batájti.",
       "es": "Aborrecí a los que se aferran a vanas idolatrías; pero yo en el Eterno confío.",
       "en": "I detest those who rely on empty folly, but I trust in G OD .",
-      "translit_en": "Saneiti hashomrim havlei shav; vaani el Adonai batachti."
+      "translit_en": "Saneiti hashomrim havlei shav; vaani el Adonai batachti.",
+      "fr": "Je hais ceux qui s'attachent aux vaines idoles ; moi, je me confie en Adonaï.",
+      "translit_fr": "Saneéti hochhomrim havlé chav, vaani el Adonaï vatakhti."
     },
     {
       "num": 8,
@@ -73,7 +87,9 @@
       "translit": "Aguilá veesmejá bejasdeján; ashér raíta et onyí; yadáta betsarót nafshí.",
       "es": "Me alegraré y me regocijaré en Tu bondad leal, porque viste mi aflicción; conociste las angustias de mi alma.",
       "en": "Let me exult and rejoice in Your faithfulness when You notice my affliction, are mindful of my deep distress,",
-      "translit_en": "Aguila veesmecha bechasdechan; asher raita et onyi; yadata betsarot nafshi."
+      "translit_en": "Aguila veesmecha bechasdechan; asher raita et onyi; yadata betsarot nafshi.",
+      "fr": "Je me réjouirai et m'égaierai en Ta grâce, car Tu as vu mon affliction, Tu as connu les angoisses de mon âme.",
+      "translit_fr": "Aguila veesmekha bekhasdékha, acher raita et onyï, yadaata betsarot nafchi."
     },
     {
       "num": 9,
@@ -82,7 +98,9 @@
       "translit": "Veló hisgartáni beyád oyév; heemádta vamérejav ragláy.",
       "es": "Y no me entregaste en mano del enemigo; pusiste mis pies en lugar espacioso.",
       "en": "and do not hand me over to my enemy, but grant me relief. a grant me relief Lit. “make my feet stand in a broad place.”",
-      "translit_en": "Velo hisgartani beyad oyev; heemadta vamerechav raglay."
+      "translit_en": "Velo hisgartani beyad oyev; heemadta vamerechav raglay.",
+      "fr": "Et Tu ne m'as pas livré à la main de l'ennemi ; Tu as mis mes pieds dans un lieu spacieux.",
+      "translit_fr": "Velo hissagartani beyad oyev, heemadta vamérkhav raglaï."
     },
     {
       "num": 10,
@@ -91,7 +109,9 @@
       "translit": "Janéni Adonái ki tsar lí; asheshá vejáas eíni nafshí uvitní.",
       "es": "Ten misericordia de mí, Eterno, porque estoy en angustia; se han consumido de aflicción mis ojos, mi alma y mis entrañas.",
       "en": "Have mercy on me, O E TERNAL One, for I am in distress; my eyes are wasted by vexation, my substance and body too. b my substance and body too Meaning of Heb. uncertain.",
-      "translit_en": "Chaneni Adonai ki tsar li; ashesha vechaas eini nafshi uvitni."
+      "translit_en": "Chaneni Adonai ki tsar li; ashesha vechaas eini nafshi uvitni.",
+      "fr": "Aie pitié de moi, Adonaï, car je suis dans la détresse ; mon œil se consume de chagrin, mon âme et mes entrailles.",
+      "translit_fr": "Kkhonéni Adonaï ki tsar li, aschecha vekhaaS eïni nafchi veviténi."
     },
     {
       "num": 11,
@@ -100,7 +120,9 @@
       "translit": "Ki jalu veyagón jayáy; ushnotáy baanajá; kashál baaoní kojí; vaatsamáy asheéhsu.",
       "es": "Porque mi vida se consume en dolor y mis años en suspiros; mi fuerza se debilitó a causa de mi iniquidad y mis huesos se consumieron.",
       "en": "My life is spent in sorrow, my years in groaning; my strength fails because of my iniquity, my limbs waste away.",
-      "translit_en": "Ki chalu veyagon chayay; ushnotay baanacha; kashal baaoni kochi; vaatsamay asheshu."
+      "translit_en": "Ki chalu veyagon chayay; ushnotay baanacha; kashal baaoni kochi; vaatsamay asheshu.",
+      "fr": "Car ma vie se consume dans la douleur et mes années dans les soupirs ; ma force a faibli à cause de mon iniquité et mes os sont consumés.",
+      "translit_fr": "Ki khalou veyaguen khaïaï, vechenotaï beankha, kachal beavoni kokhi veatsmaï achecha."
     },
     {
       "num": 12,
@@ -109,7 +131,9 @@
       "translit": "Mikol tsoreráy hayíti jerPá; velishjené meód; ufajád limyudaáy; roáy bajúts nadadú miméni.",
       "es": "A causa de todos mis enemigos soy objeto de oprobio y para mis vecinos en gran manera, y objeto de terror para mis conocidos; los que me ven en la calle huyen de mí.",
       "en": "Because of all my foes I am the particular butt of my neighbors, a horror to my friends; those who see me on the street avoid me.",
-      "translit_en": "Mikol tsoreray hayiti cherpa; velishchene meod; ufachad limyudaay; roay bachuts nadadu mimeni."
+      "translit_en": "Mikol tsoreray hayiti cherpa; velishchene meod; ufachad limyudaay; roay bachuts nadadu mimeni.",
+      "fr": "À cause de tous mes adversaires je suis devenu un opprobre, et pour mes voisins une grande honte, et une épouvante pour mes connaissances ; ceux qui me voient dehors fuient loin de moi.",
+      "translit_fr": "Mikol tsoreraï hayiti kherpa, velishkhenaï meod oufahhad lemeyoudaaï, roeï vakhoutz nadedou mimeni."
     },
     {
       "num": 13,
@@ -118,7 +142,9 @@
       "translit": "Nishkájti kemét miléiv; hayíti kijlí ovéd.",
       "es": "He sido olvidado de los corazones como un muerto; he venido a ser como un vaso quebrado.",
       "en": "I am put out of mind like the dead; I am like an object given up for lost.",
-      "translit_en": "Nishkachti kemet mileiv; hayiti kichli oved."
+      "translit_en": "Nishkachti kemet mileiv; hayiti kichli oved.",
+      "fr": "J'ai été oublié des cœurs comme un mort ; je suis devenu comme un vase brisé.",
+      "translit_fr": "Nichkakhti kemét milev, hayiti klikhlé oved."
     },
     {
       "num": 14,
@@ -127,7 +153,9 @@
       "translit": "Ki shamaáti dibát rabím; magór misavív; behivasedám yájad aláy; lakájat nafshí zamámu.",
       "es": "Porque oí la calumnia de muchos; el terror reinaba por todas partes; cuando se concertaron juntos contra mí, tramaron quitarme la vida.",
       "en": "I hear the whisperings of many, intrigue c intrigue In contrast to others “terror.” on every side, as they scheme together against me, plotting to take my life.",
-      "translit_en": "Ki shamaati dibat rabim; magor misaviv; behivasedam yachad alay; lakachat nafshi zamamu."
+      "translit_en": "Ki shamaati dibat rabim; magor misaviv; behivasedam yachad alay; lakachat nafshi zamamu.",
+      "fr": "Car j'entends la calomnie de la multitude ; la terreur est de tous côtés ; quand ils se concertent ensemble contre moi, ils complotent de m'ôter la vie.",
+      "translit_fr": "Ki chamaati dibat rabim, maguor misaviv, behivassdam yakhad alaï, lakakhhat nafchi zamamo."
     },
     {
       "num": 15,
@@ -136,7 +164,9 @@
       "translit": "Vaani aléija vatájti Adonái; amárti Eloháy atá.",
       "es": "Pero yo en Ti confié, Eterno; dije: Tú eres mi Dios.",
       "en": "But I trust in You, O E TERNAL One; I say, “You are my God!”",
-      "translit_en": "Vaani aleicha vatachti Adonai; amarti Elohay ata."
+      "translit_en": "Vaani aleicha vatachti Adonai; amarti Elohay ata.",
+      "fr": "Mais moi, en Toi j'ai eu confiance, Adonaï ; j'ai dit : Tu es mon Dieu.",
+      "translit_fr": "Vaani alékha vatakhti Adonaï, amarti Elohaï ata."
     },
     {
       "num": 16,
@@ -145,7 +175,9 @@
       "translit": "Beyadejá itoráy; hatsiléni miyád oyváy umirodefáy.",
       "es": "En Tu mano están mis tiempos; líbrame de la mano de mis enemigos y de los que me persiguen.",
       "en": "My fate is in Your hand; save me from the hand of my enemies and pursuers.",
-      "translit_en": "Beyadecha itoray; hatsileni miyad oyvay umirodefay."
+      "translit_en": "Beyadecha itoray; hatsileni miyad oyvay umirodefay.",
+      "fr": "En Ta main sont mes temps ; délivre-moi de la main de mes ennemis et de ceux qui me persécutent.",
+      "translit_fr": "Beyadékha itotaï, hatsiléni miyad oyvaï oumiredofeï."
     },
     {
       "num": 17,
@@ -154,7 +186,9 @@
       "translit": "Hairá fanéija al avdéja; hoshiéni bejasdeján.",
       "es": "Haz resplandecer Tu rostro sobre Tu siervo; sálvame por Tu bondad leal.",
       "en": "Show favor to Your servant; as You are faithful, deliver me.",
-      "translit_en": "Haira faneicha al avdecha; hoshieni bechasdechan."
+      "translit_en": "Haira faneicha al avdecha; hoshieni bechasdechan.",
+      "fr": "Fais briller Ta face sur Ton serviteur ; sauve-moi par Ta grâce.",
+      "translit_fr": "Haira panékha al avdékha, hochiaéni bekhasdékha."
     },
     {
       "num": 18,
@@ -163,7 +197,9 @@
       "translit": "Adonái al evoshá ki keratíja; yevoshu reshaím yidemu lisheól.",
       "es": "Eterno, no sea yo avergonzado, porque a Ti he clamado; sean avergonzados los impíos, estén silenciosos en el seol.",
       "en": "O E TERNAL One, let me not be disappointed when I call You; let the wicked be disappointed; let them be silenced in Sheol;",
-      "translit_en": "Adonai al evosha ki keraticha; yevoshu reshaim yidemu lisheol."
+      "translit_en": "Adonai al evosha ki keraticha; yevoshu reshaim yidemu lisheol.",
+      "fr": "Adonaï, que je ne sois pas confondu, car je T'ai invoqué ; que les méchants soient confondus, qu'ils descendent silencieux au Cheol.",
+      "translit_fr": "Adonaï al evoucha ki keratikha, yevochou rechaïm, yidemou lichol."
     },
     {
       "num": 19,
@@ -172,7 +208,9 @@
       "translit": "Tealámna siftéi shéker hadovrot al tsadík aták begaaVá vaVúz.",
       "es": "Enmudezcan los labios mentirosos que hablan contra el justo cosas duras con soberbia y menosprecio.",
       "en": "let lying lips be stilled that speak haughtily against the righteous with arrogance and contempt.",
-      "translit_en": "Tealamna siftei sheker hadovrot al tsadik atak begaava vavuz."
+      "translit_en": "Tealamna siftei sheker hadovrot al tsadik atak begaava vavuz.",
+      "fr": "Que soient réduites au silence les lèvres mensongères qui parlent contre le juste des choses dures avec arrogance et mépris.",
+      "translit_fr": "Tealémna siftéï chéker, hadovrot al tsadik atak, beguava ouvoz."
     },
     {
       "num": 20,
@@ -181,7 +219,9 @@
       "translit": "Ma rav tuvejá ashér tsafánta lireéija; paálta lajosím baj néged benéi adám.",
       "es": "¡Cuán grande es Tu bondad que has guardado para los que Te temen, que has mostrado a los que en Ti se refugian, delante de los hijos de los hombres!",
       "en": "How abundant is the good that You have in store for those who fear You, that You do in full view for those who take refuge in You.",
-      "translit_en": "Ma rav tuvecha asher tsafanta lireeicha; paalta lachosim bach neged benei adam."
+      "translit_en": "Ma rav tuvecha asher tsafanta lireeicha; paalta lachosim bach neged benei adam.",
+      "fr": "Qu'elle est grande Ta bonté que Tu as réservée pour ceux qui Te craignent, que Tu déploies pour ceux qui se réfugient en Toi, à la vue des fils des hommes !",
+      "translit_fr": "Ma rav touvékha acher tsafanta liréekha, paalata lakhossim bekha, néged bené adam."
     },
     {
       "num": 21,
@@ -190,7 +230,9 @@
       "translit": "Tastirém beséter panéija merujeséi ish; titspením besucá meríb leshonoót.",
       "es": "Los esconderás en lo secreto de Tu presencia de las conspiraciones del hombre; los guardarás en un tabernáculo de las contiendas de las lenguas.",
       "en": "You grant them the protection of Your presence against the opposition’s schemes; d against the opposition’s schemes Or “against human schemes.” You shelter them in Your pavilion from contentious tongues.",
-      "translit_en": "Tastirem beseter paneicha meruchesei ish; titspenim besuca merib leshonoot."
+      "translit_en": "Tastirem beseter paneicha meruchesei ish; titspenim besuca merib leshonoot.",
+      "fr": "Tu les cacheras à l'abri de Ta face des complots des hommes ; Tu les mettras à couvert dans une tente des querelles des langues.",
+      "translit_fr": "Tastirem béseter panékha merokséï ich, titspeném bessoukka merriv lechenot."
     },
     {
       "num": 22,
@@ -199,7 +241,9 @@
       "translit": "Barúj Adonái ki hiflía jasdó lí beír matsór.",
       "es": "Bendito sea el Eterno, porque ha hecho maravillosa Su bondad leal para conmigo en ciudad sitiada.",
       "en": "Blessed is G OD , who has been wondrously faithful to me, a veritable bastion.",
-      "translit_en": "Baruch Adonai ki hiflia chasdo li beir matsor."
+      "translit_en": "Baruch Adonai ki hiflia chasdo li beir matsor.",
+      "fr": "Béni soit Adonaï, car Il a rendu admirable Sa grâce envers moi dans une ville assiégée.",
+      "translit_fr": "Baroukh Adonaï ki hifli khasddo li, beer metsour."
     },
     {
       "num": 23,
@@ -208,7 +252,9 @@
       "translit": "Vaani amárti bejofzí nigrázti minéged eíneja; ajén shaméata kol tajanunáy beshaví eléija.",
       "es": "En cuanto a mí, dije en mi premura: Estoy cortado de delante de Tus ojos; pero Tú oíste la voz de mis súplicas cuando a Ti clamé.",
       "en": "Alarmed, I had thought, “I am thrust out of Your sight”; yet You listened to my plea for mercy when I cried out to You.",
-      "translit_en": "Vaani amarti bechofzi nigrazti mineged einecha; achen shameata kol tachanunay beshavi eleicha."
+      "translit_en": "Vaani amarti bechofzi nigrazti mineged einecha; achen shameata kol tachanunay beshavi eleicha.",
+      "fr": "Quant à moi, j'avais dit dans mon trouble : « Je suis retranché de devant Tes yeux. » Mais Tu avais entendu la voix de mes supplications quand je criais vers Toi.",
+      "translit_fr": "Vaani amarti vehofzi, nigrazti minégued einékha, akhén chamaata kol takhanounaï, bechavei elékha."
     },
     {
       "num": 24,
@@ -217,7 +263,9 @@
       "translit": "Ehavú et Adonái kol jasidáv; emuním notsér Adonái; umeshalém al yéter oséh gaavá.",
       "es": "Amad al Eterno, todos Sus santos; el Eterno guarda a los fieles y paga abundantemente al que obra con soberbia.",
       "en": "So love G OD , all you faithful; G OD guards the loyal, and more than requites the one who acts arrogantly.",
-      "translit_en": "Ehavu et Adonai kol chasidav; emunim notser Adonai; umeshalem al yeter oseh gaava."
+      "translit_en": "Ehavu et Adonai kol chasidav; emunim notser Adonai; umeshalem al yeter oseh gaava.",
+      "fr": "Aimez Adonaï, vous tous Ses bien-aimés ; Adonaï garde les fidèles et rend au superbe selon son orgueil.",
+      "translit_fr": "Ahavou et Adonaï kol khassidaïv, emunim notser Adonaï, oumechalem al yéter osse gueavah."
     },
     {
       "num": 25,
@@ -226,7 +274,9 @@
       "translit": "Jazekú veyaméts levavchem; kol hameiajalím laAdonái.",
       "es": "Esforzaos y aliéntese vuestro corazón, todos los que esperáis en el Eterno.",
       "en": "Be strong and of good courage, all you who wait for G OD .",
-      "translit_en": "Chazeku veyamets levavchem; kol hameiachalim laAdonai."
+      "translit_en": "Chazeku veyamets levavchem; kol hameiachalim laAdonai.",
+      "fr": "Soyez forts et que votre cœur soit courageux, vous tous qui espérez en Adonaï.",
+      "translit_fr": "Khizkou veyaméts levavkhém, kol hameyakhalim laAdonaï."
     }
   ],
   "ocasiones": [],
