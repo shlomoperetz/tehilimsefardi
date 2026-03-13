@@ -264,6 +264,7 @@ function applyLangToGrid() {
 }
 
 function toggleLangMenu() {
+  document.querySelectorAll('.dd-group').forEach(function(x){x.classList.remove('open');});
   const m = document.getElementById('langMenu');
   if (m) m.style.display = m.style.display === 'none' ? 'block' : 'none';
 }

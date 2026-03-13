@@ -190,19 +190,29 @@ header.topbar {
   align-items: center;
   gap: 4px;
 }
-.text-controls {
+
+/* === DD-GROUP (desplegables de topbar) === */
+/* Desktop: trigger oculto, panel inline */
+.dd-group {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.dd-group .dd-trigger {
+  display: none;
+}
+.dd-panel {
   display: flex;
   align-items: center;
   gap: 3px;
-  padding: 5px 10px;
+  padding: 3px 8px;
   background: rgba(128,128,128,0.06);
   border-radius: 12px;
-  margin-inline-end: 6px;
 }
-.ui-controls {
-  display: flex;
-  align-items: center;
-  gap: 2px;
+
+/* Landing: ocultar controles de texto */
+body.is-landing #ddView {
+  display: none;
 }
 .tbar-sep {
   width: 1px;
@@ -1156,74 +1166,79 @@ body.show-es-only .psalm-title-es { display: block; }
 .psalm-number-big { font-size: 2.5em; font-weight: 700; color: var(--accent); line-height: 1; }
 .psalm-subtitle { font-size: 0.85em; color: var(--muted); margin-top: 0.3em; font-style: italic; }
 
-/* === TOPBAR MÓVIL — dos filas === */
+/* === TOPBAR MÓVIL — dropdowns === */
 @media (max-width: 520px) {
-  /* Topbar wrappea en dos filas: brand arriba, controles abajo */
   header.topbar {
-    flex-wrap: wrap;
-    height: auto;
-    padding: 8px 14px 6px;
-    gap: 0;
-    align-items: center;
+    height: 52px;
+    padding: 0 12px;
+    gap: 6px;
   }
 
-  /* Fila 1: Brand ocupa todo el ancho disponible */
-  .brand {
-    flex: 1 1 auto;
-  }
-  /* Igualar especificidad de header.topbar .brand {text-align:right} en site.css */
-  header.topbar .brand {
-    text-align: left;
+  .brand-byline { display: none; }
+  .brand-title  { font-size: 15px; }
+
+  /* Triggers visibles en mobile */
+  .dd-group .dd-trigger {
+    display: flex;
   }
 
-  .brand-byline {
+  /* Panel: dropdown posicionado */
+  .dd-panel {
     display: none;
+    position: absolute;
+    top: calc(100% + 8px);
+    right: 0;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 6px;
+    flex-direction: column;
+    gap: 2px;
+    box-shadow: 0 6px 24px rgba(0,0,0,0.13);
+    z-index: 500;
+    min-width: 150px;
   }
 
-  .brand-title {
-    font-size: 16px;
+  .dd-group.open .dd-panel {
+    display: flex;
   }
 
-  /* Fila 2: Controles a ancho completo, alineados a la derecha */
-  .topbar-actions {
+  /* Botones dentro del panel */
+  .dd-panel .tbar-btn {
     width: 100%;
-    justify-content: flex-end;
-    gap: 3px;
-    margin-top: 4px;
-  }
-
-  /* Ocultar separadores verticales */
-  .tbar-sep {
-    display: none;
-  }
-
-  .text-controls {
-    padding: 3px 8px;
-    gap: 3px;
-    margin-inline-end: 4px;
-  }
-
-  .ui-controls {
-    gap: 3px;
-  }
-
-  /* Botones compactos pero usables */
-  .tbar-btn {
-    min-width: 32px;
-    height: 32px;
-    padding: 0 6px;
-    font-size: 13px;
+    min-width: unset;
+    height: 40px;
+    padding: 0 12px;
+    justify-content: flex-start;
     border-radius: 8px;
+    opacity: 1;
+    font-size: 14px;
   }
 
-  /* Popover de fuente: no se sale a la izquierda */
-  .font-popover {
+  .dd-panel .tbar-toggle.active {
+    background: var(--accent-soft);
+    color: var(--accent);
+  }
+
+  /* Sep en dropdown: línea horizontal */
+  .dd-panel .tbar-sep {
+    width: 100%;
+    height: 1px;
+    margin: 2px 0;
+  }
+
+  /* Lang-menu: abre hacia la derecha (es el primer botón) */
+  .lang-menu {
     left: 0;
-    transform: none;
+    right: auto;
   }
 
-  /* En landing, text-controls oculto → quitar espacio muerto */
-  body.is-landing .text-controls {
-    display: none;
+  /* Botones del topbar (triggers + search) */
+  .tbar-btn {
+    min-width: 36px;
+    height: 36px;
+    font-size: 13px;
+    padding: 0 7px;
+    border-radius: 8px;
   }
 }

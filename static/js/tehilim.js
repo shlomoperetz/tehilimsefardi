@@ -3,7 +3,8 @@
 function toggleDarkMode(){var r=document.documentElement;var d=r.classList.toggle('dark-mode');r.classList.toggle('light-mode',!d);localStorage.setItem('theme',d?'dark':'light');var sun=document.getElementById('iconSun');var moon=document.getElementById('iconMoon');if(sun)sun.style.display=d?'':'none';if(moon)moon.style.display=d?'none':'';}
 function adjustFont(n){var r=document.documentElement;var c=parseInt(getComputedStyle(r).getPropertyValue('--font'))||22;var v=Math.min(Math.max(c+n*2,16),36);r.style.setProperty('--font',v+'px');localStorage.setItem('fontSize',v);}
 function toggleFontMenu(){var p=document.querySelector('.font-popover');if(p)p.classList.toggle('open');}
-document.addEventListener('click',function(e){if(!e.target.closest('.font-popover-wrap')){var p=document.querySelector('.font-popover');if(p)p.classList.remove('open');}});
+function toggleDdGroup(id){var g=document.getElementById(id);if(!g)return;var open=g.classList.contains('open');document.querySelectorAll('.dd-group').forEach(function(x){x.classList.remove('open');});var lm=document.getElementById('langMenu');if(lm)lm.style.display='none';if(!open)g.classList.add('open');}
+document.addEventListener('click',function(e){if(!e.target.closest('.dd-group')&&!e.target.closest('.font-popover-wrap')){document.querySelectorAll('.dd-group').forEach(function(x){x.classList.remove('open');});var p=document.querySelector('.font-popover');if(p)p.classList.remove('open');}});
 var VS={he:true,tr:false,es:true};
 var VH=['he','es'];
 function toggleView(k){var a=Object.keys(VS).filter(function(x){return VS[x];});if(VS[k]){if(a.length===1)return;VS[k]=false;VH=VH.filter(function(x){return x!==k;});}else{VS[k]=true;VH.push(k);}applyView();localStorage.setItem('VS',JSON.stringify(VS));localStorage.setItem('VH',JSON.stringify(VH));}
