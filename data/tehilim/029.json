@@ -10,7 +10,9 @@
       "translit": "Mizmór leDavíd. Havú laAdonái benéi elím; havú laAdonái kavód vaóz.",
       "es": "Salmo de David. Dad al Eterno, oh hijos de los poderosos; dad al Eterno gloria y poder.",
       "en": "A psalm of David. Ascribe to G OD , O divine beings, ascribe to G OD glory and strength.",
-      "translit_en": "Mizmor leDavid. Havu laAdonai benei elim; havu laAdonai kavod vaoz."
+      "translit_en": "Mizmor leDavid. Havu laAdonai benei elim; havu laAdonai kavod vaoz.",
+      "fr": "Psaume de David. Rendez à Adonaï, fils des puissants, rendez à Adonaï gloire et force.",
+      "translit_fr": "Mizmor leDavid, havou laAdonaï bené elim, havou laAdonaï kavod vaoz."
     },
     {
       "num": 2,
@@ -19,7 +21,9 @@
       "translit": "Havú laAdonái kevód shemó; hishtajavu laAdonái behadrat kódesh.",
       "es": "Dad al Eterno la gloria debida a Su nombre; postraos ante el Eterno en la hermosura de la santidad.",
       "en": "Ascribe to G OD the glory of that name; bow down to G OD , majestic in holiness.",
-      "translit_en": "Havu laAdonai kevod shemo; hishtachavu laAdonai behadrat kodesh."
+      "translit_en": "Havu laAdonai kevod shemo; hishtachavu laAdonai behadrat kodesh.",
+      "fr": "Rendez à Adonaï la gloire due à Son nom ; prosternez-vous devant Adonaï dans la splendeur de la sainteté.",
+      "translit_fr": "Havou laAdonaï kevod chemo, hichtakhavoU laAdonaï behadrat kodech."
     },
     {
       "num": 3,
@@ -28,7 +32,9 @@
       "translit": "Kol Adonái al hamáyim; El hakavód hirím; Adonái al máyim rabím.",
       "es": "La voz del Eterno sobre las aguas; el Dios de gloria truena; el Eterno sobre las grandes aguas.",
       "en": "G OD ’s voice is over the waters; the God of glory thunders, G OD , over the mighty waters.",
-      "translit_en": "Kol Adonai al hamayim; El hakavod hirim; Adonai al mayim rabim."
+      "translit_en": "Kol Adonai al hamayim; El hakavod hirim; Adonai al mayim rabim.",
+      "fr": "La voix d'Adonaï est sur les eaux ; le Dieu de gloire tonne ; Adonaï est sur les grandes eaux.",
+      "translit_fr": "Kol Adonaï al hamaïm, El hakavod hirim, Adonaï al maïm rabim."
     },
     {
       "num": 4,
@@ -37,7 +43,9 @@
       "translit": "Kol Adonái bakóaj; kol Adonái behaDár.",
       "es": "La voz del Eterno con potencia; la voz del Eterno con majestad.",
       "en": "The voice of G OD is power; G OD ’s voice is majesty;",
-      "translit_en": "Kol Adonai bakoach; kol Adonai behadar."
+      "translit_en": "Kol Adonai bakoach; kol Adonai behadar.",
+      "fr": "La voix d'Adonaï est avec puissance ; la voix d'Adonaï est avec majesté.",
+      "translit_fr": "Kol Adonaï bakkoakh, kol Adonaï behadar."
     },
     {
       "num": 5,
@@ -46,7 +54,9 @@
       "translit": "Kol Adonái shobér arazím; vayeshabér Adonái et arzéi haLevanón.",
       "es": "La voz del Eterno quiebra los cedros; sí, el Eterno quiebra los cedros del Líbano.",
       "en": "G OD ’s voice breaks cedars; G OD shatters the cedars of Lebanon—",
-      "translit_en": "Kol Adonai shober arazim; vayeshaber Adonai et arzei haLevanon."
+      "translit_en": "Kol Adonai shober arazim; vayeshaber Adonai et arzei haLevanon.",
+      "fr": "La voix d'Adonaï brise les cèdres ; oui, Adonaï brise les cèdres du Liban.",
+      "translit_fr": "Kol Adonaï chover arazim, vayechaber Adonaï et arzé halvanon."
     },
     {
       "num": 6,
@@ -55,7 +65,9 @@
       "translit": "Vayarkidém kemó egél; Levanón veSiryón kemó ven reemím.",
       "es": "Los hace saltar como becerro; al Líbano y al Sirión como hijo de búfalo.",
       "en": "making Lebanon skip like a calf, a making Lebanon skip like a calf Lit. “makes them skip like a calf, Lebanon and Sirion….” Sirion, like a young wild ox.",
-      "translit_en": "Vayarkidem kemo egel; Levanon veSiryon kemo ven reemim."
+      "translit_en": "Vayarkidem kemo egel; Levanon veSiryon kemo ven reemim.",
+      "fr": "Il les fait bondir comme un veau ; le Liban et le Sirion comme un jeune buffle.",
+      "translit_fr": "Vayarkidem kemo egel, levanon veChiryon kemo ven reemim."
     },
     {
       "num": 7,
@@ -64,7 +76,9 @@
       "translit": "Kol Adonái jotsév lahavót esh.",
       "es": "La voz del Eterno lanza llamas de fuego.",
       "en": "G OD ’s voice kindles flames of fire;",
-      "translit_en": "Kol Adonai chotsev lahavot esh."
+      "translit_en": "Kol Adonai chotsev lahavot esh.",
+      "fr": "La voix d'Adonaï lance des flammes de feu.",
+      "translit_fr": "Kol Adonaï khotsev lahavot ech."
     },
     {
       "num": 8,
@@ -73,7 +87,9 @@
       "translit": "Kol Adonái yajíl midBár; yajíl Adonái midBar kadésh.",
       "es": "La voz del Eterno hace temblar el desierto; el Eterno hace estremecer el desierto de Kadesh.",
       "en": "G OD ’s voice convulses the wilderness; G OD convulses the wilderness of Kadesh;",
-      "translit_en": "Kol Adonai yachil midbar; yachil Adonai midbar kadesh."
+      "translit_en": "Kol Adonai yachil midbar; yachil Adonai midbar kadesh.",
+      "fr": "La voix d'Adonaï fait trembler le désert ; Adonaï fait trembler le désert de Kadech.",
+      "translit_fr": "Kol Adonaï yakhil midbar, yakhil Adonaï midbar Kadech."
     },
     {
       "num": 9,
@@ -82,7 +98,9 @@
       "translit": "Kol Adonái yejolél ayalót; vayejeSóf yearót; uvehejálo kulo omér kavód.",
       "es": "La voz del Eterno hace temblar a las ciervas y desnuda los bosques; y en Su templo todo exclama: ¡Gloria!",
       "en": "G OD ’s voice causes hinds to calve, and strips forests bare; b and strips forests bare Or “brings ewes to early birth.” while in the divine temple all say “Glory!”",
-      "translit_en": "Kol Adonai yecholel ayalot; vayechesof yearot; uvehechalo kulo omer kavod."
+      "translit_en": "Kol Adonai yecholel ayalot; vayechesof yearot; uvehechalo kulo omer kavod.",
+      "fr": "La voix d'Adonaï fait tournoyer les biches et dénude les forêts ; et dans Son temple tout s'écrie : Gloire !",
+      "translit_fr": "Kol Adonaï yekholel ayalot, vayakhsof yearot, ouvehékhalou koulo omer kavod."
     },
     {
       "num": 10,
@@ -91,7 +109,9 @@
       "translit": "Adonái lamabúl yasháv; vayéshev Adonái méleg leolám.",
       "es": "El Eterno preside sobre el diluvio; sí, el Eterno se sienta como Rey para siempre.",
       "en": "G OD sat enthroned at the Flood; G OD sits enthroned, ruler forever.",
-      "translit_en": "Adonai lamabul yashav; vayeshev Adonai melech leolam."
+      "translit_en": "Adonai lamabul yashav; vayeshev Adonai melech leolam.",
+      "fr": "Adonaï trône au-dessus du déluge ; oui, Adonaï siège en Roi pour toujours.",
+      "translit_fr": "Adonaï lamaboul yachav, vayéchev Adonaï mélekh leolam."
     },
     {
       "num": 11,
@@ -100,7 +120,9 @@
       "translit": "Adonái oz leamó yitén; Adonái yevaréj et amó bashalóm.",
       "es": "El Eterno dará fortaleza a Su pueblo; el Eterno bendecirá a Su pueblo con paz.",
       "en": "May strength be granted to G OD ’s people; may G OD bless this people with well-being.",
-      "translit_en": "Adonai oz leamo yiten; Adonai yevarech et amo bashalom."
+      "translit_en": "Adonai oz leamo yiten; Adonai yevarech et amo bashalom.",
+      "fr": "Adonaï donnera de la force à Son peuple ; Adonaï bénira Son peuple avec la paix.",
+      "translit_fr": "Adonaï oz leamo yiten, Adonaï yevarékh et amo vachalom."
     }
   ],
   "ocasiones": [
