@@ -10,7 +10,9 @@
       "translit": "Mizmór leDavíd. Adonái roí lo ejsár.",
       "es": "Salmo de David. El Eterno es mi pastor; nada me faltará.",
       "en": "A psalm of David. G OD is my shepherd; I lack nothing.",
-      "translit_en": "Mizmor leDavid. Adonai roi lo echsar."
+      "translit_en": "Mizmor leDavid. Adonai roi lo echsar.",
+      "fr": "Psaume de David. Adonaï est mon berger ; je ne manquerai de rien.",
+      "translit_fr": "Mizmor leDavid, Adonaï roi, lo ekhsar."
     },
     {
       "num": 2,
@@ -19,7 +21,9 @@
       "translit": "Binot déshé yarbitsení; al méi menujót yenahaléni.",
       "es": "En praderas de hierba verde me hace descansar; junto a aguas de reposo me conduce.",
       "en": "[God] makes me lie down in green pastures, and leads me to water in places of repose— a water in places of repose In contrast to others “still waters.”",
-      "translit_en": "Binot deshe yarbitseni; al mei menuchot yenahaleni."
+      "translit_en": "Binot deshe yarbitseni; al mei menuchot yenahaleni.",
+      "fr": "Il me fait reposer dans de verts pâturages ; Il me conduit près des eaux paisibles.",
+      "translit_fr": "Binéot déché yarbitséni, al mé menoukhot yenahaléni."
     },
     {
       "num": 3,
@@ -28,7 +32,9 @@
       "translit": "Nafshí yeshobév; yanjéni bemaagelé tsédek lemaán shemó.",
       "es": "Restaura mi alma; me guía por sendas de justicia por amor de Su nombre.",
       "en": "renewing my life, guiding me in the right paths as befits the divine name.",
-      "translit_en": "Nafshi yeshobev; yancheni bemaagele tsedek lemaan shemo."
+      "translit_en": "Nafshi yeshobev; yancheni bemaagele tsedek lemaan shemo.",
+      "fr": "Il restaure mon âme ; Il me guide dans les sentiers de la justice à cause de Son nom.",
+      "translit_fr": "Nafchi yechovev, yankheéni bemaguélé tsédek, lemaan chemo."
     },
     {
       "num": 4,
@@ -37,7 +43,9 @@
       "translit": "Gam ki eléj beguéi tsalMávet lo irá ra; ki atá imadí; shivtejá umishanteján héma yenajamuní.",
       "es": "Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque Tú estás conmigo; Tu vara y Tu cayado me infunden aliento.",
       "en": "Though I walk through a valley of deepest darkness, b a valley of deepest darkness In contrast to others “the valley of the shadow of death.” I fear no harm, for You are with me; Your rod and Your staff—they comfort me.",
-      "translit_en": "Gam ki elech beguei tsalmavet lo ira ra; ki ata imadi; shivtecha umishantechan hema yenachamuni."
+      "translit_en": "Gam ki elech beguei tsalmavet lo ira ra; ki ata imadi; shivtecha umishantechan hema yenachamuni.",
+      "fr": "Même si je marche dans la vallée de l'ombre de la mort, je ne crains aucun mal, car Tu es avec moi ; Ta houlette et Ton bâton me réconfortent.",
+      "translit_fr": "Gam ki elékh beguéï tsalmavet, lo ira ra, ki ata imadi, chivtékha oumichaantékha hemma yenakhamouni."
     },
     {
       "num": 5,
@@ -46,7 +54,9 @@
       "translit": "Tarojt lefanáy shulján néged tsoreráy; dishánta vashémen roshí; kosí revayá.",
       "es": "Preparas mesa delante de mí en presencia de mis angustiadores; ungiste mi cabeza con aceite; mi copa está rebosando.",
       "en": "You spread a table for me in full view of my enemies; You anoint my head with oil; my drink is abundant.",
-      "translit_en": "Taaroch lefanay shulchan neged tsoreray; dishanta vashemen roshi; kosi revaya."
+      "translit_en": "Taaroch lefanay shulchan neged tsoreray; dishanta vashemen roshi; kosi revaya.",
+      "fr": "Tu dresses devant moi une table en présence de mes adversaires ; Tu oins ma tête d'huile ; ma coupe déborde.",
+      "translit_fr": "Taarokh lefanaï choulkhan neged tsoreraï, dichanta vechamén rochi, kosi revaya."
     },
     {
       "num": 6,
@@ -55,7 +65,9 @@
       "translit": "Aj tov vajésed yirdeFúni kol yeméi jayáy; veshavtí bevéit Adonái leórej yamím.",
       "es": "Ciertamente el bien y la bondad leal me seguirán todos los días de mi vida, y en la casa del Eterno moraré por largos días.",
       "en": "Only goodness and steadfast love shall pursue me all the days of my life, and I shall dwell in G OD ’s house for many long years.",
-      "translit_en": "Ach tov vachesed yirdefuni kol yemei chayay; veshavti beveit Adonai leorech yamim."
+      "translit_en": "Ach tov vachesed yirdefuni kol yemei chayay; veshavti beveit Adonai leorech yamim.",
+      "fr": "Oui, le bonheur et la grâce me suivront tous les jours de ma vie, et je demeurerai dans la maison d'Adonaï pour de longs jours.",
+      "translit_fr": "Akh tov vakéssed yirdéfouni kol ymé khaïaï, vechavateti bebet Adonaï leorekh yamim."
     }
   ],
   "ocasiones": [
