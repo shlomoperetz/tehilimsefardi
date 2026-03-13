@@ -10,7 +10,9 @@
       "translit": "Lamnatséaj liYedutún mizmór leDavíd.",
       "es": "Al director, a Yedutún. Salmo de David.",
       "en": "For the leader; for Jeduthun . A psalm of David.",
-      "translit_en": "Lamnatseach liYedutun mizmor leDavid."
+      "translit_en": "Lamnatseach liYedutun mizmor leDavid.",
+      "fr": "Au directeur, pour Yedoutoun. Psaume de David.",
+      "translit_fr": "Lamnatséaj liYedoutoun mizmor leDavid."
     },
     {
       "num": 2,
@@ -19,7 +21,9 @@
       "translit": "Amárti eshmará derajáy mejató bilshonéi; eshmará lefí majsóm beód rashá lenégdi.",
       "es": "Yo dije: Guardaré mi camino para no pecar con mi lengua; guardaré mi boca con freno en tanto que el impío esté delante de mí.",
       "en": "I resolved I would watch my step lest I offend by my speech; I would keep my mouth muzzled while the villain was in my presence.",
-      "translit_en": "Amarti eshmara derachay mechato bilshonei; eshmara lefi machsom beod rasha lenegdi."
+      "translit_en": "Amarti eshmara derachay mechato bilshonei; eshmara lefi machsom beod rasha lenegdi.",
+      "fr": "Je dis : Je garderai mes voies pour ne pas pécher avec ma langue ; je garderai ma bouche avec un frein tant que le méchant sera devant moi.",
+      "translit_fr": "Amarti echmera derakhaï mékhato bilchonei ; echmera lefi makhsom beod racha lenegdi."
     },
     {
       "num": 3,
@@ -28,7 +32,9 @@
       "translit": "Neelamtí dumiá; hejeshéiti mitóv; ujeaví neeKár.",
       "es": "Enmudecí con silencio; me callé aun respecto a lo bueno y se agravó mi dolor.",
       "en": "I was dumb, silent; I was very a very Cf. use of ṭwb in Hos. 10.1 ; Jonah 4.4 . still while my pain was intense.",
-      "translit_en": "Neelamti dumia; hechesheiti mitov; ucheavi neekar."
+      "translit_en": "Neelamti dumia; hechesheiti mitov; ucheavi neekar.",
+      "fr": "Je me tus avec silence ; je me tus même sur le bien et ma douleur s'aggrava.",
+      "translit_fr": "Neelamti doumia ; hekhécheiti mitov ; oukheavi neekar."
     },
     {
       "num": 4,
@@ -37,7 +43,9 @@
       "translit": "Jam libí bekirbí; bahaguigí tiVár esh; dibárti bilshonéi.",
       "es": "Se enardeció mi corazón dentro de mí; en mi meditación se encendió fuego y así hablé con mi lengua:",
       "en": "My mind was in a rage, my thoughts were all aflame; I spoke out:",
-      "translit_en": "Cham libi bekirbi; bahaguigi tivar esh; dibarti bilshonei."
+      "translit_en": "Cham libi bekirbi; bahaguigi tivar esh; dibarti bilshonei.",
+      "fr": "Mon cœur s'enflamma en moi ; dans ma méditation un feu s'alluma et je parlai avec ma langue :",
+      "translit_fr": "Kham libi bekirbi ; bahaguigi tivar ech ; dibarti bilchonei."
     },
     {
       "num": 5,
@@ -46,7 +54,9 @@
       "translit": "Hodíeni Adonái kitsí; umidat yamáy ma hí; edá me jadél aní.",
       "es": "Hazme saber, Eterno, mi fin y cuánta sea la medida de mis días; sepa yo cuán frágil soy.",
       "en": "Tell me, O E TERNAL One, what my term is, what is the measure of my days; I would know how fleeting my life is.",
-      "translit_en": "Hodieni Adonai kitsi; umidat yamay ma hi; eda me chadel ani."
+      "translit_en": "Hodieni Adonai kitsi; umidat yamay ma hi; eda me chadel ani.",
+      "fr": "Fais-moi savoir, Éternel, ma fin et quelle est la mesure de mes jours ; que je sache combien je suis fragile.",
+      "translit_fr": "Hodiéni Adonaï kitsi ; oumidat yamaï ma hi ; eda me khadel ani."
     },
     {
       "num": 6,
@@ -55,7 +65,9 @@
       "translit": "Hiné tefajót natáta yamáy; vejeldí jeáyin négdeja; aj kol hével kol adám nitsáv. Selá.",
       "es": "He aquí, diste a mis días una medida breve y mi existencia es como nada delante de Ti; ciertamente es completa vanidad todo hombre que está en pie. Selá.",
       "en": "You have made my life just handbreadths long; its span is as nothing in Your sight; no human endures any longer than a breath. b no human endures any longer than a breath Meaning of Heb. uncertain. Selah.",
-      "translit_en": "Hine tefachot natata yamay; vecheldi cheayin negdecha; ach kol hevel kol adam nitsav. Sela."
+      "translit_en": "Hine tefachot natata yamay; vecheldi cheayin negdecha; ach kol hevel kol adam nitsav. Sela.",
+      "fr": "Voici, Tu as donné à mes jours une courte mesure et mon existence est comme rien devant Toi ; certes, toute vanité est tout homme qui se tient debout. Séla.",
+      "translit_fr": "Hiné tefakhot natata yamaï ; vekheldi kheaïn négdékha ; akh kol hevel kol adam nitsav. Séla."
     },
     {
       "num": 7,
@@ -64,7 +76,9 @@
       "translit": "Aj betselem yithaléj ísh; aj hével yehemayún; yitsbór veló yadá mi osefám.",
       "es": "Ciertamente como sombra camina el hombre; ciertamente en vano se afana; amontona riquezas y no sabe quién las recogerá.",
       "en": "Everyone walks about as a mere shadow; mere futility is their hustle and bustle, amassing and not knowing who will gather in.",
-      "translit_en": "Ach betselem yithalech ish; ach hevel yehemayun; yitsbor velo yada mi osefam."
+      "translit_en": "Ach betselem yithalech ish; ach hevel yehemayun; yitsbor velo yada mi osefam.",
+      "fr": "Certes, comme une ombre l'homme va et vient ; certes, en vain ils s'agitent ; il accumule des richesses sans savoir qui les recueillera.",
+      "translit_fr": "Akh betselem yithalékh ich ; akh hevel yehemaïoun ; yitsbor velo yada mi osefam."
     },
     {
       "num": 8,
@@ -73,7 +87,9 @@
       "translit": "Veatá ma kivíti; Adonái tojaltí lejá hí.",
       "es": "Y ahora, Señor, ¿qué esperaré? Mi esperanza está en Ti.",
       "en": "What, then, can I count on, O my Sovereign? In You my hope lies.",
-      "translit_en": "Veata ma kiviti; Adonai tochalti lecha hi."
+      "translit_en": "Veata ma kiviti; Adonai tochalti lecha hi.",
+      "fr": "Et maintenant, Seigneur, qu'est-ce que j'attends ? Mon espoir est en Toi.",
+      "translit_fr": "Veata ma kiviti ; Adonaï tokhAlti lékha hi."
     },
     {
       "num": 9,
@@ -82,7 +98,9 @@
       "translit": "Mikól feshaáy hatsiléni; jerpát navál al tesimeni.",
       "es": "Líbrame de todas mis transgresiones; no me pongas por escarnio del necio.",
       "en": "Deliver me from all my transgressions; make me not the butt of the benighted.",
-      "translit_en": "Mikol feshaay hatsileni; cherpat naval al tesimeni."
+      "translit_en": "Mikol feshaay hatsileni; cherpat naval al tesimeni.",
+      "fr": "Délivre-moi de toutes mes transgressions ; ne fais pas de moi l'objet du mépris de l'insensé.",
+      "translit_fr": "Mikol féchaai hatsiléni ; kherPat naval al tésiméni."
     },
     {
       "num": 10,
@@ -91,7 +109,9 @@
       "translit": "Neelamtí lo eftáj fí; ki atá asíta.",
       "es": "Enmudecí, no abrí mi boca, porque Tú lo hiciste.",
       "en": "I am dumb, I do not speak up, for it is Your doing.",
-      "translit_en": "Neelamti lo eftach fi; ki ata asita."
+      "translit_en": "Neelamti lo eftach fi; ki ata asita.",
+      "fr": "Je me suis tu, je n'ai pas ouvert la bouche, car c'est Toi qui l'as fait.",
+      "translit_fr": "Neelamti lo eftakh fi ; ki ata asita."
     },
     {
       "num": 11,
@@ -100,7 +120,9 @@
       "translit": "Hasér meaálay nigéja; mitigrat yadejá aní jalíti.",
       "es": "Quita de sobre mí Tu plaga; estoy consumido bajo los golpes de Tu mano.",
       "en": "Take away Your plague from me; I perish from Your blows.",
-      "translit_en": "Haser meaalay nigecha; mitigrat yadecha ani kaliti."
+      "translit_en": "Haser meaalay nigecha; mitigrat yadecha ani kaliti.",
+      "fr": "Retire de moi Ta plaie ; je suis consumé sous les coups de Ta main.",
+      "translit_fr": "Haséer mealaï nigékha ; mitigrat yadékha ani khaliti."
     },
     {
       "num": 12,
@@ -109,7 +131,9 @@
       "translit": "Betojajót al avón yisárta ish; vatémes kash jamudó; aj hével kol adám. Selá.",
       "es": "Con castigos por el pecado corriges al hombre y deshaces como polilla lo que él amaba; ciertamente vanidad es todo hombre. Selá.",
       "en": "You chastise everyone in punishment for sin, consuming like a moth what they treasure. No human is more than a breath. Selah.",
-      "translit_en": "Betochachot al avon yisarta ish; vatemes kash chamudo; ach hevel kol adam. Sela."
+      "translit_en": "Betochachot al avon yisarta ish; vatemes kash chamudo; ach hevel kol adam. Sela.",
+      "fr": "Par des châtiments pour l'iniquité Tu corriges l'homme et Tu dissous comme une teigne ce qu'il chérit ; certes, vanité est tout homme. Séla.",
+      "translit_fr": "Betokhakhot al avon yisarta ich ; vatémes kach khamoudo ; akh hevel kol adam. Séla."
     },
     {
       "num": 13,
@@ -118,7 +142,9 @@
       "translit": "Shimá tefilatí Adonái; veshaavatí haazíná; el dimeatí al tejérash; ki gér anojí imejá; tosháv jejol avotáy.",
       "es": "Oye mi oración, Eterno, y escucha mi clamor; no calles ante mis lágrimas; porque peregrino soy para Ti y advenedizo como todos mis padres.",
       "en": "Hear my prayer, O E TERNAL One; give ear to my cry; do not disregard my tears; for like all my forebears I am an alien, resident with You.",
-      "translit_en": "Shima tefilati Adonai; veshaavati haazina; el dimeati al techerash; ki ger anochi imecha; toshav chechol avotay."
+      "translit_en": "Shima tefilati Adonai; veshaavati haazina; el dimeati al techerash; ki ger anochi imecha; toshav chechol avotay.",
+      "fr": "Entends ma prière, Éternel, et prête l'oreille à mon cri ; ne reste pas sourd à mes larmes ; car je suis un étranger chez Toi, un passager comme tous mes pères.",
+      "translit_fr": "Chima tefilati Adonaï ; vechaavati haazina ; el dimAti al tekhérach ; ki ger anokhi imékha ; tochav khekhol avotaï."
     },
     {
       "num": 14,
@@ -127,7 +153,9 @@
       "translit": "Hasháa miméni veavligá; béterem eléj veenéni.",
       "es": "Aparta de mí Tu mirada para que yo me alivie, antes que me vaya y no exista más.",
       "en": "Look away from me, that I may recover, c that I may recover Meaning of Heb. uncertain. before I pass away and am gone.",
-      "translit_en": "Hashaa mimeni veavliga; beterem elech veeneni."
+      "translit_en": "Hashaa mimeni veavliga; beterem elech veeneni.",
+      "fr": "Détourne Ton regard de moi pour que je me rétablisse, avant que je parte et ne sois plus.",
+      "translit_fr": "Hachaa miméni veAvliga ; béterem eléikh veenéni."
     }
   ],
   "ocasiones": [],
