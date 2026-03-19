@@ -7,7 +7,7 @@
       "num": 1,
       "he": "לַמְנַצֵּחַ שִׁיר מִזְמוֹר הָרִיעוּ לֵאלֹהִים כָּל הָאָרֶץ׃",
       "he_plain": "למנצח שיר מזמור הריעו לאלהים כל הארץ",
-      "translit": "Lamnatséaj shír mizmór. Harí u leElohím kol haárets.",
+      "translit": "Lamnatséaj shír mizmór. Hariú leElohím kol haárets.",
       "es": "Al director. Cántico. Salmo. Aclamad a Dios con júbilo toda la tierra.",
       "en": "For the leader. A song. A psalm. Raise a shout for God, all the earth;",
       "translit_en": "Lamnatseach shir mizmor. Hariu leElohim kol haarets."
@@ -52,7 +52,7 @@
       "num": 6,
       "he": "הָפַךְ יָם לְיַבָּשָׁה בַּנָּהָר יַעַבְרוּ בְרָגֶל שָׁם נִשְׂמְחָה בּוֹ׃",
       "he_plain": "הפך ים ליבשה בנהר יעברו ברגל שם נשמחה בו",
-      "translit": "Hafáj yám leyabaShá; baNahár yaavRú veráGel; shám nismeJá bo.",
+      "translit": "Hafáj yám leyabashá; banahár yaavrú verágel; shám nismejá bo.",
       "es": "Volvió el mar en seco; por el río pasaron a pie; allí nos alegramos en Él.",
       "en": "and who turned the sea into dry land: Israel a Israel Heb. “they”; cf. Josh. 4.23 . crossed the river on foot; we therefore rejoice in [God].",
       "translit_en": "Hafach yam leyabasha; banahar yaavru veragel; sham nismecha bo."
@@ -61,7 +61,7 @@
       "num": 7,
       "he": "מֹשֵׁל בִּגְבוּרָתוֹ עוֹלָם עֵינָיו בַּגּוֹיִם תִּצְפֶּינָה הַסּוֹרְרִים אַל יָרוּמוּ לָמוֹ סֶלָה׃",
       "he_plain": "מושל בגבורתו עולם עיניו בגוים תצפינה הסוררים אל ירומו למו סלה",
-      "translit": "Moshél bigvurató olám; eináv baGoyím titspeíná; hasoreRím al yarúmu lámo. Selá.",
+      "translit": "Moshél bigvurató olám; eináv bagoyím titspeíná; hasorerím al yarúmu lámo. Selá.",
       "es": "Él señorea con Su poder para siempre; Sus ojos atalayan sobre las naciones; los rebeldes no se enaltezcan. Selá.",
       "en": "[God] rules forever with divine might, eyes scanning the nations— not letting the rebellious assert themselves. Selah.",
       "translit_en": "Moshel bigvurato olam; einav bagoyim titspeina; hasorerim al yarumu lamo. Sela."
@@ -70,7 +70,7 @@
       "num": 8,
       "he": "בָּרְכוּ עַמִּים אֱלֹהֵינוּ וְהַשְׁמִיעוּ קוֹל תְּהִלָּתוֹ׃",
       "he_plain": "ברכו עמים אלהינו והשמיעו קול תהלתו",
-      "translit": "Barejú amím Elohéinu; veHashmíu kól tehilató.",
+      "translit": "Barejú amím Elohéinu; vehashmíu kól tehilató.",
       "es": "Bendecid, pueblos, a nuestro Dios y haced oír la voz de Su alabanza.",
       "en": "O peoples, bless our God; celebrate with praises",
       "translit_en": "Barechu amim Eloheinu; vehashmiu kol tehilato."
@@ -79,7 +79,7 @@
       "num": 9,
       "he": "הַשָּׂם נַפְשֵׁנוּ בַּחַיִּים וְלֹא נָתַן לַמּוֹט רַגְלֵנוּ׃",
       "he_plain": "השם נפשנו בחיים ולא נתן למוט רגלנו",
-      "translit": "Hasám nafshénu baJayím; veló natán lamót raglénu.",
+      "translit": "Hasám nafshénu bajayím; veló natán lamót raglénu.",
       "es": "Él es quien puso nuestra alma en vida y no permitió que nuestros pies resbalasen.",
       "en": "the One who has granted us life, and has not let our feet slip.",
       "translit_en": "Hasam nafshenu bachayim; velo natan lamot raglenu."
@@ -97,7 +97,7 @@
       "num": 11,
       "he": "הֲבֵאתָנוּ בַמְּצוּדָה שַׂמְתָּ מוּעָקָה בְמָתְנֵינוּ׃",
       "he_plain": "הבאתנו במצודה שמת מועקה במתנינו",
-      "translit": "Haveátanu bametsudá; samtá muaká bemotNéinu.",
+      "translit": "Haveátanu bametsudá; samtá muaká bemotnéinu.",
       "es": "Nos metiste en la red; pusiste sobre nuestros lomos pesada carga.",
       "en": "You have caught us in a net, caught us in trammels. b caught us in trammels Lit. “put a trammel on our loins.”",
       "translit_en": "Haveatanu bametsuda; samta muaka bemotneinu."
@@ -106,7 +106,7 @@
       "num": 12,
       "he": "הִרְכַּבְתָּ אֱנוֹשׁ לְרֹאשֵׁנוּ בָּאנוּ בָאֵשׁ וּבַמַּיִם וַתּוֹצִיאֵנוּ לָרְוָיָה׃",
       "he_plain": "הרכבת אנוש לראשנו באנו באש ובמים ותוציאנו לרויה",
-      "translit": "Hirkávta enósh leroshénu; bánu vaésh uvaMáyim; vatotsiénu larváyah.",
+      "translit": "Hirkávta enósh leroshénu; bánu vaésh uvamáyim; vatotsiénu larváyah.",
       "es": "Hiciste cabalgar hombres sobre nuestra cabeza; pasamos por el fuego y por el agua y nos sacaste a abundancia.",
       "en": "You have let people ride over us; we have endured fire and water, and You have brought us through to prosperity.",
       "translit_en": "Hirkavta enosh leroshenu; banu vaesh uvamayim; vatotsienu larvayah."
@@ -133,7 +133,7 @@
       "num": 15,
       "he": "עֹלוֹת מֵחִים אַעֲלֶה לָּךְ עִם קְטֹרֶת אֵילִים אֶעֱשֶׂה בָקָר עִם עַתּוּדִים סֶלָה׃",
       "he_plain": "עולות מחים אעלה לך עם קטרת אילים אעשה בקר עם עתודים סלה",
-      "translit": "Olót mejím aaLéh laj; im ketoRét eilím; aaséh bakár im atudím. Selá.",
+      "translit": "Olót mejím aaléh laj; im ketorét eilím; aaséh bakár im atudím. Selá.",
       "es": "Holocaustos de animales engordados te ofreceré con sahumerio de carneros; haré ofrenda de bueyes con machos cabríos. Selá.",
       "en": "I offer up fatlings to You, with the odor of burning rams; I sacrifice bulls and he-goats. Selah.",
       "translit_en": "Olot mechim aaleh lach; im ketoret eilim; aaseh bakar im atudim. Sela."
@@ -142,7 +142,7 @@
       "num": 16,
       "he": "לְכוּ שִׁמְעוּ וַאֲסַפְּרָה כָּל יִרְאֵי אֱלֹהִים אֲשֶׁר עָשָׂה לְנַפְשִׁי׃",
       "he_plain": "לכו שמעו ואספרה כל יראי אלהים אשר עשה לנפשי",
-      "translit": "Lejú shimú vaasapeRá; kol yirEéi Elohím; ashér asá lenafshí.",
+      "translit": "Lejú shimú vaasaperá; kol yiréei Elohím; ashér asá lenafshí.",
       "es": "Venid, escuchad todos los que teméis a Dios y contaré lo que ha hecho por mi alma.",
       "en": "Come and hear, all you who fear God, as I tell what was done for me.",
       "translit_en": "Lechu shimu vaasapera; kol yireei Elohim; asher asa lenafshi."
@@ -151,7 +151,7 @@
       "num": 17,
       "he": "אֵלָיו פִּי קָרָאתִי וְרוֹמַם תַּחַת לְשׁוֹנִי׃",
       "he_plain": "אליו פי קראתי ורומם תחת לשוני",
-      "translit": "Eláv pí karáti; veromám táJat leshonéi.",
+      "translit": "Eláv pí karáti; veromám tájat leshonéi.",
       "es": "A Él clamé con mi boca y fue exaltado con mi lengua.",
       "en": "I called aloud to [God], glorification on my tongue.",
       "translit_en": "Elav pi karati; veromam tachat leshonei."

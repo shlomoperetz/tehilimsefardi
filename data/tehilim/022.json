@@ -18,7 +18,7 @@
       "num": 2,
       "he": "אֵלִי אֵלִי לָמָה עֲזַבְתָּנִי רָחוֹק מִישׁוּעָתִי דִּבְרֵי שַׁאֲגָתִי׃",
       "he_plain": "אלי אלי למה עזבתני רחוק מישועתי דברי שאגתי",
-      "translit": "Elí Elí lamá azavtáni; rajók mishuat í divréi shaagati.",
+      "translit": "Elí Elí lamá azavtáni; rajók mishuatí divréi shaagati.",
       "es": "Dios mío, Dios mío, ¿por qué me has abandonado? ¿Por qué estás lejos de mi salvación, de las palabras de mi clamor?",
       "en": "My God, my God, why have You abandoned me; why so far from delivering me and from my anguished roaring?",
       "translit_en": "Eli Eli lama azavtani; rachok mishuati divrei shaagati.",
@@ -78,7 +78,7 @@
       "en": "But I am a worm, less than human; c less than human Or “inconsequential.” scorned by everyone, despised by people.",
       "translit_en": "Veanocha tolaat velo ish; cherpat adam uvezuy am.",
       "fr": "Mais moi je suis un ver et non un homme, l'opprobre des hommes et le méprisé du peuple.",
-      "translit_fr": "Veanokhhi tola velo ich, kherFat adam ouvzoui am."
+      "translit_fr": "Veanokhhi tola velo ich, kherfat adam ouvzoui am."
     },
     {
       "num": 8,
@@ -161,7 +161,7 @@
       "num": 15,
       "he": "כַּמַּיִם נִשְׁפַּכְתִּי וְהִתְפָּרְדוּ כָּל עַצְמוֹתָי הָיָה לִבִּי כַּדּוֹנָג נָמֵס בְּתוֹךְ מֵעָי׃",
       "he_plain": "כמים נשפכתי והתפרדו כל עצמותי היה לבי כדונג נמס בתוך מעי",
-      "translit": "Kamáyim nishpáj ti; vehitparedú kol atsmotáy; hayá libí kadónagg namés betój meáy.",
+      "translit": "Kamáyim nishpájti; vehitparedú kol atsmotáy; hayá libí kadónagg namés betój meáy.",
       "es": "Fui derramado como agua y todos mis huesos se descoyuntaron; mi corazón fue como cera, derritiéndose en medio de mis entrañas.",
       "en": "My life ebbs away: f My life ebbs away Lit. “I am poured out like water.” all my bones are disjointed; my heart is like wax, melting within me;",
       "translit_en": "Kamayim nishpachti; vehitparedu kol atsmotay; haya libi kadonag names betoch meay.",
@@ -172,7 +172,7 @@
       "num": 16,
       "he": "יָבֵשׁ כַּחֶרֶשׂ כֹּחִי וּלְשׁוֹנִי מֻדְבָּק מַלְקוֹחָי וְלַעֲפַר מָוֶת תִּשְׁפְּתֵנִי׃",
       "he_plain": "יבש כחרש כחי ולשוני מדבק מלקוחי ולעפר מות תשפתני",
-      "translit": "Yavésh kajerésh kojí; ulshonéi mudBák malkojáy; velaafár mávet tishpeténi.",
+      "translit": "Yavésh kajerésh kojí; ulshonéi mudbák malkojáy; velaafár mávet tishpeténi.",
       "es": "Mi fuerza se secó como un tiesto; mi lengua se pegó a mi paladar; y me has puesto en el polvo de la muerte.",
       "en": "my vigor dries up like a shard; my tongue cleaves to my palate; You commit me to the dust of death.",
       "translit_en": "Yavesh kacheresh kochi; ulshonei mudbak malkochay; velaafar mavet tishpeteni.",
@@ -210,7 +210,7 @@
       "en": "They divide my clothes among themselves, casting lots for my garments.",
       "translit_en": "Yechalku vegaday lahem; veal levushi yapilu goral.",
       "fr": "Ils se partagent mes vêtements et jettent le sort sur mon habit.",
-      "translit_fr": "Yekhalkeou veguadaï lahem, veal levouché yapiloU goral."
+      "translit_fr": "Yekhalkeou veguadaï lahem, veal levouché yapilou goral."
     },
     {
       "num": 20,
@@ -232,7 +232,7 @@
       "en": "Save my life from the sword, my precious life h precious life Lit. “only one.” from the clutches of a dog.",
       "translit_en": "Hatsilah mecherev nafshi; miyad kelev yechidati.",
       "fr": "Délivre mon âme de l'épée, ma vie unique de la patte du chien.",
-      "translit_fr": "HatsilaH mekhérev nafchi, miyad kélev yekhhidati."
+      "translit_fr": "Hatsilah mekhérev nafchi, miyad kélev yekhhidati."
     },
     {
       "num": 22,
@@ -265,7 +265,7 @@
       "en": "You who fear G OD , give praise! All you offspring of Jacob, show honor! Be in dread, all you offspring of Israel!",
       "translit_en": "Yireei Adonai haleluhu; kol zera Yaakov kabeduhu; veguuru mimenu kol zera Yisrael.",
       "fr": "Vous qui craignez Adonaï, louez-Le ; toute la postérité de Yaakov, glorifiez-Le ; et redoutez-Le, toute la postérité d'Israël.",
-      "translit_fr": "Yiré Adonaï halellouhou, kol zera Yaakov kabedouhou, veguourou mimmenOU kol zera Israël."
+      "translit_fr": "Yiré Adonaï halellouhou, kol zera Yaakov kabedouhou, veguourou mimmenou kol zera Israël."
     },
     {
       "num": 25,
@@ -276,7 +276,7 @@
       "en": "For [God] did not scorn, and did not spurn, the plea j plea Or “plight.” of anyone lowly; [God] did not turn away k turn away Lit. “hide His face.” from them; when they cried out, [God] listened.",
       "translit_en": "Ki lo vaza velo shikats enut ani; velo histir panav mimenu; uveshavo elav shamaa.",
       "fr": "Car Il n'a pas méprisé ni rejeté l'affliction du malheureux, et Il ne lui a pas caché Sa face ; mais quand il a crié vers Lui, Il l'a exaucé.",
-      "translit_fr": "Ki lo vaza velo chikats anat ani, velo histir panaïv mimmenOU, ouvechovaou elaïv chama."
+      "translit_fr": "Ki lo vaza velo chikats anat ani, velo histir panaïv mimmenou, ouvechovaou elaïv chama."
     },
     {
       "num": 26,
@@ -298,7 +298,7 @@
       "en": "Let the lowly eat and be satisfied; let all who seek G OD give praise. Always be of good cheer!",
       "translit_en": "Yochlu anavim veyisbau; yehalelu Adonai dorshav; yechi levavchem laad.",
       "fr": "Les humbles mangeront et seront rassasiés ; ceux qui cherchent Adonaï Le loueront ; que votre cœur vive à jamais !",
-      "translit_fr": "Yokhloou anaviim veyisbéou, yehalleloU Adonaï dorechav, yekhi levavkhém laad."
+      "translit_fr": "Yokhloou anaviim veyisbéou, yehallelou Adonaï dorechav, yekhi levavkhém laad."
     },
     {
       "num": 28,
@@ -309,7 +309,7 @@
       "en": "Let all the ends of the earth pay heed and turn to G OD , and the peoples of all nations prostrate themselves before You;",
       "translit_en": "Yizkeru veyashuvu el Adonai kol afsei arets; veyishtachavu lefaneicha kol mishpechot goyim.",
       "fr": "Tous les bouts de la terre se souviendront et se tourneront vers Adonaï ; et toutes les familles des nations se prosterneront devant Toi.",
-      "translit_fr": "Yizkerou veyachouvoU el Adonaï kol afssé arets, veyichtakhavoU lefanékha kol michpehkot goyim."
+      "translit_fr": "Yizkerou veyachouvou el Adonaï kol afssé arets, veyichtakhavou lefanékha kol michpehkot goyim."
     },
     {
       "num": 29,
@@ -326,12 +326,12 @@
       "num": 30,
       "he": "אָכְלוּ וַיִּשְׁתַּחֲווּ כָּל דִּשְׁנֵי אֶרֶץ לְפָנָיו יִכְרְעוּ כָּל יוֹרְדֵי עָפָר וְנַפְשׁוֹ לֹא חִיָּה׃",
       "he_plain": "אכלו וישתחוו כל דשני ארץ לפניו יכרעו כל יורדי עפר ונפשו לא חיה",
-      "translit": "Ajlú vayishtajavu kol dishnéi érets; lefanáv yijreú kol yoredéi afár veNafshó lo jiá.",
+      "translit": "Ajlú vayishtajavu kol dishnéi érets; lefanáv yijreú kol yoredéi afár venafshó lo jiá.",
       "es": "Ante Él se postrarán todos los prósperos de la tierra; ante Él se doblarán todos los que descienden al polvo, el que no puede conservar su alma.",
       "en": "m Meaning of verse uncertain; in contrast to others “All the fat ones of the earth shall eat and worship; / All they that go down to the dust shall kneel before Him, / Even he that cannot keep his soul alive.” All those in full vigor shall eat and prostrate themselves; all those at death’s door, whose spirits flag, shall bend the knee in submission.",
       "translit_en": "Achlu vayishtachavu kol dishnei erets; lefanav yichreu kol yoredei afar venafasho lo chia.",
       "fr": "Devant Lui se prosterneront tous les gras de la terre ; devant Lui se courberont tous ceux qui descendent dans la poussière, et celui qui ne peut conserver son âme.",
-      "translit_fr": "Akhlou veichtakhavoU kol dichné arets, lefanaïv yikhreou kol yordé afar, venafcho lo khiya."
+      "translit_fr": "Akhlou veichtakhavou kol dichné arets, lefanaïv yikhreou kol yordé afar, venafcho lo khiya."
     },
     {
       "num": 31,

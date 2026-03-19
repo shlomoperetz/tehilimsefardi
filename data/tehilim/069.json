@@ -43,7 +43,7 @@
       "num": 5,
       "he": "רַבּוּ מִשַּׂעֲרוֹת רֹאשִׁי שֹׂנְאַי חִנָּם עָצְמוּ מַצְמִיתַי אֹיְבַי שֶׁקֶר אֲשֶׁר לֹא גָזַלְתִּי אָז אָשִׁיב׃",
       "he_plain": "רבו משערות ראשי שונאי חנם עצמו מצמיתי אויבי שקר אשר לא גזלתי אז אשיב",
-      "translit": "Rabú misaRót roshí sonéai jinám; atsemú matsmitáy oyeváy shéker; ashér lo gazálti az ashív.",
+      "translit": "Rabú misarót roshí sonéai jinám; atsemú matsmitáy oyeváy shéker; ashér lo gazálti az ashív.",
       "es": "Se han multiplicado más que los cabellos de mi cabeza los que me aborrecen sin causa; se han hecho poderosos mis enemigos los que me destruyen con mentira; lo que no robé entonces lo tuve que devolver.",
       "en": "More numerous than the hairs of my head are those who hate me without reason; many are those who would destroy me, my treacherous enemies. Must I restore what I have not stolen?",
       "translit_en": "Rabu misarot roshi soneai chinam; atsemu matsmitay oyevay sheker; asher lo gazalti az ashiv."
@@ -52,7 +52,7 @@
       "num": 6,
       "he": "אֱלֹהִים אַתָּה יָדַעְתָּ לְאִוַּלְתִּי וְאַשְׁמוֹתַי מִמְּךָ לֹא נִכְחָדוּ׃",
       "he_plain": "אלהים אתה ידעת לאולתי ואשמותי ממך לא נכחדו",
-      "translit": "Elohím atá yadáata leavalTí; veashMotáy mimejá lo nijjadú.",
+      "translit": "Elohím atá yadáata leavaltí; veashmotáy mimejá lo nijjadú.",
       "es": "Oh Dios, Tú conoces mi insensatez y mis culpas no Te son ocultas.",
       "en": "God, You know my folly; my guilty deeds are not hidden from You.",
       "translit_en": "Elohim ata yadaata leavalti; veashmotay mimecha lo nichchadu."
@@ -61,7 +61,7 @@
       "num": 7,
       "he": "אַל יֵבֹשׁוּ בִי קֹוֶיךָ אֲדֹנָי יְהוִה צְבָאוֹת אַל יִכָּלְמוּ בִי מְבַקְשֶׁיךָ אֱלֹהֵי יִשְׂרָאֵל׃",
       "he_plain": "אל יבושו בי קוויך אדני יהוה צבאות אל יכלמו בי מבקשיך אלהי ישראל",
-      "translit": "Al yevoshú vi kovéija Adonái Elohím tsvaót; al yikalemú vi mevaKshéija Elohéi Yisraél.",
+      "translit": "Al yevoshú vi kovéija Adonái Elohím tsvaót; al yikalemú vi mevakshéija Elohéi Yisraél.",
       "es": "Que no sean avergonzados por causa mía los que en Ti esperan, Señor Eterno de los ejércitos; que no sean confundidos por mí los que te buscan, oh Dios de Israel.",
       "en": "Let those who look to You, O my Sovereign, G OD of hosts, not be disappointed on my account; let those who seek You, O God of Israel, not be shamed because of me.",
       "translit_en": "Al yevoshu vi koveicha Adonai Elohim tsvaot; al yikalemu vi mevaksheicha Elohei Yisrael."
@@ -70,7 +70,7 @@
       "num": 8,
       "he": "כִּי עָלֶיךָ נָשָׂאתִי חֶרְפָּה כִּסְּתָה כְלִמָּה פָנָי׃",
       "he_plain": "כי עליך נשאתי חרפה כסתה כלמה פני",
-      "translit": "Ki aléija nasáti jerPá; kiseTá jelimá fanáy.",
+      "translit": "Ki aléija nasáti jerpá; kisetá jelimá fanáy.",
       "es": "Porque por causa de Ti he llevado afrenta; la vergüenza ha cubierto mi rostro.",
       "en": "It is for Your sake that I have been reviled, that shame covers my face;",
       "translit_en": "Ki aleicha nasati cherpa; kiseta chelima fanay."
@@ -79,7 +79,7 @@
       "num": 9,
       "he": "מוּזָר הָיִיתִי לְאֶחָי וְנָכְרִי לִבְנֵי אִמִּי׃",
       "he_plain": "מוזר הייתי לאחי ונכרי לבני אמי",
-      "translit": "Muzár hayíti leajáy; vejnokRí livnéi imí.",
+      "translit": "Muzár hayíti leajáy; vejnokrí livnéi imí.",
       "es": "Extraño me he vuelto para mis hermanos y forastero para los hijos de mi madre.",
       "en": "I am a stranger to my kin, an alien to my own siblings.",
       "translit_en": "Muzar hayiti leachay; vechnokRi livnei imi."
@@ -115,7 +115,7 @@
       "num": 13,
       "he": "יָשִׂיחוּ בִי יֹשְׁבֵי שָׁעַר וּנְגִינוֹת שׁוֹתֵי שֵׁכָר׃",
       "he_plain": "ישיחו בי יושבי שער ונגינות שותי שכר",
-      "translit": "YaSíju vÍ yoshvéi shaar; uneguinót shotéi shejár.",
+      "translit": "Yasíju ví yoshvéi shaar; uneguinót shotéi shejár.",
       "es": "Hablaban contra mí los que se sentaban a la puerta y era yo el cantar de los que bebían licor.",
       "en": "Those who sit in the gate talk about me; I am the taunt of drunkards.",
       "translit_en": "Yasichu vi yoshvei shaar; uneguinot shotei shechar."
@@ -142,7 +142,7 @@
       "num": 16,
       "he": "אַל תִּשְׁטְפֵנִי שִׁבֹּלֶת מַיִם וְאַל תִּבְלָעֵנִי מְצוּלָה וְאַל תֶּאְטַר עָלַי בְּאֵר פִּיהָ׃",
       "he_plain": "אל תשטפני שבולת מים ואל תבלעני מצולה ואל תאטר עלי באר פיה",
-      "translit": "Al tishtefEni shibólet máyim; veal tivlaéni metsulá; veal teaTár aláy beer píha.",
+      "translit": "Al tishtefeni shibólet máyim; veal tivlaéni metsulá; veal teatár aláy beer píha.",
       "es": "No me arrebate la corriente de las aguas ni me trague el abismo ni el pozo cierre sobre mí su boca.",
       "en": "Let the floodwaters not sweep me away; let the deep not swallow me; let the mouth of the Pit not close over me.",
       "translit_en": "Al tishtefeni shibolet mayim; veal tivlaeni metsula; veal teaTar alay beer piha."
@@ -169,7 +169,7 @@
       "num": 19,
       "he": "קָרְבָה אֶל נַפְשִׁי גְאָלָהּ לְמַעַן אֹיְבַי פְּדֵנִי׃",
       "he_plain": "קרבה אל נפשי גאלה למען אויבי פדני",
-      "translit": "Korvá el nafshí geaLáh; lemaán oyeváy pedéni.",
+      "translit": "Korvá el nafshí gealáh; lemaán oyeváy pedéni.",
       "es": "Acércate a mi alma y redímela; líbrame a causa de mis enemigos.",
       "en": "Come near to me and redeem me; free me from my enemies.",
       "translit_en": "Korva el nafshi gealah; lemaan oyevay pedeni."
@@ -178,7 +178,7 @@
       "num": 20,
       "he": "אַתָּה יָדַעְתָּ חֶרְפָּתִי וּבָשְׁתִּי וּכְלִמָּתִי נֶגְדְּךָ כָּל צוֹרְרָי׃",
       "he_plain": "אתה ידעת חרפתי ובושתי וכלמתי נגדך כל צוררי",
-      "translit": "Atá yadáata jerpatí uvushTí ujlimaTí; negdejá kol tsorerái.",
+      "translit": "Atá yadáata jerpatí uvushtí ujlimatí; negdejá kol tsorerái.",
       "es": "Tú conoces mi afrenta y mi vergüenza y mi deshonra; delante de Ti están todos mis adversarios.",
       "en": "You know my reproach, my shame, my disgrace; You are aware of all my foes.",
       "translit_en": "Ata yadaata cherpati uvushti uchlimati; negdecha kol tsorerai."
@@ -187,7 +187,7 @@
       "num": 21,
       "he": "חֶרְפָּה שָׁבְרָה לִבִּי וָאָנוּשָׁה וָאֲקַוֶּה לָנוּד וָאַיִן וְלַמְנַחֲמִים וְלֹא מָצָאתִי׃",
       "he_plain": "חרפה שברה לבי ואנושה ואקוה לנוד ואין ולמנחמים ולא מצאתי",
-      "translit": "JerPá shaveRá libí vaanushá; vaakavéh lanód vaáyin; velamenaJemím veló matsáti.",
+      "translit": "jerpá shaverá libí vaanushá; vaakavéh lanód vaáyin; velamenajemím veló matsáti.",
       "es": "La afrenta ha quebrantado mi corazón y estoy acongojado; esperé compasión y no la hubo y consoladores y ninguno hallé.",
       "en": "Reproach breaks my heart, I am in despair; b in despair Meaning of Heb. uncertain. I hope for consolation, but there is none, for comforters, but find none.",
       "translit_en": "Cherpa shavera libi vaanusha; vaakaveh lanod vaayin; velamenachemim velo matsati."
@@ -196,7 +196,7 @@
       "num": 22,
       "he": "וַיִּתְּנוּ בְּבָרוּתִי רֹאשׁ וְלִצְמָאִי יַשְׁקוּנִי חֹמֶץ׃",
       "he_plain": "ויתנו בברותי ראש ולצמאי ישקוני חומץ",
-      "translit": "Vayiténu bevarúti rosh; velitsmaTí yashkúni jómets.",
+      "translit": "Vayiténu bevarúti rosh; velitsmati yashkúni jómets.",
       "es": "Me pusieron además veneno en la comida y en mi sed me dieron a beber vinagre.",
       "en": "They give me gall for food, vinegar to quench my thirst.",
       "translit_en": "Vayitenu bevaruti rosh; velitsmati yashkuni chomets."
@@ -205,7 +205,7 @@
       "num": 23,
       "he": "יְהִי שֻׁלְחָנָם לִפְנֵיהֶם לְפָח וְלִשְׁלוֹמִים לְמוֹקֵשׁ׃",
       "he_plain": "יהי שולחנם לפניהם לפח ולשלומים למוקש",
-      "translit": "Yehí shuljanám lifnéihem lefáj; velishloMím lemokésh.",
+      "translit": "Yehí shuljanám lifnéihem lefáj; velishlomím lemokésh.",
       "es": "Sea su mesa delante de ellos por lazo y lo que es para bien por trampa.",
       "en": "May their table be a trap for them, a snare for their allies.",
       "translit_en": "Yehi shulchanam lifneihem lefach; velishlomim lemokesh."
@@ -214,7 +214,7 @@
       "num": 24,
       "he": "תֶּחְשַׁכְנָה עֵינֵיהֶם מֵרְאוֹת וּמָתְנֵיהֶם תָּמִיד הַמְעַד׃",
       "he_plain": "תחשכנה עיניהם מראות ומתניהם תמיד המעד",
-      "translit": "TejshajNá einéihem mereót; umotnéihem tamíd hamád.",
+      "translit": "Tejshajná einéihem mereót; umotnéihem tamíd hamád.",
       "es": "Sean oscurecidos sus ojos para que no vean y haz que sus lomos tiemblen continuamente.",
       "en": "May their eyes grow dim so that they cannot see; may their loins collapse continually.",
       "translit_en": "Techshachna eineihem mereot; umotneihem tamid hamad."
@@ -223,7 +223,7 @@
       "num": 25,
       "he": "שְׁפָךְ עֲלֵיהֶם זַעְמֶךָ וַחֲרוֹן אַפְּךָ יַשִּׂיגֵם׃",
       "he_plain": "שפוך עליהם זעמך וחרון אפך ישיגם",
-      "translit": "Shefoj aléihem zaméja; vajarón afejá yasiGuém.",
+      "translit": "Shefoj aléihem zaméja; vajarón afejá yasiguém.",
       "es": "Derrama sobre ellos Tu ira y el furor de Tu enojo los alcance.",
       "en": "Pour out Your wrath on them; may Your blazing anger overtake them;",
       "translit_en": "Shefoch aleihem zamecha; vacharon afecha yasiguem."
@@ -259,7 +259,7 @@
       "num": 29,
       "he": "יִמָּחוּ מִסֵּפֶר חַיִּים וְעִם צַדִּיקִים אַל יִכָּתֵבוּ׃",
       "he_plain": "ימחו מספר חיים ועם צדיקים אל יכתבו",
-      "translit": "Yimajú misEfer jayím; veim tsadikim al yikatévu.",
+      "translit": "Yimajú misefer jayím; veim tsadikim al yikatévu.",
       "es": "Sean borrados del libro de los vivientes y no sean escritos con los justos.",
       "en": "may they be erased from the book of life, and not be inscribed with the righteous.",
       "translit_en": "Yimachu misefer chayim; veim tsadikim al yikatevu."
@@ -277,7 +277,7 @@
       "num": 31,
       "he": "אֲהַלְלָה שֵׁם אֱלֹהִים בְּשִׁיר וַאֲגַדְּלֶנּוּ בְתוֹדָה׃",
       "he_plain": "אהללה שם אלהים בשיר ואגדלנו בתודה",
-      "translit": "Ahalela shém Elohím beshír; vaagadlEnu vetodá.",
+      "translit": "Ahalela shém Elohím beshír; vaagadlenu vetodá.",
       "es": "Alabaré el nombre de Dios con cántico y lo engrandeceré con acción de gracias.",
       "en": "I will extol God’s name with song, exultation, and praise.",
       "translit_en": "Ahalela shem Elohim beshir; vaagadlenu vetoda."
@@ -286,7 +286,7 @@
       "num": 32,
       "he": "וְתִיטַב לַיהוָה מִשּׁוֹר פָּר מַקְרִן מַפְרִיס׃",
       "he_plain": "ותיטב ליהוה משור פר מקרן מפריס",
-      "translit": "Vetitáv laAdonái mishor pár makRín mafrís.",
+      "translit": "Vetitáv laAdonái mishor pár makrín mafrís.",
       "es": "Y agradará al Eterno más que buey o toro que tiene cuernos y pezuñas.",
       "en": "That will please G OD more than oxen, than bulls with horns and hoofs.",
       "translit_en": "Vetitav laAdonai mishor par makrin mafris."
@@ -295,7 +295,7 @@
       "num": 33,
       "he": "רָאוּ עֲנָוִים יִשְׂמָחוּ דֹּרְשֵׁי אֱלֹהִים וִיחִי לְבַבְכֶם׃",
       "he_plain": "ראו ענוים ישמחו דורשי אלהים ויחי לבבכם",
-      "translit": "Raú anavím yismajú; dorshéi Elohím vijí levavJém.",
+      "translit": "Raú anavím yismajú; dorshéi Elohím vijí levavjém.",
       "es": "Lo verán los humildes y se alegrarán; los que buscáis a Dios vivid vuestro corazón.",
       "en": "The lowly will see and rejoice; you who are mindful of God, take heart!",
       "translit_en": "Rau anavim yismachu; dorshei Elohim vichi levavchem."

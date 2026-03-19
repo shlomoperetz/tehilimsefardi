@@ -29,12 +29,12 @@
       "num": 3,
       "he": "יְהוָה יִשְׁמְרֵהוּ וִיחַיֵּהוּ וְאֻשַּׁר בָּאָרֶץ וְאַל תִּתְּנֵהוּ בְּנֶפֶשׁ אֹיְבָיו׃",
       "he_plain": "יהוה ישמרהו ויחיהו ואשר בארץ ואל תתנהו בנפש איביו",
-      "translit": "Adonái yishmeréhu viyajyéhu; veushár baárets; veal titeNéhu venéfesh oyváv.",
+      "translit": "Adonái yishmeréhu viyajyéhu; veushár baárets; veal titenehu venéfesh oyváv.",
       "es": "El Eterno lo guardará y le dará vida; será bienaventurado en la tierra y no lo entregará a la voluntad de sus enemigos.",
       "en": "May G OD guard them and preserve them; and may they be thought happy in the land. Do not subject them to the will of their enemies.",
       "translit_en": "Adonai yishmerehu viyachyehu; veushar baarets; veal titenehu venefesh oyvav.",
       "fr": "L'Éternel le gardera et lui donnera la vie ; il sera heureux sur la terre et Tu ne le livreras pas à la volonté de ses ennemis.",
-      "translit_fr": "Adonaï yichmerehou viyakhyéhou ; veouchar baarets ; veal titeNéhou venéfech oyvav."
+      "translit_fr": "Adonaï yichmerehou viyakhyéhou ; veouchar baarets ; veal titenéhou venéfech oyvav."
     },
     {
       "num": 4,
@@ -84,12 +84,12 @@
       "num": 8,
       "he": "יַחַד עָלַי יִתְלַחֲשׁוּ כָּל שֹׂנְאַי עָלַי יַחְשְׁבוּ רָעָה לִי׃",
       "he_plain": "יחד עלי יתלחשו כל שונאי עלי יחשבו רעה לי",
-      "translit": "Yájad aláy yitlajaShú kol sonaáy; aláy yajshevú raá lí.",
+      "translit": "Yájad aláy yitlajashú kol sonaáy; aláy yajshevú raá lí.",
       "es": "Reunidos murmuran contra mí todos los que me aborrecen; contra mí piensan el mal:",
       "en": "All my enemies whisper together against me, imagining the worst for me.",
       "translit_en": "Yachad alay yitlachashu kol sonaay; alay yachshevu raa li.",
       "fr": "Ensemble ils chuchotent contre moi tous ceux qui me haïssent ; contre moi ils méditent le mal :",
-      "translit_fr": "Yakhad alaï yitlakhaChOU kol sonaäï ; alaï yakhchevou raa li."
+      "translit_fr": "Yakhad alaï yitlakhachou kol sonaäï ; alaï yakhchevou raa li."
     },
     {
       "num": 9,
@@ -100,18 +100,18 @@
       "en": "“Something baneful has settled in him; he’ll not rise from his bed again.”",
       "translit_en": "Devar beliyaal yatsuk bo; vaasher shachav lo yosif lakum.",
       "fr": "Une chose mauvaise s'est répandue en lui et celui qui s'est couché ne se relèvera plus.",
-      "translit_fr": "Devar beliyaal yatsouk bo ; vaacher chakHav lo yosif lakoum."
+      "translit_fr": "Devar beliyaal yatsouk bo ; vaacher chakhav lo yosif lakoum."
     },
     {
       "num": 10,
       "he": "גַּם אִישׁ שְׁלוֹמִי אֲשֶׁר בָּטַחְתִּי בוֹ אוֹכֵל לַחְמִי הִגְדִּיל עָלַי עָקֵב׃",
       "he_plain": "גם איש שלומי אשר בטחתי בו אוכל לחמי הגדיל עלי עקב",
-      "translit": "Gam ísh shelomí ashér batájti vo; ojél laJmí; higdíl aláy akév.",
+      "translit": "Gam ísh shelomí ashér batájti vo; ojél lajmí; higdíl aláy akév.",
       "es": "Aun el hombre de mi paz, en quien yo confiaba, el que comía mi pan, ha levantado contra mí el calcañar.",
       "en": "My ally in whom I trusted, even someone who shares my bread, has been utterly false to me. c has been utterly false to me Meaning of Heb. uncertain.",
       "translit_en": "Gam ish shelomi asher batachti vo; ochel lachmi; higdil alay akev.",
       "fr": "Même l'homme de ma paix en qui je me confiais, qui mangeait mon pain, a levé le talon contre moi.",
-      "translit_fr": "Gam ich chelomi acher batakhti vo ; okhel lakhmi ; higdil alaï akev."
+      "translit_fr": "Gam ich chelomi acher batakhti vo ; okhEl lakhmi ; higdil alaï akev."
     },
     {
       "num": 11,
@@ -155,7 +155,7 @@
       "en": "Blessed is the E TERNAL , God of Israel, from eternity to eternity. Amen and Amen.",
       "translit_en": "Baruch Adonai Elohei Yisrael mehaolam vead haolam; amen veamen.",
       "fr": "Béni soit l'Éternel, Dieu d'Israël, depuis toujours et pour toujours. Amen et Amen.",
-      "translit_fr": "Baroukh Adonaï Eloheï Yisrael mehaolam vead haolam ; amen veamen."
+      "translit_fr": "Baroukh Adonaï Eloheï YisraEl mehaolam vead haolam ; amen veamen."
     }
   ],
   "ocasiones": [],

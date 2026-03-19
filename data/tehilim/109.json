@@ -6,7 +6,7 @@
       "num": 1,
       "he": "לַ֭מְנַצֵּחַ לְדָוִ֣ד מִזְמ֑וֹר אֱלֹהֵ֥י תְ֝הִלָּתִ֗י אַֽל־תֶּחֱרַֽשׁ׃",
       "he_plain": "למנצח לדוד מזמור אלהי תהלתי אל תחרש",
-      "translit": "LamenatsEaj leDavíd mizmór. Elohéi tehilatí al teejarsh.",
+      "translit": "Lamenatseaj leDavíd mizmór. Elohéi tehilatí al teejarsh.",
       "es": "Al director, de David, salmo. Oh Dios de mi alabanza no guardes silencio.",
       "en": "For the leader. Of David. A psalm. O God of my praise, do not keep aloof,",
       "translit_en": "Lamenatseach leDavid mizmor. Elohei tehilati al teecharsh."
@@ -33,7 +33,7 @@
       "num": 4,
       "he": "תַּֽחַת־אַהֲבָתִ֥י יִשְׂטְנ֗וּנִי וַאֲנִ֥י תְפִלָּֽה׃",
       "he_plain": "תחת אהבתי ישטנוני ואני תפלה",
-      "translit": "Tajat ahaváti yistenuní; vaaNí tefilá.",
+      "translit": "Tajat ahaváti yistenuní; vaaní tefilá.",
       "es": "En pago de mi amor me acusan; pero yo estoy en oración.",
       "en": "They answer my love with accusation and I must stand judgment a and I must stand judgment Or “but I am all prayer”; meaning of Heb. uncertain, but see v. 7 .",
       "translit_en": "Tachat ahavati yistenuni; vaani tefila."
@@ -42,7 +42,7 @@
       "num": 5,
       "he": "וַיָּ֘שִׂ֤ימוּ עָלַ֣י רָ֭עָה תַּ֣חַת טוֹבָ֑ה וְ֝שִׂנְאָ֗ה תַּ֣חַת אַהֲבָתִֽי׃",
       "he_plain": "וישימו עלי רעה תחת טובה ושנאה תחת אהבתי",
-      "translit": "Vayashimú aláy rá taját tová; vesinA taját ahaváti.",
+      "translit": "Vayashimú aláy rá taját tová; vesina taját ahaváti.",
       "es": "Me han puesto mal por bien y odio en lugar de mi amor.",
       "en": "They repay me with evil for good, with hatred for my love.",
       "translit_en": "Vayashimu alay ra tachat tova; vesina tachat ahavati."
@@ -78,7 +78,7 @@
       "num": 9,
       "he": "יִֽהְיוּ־בָנָ֥יו יְתוֹמִ֑ים וְ֝אִשְׁתּ֗וֹ אַלְמָנָֽה׃",
       "he_plain": "יהיו בניו יתומים ואשתו אלמנה",
-      "translit": "Yihyú vanáv yetomím; veishTo almaNá.",
+      "translit": "Yihyú vanáv yetomím; veishto almaná.",
       "es": "Sean sus hijos huérfanos y su mujer viuda.",
       "en": "May his children be orphans, his wife a widow.",
       "translit_en": "Yihyu vanav yetomim; veishto almana."
@@ -87,7 +87,7 @@
       "num": 10,
       "he": "וְנ֤וֹעַ יָנ֣וּעוּ בָנָ֣יו וְשִׁאֵ֑לוּ וְ֝דָרְשׁ֗וּ מֵחׇרְבֽוֹתֵיהֶֽם׃",
       "he_plain": "ונוע ינועו בניו ושאלו ודרשו מחרבותיהם",
-      "translit": "Venóa yanúu vanáv uvikEshú; vedorshú mijarBotéihem.",
+      "translit": "Venóa yanúu vanáv uvikeshú; vedorshú mijarbotéihem.",
       "es": "Y vaguen y mendiguen sus hijos y busquen sustento lejos de sus ruinas.",
       "en": "May his children wander from their hovels, begging in search of [bread].",
       "translit_en": "Venoa yanuu vanav uvikeshu; vedorshu micharboteihem."
@@ -150,7 +150,7 @@
       "num": 17,
       "he": "וַיֶּאֱהַ֣ב קְ֭לָלָה וַתְּבוֹאֵ֑הוּ וְֽלֹא־חָפֵ֥ץ בִּ֝בְרָכָ֗ה וַתִּרְחַ֥ק מִמֶּֽנּוּ׃",
       "he_plain": "ויאהב קללה ותבואהו ולא חפץ בברכה ותרחק ממנו",
-      "translit": "Vayeehav kelaLá vatevoéhu; veló jafets bivrajá vatirhák mimenu.",
+      "translit": "Vayeehav kelalá vatevoéhu; veló jafets bivrajá vatirhák mimenu.",
       "es": "Amó la maldición y le vino; no quiso la bendición y se alejó de él.",
       "en": "He loved to curse—may a curse come upon him! He would not bless—may blessing be far from him!",
       "translit_en": "Vayeehav kelala vatevoehu; velo chafets bivracha vatirhak mimenu."
@@ -159,7 +159,7 @@
       "num": 18,
       "he": "וַיִּלְבַּ֥שׁ קְלָלָ֗ה כְּמַ֫דּ֥וֹ וַתָּבֹ֣א כַמַּ֣יִם בְּקִרְבּ֑וֹ וְ֝כַשֶּׁ֗מֶן בְּעַצְמוֹתָֽיו׃",
       "he_plain": "וילבש קללה כמדו ותבא כמים בקרבו וכשמן בעצמותיו",
-      "translit": "Vayelásh kelaLá kimdó; vatavó jamáyim bekiRBó; veJashémen leatsmoTáv.",
+      "translit": "Vayelásh kelalá kimdó; vatavó jamáyim bekirbó; vejashémen leatsmotáv.",
       "es": "Se vistió de maldición como de su ropa y entró como agua en sus entrañas y como aceite en sus huesos.",
       "en": "May he be clothed in a curse like a garment, may it enter his body like water, his bones like oil.",
       "translit_en": "Vayelash kelala kimdo; vatavo chamayim bekirbo; vechashemen leatsmotav."
@@ -168,7 +168,7 @@
       "num": 19,
       "he": "תְּהִי־ל֭וֹ כְּבֶ֣גֶד יַעְטֶ֑ה וּ֝לְמֵ֗זַח תָּמִ֥יד יַחְגְּרֶֽהָ׃",
       "he_plain": "תהי לו כבגד יעטה ולמזח תמיד יחגרה",
-      "translit": "Tihí ló keBéged yaatéh; ulemézaj tamíd yajgoreáh.",
+      "translit": "Tihí ló kebéged yaatéh; ulemézaj tamíd yajgoreáh.",
       "es": "Séale como vestido con que se cubra y como cinto con que se ciña siempre.",
       "en": "Let it be like the cloak he wraps around him, like the belt he always wears.",
       "translit_en": "Tihi lo kebeged yaateh; ulemezach tamid yachgoreah."
@@ -186,7 +186,7 @@
       "num": 21,
       "he": "וְאַתָּ֤ה׀ יֱ֘הֹוִ֤ה אֲדֹנָ֗י עֲֽשֵׂה־אִ֭תִּי לְמַ֣עַן שְׁמֶ֑ךָ כִּי־ט֥וֹב חַ֝סְדְּךָ֗ הַצִּילֵֽנִי׃",
       "he_plain": "ואתה יהוה אדני עשה אתי למען שמך כי טוב חסדך הצילני",
-      "translit": "Veatá Adonái adonái aséh itI lemáan sheméja; ki tov jasdejá hatsileíni.",
+      "translit": "Veatá Adonái adonái aséh ití lemáan sheméja; ki tov jasdejá hatsileíni.",
       "es": "Pero Tú, oh Eterno mi Señor, actúa conmigo por amor de Tu nombre; porque Tu bondad leal es buena, líbrame.",
       "en": "Now You, O G OD , my Sovereign, act in my behalf as befits Your name. Good and faithful as You are, save me.",
       "translit_en": "Veata Adonai adonai aseh iti lemaan shemecha; ki tov chasdecha hatsileini."
@@ -195,7 +195,7 @@
       "num": 22,
       "he": "כִּי־עָנִ֣י וְאֶבְי֣וֹן אָנֹ֑כִי וְ֝לִבִּ֗י חָלַ֥ל בְּקִרְבִּֽי׃",
       "he_plain": "כי עני ואביון אנכי ולבי חלל בקרבי",
-      "translit": "Ki aní veevyón anojí; veliBI jaláj bekiRBí.",
+      "translit": "Ki aní veevyón anojí; velibí jaláj bekirbí.",
       "es": "Porque yo soy afligido y pobre y mi corazón está herido dentro de mí.",
       "en": "For I am poor and needy, and my heart is pierced within me.",
       "translit_en": "Ki ani veevyon anochi; velibi chalach bekirbi."
@@ -204,7 +204,7 @@
       "num": 23,
       "he": "כְּצֵל־כִּנְטוֹת֥וֹ נֶהֱלָ֑כְתִּי נִ֝נְעַ֗רְתִּי כָּאַרְבֶּֽה׃",
       "he_plain": "כצל כנטותו נהלכתי ננערתי כארבה",
-      "translit": "KeTsel kinTotó nehelájti; nináreti kaarbéh.",
+      "translit": "Ketsel kintotó nehelájti; nináreti kaarbéh.",
       "es": "Me voy como la sombra cuando declina; soy sacudido como langosta.",
       "en": "I fade away like a lengthening shadow; I am shaken off like locusts.",
       "translit_en": "Ketsel kintoto nehelachti; ninareti kaarbeh."
@@ -222,7 +222,7 @@
       "num": 25,
       "he": "וַאֲנִ֤י׀ הָיִ֣יתִי חֶרְפָּ֣ה לָהֶ֑ם יִ֝רְא֗וּנִי יְנִיע֥וּן רֹאשָֽׁם׃",
       "he_plain": "ואני הייתי חרפה להם יראוני יניעון ראשם",
-      "translit": "VaaNí hayíti jeRpá lahém; yiRuni yeniúun roshám.",
+      "translit": "Vaaní hayíti jerpá lahém; yiruni yeniúun roshám.",
       "es": "Y yo he sido para ellos objeto de oprobio; me miran y mueven su cabeza.",
       "en": "I am the object of their scorn; when they see me, they shake their head.",
       "translit_en": "Vaani hayiti cherpa lahem; yiruni yeniuun rosham."
@@ -249,7 +249,7 @@
       "num": 28,
       "he": "יְקַֽלְלוּ־הֵמָּה֮ וְאַתָּ֢ה תְבָ֫רֵ֥ךְ קָ֤מוּ׀ וַיֵּבֹ֗שׁוּ וְֽעַבְדְּךָ֥ יִשְׂמָֽח׃",
       "he_plain": "יקללו המה ואתה תברך קמו ויבשו ועבדך ישמח",
-      "translit": "Yekalelélu hémá vatá tevArEj; kamú vayevoshú; veabdejá yismáj.",
+      "translit": "Yekalelélu hémá vatá tevarej; kamú vayevoshú; veabdejá yismáj.",
       "es": "Que ellos maldigan pero Tú bendice; levántense y sean avergonzados y Tu siervo se alegrará.",
       "en": "Let them curse, but You bless; let them rise up, but come to grief, while Your servant rejoices.",
       "translit_en": "Yekalelelu hema vata tevarech; kamu vayevoshu; veabdecha yismach."
@@ -258,7 +258,7 @@
       "num": 29,
       "he": "יִלְבְּשׁ֣וּ שׂוֹטְנַ֣י כְּלִמָּ֑ה וְיַעֲט֖וּ כַמְעִ֣יל בׇּשְׁתָּֽם׃",
       "he_plain": "ילבשו שוטני כלמה ויעטו כמעיל בשתם",
-      "translit": "Yilbeshú sotnái kliMá; veyaatú jamántam keméil.",
+      "translit": "Yilbeshú sotnái klimá; veyaatú jamántam keméil.",
       "es": "Vístanse mis acusadores de ignominia y cúbranse de su vergüenza como de manto.",
       "en": "My accusers shall be clothed in shame, wrapped in their disgrace as in a robe.",
       "translit_en": "Yilbeshu sotnai klima; veyaatu chamantam kemeil."
@@ -267,7 +267,7 @@
       "num": 30,
       "he": "א֘וֹדֶ֤ה יְהֹוָ֣ה מְאֹ֣ד בְּפִ֑י וּבְת֖וֹךְ רַבִּ֣ים אֲהַלְלֶֽנּוּ׃",
       "he_plain": "אודה יהוה מאד בפי ובתוך רבים אהללנו",
-      "translit": "Odé Adonái meód befí; uvtój rabím ahalelEnu.",
+      "translit": "Odé Adonái meód befí; uvtój rabím ahalelenu.",
       "es": "Alabaré al Eterno en gran manera con mi boca y en medio de multitudes le alabaré.",
       "en": "My mouth shall sing much praise to G OD ; I will acclaim in the midst of a throng,",
       "translit_en": "Ode Adonai meod befi; uvtoch rabim ahalelenu."

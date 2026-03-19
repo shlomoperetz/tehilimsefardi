@@ -29,7 +29,7 @@
       "num": 3,
       "he": "יְהוָה אֱלֹהַי שִׁוַּעְתִּי אֵלֶיךָ וַתִּרְפָּאֵנִי׃",
       "he_plain": "יהוה אלהי שועתי אליך ותרפאני",
-      "translit": "Adonái Eloháy shiváati eléija; vatiRefaéni.",
+      "translit": "Adonái Eloháy shiváati eléija; vatirefaéni.",
       "es": "Eterno, Dios mío, a Ti clamé y me sanaste.",
       "en": "O my E TERNAL God, I cried out to You, and You healed me.",
       "translit_en": "Adonai Elohay shivaati eleicha; vatirefaeni.",
@@ -67,7 +67,7 @@
       "en": "For [God] is angry but a moment, and when pleased, there is life. One may lie down weeping at nightfall; b One may lie down weeping at nightfall Or “Weeping may linger for the night.” but at dawn there are shouts of joy.",
       "translit_en": "Ki rega beapo; chayim birtsono; baerev yalin bechi; velaboker rina.",
       "fr": "Car Sa colère ne dure qu'un instant, mais Sa bienveillance dure toute la vie ; le soir arrivent les pleurs, mais le matin vient la joie.",
-      "translit_fr": "Ki régua beapo, khayim birtsonno, baerev yalin bekhi, veleBoker rina."
+      "translit_fr": "Ki régua beapo, khayim birtsonno, baerev yalin bekhi, veleboker rina."
     },
     {
       "num": 7,
@@ -100,13 +100,13 @@
       "en": "I called to You, O E TERNAL One; to my Sovereign I made appeal,",
       "translit_en": "Eleicha Adonai ekra; veEl Adonai etchanan.",
       "fr": "Vers Toi, Adonaï, je crierai et à Adonaï je supplierai.",
-      "translit_fr": "Elékha Adonaï ekra, vael Adonaï etkhanan."
+      "translit_fr": "Elékha Adonaï ekra, vaEl Adonaï etkhanan."
     },
     {
       "num": 10,
       "he": "מַה בֶּצַע בְּדָמִי בְּרִדְתִּי אֶל שָׁחַת הֲיוֹדְךָ עָפָר הֲיַגִּיד אֲמִתֶּךָ׃",
       "he_plain": "מה בצע בדמי ברדתי אל שחת היודך עפר היגיד אמתך",
-      "translit": "Ma bétsaa bedamí berdití el shájat; hayodeján afár; hayagíd emiTéja.",
+      "translit": "Ma bétsaa bedamí berdití el shájat; hayodeján afár; hayagíd emitéja.",
       "es": "¿Qué provecho hay en mi muerte, en que yo descienda a la fosa? ¿Te alabará el polvo? ¿Anunciará Tu verdad?",
       "en": "“What is to be gained from my death, d death Lit. “blood.” from my descent into the Pit? Can dust praise You? Can it declare Your faithfulness?",
       "translit_en": "Ma betsaa bedami berditi el shachat; hayodechan afar; hayagid emitecha.",
@@ -117,7 +117,7 @@
       "num": 11,
       "he": "שְׁמַע יְהוָה וְחָנֵּנִי יְהוָה הֱיֵה עֹזֵר לִי׃",
       "he_plain": "שמע יהוה וחנני יהוה היה עוזר לי",
-      "translit": "Shemá Adonái vejaNéni; Adonái heyé ozér lí.",
+      "translit": "Shemá Adonái vejanéni; Adonái heyé ozér lí.",
       "es": "Oye, Eterno, y ten misericordia de mí; Eterno, sé Tú mi ayudador.",
       "en": "Hear, O E TERNAL One, and have mercy on me; O E TERNAL One, be my help!”",
       "translit_en": "Shema Adonai vechaneni; Adonai heye ozer li.",
@@ -128,7 +128,7 @@
       "num": 12,
       "he": "הָפַכְתָּ מִסְפְּדִי לְמָחוֹל לִי פִּתַּחְתָּ שַׂקִּי וַתְּאַזְּרֵנִי שִׂמְחָה׃",
       "he_plain": "הפכת מספדי למחול לי פתחת שקי ותאזרני שמחה",
-      "translit": "Hafájta mispedí lemajól lí; pitáj ta sakí; vateazréni simjá.",
+      "translit": "Hafájta mispedí lemajól lí; pitájtá sakí; vateazréni simjá.",
       "es": "Has cambiado mi lamento en baile; desataste mi cilicio y me ceñiste de alegría,",
       "en": "You turned my lament into dancing, you undid my sackcloth and girded me with joy,",
       "translit_en": "Hafachta mispedi lemachol li; pitachta saki; vateazreni simcha.",

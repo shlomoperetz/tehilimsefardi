@@ -7,7 +7,7 @@
       "num": 1,
       "he": "מִזְמוֹר לְאָסָף אֱלֹהִים בָּאוּ גוֹיִם בְּנַחֲלָתֶךָ טִמְּאוּ אֶת הֵיכַל קָדְשֶׁךָ שָׂמוּ אֶת יְרוּשָׁלַיִם לְעִיִּים׃",
       "he_plain": "מזמור לאסף אלהים באו גוים בנחלתך טמאו את היכל קדשך שמו את ירושלים לעיים",
-      "translit": "Mizmór leAsáf. Elohím bau goyím benajalaTeján; timEú et héijal kodshéja; samú et Yerushalaím leiyím.",
+      "translit": "Mizmór leAsáf. Elohím bau goyím benajalateján; timeu et héijal kodshéja; samú et Yerushalaím leiyím.",
       "es": "Salmo de Asaf. Oh Dios, las naciones han invadido Tu heredad; han profanado Tu santo templo; han reducido Jerusalén a escombros.",
       "en": "A psalm of Asaph. O God, heathens have entered Your domain, defiled Your holy temple, and turned Jerusalem into ruins.",
       "translit_en": "Mizmor leAsaf. Elohim bau goyim benachalatechan; timeu et heichal kodshecha; samu et Yerushalaim leiyim."
@@ -16,7 +16,7 @@
       "num": 2,
       "he": "נָתְנוּ אֶת נִבְלַת עֲבָדֶיךָ מַאֲכָל לְעוֹף הַשָּׁמָיִם בְּשַׂר חֲסִידֶיךָ לְחַיְתוֹ אָרֶץ׃",
       "he_plain": "נתנו את נבלת עבדיך מאכל לעוף השמים בשר חסידיך לחיתו ארץ",
-      "translit": "Naténu et nivlát avadéija maajál leOf hashamáyim; besar jasidéija lejaitó árets.",
+      "translit": "Naténu et nivlát avadéija maajál leof hashamáyim; besar jasidéija lejaitó árets.",
       "es": "Dieron los cuerpos de Tus siervos por comida a las aves del cielo; la carne de Tus santos a las bestias de la tierra.",
       "en": "They have left Your servants’ corpses as food for the fowl of heaven, and the flesh of Your faithful for the wild beasts.",
       "translit_en": "Natenu et nivlat avadeicha maachal leof hashamayim; besar chasideicha lechaito arets."
@@ -34,7 +34,7 @@
       "num": 4,
       "he": "הָיִינוּ חֶרְפָּה לִשְׁכֵנֵינוּ לַעַג וָקֶלֶס לִסְבִיבוֹתֵינוּ׃",
       "he_plain": "היינו חרפה לשכנינו לעג וקלס לסביבותינו",
-      "translit": "Hayínu jerPá lishjenéinu; laáG vakéles lisevivotéinu.",
+      "translit": "Hayínu jerpá lishjenéinu; laág vakéles lisevivotéinu.",
       "es": "Somos el oprobio de nuestros vecinos; escarnio y burla de los que nos rodean.",
       "en": "We have become the butt of our neighbors, the scorn and derision of those around us.",
       "translit_en": "Hayinu cherpa lishcheneinu; laag vakeles lisevivoteinu."
@@ -43,7 +43,7 @@
       "num": 5,
       "he": "עַד מָה יְהוָה תֶּאֱנַף לָנֶצַח תִּבְעַר כְּמוֹ אֵשׁ קִנְאָתֶךָ׃",
       "he_plain": "עד מה יהוה תאנף לנצח תבער כמו אש קנאתך",
-      "translit": "Ad má Adonái teenáf lanétsaj; tivár kemó ésh kinAtéja.",
+      "translit": "Ad má Adonái teenáf lanétsaj; tivár kemó ésh kinatéja.",
       "es": "¿Hasta cuándo, oh Eterno, estarás airado para siempre? ¿Arderá como fuego Tu celo?",
       "en": "How long, O E TERNAL One, will You be angry forever, will Your indignation blaze like fire?",
       "translit_en": "Ad ma Adonai teenaf lanetsach; tivar kemo esh kinatecha."
@@ -70,7 +70,7 @@
       "num": 8,
       "he": "אַל תִּזְכָּר לָנוּ עֲוֹנֹת רִאשֹׁנִים מַהֵר יְקַדְּמוּנוּ רַחֲמֶיךָ כִּי דַלּוֹנוּ מְאֹד׃",
       "he_plain": "אל תזכר לנו עונות ראשונים מהר יקדמונו רחמיך כי דלונו מאד",
-      "translit": "Al tizKór lánu avonót rishoním; mahér yekademuúnu rajaméija; ki dalónu meód.",
+      "translit": "Al tizkór lánu avonót rishoním; mahér yekademuúnu rajaméija; ki dalónu meód.",
       "es": "No recuerdes contra nosotros las iniquidades de los antepasados; apresúrense Tus misericordias a alcanzarnos porque estamos muy abatidos.",
       "en": "Do not hold our former iniquities against us; let Your compassion come swiftly toward us, for we have sunk very low.",
       "translit_en": "Al tizkor lanu avonot rishonim; maher yekademuunu rachameicha; ki dalonu meod."
@@ -79,7 +79,7 @@
       "num": 9,
       "he": "עָזְרֵנוּ אֱלֹהֵי יִשְׁעֵנוּ עַל דְּבַר כְּבוֹד שְׁמֶךָ וְהַצִּילֵנוּ וְכַפֵּר עַל חַטֹּאתֵינוּ לְמַעַן שְׁמֶךָ׃",
       "he_plain": "עזרנו אלהי ישענו על דבר כבוד שמך והצילנו וכפר על חטאותינו למען שמך",
-      "translit": "Ozrénu Elohéi yishénu; al devár kevód sheméja; vehatsílénu vejaFér al jatotéinu lemáan sheméja.",
+      "translit": "Ozrénu Elohéi yishénu; al devár kevód sheméja; vehatsílénu vejafér al jatotéinu lemáan sheméja.",
       "es": "Ayúdanos, oh Dios de nuestra salvación, por la gloria de Tu nombre; líbranos y perdona nuestros pecados por amor de Tu nombre.",
       "en": "Help us, O God, our deliverer, for the sake of the glory of Your name. Save us and forgive our sin, for the sake of Your name.",
       "translit_en": "Ozrenu Elohei yishenu; al devar kevod shemecha; vehatsilenu vechafer al chatoteinu lemaan shemecha."
@@ -88,7 +88,7 @@
       "num": 10,
       "he": "לָמָּה יֹאמְרוּ הַגּוֹיִם אַיֵּה אֱלֹהֵיהֶם יִוָּדַע בַּגּוֹיִם לְעֵינֵינוּ נִקְמַת דַּם עֲבָדֶיךָ הַשָּׁפוּךְ׃",
       "he_plain": "למה יאמרו הגוים איה אלהיהם יוודע בגוים לעינינו נקמת דם עבדיך השפוך",
-      "translit": "Lamá yomrú hagoyím: ayéh Elohéihem; yivadá bagoyím leeInéinu nikMát dam avadéija hashafúj.",
+      "translit": "Lamá yomrú hagoyím: ayéh Elohéihem; yivadá bagoyím leeinéinu nikmát dam avadéija hashafúj.",
       "es": "¿Por qué han de decir las naciones: ¿Dónde está su Dios? Sea conocida entre las naciones delante de nuestros ojos la venganza de la sangre de Tus siervos derramada.",
       "en": "Let the nations not say, “Where is their God?” Before our eyes let it be known among the nations that You avenge the spilled blood of Your servants.",
       "translit_en": "Lama yomru hagoyim: ayeh Eloheihem; yivada bagoyim leeineinu nikmat dam avadeicha hashafuch."

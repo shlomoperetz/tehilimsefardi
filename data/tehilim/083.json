@@ -16,7 +16,7 @@
       "num": 2,
       "he": "אֱלֹהִים אַל דֳּמִי לָךְ אַל תֶּחֱרַשׁ וְאַל תִּשְׁקֹט אֵל׃",
       "he_plain": "אלהים אל דמי לך אל תחרש ואל תשקוט אל",
-      "translit": "Elohím al domí laj; al tejErash veal tishkót El.",
+      "translit": "Elohím al domí laj; al tejerash veal tishkót El.",
       "es": "Oh Dios, no guardes silencio; no calles ni te estés quieto, oh Dios.",
       "en": "O God, do not be silent; do not hold aloof; do not be quiet, O God!",
       "translit_en": "Elohim al domi lach; al techerash veal tishkot El."
@@ -43,7 +43,7 @@
       "num": 5,
       "he": "אָמְרוּ לְכוּ וְנַכְחִידֵם מִגּוֹי וְלֹא יִזָּכֵר שֵׁם יִשְׂרָאֵל עוֹד׃",
       "he_plain": "אמרו לכו ונכחידם מגוי ולא יזכר שם ישראל עוד",
-      "translit": "Amarú: lejú venejJidém migóy; veló yizajér shém Yisraél od.",
+      "translit": "Amarú: lejú venejjidém migóy; veló yizajér shém Yisraél od.",
       "es": "Dijeron: Venid y destruyámoslos como nación para que el nombre de Israel no sea recordado más.",
       "en": "They say, “Let us wipe them out as a nation; Israel’s name will be mentioned no more.”",
       "translit_en": "Amaru: lechu venechchidem migoy; velo yizacher shem Yisrael od."
@@ -52,7 +52,7 @@
       "num": 6,
       "he": "כִּי נוֹעֲצוּ לֵב יַחְדָּו עָלֶיךָ בְּרִית יִכְרֹתוּ׃",
       "he_plain": "כי נועצו לב יחדו עליך ברית יכרותו",
-      "translit": "Ki noadSú lév yajdáv; aléija berít yijrotú.",
+      "translit": "Ki noadsú lév yajdáv; aléija berít yijrotú.",
       "es": "Porque han conspirado a una y han hecho pacto contra Ti.",
       "en": "Unanimous in their counsel they have made an alliance against You—",
       "translit_en": "Ki noadsu lev yachdav; aleicha berit yichrotu."
@@ -88,7 +88,7 @@
       "num": 10,
       "he": "עֲשֵׂה לָהֶם כְּמִדְיָן כְּסִיסְרָא כְיָבִין בְּנַחַל קִישׁוֹן׃",
       "he_plain": "עשה להם כמדין כסיסרא כיבין בנחל קישון",
-      "translit": "Aséh lahém keMidyán; keSiSerá jejávín; benájal Kishón.",
+      "translit": "Aséh lahém keMidyán; keSiserá jejávín; benájal Kishón.",
       "es": "Hazles como a Midyán; como a Sisera; como a Yavín en el torrente de Kishón.",
       "en": "Deal with them as You did with Midian, with Sisera, with Jabin, at the brook Kishon—",
       "translit_en": "Aseh lahem keMidyan; keSisera chechavin; benachal Kishon."
@@ -106,7 +106,7 @@
       "num": 12,
       "he": "שִׁיתֵמוֹ נְדִיבֵימוֹ כְּעֹרֵב וְכִזְאֵב וְכִזֶבַח וְכַצַּלְמֻנָּע כָּל נְסִיכֵימוֹ׃",
       "he_plain": "שיתמו נדיביהמו כעורב וכזאב וכזבח וכצלמנע כל נסיכימו",
-      "translit": "Shetémo nedivéimo keoréb ujezeév; ukiZévaj ujeTs almuná kol nesiJéimo.",
+      "translit": "Shetémo nedivéimo keoréb ujezeév; ukiZévaj ujeTsalmuná kol nesijéimo.",
       "es": "Pon a sus nobles como a Orev y a Zeev; a todos sus príncipes como a Zévaj y como a Tsalmuna.",
       "en": "Treat their nobles like Oreb and Zeeb, all their princes like Zebah and Zalmunna,",
       "translit_en": "Shetemo nediveimo keoreb uchezeev; ukizevach uchets almuna kol nesicheimo."
@@ -133,7 +133,7 @@
       "num": 15,
       "he": "כְּאֵשׁ תִּבְעַר יָעַר וּכְלַהֲבָה תְּלַהֵט הָרִים׃",
       "he_plain": "כאש תבעיר יער וכלהבה תלהט הרים",
-      "translit": "Keésh tivár yáar; ujelahaVá telahét harím.",
+      "translit": "Keésh tivár yáar; ujelahavá telahét harím.",
       "es": "Como fuego que quema el bosque y como llama que abrasa los montes.",
       "en": "As a fire burns a forest, as flames scorch the hills,",
       "translit_en": "Keesh tivar yaar; uchelahava telahet harim."
@@ -142,7 +142,7 @@
       "num": 16,
       "he": "כֵּן תִּרְדְּפֵם בְּסַעֲרֶךָ וּבְסוּפָתְךָ תְבַהֲלֵם׃",
       "he_plain": "כן תרדפם בסערך ובסופתך תבהלם",
-      "translit": "Kén tirdefém besaarEjá; uvesufatejá tevahalém.",
+      "translit": "Kén tirdefém besaarejá; uvesufatejá tevahalém.",
       "es": "Así los perseguirás con Tu tempestad y con Tu torbellino los atemorizarás.",
       "en": "pursue them with Your tempest, terrify them with Your storm.",
       "translit_en": "Ken tirdefem besaarecha; uvesufatecha tevahalem."
@@ -151,7 +151,7 @@
       "num": 17,
       "he": "מַלֵּא פְנֵיהֶם קָלוֹן וִיבַקְשׁוּ שִׁמְךָ יְהוָה׃",
       "he_plain": "מלא פניהם קלון ויבקשו שמך יהוה",
-      "translit": "Malé fNéihem kalón; vivakeshú shimejá Adonái.",
+      "translit": "Malé fnéihem kalón; vivakeshú shimejá Adonái.",
       "es": "Llena sus rostros de vergüenza para que busquen Tu nombre, oh Eterno.",
       "en": "Cover c Cover Lit. “Fill.” their faces with shame so that they seek Your name, O E TERNAL One.",
       "translit_en": "Male fneihem kalon; vivakeshu shimecha Adonai."

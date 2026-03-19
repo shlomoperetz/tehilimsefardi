@@ -60,7 +60,7 @@
       "num": 7,
       "he": "אֲב֘וֹתֵ֤ינוּ בְמִצְרַ֨יִם׀ לֹא־הִשְׂכִּ֬ילוּ נִפְלְאוֹתֶ֗יךָ לֹ֣א זָ֭כְרוּ אֶת־רֹ֣ב חֲסָדֶ֑יךָ וַיַּמְר֖וּ עַל־יָ֣ם בְּיַם־סֽוּף׃",
       "he_plain": "אבותינו במצרים לא השכילו נפלאותיך לא זכרו את רב חסדיך וימרו על ים בים סוף",
-      "translit": "Avotéinu beMitsráyim lo hiSkilu nifleotéija; lo zajerú et rov jasdéija; vayamrú al yám beyám súf.",
+      "translit": "Avotéinu beMitsráyim lo hiskilu nifleotéija; lo zajerú et rov jasdéija; vayamrú al yám beyám súf.",
       "es": "Nuestros padres en Mitsráyim no entendieron Tus maravillas; no se acordaron de la multitud de Tus bondades leales y se rebelaron junto al mar en el Mar de Juncos.",
       "en": "Our ancestors in Egypt did not perceive Your wonders; they did not remember Your abundant love, but rebelled at the sea, at the Sea of Reeds.",
       "translit_en": "Avoteinu beMitsrayim lo hiskilu nifleoteicha; lo zacheru et rov chasdeicha; vayamru al yam beyam suf."
@@ -69,7 +69,7 @@
       "num": 8,
       "he": "וַֽ֭יּוֹשִׁיעֵם לְמַ֣עַן שְׁמ֑וֹ לְ֝הוֹדִ֗יעַ אֶת־גְּבוּרָתֽוֹ׃",
       "he_plain": "ויושיעם למען שמו להודיע את גבורתו",
-      "translit": "Vayoshiém lemáan shemó; lehodía et guevuratO.",
+      "translit": "Vayoshiém lemáan shemó; lehodía et guevurato.",
       "es": "Pero los salvó por amor de Su nombre para dar a conocer Su poder.",
       "en": "Yet they were saved, as befits God’s name, to make known God’s might.",
       "translit_en": "Vayoshiem lemaan shemo; lehodia et guevurato."
@@ -78,7 +78,7 @@
       "num": 9,
       "he": "וַיִּגְעַ֣ר בְּיַם־ס֭וּף וַֽיֶּחֱרָ֑ב וַיּוֹלִיכֵ֥ם בַּ֝תְּהֹמ֗וֹת כַּמִּדְבָּֽר׃",
       "he_plain": "ויגער בים סוף ויחרב ויוליכם בתהמות כמדבר",
-      "translit": "Vayiguár beyám súf vayejeráv; vayolíjem batehomót kamidBár.",
+      "translit": "Vayiguár beyám súf vayejeráv; vayolíjem batehomót kamidbár.",
       "es": "Reprendió al Mar de Juncos y se secó y los condujo por los abismos como por un desierto.",
       "en": "A blast was sent against the Sea of Reeds; it became dry; they were led through the deep as through a wilderness.",
       "translit_en": "Vayiguar beyam suf vayecherav; vayolichem batehomot kamidbar."
@@ -105,7 +105,7 @@
       "num": 12,
       "he": "וַיַּאֲמִ֥ינוּ בִדְבָרָ֑יו יָ֝שִׁ֗ירוּ תְּהִלָּתֽוֹ׃",
       "he_plain": "ויאמינו בדבריו ישירו תהלתו",
-      "translit": "Vayaamínú bidvaráv; yasherú tehilatO.",
+      "translit": "Vayaamínú bidvaráv; yasherú tehilato.",
       "es": "Entonces creyeron en Sus palabras y cantaron Su alabanza.",
       "en": "Then they believed God’s promise, and sang God’s praises.",
       "translit_en": "Vayaaminu bidvarav; yasheru tehilato."
@@ -114,7 +114,7 @@
       "num": 13,
       "he": "מִ֭הֲרוּ שָׁכְח֣וּ מַעֲשָׂ֑יו לֹא־חִ֝כּ֗וּ לַעֲצָתֽוֹ׃",
       "he_plain": "מהרו שכחו מעשיו לא חכו לעצתו",
-      "translit": "Mihérú shajejú maaasáv; lo jikú laatsatO.",
+      "translit": "Mihérú shajejú maaasáv; lo jikú laatsato.",
       "es": "Pero pronto olvidaron Sus obras y no esperaron Su consejo.",
       "en": "But they soon forgot those deeds; they would not wait to learn the divine plan.",
       "translit_en": "Miheru shachechu maaasav; lo chiku laatsato."
@@ -123,7 +123,7 @@
       "num": 14,
       "he": "וַיִּתְאַוּ֣וּ תַ֭אֲוָה בַּמִּדְבָּ֑ר וַיְנַסּוּ־אֵ֝֗ל בִּישִׁימֽוֹן׃",
       "he_plain": "ויתאוו תאוה במדבר וינסו אל בישימון",
-      "translit": "Vayitavú taavá bamidBár; vayenasú El beshimón.",
+      "translit": "Vayitavú taavá bamidbár; vayenasú El beshimón.",
       "es": "Se entregaron al deseo en el desierto y tentaron a Dios en la soledad.",
       "en": "They were seized with craving in the wilderness, and put God to the test in the wasteland.",
       "translit_en": "Vayitavu taava bamidbar; vayenasu El beshimon."
@@ -132,7 +132,7 @@
       "num": 15,
       "he": "וַיִּתֵּ֣ן לָ֭הֶם שֶׁאֱלָתָ֑ם וַיְשַׁלַּ֖ח רָז֣וֹן בְּנַפְשָֽׁם׃",
       "he_plain": "ויתן להם שאלתם וישלח רזון בנפשם",
-      "translit": "Vayitén lahém sheelAtám; vayeshalaj razón benafshám.",
+      "translit": "Vayitén lahém sheelatám; vayeshalaj razón benafshám.",
       "es": "Y Él les dio lo que pedían pero envió flaqueza a su alma.",
       "en": "They were given what they asked for, then made to waste away.",
       "translit_en": "Vayiten lahem sheelatam; vayeshalach razon benafsham."
@@ -177,7 +177,7 @@
       "num": 20,
       "he": "וַיָּמִ֥ירוּ אֶת־כְּבוֹדָ֑ם בְּתַבְנִ֥ית שׁ֝֗וֹר אֹכֵ֥ל עֵֽשֶׂב׃",
       "he_plain": "וימירו את כבודם בתבנית שור אכל עשב",
-      "translit": "Vayamiró et kevodám betavnít shór oJél esév.",
+      "translit": "Vayamiró et kevodám betavnít shór ojél esév.",
       "es": "Así cambiaron su gloria por la imagen de un buey que come hierba.",
       "en": "They exchanged their glory for the image of a bull that feeds on grass.",
       "translit_en": "Vayamiro et kevodam betavnit shor ochel esev."
@@ -195,7 +195,7 @@
       "num": 22,
       "he": "נִ֭פְלָאוֹת בְּאֶ֣רֶץ חָ֑ם נ֝וֹרָא֗וֹת עַל־יַם־סֽוּף׃",
       "he_plain": "נפלאות בארץ חם נוראות על ים סוף",
-      "translit": "Niflaót beérets Jám; norAot al yám súf.",
+      "translit": "Niflaót beérets Jám; noraot al yám súf.",
       "es": "Maravillas en la tierra de Jam y cosas terribles junto al Mar de Juncos.",
       "en": "wondrous deeds in the land of Ham, awesome deeds at the Sea of Reeds.",
       "translit_en": "Niflaot beerets Cham; noraot al yam suf."
@@ -204,7 +204,7 @@
       "num": 23,
       "he": "וַיֹּ֗אמֶר לְֽהַשְׁמִ֫ידָ֥ם לוּלֵ֡י מֹ֘שֶׁ֤ה בְחִיר֗וֹ עָמַ֣ד בַּפֶּ֣רֶץ לְפָנָ֑יו לְהָשִׁ֥יב חֲ֝מָת֗וֹ מֵהַשְׁחִֽית׃",
       "he_plain": "ויאמר להשמידם לולי משה בחירו עמד בפרץ לפניו להשיב חמתו מהשחית",
-      "translit": "Vayómer lehashmidam; lulé Moshé bejirO amád baférets lefanáv; lehashív jamató mihashmíd.",
+      "translit": "Vayómer lehashmidam; lulé Moshé bejiró amád baférets lefanáv; lehashív jamató mihashmíd.",
       "es": "Y dijo que los destruiría de no haber estado Moshé Su elegido en la brecha delante de Él para apartar Su ira para que no los destruyera.",
       "en": "They would have been destroyed had not Moses, God’s chosen one, stood in the breach to avert God’s destructive wrath.",
       "translit_en": "Vayomer lehashmidam; lule Moshe bechiro amad baferets lefanav; lehashiv chamato mihashmid."
@@ -213,7 +213,7 @@
       "num": 24,
       "he": "וַֽ֭יִּמְאֲסוּ בְּאֶ֣רֶץ חֶמְדָּ֑ה לֹא־הֶ֝אֱמִ֗ינוּ לִדְבָרֽוֹ׃",
       "he_plain": "וימאסו בארץ חמדה לא האמינו לדברו",
-      "translit": "Vayimású beérets jemDá; lo heemínu lidvaró.",
+      "translit": "Vayimású beérets jemdá; lo heemínu lidvaró.",
       "es": "Y aborrecieron la tierra deseable; no creyeron en Su palabra.",
       "en": "They rejected the desirable land, and put no faith in the divine promise.",
       "translit_en": "Vayimasu beerets chemda; lo heeminu lidvaro."
@@ -222,7 +222,7 @@
       "num": 25,
       "he": "וַיֵּרָגְנ֥וּ בְאׇהֳלֵיהֶ֑ם לֹ֥א שָׁ֝מְע֗וּ בְּק֣וֹל יְהֹוָֽה׃",
       "he_plain": "וירגנו באהליהם לא שמעו בקול יהוה",
-      "translit": "Vayeragnenú beoholéihem; lo shamEú bekól Adonái.",
+      "translit": "Vayeragnenú beoholéihem; lo shameú bekól Adonái.",
       "es": "Y murmuraron en sus tiendas y no escucharon la voz del Eterno.",
       "en": "They grumbled in their tents and disobeyed G OD .",
       "translit_en": "Vayeragnenu beoholeihem; lo shameu bekol Adonai."
@@ -231,7 +231,7 @@
       "num": 26,
       "he": "וַיִּשָּׂ֣א יָד֣וֹ לָהֶ֑ם לְהַפִּ֥יל א֝וֹתָ֗ם בַּמִּדְבָּֽר׃",
       "he_plain": "וישא ידו להם להפיל אותם במדבר",
-      "translit": "Vayisá yadó lahém; lehapíl otám bamidBár.",
+      "translit": "Vayisá yadó lahém; lehapíl otám bamidbár.",
       "es": "Y alzó Su mano contra ellos para derribarlos en el desierto.",
       "en": "So a divine hand was raised in oath to make them fall in the wilderness,",
       "translit_en": "Vayisa yado lahem; lehapil otam bamidbar."
@@ -240,7 +240,7 @@
       "num": 27,
       "he": "וּלְהַפִּ֣יל זַ֭רְעָם בַּגּוֹיִ֑ם וּ֝לְזָרוֹתָ֗ם בָּאֲרָצֽוֹת׃",
       "he_plain": "ולהפיל זרעם בגוים ולזרותם בארצות",
-      "translit": "Ulehapíl zarám bagoyím; lezarotám beartSOt.",
+      "translit": "Ulehapíl zarám bagoyím; lezarotám beartsot.",
       "es": "Y para dispersar su descendencia entre las naciones y esparcirlos por las tierras.",
       "en": "to disperse a disperse Cf. Targum, Kimhi. their offspring among the nations and scatter them through the lands.",
       "translit_en": "Ulehapil zaram bagoyim; lezarotam beartsot."
@@ -294,7 +294,7 @@
       "num": 33,
       "he": "כִּי־הִמְר֥וּ אֶת־רוּח֑וֹ וַ֝יְבַטֵּ֗א בִּשְׂפָתָֽיו׃",
       "he_plain": "כי המרו את רוחו ויבטא בשפתיו",
-      "translit": "Ki himrú et rujó; vayevaTé bisefatáv.",
+      "translit": "Ki himrú et rujó; vayevaté bisefatáv.",
       "es": "Porque hicieron rebelar a su espíritu y habló precipitadamente con sus labios.",
       "en": "because they rebelled against [God] and he spoke rashly.",
       "translit_en": "Ki himru et rucho; vayevate bisefatav."
@@ -303,7 +303,7 @@
       "num": 34,
       "he": "לֹֽא־הִ֭שְׁמִידוּ אֶת־הָעַמִּ֑ים אֲשֶׁ֤ר אָמַ֖ר יְהֹוָ֣ה לָהֶֽם׃",
       "he_plain": "לא השמידו את העמים אשר אמר יהוה להם",
-      "translit": "Lo hiShmidú et haAmím; ashér amár Adonái lahém.",
+      "translit": "Lo hishmidú et haamím; ashér amár Adonái lahém.",
       "es": "No destruyeron a los pueblos que el Eterno les había dicho.",
       "en": "They did not destroy the nations as G OD had commanded them,",
       "translit_en": "Lo hishmidu et haamim; asher amar Adonai lahem."
@@ -321,7 +321,7 @@
       "num": 36,
       "he": "וַיַּעַבְד֥וּ אֶת־עֲצַבֵּיהֶ֑ם וַיִּהְי֖וּ לָהֶ֣ם לְמוֹקֵֽשׁ׃",
       "he_plain": "ויעבדו את עצביהם ויהיו להם למוקש",
-      "translit": "Vayaavdú et atsabéihem; vayihyú lahém lemoKesh.",
+      "translit": "Vayaavdú et atsabéihem; vayihyú lahém lemokesh.",
       "es": "Y sirvieron a sus ídolos y les fueron de tropiezo.",
       "en": "They worshiped their idols, which became a snare for them.",
       "translit_en": "Vayaavdu et atsabeihem; vayihyu lahem lemokesh."
@@ -330,7 +330,7 @@
       "num": 37,
       "he": "וַיִּזְבְּח֣וּ אֶת־בְּ֭נֵיהֶם וְאֶת־בְּנוֹתֵיהֶ֗ם לַשֵּׁדִֽים׃",
       "he_plain": "ויזבחו את בניהם ואת בנותיהם לשדים",
-      "translit": "Vayizbeju et bnéihem veetnót liShedím.",
+      "translit": "Vayizbeju et bnéihem veetnót lishedím.",
       "es": "Y sacrificaron a sus hijos e hijas a los demonios.",
       "en": "Their own sons and daughters they sacrificed to demons.",
       "translit_en": "Vayizbechu et bneihem veetnot lishedim."
@@ -339,7 +339,7 @@
       "num": 38,
       "he": "וַיִּ֥שְׁפְּכ֨וּ דָ֪ם נָקִ֡י דַּם־בְּנֵ֘יהֶ֤ם וּֽבְנוֹתֵיהֶ֗ם אֲשֶׁ֣ר זִ֭בְּחוּ לַעֲצַבֵּ֣י כְנָ֑עַן וַתֶּחֱנַ֥ף הָ֝אָ֗רֶץ בַּדָּמִֽים׃",
       "he_plain": "וישפכו דם נקי דם בניהם ובנותיהם אשר זבחו לעצבי כנען ותחנף הארץ בדמים",
-      "translit": "Vayishpejú dam naKí; dam bnéihem uvnOtéihem ashér zibejú laatsabéi Kenáan; vatejaNéf haárets badamím.",
+      "translit": "Vayishpejú dam nakí; dam bnéihem uvnotéihem ashér zibejú laatsabéi Kenáan; vatejanéf haárets badamím.",
       "es": "Y derramaron sangre inocente; la sangre de sus hijos e hijas que sacrificaron a los ídolos de Kenaan y la tierra fue profanada con sangre.",
       "en": "They shed innocent blood, the blood of their sons and daughters, whom they sacrificed to the idols of Canaan; so the land was polluted with bloodguilt.",
       "translit_en": "Vayishpechu dam naki; dam bneihem uvnoteihem asher zibechu laatsabei Kenaan; vatechanef haarets badamim."
@@ -348,7 +348,7 @@
       "num": 39,
       "he": "וַיִּטְמְא֥וּ בְמַעֲשֵׂיהֶ֑ם וַ֝יִּזְנ֗וּ בְּמַ֥עַלְלֵיהֶֽם׃",
       "he_plain": "ויטמאו במעשיהם ויזנו במעלליהם",
-      "translit": "Vayitmáu bemaaaseihem; vayizneú bealiloTám.",
+      "translit": "Vayitmáu bemaaaseihem; vayizneú bealilotám.",
       "es": "Y se contaminaron con sus obras y se prostituyeron con sus prácticas.",
       "en": "Thus they became defiled by their acts, debauched through their deeds.",
       "translit_en": "Vayitmau bemaaaseihem; vayizneu bealilotam."
@@ -357,7 +357,7 @@
       "num": 40,
       "he": "וַיִּחַר־אַ֣ף יְהֹוָ֣ה בְּעַמּ֑וֹ וַ֝יְתָעֵ֗ב אֶת־נַחֲלָתֽוֹ׃",
       "he_plain": "ויחר אף יהוה בעמו ויתעב את נחלתו",
-      "translit": "Vayijár af Adonái beamó; vayetaév et najalatO.",
+      "translit": "Vayijár af Adonái beamó; vayetaév et najalato.",
       "es": "Entonces se encendió el furor del Eterno contra Su pueblo y aborreció Su heredad.",
       "en": "G OD was angry with this people and abhorred them as an inheritance.",
       "translit_en": "Vayichar af Adonai beamo; vayetaev et nachalato."
@@ -366,7 +366,7 @@
       "num": 41,
       "he": "וַיִּתְּנֵ֥ם בְּיַד־גּוֹיִ֑ם וַֽיִּמְשְׁל֥וּ בָ֝הֶ֗ם שֹׂנְאֵיהֶֽם׃",
       "he_plain": "ויתנם ביד גוים וימשלו בהם שנאיהם",
-      "translit": "Vayitném beyád goyím; vayimshelu vahém soNéihem.",
+      "translit": "Vayitném beyád goyím; vayimshelu vahém sonéihem.",
       "es": "Y los entregó en mano de las naciones y les dominaron los que los aborrecían.",
       "en": "They were handed over to the nations; their foes ruled them.",
       "translit_en": "Vayitnem beyad goyim; vayimshelu vahem soneihem."
@@ -384,7 +384,7 @@
       "num": 43,
       "he": "פְּעָמִ֥ים רַבּ֗וֹת יַצִּ֫ילֵ֥ם וְ֭הֵמָּה יַמְר֣וּ בַעֲצָתָ֑ם וַ֝יָּמֹ֗כּוּ בַּעֲוֺנָֽם׃",
       "he_plain": "פעמים רבות יצילם והמה ימרו בעצתם וימכו בעונם",
-      "translit": "Paamím rabót yatsilém; vehémá yamrú vaEtsatám; vayamuKú beavonám.",
+      "translit": "Paamím rabót yatsilém; vehémá yamrú vaetsatám; vayamukú beavonám.",
       "es": "Muchas veces los libró; pero ellos se rebelaron contra Su consejo y fueron humillados por su iniquidad.",
       "en": "They were saved time and again, but they were deliberately rebellious, and so they were brought low by their iniquity.",
       "translit_en": "Paamim rabot yatsilem; vehema yamru vaetsatam; vayamuku beavonam."
@@ -393,7 +393,7 @@
       "num": 44,
       "he": "וַ֭יַּרְא בַּצַּ֣ר לָהֶ֑ם בְּ֝שׇׁמְע֗וֹ אֶת־רִנָּתָֽם׃",
       "he_plain": "וירא בצר להם בשמעו את רנתם",
-      "translit": "Vayar besar lahém; beshomEó et rinAtám.",
+      "translit": "Vayar besar lahém; beshoméo et rinatám.",
       "es": "Pero Él miró cuando estaban en angustia al oír su clamor.",
       "en": "Upon seeing that they were in distress, and hearing their cry,",
       "translit_en": "Vayar besar lahem; beshomeo et rinatam."
@@ -420,7 +420,7 @@
       "num": 47,
       "he": "הֽוֹשִׁיעֵ֨נוּ׀ יְ֘הֹוָ֤ה אֱלֹהֵ֗ינוּ וְקַבְּצֵנוּ֮ מִֽן־הַגּ֫וֹיִ֥ם לְ֭הֹדוֹת לְשֵׁ֣ם קׇדְשֶׁ֑ךָ לְ֝הִשְׁתַּבֵּ֗חַ בִּתְהִלָּתֶֽךָ׃",
       "he_plain": "הושיענו יהוה אלהינו וקבצנו מן הגוים להדות לשם קדשך להשתבח בתהלתך",
-      "translit": "Hoshiénu Adonái Elohéinu; vekabetsEnu min hagoyím; lehodót leshem kodshéja; lehishtabéaj bitehilatéja.",
+      "translit": "Hoshiénu Adonái Elohéinu; vekabetsenu min hagoyím; lehodót leshem kodshéja; lehishtabéaj bitehilatéja.",
       "es": "Sálvanos, oh Eterno Dios nuestro y recógenos de entre las naciones para que alabemos Tu santo nombre y nos gloriemos en Tu alabanza.",
       "en": "Deliver us, our E TERNAL God, and gather us from among the nations, to acclaim Your holy name, to glory in Your praise.",
       "translit_en": "Hoshienu Adonai Eloheinu; vekabetsenu min hagoyim; lehodot leshem kodshecha; lehishtabeach bitehilatecha."

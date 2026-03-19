@@ -23,18 +23,18 @@
       "en": "We have heard, O God, our ancestors have told us the deeds You performed in their time, in days of old.",
       "translit_en": "Elohim beozneinu shamaanu; avoteinu siperu lanu; poal paalta veyemeihem; bimei kedem.",
       "fr": "Ô Dieu, de nos oreilles nous avons entendu ; nos pères nous ont raconté l'œuvre que Tu as accomplie en leurs jours, aux temps anciens.",
-      "translit_fr": "Elohim beozneïnou chamaAnou ; avoteïnou sipérou lanou ; poal paAlta veyemeïhem ; biméï kédem."
+      "translit_fr": "Elohim beozneïnou chamaanou ; avoteïnou sipérou lanou ; poal paalta veyemeïhem ; biméï kédem."
     },
     {
       "num": 3,
       "he": "אַתָּה יָדְךָ גּוֹיִם הוֹרַשְׁתָּ וַתִּטָּעֵם תָּרַע לְאֻמִּים וַתְּשַׁלְּחֵם׃",
       "he_plain": "אתה ידך גוים הורשת ותטעם תרע לאמים ותשלחם",
-      "translit": "Atá yadejá goyím horashta; vatitaém; tará leumím vateshaleJém.",
+      "translit": "Atá yadejá goyím horashta; vatitaém; tará leumím vateshalejém.",
       "es": "Tú con Tu mano expulsaste a las naciones y los plantaste a ellos; afligiste a los pueblos y los arrojaste.",
       "en": "With Your hand You planted them, displacing nations; You brought misfortune on peoples, and drove them out.",
       "translit_en": "Ata yadecha goyim horashta; vatitaem; tara leumim vateshalechem.",
       "fr": "De Ta main Tu as chassé les nations et Tu les as plantés ; Tu as maltraité les peuples et Tu les as expulsés.",
-      "translit_fr": "Ata yadékha goïm horAchta ; vatitaém ; tara leoumiM vatéchalékhEM."
+      "translit_fr": "Ata yadékha goïm horachta ; vatitaém ; tara leoumim vatéchalékhem."
     },
     {
       "num": 4,
@@ -45,7 +45,7 @@
       "en": "It was not by their sword that they took the land, their arm did not give them victory, but Your right hand, Your arm, and Your goodwill, for You favored them.",
       "translit_en": "Ki lo vecharbam yarshu arets; uzeroam lo hoshia lamo; ki yeminecha uzeroacha veor paneicha; ki ratsitam.",
       "fr": "Car ce n'est pas par leur épée qu'ils ont conquis la terre et leur bras ne les a pas sauvés, mais Ta droite, Ton bras et la lumière de Ta face, car Tu T'es complu en eux.",
-      "translit_fr": "Ki lo vekharbam yarchou arets ; ouzerOam lo hochïa lamo ; ki yeminékha ouzerOakhA veor panékha ; ki ratsitam."
+      "translit_fr": "Ki lo vekharbam yarchou arets ; ouzeroam lo hochïa lamo ; ki yeminékha ouzeroakha veor panékha ; ki ratsitam."
     },
     {
       "num": 5,
@@ -67,18 +67,18 @@
       "en": "Through You we gore our foes; by Your name we trample our adversaries;",
       "translit_en": "Becha tsareinu nenageach; beshimcha navus kaminu.",
       "fr": "Par Toi nous repousserons nos adversaires ; en Ton nom nous foulerons ceux qui se lèvent contre nous.",
-      "translit_fr": "Bekha tsaréïnou nenaguéakh ; bechimkha navous kamiNOU."
+      "translit_fr": "Bekha tsaréïnou nenaguéakh ; bechimkha navous kaminou."
     },
     {
       "num": 7,
       "he": "כִּי לֹא בְקַשְׁתִּי אֶבְטָח וְחַרְבִּי לֹא תוֹשִׁיעֵנִי׃",
       "he_plain": "כי לא בקשתי אבטח וחרבי לא תושיעני",
-      "translit": "Ki lo vekashtí evtáj; veJarbí lo toshiéni.",
+      "translit": "Ki lo vekashtí evtáj; vejarbí lo toshiéni.",
       "es": "Porque no confiaré en mi arco ni mi espada me salvará.",
       "en": "I do not trust in my bow; it is not my sword that gives me victory;",
       "translit_en": "Ki lo vekashti evtach; vecharbi lo toshieni.",
       "fr": "Car ce n'est pas en mon arc que je me confierai et mon épée ne me sauvera pas.",
-      "translit_fr": "Ki lo vekaChti evtakh ; vekharbi lo tochïéni."
+      "translit_fr": "Ki lo vekachti evtakh ; vekharbi lo tochïéni."
     },
     {
       "num": 8,
@@ -89,7 +89,7 @@
       "en": "You give us victory over our foes; You thwart those who hate us.",
       "translit_en": "Ki hoshatanu mitsareinu; umesaneinu hevishota.",
       "fr": "Car c'est Toi qui nous as sauvés de nos adversaires et qui as couvert de honte ceux qui nous haïssaient.",
-      "translit_fr": "Ki hochataNOU mitsareïnou ; ouchaneïnou hevichota."
+      "translit_fr": "Ki hochatanou mitsareïnou ; ouchaneïnou hevichota."
     },
     {
       "num": 9,
@@ -100,7 +100,7 @@
       "en": "In God we glory at all times, and praise Your name unceasingly. Selah.",
       "translit_en": "BeElohim hilalnu kol hayom; veshimcha leolam node. Sela.",
       "fr": "En Dieu nous nous glorifierons tout le jour et nous louerons Ton nom pour toujours. Séla.",
-      "translit_fr": "BeElohim hilAlnou kol hayom ; vechimkha leolam nodé. Séla."
+      "translit_fr": "BeElohim hilalnou kol hayom ; vechimkha leolam nodé. Séla."
     },
     {
       "num": 10,
@@ -117,7 +117,7 @@
       "num": 11,
       "he": "תְּשִׁיבֵנוּ אָחוֹר מִנִּי צָר וּמְשַׂנְאֵינוּ שָׁסוּ לָמוֹ׃",
       "he_plain": "תשיבנו אחור מני צר ומשנאינו שסו למו",
-      "translit": "Teshivénu ajór miNí tsar; umesanéinu shasú lámo.",
+      "translit": "Teshivénu ajór miní tsar; umesanéinu shasú lámo.",
       "es": "Nos haces retroceder delante del adversario y los que nos aborrecen nos saquean.",
       "en": "You make us retreat before our foe; our enemies plunder us at will.",
       "translit_en": "Teshivenu achor mini tsar; umesaneinu shasu lamo.",
@@ -150,12 +150,12 @@
       "num": 14,
       "he": "תְּשִׂימֵנוּ חֶרְפָּה לִשְׁכֵנֵינוּ לַעַג וָקֶלֶס לִסְבִיבוֹתֵינוּ׃",
       "he_plain": "תשימנו חרפה לשכנינו לעג וקלס לסביבותינו",
-      "translit": "Tesiménu jerPá lishjenéinu; laag vakéles lisbivotéinu.",
+      "translit": "Tesiménu jerpá lishjenéinu; laag vakéles lisbivotéinu.",
       "es": "Nos pusiste por oprobio a nuestros vecinos, por escarnio y burla a los que nos rodean.",
       "en": "You make us the butt of our neighbors, the scorn and derision of those around us.",
       "translit_en": "Tesimenu cherpa lishcheneinu; laag vakeles lisbivoteinu.",
       "fr": "Tu nous as mis en opprobre pour nos voisins, en moquerie et en dérision pour ceux qui nous entourent.",
-      "translit_fr": "Tesiménou kherpa lichkheneïnou ; laag vakéles lisbivoTeïnou."
+      "translit_fr": "Tesiménou kherpa lichkheneïnou ; laag vakéles lisbivoteïnou."
     },
     {
       "num": 15,
@@ -166,29 +166,29 @@
       "en": "You make us a byword among the nations, a laughingstock b laughingstock Lit. “wagging of the head.” among the peoples.",
       "translit_en": "Tesimenu mashal bagoyim; menod rosh baleumim.",
       "fr": "Tu nous as mis en proverbe parmi les nations, en hochement de tête parmi les peuples.",
-      "translit_fr": "Tesiménou machal bagoïm ; menod roch baleoumiM."
+      "translit_fr": "Tesiménou machal bagoïm ; menod roch baleoumim."
     },
     {
       "num": 16,
       "he": "כָּל הַיּוֹם כְּלִמָּתִי נֶגְדִּי וּבֹשֶׁת פָּנַי כִּסָּתְנִי׃",
       "he_plain": "כל היום כלמתי נגדי ובשת פני כסתני",
-      "translit": "Kol hayóm kelimaTí négdi; uvóshet panáy kisaténi.",
+      "translit": "Kol hayóm kelimatí négdi; uvóshet panáy kisaténi.",
       "es": "Todo el día mi vergüenza está delante de mí y la confusión de mi rostro me cubre,",
       "en": "I am always aware of my disgrace; I am wholly covered with shame",
       "translit_en": "Kol hayom kelimati negdi; uvoshet panay kisateni.",
       "fr": "Tout le jour ma honte est devant moi et la confusion de mon visage me couvre,",
-      "translit_fr": "Kol hayom keliMati négdi ; ouvoichet panaï kisaténi."
+      "translit_fr": "Kol hayom kelimati négdi ; ouvoichet panaï kisaténi."
     },
     {
       "num": 17,
       "he": "מִקּוֹל מְחָרֵף וּמְגַדֵּף מִפְּנֵי אוֹיֵב וּמִתְנַקֵּם׃",
       "he_plain": "מקול מחרף ומגדף מפני אויב ומתנקם",
-      "translit": "Mikól mejaréf umedaéf; mifnéi oyév umitnaKém.",
+      "translit": "Mikól mejaréf umedaéf; mifnéi oyév umitnakém.",
       "es": "a causa de la voz del que me afrenta y blasfema, por razón del enemigo y del vengador.",
       "en": "at the sound of taunting revilers, in the presence of the vengeful foe.",
       "translit_en": "Mikol mecharef umedaef; mifnei oyev umitnakem.",
       "fr": "à cause de la voix de celui qui m'insulte et blasphème, devant l'ennemi et le vengeur.",
-      "translit_fr": "Mikol mekharéf oumedagef ; mifneï oyev oumitnaKem."
+      "translit_fr": "Mikol mekharéf oumedagef ; mifneï oyev oumitnakem."
     },
     {
       "num": 18,
@@ -199,18 +199,18 @@
       "en": "All this has come upon us, yet we have not forgotten You, or been false to Your covenant.",
       "translit_en": "Kol zot baatnu velo shechachanucha; velo shikarnu bivritecha.",
       "fr": "Tout cela nous est arrivé et nous ne T'avons pas oublié ni trahi Ton alliance.",
-      "translit_fr": "Kol zot baAtnou velo chekhakHanOukha ; velo chikarnou bivritékha."
+      "translit_fr": "Kol zot baatnou velo chekhakhanoukha ; velo chikarnou bivritékha."
     },
     {
       "num": 19,
       "he": "לֹא נָסוֹג אָחוֹר לִבֵּנוּ וַתֵּט אֲשֻׁרֵינוּ מִנִּי אָרְחֶךָ׃",
       "he_plain": "לא נסוג אחור לבנו ותט אשורינו מני ארחך",
-      "translit": "Lo nasóg ajór libénu; vatét ashureínu miNí orjéja.",
+      "translit": "Lo nasóg ajór libénu; vatét ashureínu miní orjéja.",
       "es": "Nuestro corazón no se ha vuelto atrás ni se han apartado nuestros pasos de Tu senda,",
       "en": "Our hearts have not gone astray, nor have our feet swerved from Your path,",
       "translit_en": "Lo nasog achor libenu; vatet ashureinu mini orchecha.",
       "fr": "Notre cœur ne s'est pas détourné en arrière et nos pas ne se sont pas écartés de Ta voie,",
-      "translit_fr": "Lo nasog akhor libénou ; vatét achOureïnou mini orkhékha."
+      "translit_fr": "Lo nasog akhor libénou ; vatét achoureïnou mini orkhékha."
     },
     {
       "num": 20,
@@ -249,18 +249,18 @@
       "num": 23,
       "he": "כִּי עָלֶיךָ הֹרַגְנוּ כָל הַיּוֹם נֶחְשַׁבְנוּ כְּצֹאן טִבְחָה׃",
       "he_plain": "כי עליך הורגנו כל היום נחשבנו כצאן טבחה",
-      "translit": "Ki aléija horáGnu kol hayóm; nejshávnu jetsón tibJá.",
+      "translit": "Ki aléija horágnu kol hayóm; nejshávnu jetsón tibjá.",
       "es": "Pero por causa de Ti nos matan cada día; somos contados como ovejas para el matadero.",
       "en": "It is for Your sake that we are slain all day long, that we are regarded as sheep to be slaughtered.",
       "translit_en": "Ki aleicha horagnu kol hayom; nechshavnu chetson tibcha.",
       "fr": "C'est pour Toi que nous sommes tués tout le jour ; nous sommes considérés comme des brebis pour l'abattoir.",
-      "translit_fr": "Ki alékha horagNOU kol hayom ; nekhchavnou khetson tibkha."
+      "translit_fr": "Ki alékha horagnou kol hayom ; nekhchavnou khetson tibkha."
     },
     {
       "num": 24,
       "he": "עוּרָה לָמָּה תִישַׁן אֲדֹנָי הָקִיצָה אַל תִּזְנַח לָנֶצַח׃",
       "he_plain": "עורה למה תישן אדני הקיצה אל תזנח לנצח",
-      "translit": "Urá lamá tishán Adonái; hakítsá al tizNáj lanétsaj.",
+      "translit": "Urá lamá tishán Adonái; hakítsá al tiznáj lanétsaj.",
       "es": "Despierta; ¿por qué duermes, Señor? Levántate; no nos deseches para siempre.",
       "en": "Rouse Yourself; why do You sleep, O my Sovereign? Awaken, do not reject us forever!",
       "translit_en": "Ura lama tishan Adonai; hakitsa al tiznach lanetsach.",
@@ -276,13 +276,13 @@
       "en": "Why do You hide Your face, ignoring our affliction and distress?",
       "translit_en": "Lama paneicha tastir; tishkach onyenu velachatsenu.",
       "fr": "Pourquoi caches-Tu Ta face ? Pourquoi oublies-Tu notre affliction et notre oppression ?",
-      "translit_fr": "Lama panékha tastir ; tichkakh onyénou velakhatsEnou."
+      "translit_fr": "Lama panékha tastir ; tichkakh onyénou velakhatsenou."
     },
     {
       "num": 26,
       "he": "כִּי שָׁחָה לֶעָפָר נַפְשֵׁנוּ דָּבְקָה לָאָרֶץ בִּטְנֵנוּ׃",
       "he_plain": "כי שחה לעפר נפשנו דבקה לארץ בטננו",
-      "translit": "Ki shajá leafár nafshénu; davekáh laárets bitNénu.",
+      "translit": "Ki shajá leafár nafshénu; davekáh laárets bitnénu.",
       "es": "Porque nuestra alma está agobiada hasta el polvo y nuestro vientre se ha pegado a la tierra.",
       "en": "We lie prostrate in the dust; our body clings to the ground.",
       "translit_en": "Ki shacha leafar nafshenu; davekah laarets bitnenu.",

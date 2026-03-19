@@ -6,7 +6,7 @@
       "num": 1,
       "he": "מִזְמ֗וֹר לְדָ֫וִ֥ד יְהֹוָ֤ה׀ שְׁמַ֬ע תְּפִלָּתִ֗י הַאֲזִ֥ינָה אֶל־תַּחֲנוּנַ֑י בֶּאֱמֻנָתְךָ֥ עֲ֝נֵ֗נִי בְּצִדְקָתֶֽךָ׃",
       "he_plain": "מזמור לדוד יהוה שמע תפלתי האזינה אל תחנוני באמנתך ענני בצדקתך",
-      "translit": "Mizmór leDavíd. Adonái shmeá tefilaTí; haazíná el tajanunáy; beemunaTejA aníni; betsidkatejA.",
+      "translit": "Mizmór leDavíd. Adonái shmeá tefilatí; haazíná el tajanunáy; beemunateja aníni; betsidkateja.",
       "es": "Salmo de David. Eterno oye mi oración; escucha mis súplicas; respóndeme por Tu fidelidad y por Tu justicia.",
       "en": "A psalm of David. O E TERNAL One, hear my prayer; give ear to my plea, as You are faithful; answer me, as You are beneficent.",
       "translit_en": "Mizmor leDavid. Adonai shmea tefilati; haazina el tachanunay; beemunatecha anini; betsidkatecha."
@@ -24,7 +24,7 @@
       "num": 3,
       "he": "כִּ֥י רָ֘דַ֤ף אוֹיֵ֨ב׀ נַפְשִׁ֗י דִּכָּ֣א לָ֭אָרֶץ חַיָּתִ֑י הוֹשִׁבַ֥נִי בְ֝מַחֲשַׁכִּ֗ים כְּמֵתֵ֥י עוֹלָֽם׃",
       "he_plain": "כי רדף אויב נפשי דכא לארץ חיתי הושבני במחשכים כמתי עולם",
-      "translit": "Ki radáf oyév nafshí; diká laárets jayaTí; heshivéni bemajashakím kemétei olám.",
+      "translit": "Ki radáf oyév nafshí; diká laárets jayatí; heshivéni bemajashakím kemétei olám.",
       "es": "Porque el enemigo ha perseguido mi alma; ha postrado en tierra mi vida; me ha hecho habitar en tinieblas como los ya muertos.",
       "en": "My foe hounded me; he crushed me to the ground; he made me dwell in darkness like those long dead.",
       "translit_en": "Ki radaf oyev nafshi; dika laarets chayati; heshiveni bemachashakim kemetei olam."
@@ -33,7 +33,7 @@
       "num": 4,
       "he": "וַתִּתְעַטֵּ֣ף עָלַ֣י רוּחִ֑י בְּ֝תוֹכִ֗י יִשְׁתּוֹמֵ֥ם לִבִּֽי׃",
       "he_plain": "ותתעטף עלי רוחי בתוכי ישתומם לבי",
-      "translit": "VatishtatEf aláy rují; betoJí yishomém libí.",
+      "translit": "Vatishtatef aláy rují; betojí yishomém libí.",
       "es": "Y mi espíritu se angustió dentro de mí; se turbó mi corazón dentro de mí.",
       "en": "My spirit failed within me; my mind was numbed with horror.",
       "translit_en": "Vatishtatef alay ruchi; betochi yishomem libi."
@@ -42,7 +42,7 @@
       "num": 5,
       "he": "זָ֘כַ֤רְתִּי יָמִ֨ים׀ מִקֶּ֗דֶם הָגִ֥יתִי בְכׇל־פׇּעֳלֶ֑ךָ בְּֽמַעֲשֵׂ֖ה יָדֶ֣יךָ אֲשׂוֹחֵֽחַ׃",
       "he_plain": "זכרתי ימים מקדם הגיתי בכל פעלך במעשה ידיך אשוחח",
-      "translit": "ZajaRti yamím mikédem; hagíti bejol poalEja; bemaasEh yadéija asojéj.",
+      "translit": "Zajarti yamím mikédem; hagíti bejol poaleja; bemaaseh yadéija asojéj.",
       "es": "Me acordé de los días antiguos; medité en todas Tus obras; reflexioné en las obras de Tus manos.",
       "en": "Then I thought of the days of old; I rehearsed all Your deeds, recounted the work of Your hands.",
       "translit_en": "Zacharti yamim mikedem; hagiti bechol poalecha; bemaaseh yadeicha asochech."
@@ -51,7 +51,7 @@
       "num": 6,
       "he": "פֵּרַ֣שְׂתִּי יָדַ֣י אֵלֶ֑יךָ נַפְשִׁ֓י׀ כְּאֶרֶץ־עֲיֵפָ֖ה לְךָ֣ סֶֽלָה׃",
       "he_plain": "פרשתי ידי אליך נפשי כארץ עיפה לך סלה",
-      "translit": "Peráseti yadáy eléija; nafshí keérets ayefá lEja. Selá.",
+      "translit": "Peráseti yadáy eléija; nafshí keérets ayefá leja. Selá.",
       "es": "Extendí mis manos hacia Ti; mi alma Te anhela como la tierra sedienta. Selá.",
       "en": "I stretched out my hands to You, longing for You like thirsty earth. Selah.",
       "translit_en": "Peraseti yaday eleicha; nafshi keerets ayefa lecha. Sela."
@@ -60,7 +60,7 @@
       "num": 7,
       "he": "מַ֘הֵ֤ר עֲנֵ֨נִי׀ יְהֹוָה֮ כָּלְתָ֢ה ר֫וּחִ֥י אַל־תַּסְתֵּ֣ר פָּנֶ֣יךָ מִמֶּ֑נִּי וְ֝נִמְשַׁ֗לְתִּי עִם־יֹ֥רְדֵי בֽוֹר׃",
       "he_plain": "מהר ענני יהוה כלתה רוחי אל תסתר פניך ממני ונמשלתי עם ירדי בור",
-      "translit": "Mahér aníni Adonái; kaltá rují; al tastér panéija miméni; veNimshálti im yordéi vór.",
+      "translit": "Mahér aníni Adonái; kaltá rují; al tastér panéija miméni; venimshálti im yordéi vór.",
       "es": "Respóndeme pronto, oh Eterno; mi espíritu desfallece; no escondas de mí Tu rostro no sea que venga a ser semejante a los que descienden al sepulcro.",
       "en": "Answer me quickly, O E TERNAL One; my spirit can endure no more. Do not hide Your face from me, or I shall become like those who descend into the Pit.",
       "translit_en": "Maher anini Adonai; kalta ruchi; al taster paneicha mimeni; venimshalti im yordei vor."
@@ -69,7 +69,7 @@
       "num": 8,
       "he": "הַשְׁמִ֘יעֵ֤נִי בַבֹּ֨קֶר׀ חַסְדֶּךָ֮ כִּֽי־בְךָ֢ בָ֫טָ֥חְתִּי הוֹדִיעֵ֗נִי דֶּרֶךְ־ז֥וּ אֵלֵ֑ךְ כִּי־אֵ֝לֶ֗יךָ נָשָׂ֥אתִי נַפְשִֽׁי׃",
       "he_plain": "השמיעני בבקר חסדך כי בך בטחתי הודיעני דרך זו אלך כי אליך נשאתי נפשי",
-      "translit": "HashmíEni vavoker jasdéja; ki bejá vatájti; hodíEni dérej zú eléj; ki eléija nasáti nafshí.",
+      "translit": "Hashmíeni vavoker jasdéja; ki bejá vatájti; hodíeni dérej zú eléj; ki eléija nasáti nafshí.",
       "es": "Hazme oír por la mañana Tu bondad leal porque en Ti he confiado; hazme saber el camino por donde ande porque a Ti he elevado mi alma.",
       "en": "Let me learn of Your faithfulness by daybreak, for in You I trust; let me know the road I must take, for on You I have set my hope.",
       "translit_en": "Hashmieni vavoker chasdecha; ki becha vatachti; hodieni derech zu elech; ki eleicha nasati nafshi."
@@ -78,7 +78,7 @@
       "num": 9,
       "he": "הַצִּילֵ֖נִי מֵאֹיְבַ֥י׀יְהֹוָ֗ה אֵלֶ֥יךָ כִסִּֽתִי׃",
       "he_plain": "הצילני מאיבייהוה אליך כסתי",
-      "translit": "HatsileíNi meoyeVáy Adonái; eléija kiséti.",
+      "translit": "Hatsileíni meoyeváy Adonái; eléija kiséti.",
       "es": "Líbrame de mis enemigos, oh Eterno; a Ti me acojo.",
       "en": "Save me from my foes, O E TERNAL One; to You I look for cover. a to You I look for cover Meaning of Heb. uncertain.",
       "translit_en": "Hatsileini meoyevay Adonai; eleicha kiseti."
@@ -87,7 +87,7 @@
       "num": 10,
       "he": "לַמְּדֵ֤נִי׀ לַ֥עֲשׂ֣וֹת רְצוֹנֶךָ֮ כִּֽי־אַתָּ֢ה אֱל֫וֹהָ֥י רוּחֲךָ֥ טוֹבָ֑ה תַּ֝נְחֵ֗נִי בְּאֶ֣רֶץ מִישֽׁוֹר׃",
       "he_plain": "למדני לעשות רצונך כי אתה אלוהי רוחך טובה תנחני בארץ מישור",
-      "translit": "LamedéNi laasót retsonéja; ki atá Elohái; rujejA tová tenajéni; beérets mishor.",
+      "translit": "Lamedéni laasót retsonéja; ki atá Elohái; rujeja tová tenajéni; beérets mishor.",
       "es": "Enséñame a hacer Tu voluntad porque Tú eres mi Dios; Tu buen espíritu me guíe a tierra de rectitud.",
       "en": "Teach me to do Your will, for You are my God. Let Your gracious spirit lead me on level ground.",
       "translit_en": "Lamedeni laasot retsonecha; ki ata Elohai; ruchecha tova tenacheni; beerets mishor."
@@ -96,7 +96,7 @@
       "num": 11,
       "he": "לְמַעַן־שִׁמְךָ֣ יְהֹוָ֣ה תְּחַיֵּ֑נִי בְּצִדְקָתְךָ֓׀ תּוֹצִ֖יא מִצָּרָ֣ה נַפְשִֽׁי׃",
       "he_plain": "למען שמך יהוה תחיני בצדקתך תוציא מצרה נפשי",
-      "translit": "LemáaN shimjA Adonái tejaYéni; betsidkatejA totsiá mitsará nafshí.",
+      "translit": "Lemáan shimja Adonái tejayéni; betsidkateja totsiá mitsará nafshí.",
       "es": "Por Tu nombre, oh Eterno, me vivificarás; por Tu justicia sacarás mi alma de la angustia.",
       "en": "For the sake of Your name, O E TERNAL One, preserve me; as You are beneficent, free me from distress.",
       "translit_en": "Lemaan shimcha Adonai techayeni; betsidkatecha totsia mitsara nafshi."
@@ -105,7 +105,7 @@
       "num": 12,
       "he": "וּֽבְחַסְדְּךָ֮ תַּצְמִ֢ית אֹ֫יְבָ֥י וְֽ֭הַאֲבַדְתָּ כׇּל־צֹרְרֵ֣י נַפְשִׁ֑י כִּ֝֗י אֲנִ֣י עַבְדֶּֽךָ׃ {פ}",
       "he_plain": "ובחסדך תצמית איבי והאבדת כל צררי נפשי כי אני עבדך {פ}",
-      "translit": "UvejasdeJá tatsmiT oyeVáy; vehaabádTa kol tsoréi nafshí; ki aní abdéja.",
+      "translit": "Uvejasdejá tatsmit oyeváy; vehaabádta kol tsoréi nafshí; ki aní abdéja.",
       "es": "Y por Tu bondad leal disiparás a mis enemigos y destruirás a todos los adversarios de mi alma porque yo soy Tu siervo.",
       "en": "As You are faithful, put an end to my foes; destroy all my mortal enemies, for I am Your servant.",
       "translit_en": "Uvechasdecha tatsmit oyevay; vehaabadta kol tsorei nafshi; ki ani abdecha."

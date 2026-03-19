@@ -6,7 +6,7 @@
       "num": 1,
       "he": "אַשְׁרֵ֥י תְמִֽימֵי־דָ֑רֶךְ הַ֝הֹלְכִ֗ים בְּתוֹרַ֥ת יְהֹוָֽה׃",
       "he_plain": "אשרי תמימי דרך ההלכים בתורת יהוה",
-      "translit": "Ashréi temimEi dárej; haholeJím beTorát Adonái.",
+      "translit": "Ashréi temimei dárej; haholejím betorát Adonái.",
       "es": "Dichosos los íntegros de camino que andan en la Torá del Eterno.",
       "en": "א Happy are those whose way is blameless, who follow G OD ’s teaching.",
       "translit_en": "Ashrei temimei darech; haholechim beTorat Adonai."
@@ -24,7 +24,7 @@
       "num": 3,
       "he": "אַ֭ף לֹא־פָעֲל֣וּ עַוְלָ֑ה בִּדְרָכָ֥יו הָלָֽכוּ׃",
       "he_plain": "אף לא פעלו עולה בדרכיו הלכו",
-      "translit": "Af lo faAlú avlá; bidrajáv halájú.",
+      "translit": "Af lo faalú avlá; bidrajáv halájú.",
       "es": "Y no hacen iniquidad; caminan en Sus caminos.",
       "en": "They have done no wrong, but have followed God’s ways.",
       "translit_en": "Af lo faalu avla; bidrachav halachu."
@@ -42,7 +42,7 @@
       "num": 5,
       "he": "אַ֭חֲלַי יִכֹּ֥נוּ דְרָכָ֗י לִשְׁמֹ֥ר חֻקֶּֽיךָ׃",
       "he_plain": "אחלי יכנו דרכי לשמר חקיך",
-      "translit": "Ajaláy yikónu derajáy; lishmór juKéija.",
+      "translit": "Ajaláy yikónu derajáy; lishmór jukéija.",
       "es": "¡Ojalá fuesen ordenados mis caminos para guardar Tus estatutos!",
       "en": "Would that my ways were firm in keeping Your laws;",
       "translit_en": "Achalay yikonu derachay; lishmor chukeicha."
@@ -60,7 +60,7 @@
       "num": 7,
       "he": "א֭וֹדְךָ בְּיֹ֣שֶׁר לֵבָ֑ב בְּ֝לׇמְדִ֗י מִשְׁפְּטֵ֥י צִדְקֶֽךָ׃",
       "he_plain": "אודך בישר לבב בלמדי משפטי צדקך",
-      "translit": "Odejá beyóshef levav; beleomDí mishpetéi tsidkéja.",
+      "translit": "Odejá beyóshef levav; beleomdí mishpetéi tsidkéja.",
       "es": "Te alabaré con rectitud de corazón cuando aprendiere los juicios de Tu justicia.",
       "en": "I will praise You with a sincere heart as I learn Your just rules.",
       "translit_en": "Odecha beyoshef levav; beleomdi mishpetei tsidkecha."
@@ -69,7 +69,7 @@
       "num": 8,
       "he": "אֶת־חֻקֶּ֥יךָ אֶשְׁמֹ֑ר אַֽל־תַּעַזְבֵ֥נִי עַד־מְאֹֽד׃ {פ}",
       "he_plain": "את חקיך אשמר אל תעזבני עד מאד {פ}",
-      "translit": "Et juKéija eshmór; al taazvéni ad meód.",
+      "translit": "Et jukéija eshmór; al taazvéni ad meód.",
       "es": "Tus estatutos guardaré; no me abandones en gran manera.",
       "en": "I will keep Your laws; do not utterly forsake me.",
       "translit_en": "Et chukeicha eshmor; al taazveni ad meod."
@@ -78,7 +78,7 @@
       "num": 9,
       "he": "בַּמֶּ֣ה יְזַכֶּה־נַּ֭עַר אֶת־אׇרְח֑וֹ לִ֝שְׁמֹ֗ר כִּדְבָרֶֽךָ׃",
       "he_plain": "במה יזכה נער את ארחו לשמר כדברך",
-      "translit": "BaMéh yezaKéh naár et orjó; lishmór kidvaréja.",
+      "translit": "Baméh yezakéh naár et orjó; lishmór kidvaréja.",
       "es": "¿Con qué limpiará el joven su camino? Guardando Tu palabra.",
       "en": "ב How can youths keep their way pure?— by holding to Your word.",
       "translit_en": "Bameh yezakeh naar et orcho; lishmor kidvarecha."
@@ -87,7 +87,7 @@
       "num": 10,
       "he": "בְּכׇל־לִבִּ֥י דְרַשְׁתִּ֑יךָ אַל־תַּ֝שְׁגֵּ֗נִי מִמִּצְוֺתֶֽיךָ׃",
       "he_plain": "בכל לבי דרשתיך אל תשגני ממצותיך",
-      "translit": "Bejol libí derashtíja; al tashguéni mimitsvoTéija.",
+      "translit": "Bejol libí derashtíja; al tashguéni mimitsvotéija.",
       "es": "Con todo mi corazón Te he buscado; no me dejes desviarme de Tus mandamientos.",
       "en": "I have turned to You with all my heart; do not let me stray from Your commandments.",
       "translit_en": "Bechol libi derashticha; al tashgueni mimitsvoteicha."
@@ -96,7 +96,7 @@
       "num": 11,
       "he": "בְּ֭לִבִּי צָפַ֣נְתִּי אִמְרָתֶ֑ךָ לְ֝מַ֗עַן לֹ֣א אֶחֱטָא־לָֽךְ׃",
       "he_plain": "בלבי צפנתי אמרתך למען לא אחטא לך",
-      "translit": "BeliBí tsafánti imratéja; lemáan lo ejeta láj.",
+      "translit": "Belibí tsafánti imratéja; lemáan lo ejeta láj.",
       "es": "En mi corazón he guardado Tu dicho para no pecar contra Ti.",
       "en": "In my heart I treasure Your promise; therefore I do not sin against You.",
       "translit_en": "Belibi tsafanti imratecha; lemaan lo echeta lach."
@@ -105,7 +105,7 @@
       "num": 12,
       "he": "בָּר֖וּךְ אַתָּ֥ה יְהֹוָ֗ה לַמְּדֵ֥נִי חֻקֶּֽיךָ׃",
       "he_plain": "ברוך אתה יהוה למדני חקיך",
-      "translit": "Barúj atá Adonái; lamedéni juKéija.",
+      "translit": "Barúj atá Adonái; lamedéni jukéija.",
       "es": "Bendito eres Tú, oh Eterno; enséñame Tus estatutos.",
       "en": "Blessed are You, O E TERNAL One; train me in Your laws.",
       "translit_en": "Baruch ata Adonai; lamedeni chukeicha."
@@ -123,7 +123,7 @@
       "num": 14,
       "he": "בְּדֶ֖רֶךְ עֵדְוֺתֶ֥יךָ שַּׂ֗שְׂתִּי כְּעַ֣ל כׇּל־הֽוֹן׃",
       "he_plain": "בדרך עדותיך ששתי כעל כל הון",
-      "translit": "Bedérej edvotéija sástI; keal kol hón.",
+      "translit": "Bedérej edvotéija sásti; keal kol hón.",
       "es": "En el camino de Tus testimonios me he gozado como sobre toda riqueza.",
       "en": "I rejoice over the way of Your decrees as over all riches.",
       "translit_en": "Bederech edvoteicha sasti; keal kol hon."
@@ -132,7 +132,7 @@
       "num": 15,
       "he": "בְּפִקּוּדֶ֥יךָ אָשִׂ֑יחָה וְ֝אַבִּ֗יטָה אֹֽרְחֹתֶֽיךָ׃",
       "he_plain": "בפקודיך אשיחה ואביטה ארחתיך",
-      "translit": "BefikiudéIja asíja; veabitá orjotéija.",
+      "translit": "Befikiudéija asíja; veabitá orjotéija.",
       "es": "En Tus mandamientos meditaré y consideraré Tus caminos.",
       "en": "I study Your precepts; I regard Your ways;",
       "translit_en": "Befikiudeicha asicha; veabita orchoteicha."
@@ -141,7 +141,7 @@
       "num": 16,
       "he": "בְּחֻקֹּתֶ֥יךָ אֶֽשְׁתַּעֲשָׁ֑ע לֹ֖א אֶשְׁכַּ֣ח דְּבָרֶֽךָ׃ {פ}",
       "he_plain": "בחקתיך אשתעשע לא אשכח דברך {פ}",
-      "translit": "BeJukotéija etashaá; lo eshkáj devaréja.",
+      "translit": "Bejukotéija etashaá; lo eshkáj devaréja.",
       "es": "En Tus estatutos me deleito; no me olvidaré de Tu palabra.",
       "en": "I take delight in Your laws; I will not neglect Your word.",
       "translit_en": "Bechukoteicha etashaa; lo eshkach devarecha."
@@ -204,7 +204,7 @@
       "num": 23,
       "he": "גַּ֤ם יָשְׁב֣וּ שָׂ֭רִים בִּ֣י נִדְבָּ֑רוּ עַ֝בְדְּךָ֗ יָשִׂ֥יחַ בְּחֻקֶּֽיךָ׃",
       "he_plain": "גם ישבו שרים בי נדברו עבדך ישיח בחקיך",
-      "translit": "Gam yashevú sarím bí nidabéru; abdejá yasíj bejuKéija.",
+      "translit": "Gam yashevú sarím bí nidabéru; abdejá yasíj bejukéija.",
       "es": "Aunque príncipes se sentaron y hablaron contra mí; Tu siervo meditaba en Tus estatutos.",
       "en": "Though princes meet and speak against me, Your servant studies Your laws.",
       "translit_en": "Gam yashevu sarim bi nidaberu; abdecha yasich bechukeicha."
@@ -213,7 +213,7 @@
       "num": 24,
       "he": "גַּֽם־עֵ֭דֹתֶיךָ שַׁעֲשֻׁעָ֗י אַנְשֵׁ֥י עֲצָתִֽי׃ {פ}",
       "he_plain": "גם עדתיך שעשעי אנשי עצתי {פ}",
-      "translit": "Gam edvotéija shaashUáy; anshéi atsatí.",
+      "translit": "Gam edvotéija shaashuáy; anshéi atsatí.",
       "es": "También Tus testimonios son mis delicias y mis consejeros.",
       "en": "For Your decrees are my delight, my intimate companions.",
       "translit_en": "Gam edvoteicha shaashuay; anshei atsati."
@@ -222,7 +222,7 @@
       "num": 25,
       "he": "דָּבְקָ֣ה לֶעָפָ֣ר נַפְשִׁ֑י חַ֝יֵּ֗נִי כִּדְבָרֶֽךָ׃",
       "he_plain": "דבקה לעפר נפשי חיני כדברך",
-      "translit": "Dabká leafár nafshí; jaYéni kidvaréja.",
+      "translit": "Dabká leafár nafshí; jayéni kidvaréja.",
       "es": "Mi alma está postrada en el polvo; vivifícame según Tu palabra.",
       "en": "ד My soul clings to the dust; revive me in accordance with Your word.",
       "translit_en": "Dabka leafar nafshi; chayeni kidvarecha."
@@ -231,7 +231,7 @@
       "num": 26,
       "he": "דְּרָכַ֣י סִ֭פַּרְתִּי וַֽתַּעֲנֵ֗נִי לַמְּדֵ֥נִי חֻקֶּֽיךָ׃",
       "he_plain": "דרכי ספרתי ותענני למדני חקיך",
-      "translit": "Derajáy sipárti vatanéni; lamedéni juKéija.",
+      "translit": "Derajáy sipárti vatanéni; lamedéni jukéija.",
       "es": "Conté mis caminos y me respondiste; enséñame Tus estatutos.",
       "en": "I have declared my way, and You have answered me; train me in Your laws.",
       "translit_en": "Derachay siparti vataneni; lamedeni chukeicha."
@@ -258,7 +258,7 @@
       "num": 29,
       "he": "דֶּֽרֶךְ־שֶׁ֭קֶר הָסֵ֣ר מִמֶּ֑נִּי וְֽתוֹרָתְךָ֥ חׇנֵּֽנִי׃",
       "he_plain": "דרך שקר הסר ממני ותורתך חנני",
-      "translit": "Dérej shéker haseR mimení; veToratejá jonéni.",
+      "translit": "Dérej shéker haser mimení; veToratejá jonéni.",
       "es": "Aparta de mí el camino de la mentira y en Tu gracia concédeme Tu Torá.",
       "en": "Remove all false ways from me; favor me with Your teaching.",
       "translit_en": "Derech sheker haser mimeni; veToratecha choneni."
@@ -276,7 +276,7 @@
       "num": 31,
       "he": "דָּבַ֥קְתִּי בְעֵדְוֺתֶ֑יךָ יְ֝הֹוָ֗ה אַל־תְּבִישֵֽׁנִי׃",
       "he_plain": "דבקתי בעדותיך יהוה אל תבישני",
-      "translit": "DabáKtI beEdvotéija Adonái; al tevishéni.",
+      "translit": "Dabákti beedvotéija Adonái; al tevishéni.",
       "es": "Me he allegado a Tus testimonios, oh Eterno; no me avergüences.",
       "en": "I cling to Your decrees; O E TERNAL One, do not put me to shame.",
       "translit_en": "Dabakti beedvoteicha Adonai; al tevisheni."
@@ -294,7 +294,7 @@
       "num": 33,
       "he": "הוֹרֵ֣נִי יְ֭הֹוָה דֶּ֥רֶךְ חֻקֶּ֗יךָ וְאֶצְּרֶ֥נָּה עֵֽקֶב׃",
       "he_plain": "הורני יהוה דרך חקיך ואצרנה עקב",
-      "translit": "Horéni Adonái dérej juKéija; veEtsrenáh ekév.",
+      "translit": "Horéni Adonái dérej jukéija; veetsrenáh ekév.",
       "es": "Enséñame, oh Eterno, el camino de Tus estatutos y lo guardaré hasta el fin.",
       "en": "ה Teach me, O E TERNAL One, the way of Your laws; I will observe them to the utmost. a to the utmost Meaning of Heb. uncertain.",
       "translit_en": "Horeni Adonai derech chukeicha; veetsrenah ekev."
@@ -303,7 +303,7 @@
       "num": 34,
       "he": "הֲ֭בִינֵנִי וְאֶצְּרָ֥ה תוֹרָתֶ֗ךָ וְאֶשְׁמְרֶ֥נָּה בְכׇל־לֵֽב׃",
       "he_plain": "הבינני ואצרה תורתך ואשמרנה בכל לב",
-      "translit": "HavíNeni veEtsóra ToratéJa; veEshmereNa vejol lév.",
+      "translit": "Havíneni veetsóra Toratéja; veeshmerena vejol lév.",
       "es": "Dame entendimiento y guardaré Tu Torá y la cumpliré con todo el corazón.",
       "en": "Give me understanding, that I may observe Your teaching and keep it wholeheartedly.",
       "translit_en": "Havineni veetsora Toratecha; veeshmerena vechol lev."
@@ -312,7 +312,7 @@
       "num": 35,
       "he": "הַ֭דְרִיכֵנִי בִּנְתִ֣יב מִצְוֺתֶ֑יךָ כִּי־ב֥וֹ חָפָֽצְתִּי׃",
       "he_plain": "הדריכני בנתיב מצותיך כי בו חפצתי",
-      "translit": "HaDrijéni binetiváT mitsvotéija; ki bó jafáTsti.",
+      "translit": "Hadrijéni binetivát mitsvotéija; ki bó jafátsti.",
       "es": "Guíame por la senda de Tus mandamientos porque en ella me deleito.",
       "en": "Lead me in the path of Your commandments, for that is my concern.",
       "translit_en": "Hadricheni binetivat mitsvoteicha; ki bo chafatsti."
@@ -330,7 +330,7 @@
       "num": 37,
       "he": "הַעֲבֵ֣ר עֵ֭ינַי מֵרְא֣וֹת שָׁ֑וְא בִּדְרָכֶ֥ךָ חַיֵּֽנִי׃",
       "he_plain": "העבר עיני מראות שוא בדרכך חיני",
-      "translit": "Haavér einái mereót sháv; bidrajéja jaYéni.",
+      "translit": "Haavér einái mereót sháv; bidrajéja jayéni.",
       "es": "Aparta mis ojos de ver la vanidad; vivifícame en Tu camino.",
       "en": "Avert my eyes from seeing falsehood; by Your ways preserve me.",
       "translit_en": "Haaver einai mereot shav; bidrachecha chayeni."
@@ -339,7 +339,7 @@
       "num": 38,
       "he": "הָקֵ֣ם לְ֭עַבְדְּךָ אִמְרָתֶ֑ךָ אֲ֝שֶׁ֗ר לְיִרְאָתֶֽךָ׃",
       "he_plain": "הקם לעבדך אמרתך אשר ליראתך",
-      "translit": "Hakém laabdéja imratéja; ashér leyirAtéja.",
+      "translit": "Hakém laabdéja imratéja; ashér leyiratéja.",
       "es": "Confirma a Tu siervo Tu dicho que es para quienes Te temen.",
       "en": "Fulfill Your promise to Your servant, which is for those who worship You.",
       "translit_en": "Hakem laabdecha imratecha; asher leyiratecha."
@@ -357,7 +357,7 @@
       "num": 40,
       "he": "הִ֭נֵּה תָּאַ֣בְתִּי לְפִקֻּדֶ֑יךָ בְּצִדְקָתְךָ֥ חַיֵּֽנִי׃ {פ}",
       "he_plain": "הנה תאבתי לפקדיך בצדקתך חיני {פ}",
-      "translit": "Hiné taávti fikudéija; betsidkatéja jaYéni.",
+      "translit": "Hiné taávti fikudéija; betsidkatéja jayéni.",
       "es": "He aquí que he anhelado Tus mandamientos; vivifícame en Tu justicia.",
       "en": "See, I have longed for Your precepts; by Your righteousness preserve me.",
       "translit_en": "Hine taavti fikudeicha; betsidkatecha chayeni."
@@ -375,7 +375,7 @@
       "num": 42,
       "he": "וְאֶעֱנֶ֣ה חֹרְפִ֣י דָבָ֑ר כִּֽי־בָ֝טַ֗חְתִּי בִּדְבָרֶֽךָ׃",
       "he_plain": "ואענה חרפי דבר כי בטחתי בדברך",
-      "translit": "VeEené jorefí davár; ki vatárti bedvaréja.",
+      "translit": "Veeené jorefí davár; ki vatárti bedvaréja.",
       "es": "Y responderé a mi ofensor con una palabra porque confío en Tu palabra.",
       "en": "I shall have an answer for those who taunt me, for I have put my trust in Your word.",
       "translit_en": "Veeene chorefi davar; ki vatarti bedvarecha."
@@ -384,7 +384,7 @@
       "num": 43,
       "he": "וְֽאַל־תַּצֵּ֬ל מִפִּ֣י דְבַר־אֱמֶ֣ת עַד־מְאֹ֑ד כִּ֖י לְמִשְׁפָּטֶ֣ךָ יִחָֽלְתִּי׃",
       "he_plain": "ואל תצל מפי דבר אמת עד מאד כי למשפטך יחלתי",
-      "translit": "Veal tatséL mipí devár emet ad meód; ki lemishpatéja ijálti.",
+      "translit": "Veal tatsél mipí devár emet ad meód; ki lemishpatéja ijálti.",
       "es": "No quites de mi boca la palabra de verdad en ninguna manera porque espero en Tus juicios.",
       "en": "Do not utterly take the truth away from my mouth, for I have put my hope in Your rules.",
       "translit_en": "Veal tatsel mipi devar emet ad meod; ki lemishpatecha ichalti."
@@ -393,7 +393,7 @@
       "num": 44,
       "he": "וְאֶשְׁמְרָ֖ה תוֹרָתְךָ֥ תָמִ֗יד לְעוֹלָ֥ם וָעֶֽד׃",
       "he_plain": "ואשמרה תורתך תמיד לעולם ועד",
-      "translit": "VeEeshmóra Toratéja tamíd; leolám vaéd.",
+      "translit": "Veeeshmóra Toratéja tamíd; leolám vaéd.",
       "es": "Y guardaré Tu Torá continuamente para siempre jamás.",
       "en": "I will always obey Your teaching, forever and ever.",
       "translit_en": "Veeeshmora Toratecha tamid; leolam vaed."
@@ -402,7 +402,7 @@
       "num": 45,
       "he": "וְאֶתְהַלְּכָ֥ה בָרְחָבָ֑ה כִּ֖י פִקֻּדֶ֣יךָ דָרָֽשְׁתִּי׃",
       "he_plain": "ואתהלכה ברחבה כי פקדיך דרשתי",
-      "translit": "VeEethalEja varehová; ki fikudéija darashti.",
+      "translit": "Veeethaleja varehová; ki fikudéija darashti.",
       "es": "Y andaré en libertad porque busqué Tus mandamientos.",
       "en": "I will walk about at ease, for I have turned to Your precepts.",
       "translit_en": "Veeethalecha varehova; ki fikudeicha darashti."
@@ -411,7 +411,7 @@
       "num": 46,
       "he": "וַאֲדַבְּרָ֣ה בְ֭עֵדֹתֶיךָ נֶ֥גֶד מְלָכִ֗ים וְלֹ֣א אֵבֽוֹשׁ׃",
       "he_plain": "ואדברה בעדתיך נגד מלכים ולא אבוש",
-      "translit": "VaaDabéra vedotéija négéd melajím; velo evósh.",
+      "translit": "Vaadabéra vedotéija négéd melajím; velo evósh.",
       "es": "Y hablaré de Tus testimonios delante de reyes y no me avergonzaré.",
       "en": "I will speak of Your decrees, and not be ashamed in the presence of kings.",
       "translit_en": "Vaadabera vedoteicha neged melachim; velo evosh."
@@ -420,7 +420,7 @@
       "num": 47,
       "he": "וְאֶשְׁתַּעֲשַׁ֥ע בְּמִצְוֺתֶ֗יךָ אֲשֶׁ֣ר אָהָֽבְתִּי׃",
       "he_plain": "ואשתעשע במצותיך אשר אהבתי",
-      "translit": "VeEetashaá bemitsvotéija ashér ahávti.",
+      "translit": "Veeetashaá bemitsvotéija ashér ahávti.",
       "es": "Y me deleitaré en Tus mandamientos los cuales he amado.",
       "en": "I will delight in Your commandments, which I love.",
       "translit_en": "Veeetashaa bemitsvoteicha asher ahavti."
@@ -429,7 +429,7 @@
       "num": 48,
       "he": "וְאֶשָּֽׂא־כַפַּ֗י אֶֽל־מִ֭צְוֺתֶיךָ אֲשֶׁ֥ר אָהָ֗בְתִּי וְאָשִׂ֥יחָה בְחֻקֶּֽיךָ׃ {פ}",
       "he_plain": "ואשא כפי אל מצותיך אשר אהבתי ואשיחה בחקיך {פ}",
-      "translit": "VeEesá jadáy el mitsvotéija ashér ahávti; veAsijá bejuKéija.",
+      "translit": "Veeesá jadáy el mitsvotéija ashér ahávti; veasijá bejukéija.",
       "es": "Y alzaré mis manos a Tus mandamientos que he amado y meditaré en Tus estatutos.",
       "en": "I reach out for Your commandments, which I love; I study Your laws.",
       "translit_en": "Veeesa chaday el mitsvoteicha asher ahavti; veasicha bechukeicha."
@@ -438,7 +438,7 @@
       "num": 49,
       "he": "זְכֹר־דָּבָ֥ר לְעַבְדֶּ֑ךָ עַ֝֗ל אֲשֶׁ֣ר יִחַלְתָּֽנִי׃",
       "he_plain": "זכר דבר לעבדך על אשר יחלתני",
-      "translit": "Zejor davár leabdéja; al ashér yijalTáni.",
+      "translit": "Zejor davár leabdéja; al ashér yijaltáni.",
       "es": "Acuérdate de la palabra a Tu siervo en la cual me has hecho esperar.",
       "en": "ז Remember Your word to Your servant through which You have given me hope.",
       "translit_en": "Zechor davar leabdecha; al asher yichaltani."
@@ -447,7 +447,7 @@
       "num": 50,
       "he": "זֹ֣את נֶחָמָתִ֣י בְעׇנְיִ֑י כִּ֖י אִמְרָתְךָ֣ חִיָּֽתְנִי׃",
       "he_plain": "זאת נחמתי בעניי כי אמרתך חיתני",
-      "translit": "Zot nejamáti beoníi; ki imratejá jiYáTni.",
+      "translit": "Zot nejamáti beoníi; ki imratejá jiyátni.",
       "es": "Este es mi consuelo en mi aflicción porque Tu dicho me ha vivificado.",
       "en": "This is my comfort in my affliction, that Your promise has preserved me.",
       "translit_en": "Zot nechamati beonii; ki imratecha chiyatni."
@@ -483,7 +483,7 @@
       "num": 54,
       "he": "זְ֭מִרוֹת הָיוּ־לִ֥י חֻקֶּ֗יךָ בְּבֵ֣ית מְגוּרָֽי׃",
       "he_plain": "זמרות היו לי חקיך בבית מגורי",
-      "translit": "Zemirót hayú lí juKéija; bebeit meguráy.",
+      "translit": "Zemirót hayú lí jukéija; bebeit meguráy.",
       "es": "Cánticos fueron para mí Tus estatutos en la casa de mis peregrinaciones.",
       "en": "Your laws are a source of strength to me b a source of strength to me Or “songs for me.” wherever I may dwell.",
       "translit_en": "Zemirot hayu li chukeicha; bebeit meguray."
@@ -492,7 +492,7 @@
       "num": 55,
       "he": "זָ֘כַ֤רְתִּי בַלַּ֣יְלָה שִׁמְךָ֣ יְהֹוָ֑ה וָ֝אֶשְׁמְרָ֗ה תּוֹרָתֶֽךָ׃",
       "he_plain": "זכרתי בלילה שמך יהוה ואשמרה תורתך",
-      "translit": "Zajarti valáyla shimejá Adonái; vaEeshmóra Toratéja.",
+      "translit": "Zajarti valáyla shimejá Adonái; vaeeshmóra Toratéja.",
       "es": "Me acordé en la noche de Tu nombre, oh Eterno y guardé Tu Torá.",
       "en": "I remember Your name at night, O E TERNAL One, and obey Your teaching.",
       "translit_en": "Zacharti valayla shimecha Adonai; vaeeshmora Toratecha."
@@ -528,7 +528,7 @@
       "num": 59,
       "he": "חִשַּׁ֥בְתִּי דְרָכָ֑י וָאָשִׁ֥יבָה רַ֝גְלַ֗י אֶל־עֵדֹתֶֽיךָ׃",
       "he_plain": "חשבתי דרכי ואשיבה רגלי אל עדתיך",
-      "translit": "JisháTti derajáy; vaashivá ragláy el edvotéija.",
+      "translit": "Jishátti derajáy; vaashivá ragláy el edvotéija.",
       "es": "Consideré mis caminos y volví mis pies a Tus testimonios.",
       "en": "I have considered my ways, and have turned back to Your decrees.",
       "translit_en": "Chishatti derachay; vaashiva raglay el edvoteicha."
@@ -546,7 +546,7 @@
       "num": 61,
       "he": "חֶבְלֵ֣י רְשָׁעִ֣ים עִוְּדֻ֑נִי תּ֥֝וֹרָתְךָ֗ לֹ֣א שָׁכָֽחְתִּי׃",
       "he_plain": "חבלי רשעים עודני תורתך לא שכחתי",
-      "translit": "Jevléi reshaím iveduNi; Toratejá lo shajájti.",
+      "translit": "Jevléi reshaím iveduni; Toratejá lo shajájti.",
       "es": "Los lazos de los impíos me han rodeado; no me he olvidado de Tu Torá.",
       "en": "Though the bonds of the wicked are coiled round me, I have not neglected Your teaching.",
       "translit_en": "Chevlei reshaim iveduni; Toratecha lo shachachti."
@@ -564,7 +564,7 @@
       "num": 63,
       "he": "חָבֵ֣ר אָ֭נִי לְכׇל־אֲשֶׁ֣ר יְרֵא֑וּךָ וּ֝לְשֹׁמְרֵ֗י פִּקּוּדֶֽיךָ׃",
       "he_plain": "חבר אני לכל אשר יראוך ולשמרי פקודיך",
-      "translit": "Javér aní lejol ashér yerEúja; uleshomréi fikudéija.",
+      "translit": "Javér aní lejol ashér yereúja; uleshomréi fikudéija.",
       "es": "Compañero soy yo de todos los que Te temen y guardan Tus mandamientos.",
       "en": "I am a companion to all who fear You, to those who keep Your precepts.",
       "translit_en": "Chaver ani lechol asher yereucha; uleshomrei fikudeicha."
@@ -573,7 +573,7 @@
       "num": 64,
       "he": "חַסְדְּךָ֣ יְ֭הֹוָה מָלְאָ֥ה הָאָ֗רֶץ חֻקֶּ֥יךָ לַמְּדֵֽנִי׃ {פ}",
       "he_plain": "חסדך יהוה מלאה הארץ חקיך למדני {פ}",
-      "translit": "JasdejA Adonái malerá haárets; juKéija lamedéni.",
+      "translit": "Jasdeja Adonái malerá haárets; jukéija lamedéni.",
       "es": "De Tu bondad leal, oh Eterno, está llena la tierra; enséñame Tus estatutos.",
       "en": "Your steadfast love, O E TERNAL One, fills the earth; teach me Your laws.",
       "translit_en": "Chasdecha Adonai malera haarets; chukeicha lamedeni."
@@ -582,7 +582,7 @@
       "num": 65,
       "he": "ט֭וֹב עָשִׂ֣יתָ עִֽם־עַבְדְּךָ֑ יְ֝הֹוָ֗ה כִּדְבָרֶֽךָ׃",
       "he_plain": "טוב עשית עם עבדך יהוה כדברך",
-      "translit": "Tov asíta im abdejA Adonái; kidvaréja.",
+      "translit": "Tov asíta im abdeja Adonái; kidvaréja.",
       "es": "Bien has hecho con Tu siervo, oh Eterno, conforme a Tu palabra.",
       "en": "ט You have treated Your servant well, according to Your word, O E TERNAL One.",
       "translit_en": "Tov asita im abdecha Adonai; kidvarecha."
@@ -600,7 +600,7 @@
       "num": 67,
       "he": "טֶ֣רֶם אֶ֭עֱנֶה אֲנִ֣י שֹׁגֵ֑ג וְ֝עַתָּ֗ה אִמְרָתְךָ֥ שָׁמָֽרְתִּי׃",
       "he_plain": "טרם אענה אני שגג ועתה אמרתך שמרתי",
-      "translit": "Térem eagNéh aní shoguéh; veata imratejA shomárti.",
+      "translit": "Térem eagnéh aní shoguéh; veata imrateja shomárti.",
       "es": "Antes que fuera afligido yo erraba; pero ahora guardo Tu dicho.",
       "en": "Before I was humbled I went astray, but now I keep Your word.",
       "translit_en": "Terem eagneh ani shogueh; veata imratecha shomarti."
@@ -609,7 +609,7 @@
       "num": 68,
       "he": "טוֹב־אַתָּ֥ה וּמֵטִ֗יב לַמְּדֵ֥נִי חֻקֶּֽיךָ׃",
       "he_plain": "טוב אתה ומטיב למדני חקיך",
-      "translit": "Tov atá umétiv; lamedéni juKéija.",
+      "translit": "Tov atá umétiv; lamedéni jukéija.",
       "es": "Bueno eres Tú y bienhechor; enséñame Tus estatutos.",
       "en": "You are good and beneficent; teach me Your laws.",
       "translit_en": "Tov ata umetiv; lamedeni chukeicha."
@@ -636,7 +636,7 @@
       "num": 71,
       "he": "טֽוֹב־לִ֥י כִי־עֻנֵּ֑יתִי לְ֝מַ֗עַן אֶלְמַ֥ד חֻקֶּֽיךָ׃",
       "he_plain": "טוב לי כי עניתי למען אלמד חקיך",
-      "translit": "Tov lí ki uNéiti; lemáan elméd juKéija.",
+      "translit": "Tov lí ki unéiti; lemáan elméd jukéija.",
       "es": "Bueno me es haber sido afligido para que aprenda Tus estatutos.",
       "en": "It was good for me that I was humbled, so that I might learn Your laws.",
       "translit_en": "Tov li ki uneiti; lemaan elmed chukeicha."
@@ -645,7 +645,7 @@
       "num": 72,
       "he": "טֽוֹב־לִ֥י תוֹרַת־פִּ֑יךָ מֵ֝אַלְפֵ֗י זָהָ֥ב וָכָֽסֶף׃ {פ}",
       "he_plain": "טוב לי תורת פיך מאלפי זהב וכסף {פ}",
-      "translit": "Tov lí Torát fíja; mealpéi zaháv vaKésef.",
+      "translit": "Tov lí Torát fíja; mealpéi zaháv vakésef.",
       "es": "Mejor me es la Torá de Tu boca que millares de oro y plata.",
       "en": "I prefer the teaching You proclaimed to thousands of gold and silver pieces.",
       "translit_en": "Tov li Torat ficha; mealpei zahav vakesef."
@@ -654,7 +654,7 @@
       "num": 73,
       "he": "יָדֶ֣יךָ עָ֭שׂוּנִי וַֽיְכוֹנְנ֑וּנִי הֲ֝בִינֵ֗נִי וְאֶלְמְדָ֥ה מִצְוֺתֶֽיךָ׃",
       "he_plain": "ידיך עשוני ויכוננוני הבינני ואלמדה מצותיך",
-      "translit": "Yadéija asúni vayejonNéuni; havíNeini veElméda mitsvotéija.",
+      "translit": "Yadéija asúni vayejonnéuni; havíneini veelméda mitsvotéija.",
       "es": "Tus manos me hicieron y me formaron; dame entendimiento para que aprenda Tus mandamientos.",
       "en": "י Your hands made me and fashioned me; give me understanding that I may learn Your commandments.",
       "translit_en": "Yadeicha asuni vayechonneuni; havineini veelmeda mitsvoteicha."
@@ -663,7 +663,7 @@
       "num": 74,
       "he": "יְ֭רֵאֶיךָ יִרְא֣וּנִי וְיִשְׂמָ֑חוּ כִּ֖י לִדְבָרְךָ֣ יִחָֽלְתִּי׃",
       "he_plain": "יראיך יראוני וישמחו כי לדברך יחלתי",
-      "translit": "Yiréija yirúni veyismájú; ki liDvarjA ijálti.",
+      "translit": "Yiréija yirúni veyismájú; ki lidvarja ijálti.",
       "es": "Los que Te temen me verán y se alegrarán porque en Tu palabra he esperado.",
       "en": "Those who fear You will see me and rejoice, for I have put my hope in Your word.",
       "translit_en": "Yireicha yiruni veyismachu; ki lidvarcha ichalti."
@@ -672,7 +672,7 @@
       "num": 75,
       "he": "יָדַ֣עְתִּי יְ֭הֹוָה כִּי־צֶ֣דֶק מִשְׁפָּטֶ֑יךָ וֶ֝אֱמוּנָ֗ה עִנִּיתָֽנִי׃",
       "he_plain": "ידעתי יהוה כי צדק משפטיך ואמונה עניתני",
-      "translit": "Yadáati Adonái ki tsédek mishpatéija; veemuná inItáni.",
+      "translit": "Yadáati Adonái ki tsédek mishpatéija; veemuná initáni.",
       "es": "Sé, oh Eterno, que Tus juicios son justos y que conforme a Tu fidelidad me afligiste.",
       "en": "I know, O E TERNAL One, that Your rulings are just; rightly have You humbled me.",
       "translit_en": "Yadaati Adonai ki tsedek mishpateicha; veemuna initani."
@@ -681,7 +681,7 @@
       "num": 76,
       "he": "יְהִי־נָ֣א חַסְדְּךָ֣ לְנַחֲמֵ֑נִי כְּאִמְרָתְךָ֥ לְעַבְדֶּֽךָ׃",
       "he_plain": "יהי נא חסדך לנחמני כאמרתך לעבדך",
-      "translit": "Yehí ná jasdejA lenajamEni; keimratejá leabdéja.",
+      "translit": "Yehí ná jasdeja lenajameni; keimratejá leabdéja.",
       "es": "Sea ahora Tu bondad leal para consolarme conforme a Tu dicho a Tu siervo.",
       "en": "May Your steadfast love comfort me in accordance with Your promise to Your servant.",
       "translit_en": "Yehi na chasdecha lenachameni; keimratecha leabdecha."
@@ -690,7 +690,7 @@
       "num": 77,
       "he": "יְבֹא֣וּנִי רַחֲמֶ֣יךָ וְאֶחְיֶ֑ה כִּי־ת֥֝וֹרָתְךָ֗ שַׁעֲשֻׁעָֽי׃",
       "he_plain": "יבאוני רחמיך ואחיה כי תורתך שעשעי",
-      "translit": "Yeovúni rajamEija veejyéh; ki Toratejá shaashúáy.",
+      "translit": "Yeovúni rajameija veejyéh; ki Toratejá shaashúáy.",
       "es": "Vengan a mí Tus misericordias para que viva porque Tu Torá es mi delicia.",
       "en": "May Your mercy reach me, that I might live, for Your teaching is my delight.",
       "translit_en": "Yeovuni rachameicha veechyeh; ki Toratecha shaashuay."
@@ -699,7 +699,7 @@
       "num": 78,
       "he": "יֵבֹ֣שׁוּ זֵ֭דִים כִּי־שֶׁ֣קֶר עִוְּת֑וּנִי אֲ֝נִ֗י אָשִׂ֥יחַ בְּפִקּוּדֶֽיךָ׃",
       "he_plain": "יבשו זדים כי שקר עותוני אני אשיח בפקודיך",
-      "translit": "Yevóshú zedím ki shéker ivetuNi; aní asíj befinikudéija.",
+      "translit": "Yevóshú zedím ki shéker ivetuni; aní asíj befinikudéija.",
       "es": "Sean avergonzados los soberbios porque con mentira me han derrocado; yo meditaré en Tus mandamientos.",
       "en": "Let the insolent be dismayed, for they have wronged me without cause; I will study Your precepts.",
       "translit_en": "Yevoshu zedim ki sheker ivetuni; ani asich befinikudeicha."
@@ -708,7 +708,7 @@
       "num": 79,
       "he": "יָשׁ֣וּבוּ לִ֣י יְרֵאֶ֑יךָ (וידעו) [וְ֝יֹדְעֵ֗י] עֵדֹתֶֽיךָ׃",
       "he_plain": "ישובו לי יראיך (וידעו) [וידעי] עדתיך",
-      "translit": "Yashuvú lí yerEéija; veYodéi edvotéija.",
+      "translit": "Yashuvú lí yereéija; veyodéi edvotéija.",
       "es": "Vuélvanse a mí los que Te temen y los que conocen Tus testimonios.",
       "en": "May those who fear You, those who know Your decrees, turn again to me.",
       "translit_en": "Yashuvu li yereeicha; veyodei edvoteicha."
@@ -717,7 +717,7 @@
       "num": 80,
       "he": "יְהִי־לִבִּ֣י תָמִ֣ים בְּחֻקֶּ֑יךָ לְ֝מַ֗עַן לֹ֣א אֵבֽוֹשׁ׃ {פ}",
       "he_plain": "יהי לבי תמים בחקיך למען לא אבוש {פ}",
-      "translit": "Yehí libí tamím bejuKéija; lemáan lo evósh.",
+      "translit": "Yehí libí tamím bejukéija; lemáan lo evósh.",
       "es": "Sea mi corazón íntegro en Tus estatutos para que no me avergüence.",
       "en": "May I wholeheartedly follow Your laws so that I do not come to grief.",
       "translit_en": "Yehi libi tamim bechukeicha; lemaan lo evosh."
@@ -726,7 +726,7 @@
       "num": 81,
       "he": "כָּלְתָ֣ה לִתְשׁוּעָתְךָ֣ נַפְשִׁ֑י לִדְבָרְךָ֥ יִחָֽלְתִּי׃",
       "he_plain": "כלתה לתשועתך נפשי לדברך יחלתי",
-      "translit": "KaleTá lishuatejA nafshí; liDvarjA ijálti.",
+      "translit": "Kaletá lishuateja nafshí; lidvarja ijálti.",
       "es": "Desfallece mi alma por Tu salvación; en Tu palabra espero.",
       "en": "כ I long for Your deliverance; I hope for Your word.",
       "translit_en": "Kaleta lishuatecha nafshi; lidvarcha ichalti."
@@ -735,7 +735,7 @@
       "num": 82,
       "he": "כָּל֣וּ עֵ֭ינַי לְאִמְרָתֶ֑ךָ לֵ֝אמֹ֗ר מָתַ֥י תְּֽנַחֲמֵֽנִי׃",
       "he_plain": "כלו עיני לאמרתך לאמר מתי תנחמני",
-      "translit": "KalÚ einái leimratéja; lemór matáy tenajamEni.",
+      "translit": "Kalú einái leimratéja; lemór matáy tenajameni.",
       "es": "Se consumen mis ojos por Tu dicho diciendo: ¿Cuándo me consolarás?",
       "en": "My eyes pine away for Your promise; I say, “When will You comfort me?”",
       "translit_en": "Kalu einai leimratecha; lemor matay tenachameni."
@@ -744,7 +744,7 @@
       "num": 83,
       "he": "כִּֽי־הָ֭יִיתִי כְּנֹ֣אד בְּקִיט֑וֹר חֻ֝קֶּ֗יךָ לֹ֣א שָׁכָֽחְתִּי׃",
       "he_plain": "כי הייתי כנאד בקיטור חקיך לא שכחתי",
-      "translit": "Ki hayíti kjinéd beKitór; juKéija lo shajájti.",
+      "translit": "Ki hayíti kjinéd bekitór; jukéija lo shajájti.",
       "es": "Porque estoy como odre al humo; no me he olvidado de Tus estatutos.",
       "en": "Though I have become like a water-skin dried in smoke, I have not neglected Your laws.",
       "translit_en": "Ki hayiti kchined bekitor; chukeicha lo shachachti."
@@ -762,7 +762,7 @@
       "num": 85,
       "he": "כָּרוּ־לִ֣י זֵדִ֣ים שִׁיח֑וֹת אֲ֝שֶׁ֗ר לֹ֣א כְתוֹרָתֶֽךָ׃",
       "he_plain": "כרו לי זדים שיחות אשר לא כתורתך",
-      "translit": "Karú lí zedím shijót; ashér lo jeTorátéja.",
+      "translit": "Karú lí zedím shijót; ashér lo jetorátéja.",
       "es": "Los soberbios me han cavado fosas que no están conforme a Tu Torá.",
       "en": "The insolent have dug pits for me, flouting Your teaching.",
       "translit_en": "Karu li zedim shichot; asher lo cheToratecha."
@@ -780,7 +780,7 @@
       "num": 87,
       "he": "כִּ֭מְעַט כִּלּ֣וּנִי בָאָ֑רֶץ וַ֝אֲנִ֗י לֹא־עָזַ֥בְתִּי פִקֻּדֶֽיךָ׃",
       "he_plain": "כמעט כלוני בארץ ואני לא עזבתי פקדיך",
-      "translit": "Kimát kilúni vaárets; vaaNí lo azávti fikudéija.",
+      "translit": "Kimát kilúni vaárets; vaaní lo azávti fikudéija.",
       "es": "Casi me han echado por tierra; pero yo no he abandonado Tus mandamientos.",
       "en": "Though they almost wiped me off the earth, I did not abandon Your precepts.",
       "translit_en": "Kimat kiluni vaarets; vaani lo azavti fikudeicha."
@@ -789,7 +789,7 @@
       "num": 88,
       "he": "כְּחַסְדְּךָ֥ חַיֵּ֑נִי וְ֝אֶשְׁמְרָ֗ה עֵד֥וּת פִּֽיךָ׃ {פ}",
       "he_plain": "כחסדך חיני ואשמרה עדות פיך {פ}",
-      "translit": "KejásdejA jaYéni; veEeshmóra edut fíja.",
+      "translit": "Kejásdeja jayéni; veeeshmóra edut fíja.",
       "es": "Vivifícame conforme a Tu bondad leal y guardaré el testimonio de Tu boca.",
       "en": "As befits Your steadfast love, preserve me, so that I may keep the decree You proclaimed.",
       "translit_en": "Kechasdecha chayeni; veeeshmora edut ficha."
@@ -798,7 +798,7 @@
       "num": 89,
       "he": "לְעוֹלָ֥ם יְהֹוָ֑ה דְּ֝בָרְךָ֗ נִצָּ֥ב בַּשָּׁמָֽיִם׃",
       "he_plain": "לעולם יהוה דברך נצב בשמים",
-      "translit": "LeOlám Adonái; devarjA nitsáv bashamáyim.",
+      "translit": "Leolám Adonái; devarja nitsáv bashamáyim.",
       "es": "Para siempre, oh Eterno; Tu palabra permanece en los cielos.",
       "en": "ל G OD exists forever; Your word stands firm in heaven.",
       "translit_en": "Leolam Adonai; devarcha nitsav bashamayim."
@@ -807,7 +807,7 @@
       "num": 90,
       "he": "לְדֹ֣ר וָ֭דֹר אֱמוּנָתֶ֑ךָ כּוֹנַ֥נְתָּֽ אֶ֝֗רֶץ וַֽתַּעֲמֹֽד׃",
       "he_plain": "לדר ודר אמונתך כוננת ארץ ותעמד",
-      "translit": "LeDoR vadór emunatéja; kiNánta érets vataamod.",
+      "translit": "Ledor vadór emunatéja; kinánta érets vataamod.",
       "es": "Tu fidelidad es de generación en generación; Tú fundaste la tierra y permanece.",
       "en": "Your faithfulness is for all generations; You have established the earth, and it stands.",
       "translit_en": "Ledor vador emunatecha; kinanta erets vataamod."
@@ -816,7 +816,7 @@
       "num": 91,
       "he": "לְֽ֭מִשְׁפָּטֶיךָ עָמְד֣וּ הַיּ֑וֹם כִּ֖י הַכֹּ֣ל עֲבָדֶֽיךָ׃",
       "he_plain": "למשפטיך עמדו היום כי הכל עבדיך",
-      "translit": "LeMishpatéija amDú hayóm; ki hakól avadéija.",
+      "translit": "Lemishpatéija amdú hayóm; ki hakól avadéija.",
       "es": "Por Tu ordenación permanecen hasta hoy porque todas las cosas son Tus siervos.",
       "en": "They stand this day to [carry out] Your rulings, for all are Your servants.",
       "translit_en": "Lemishpateicha amdu hayom; ki hakol avadeicha."
@@ -834,7 +834,7 @@
       "num": 93,
       "he": "לְ֭עוֹלָם לֹא־אֶשְׁכַּ֣ח פִּקּוּדֶ֑יךָ כִּ֥י בָ֝֗ם חִיִּיתָֽנִי׃",
       "he_plain": "לעולם לא אשכח פקודיך כי בם חייתני",
-      "translit": "LeolAm lo eshkáj fikudéija; ki bám jiYitáni.",
+      "translit": "Leolam lo eshkáj fikudéija; ki bám jiyitáni.",
       "es": "Nunca me olvidaré de Tus mandamientos porque con ellos me has vivificado.",
       "en": "I will never neglect Your precepts, for You have preserved my life through them.",
       "translit_en": "Leolam lo eshkach fikudeicha; ki bam chiyitani."
@@ -843,7 +843,7 @@
       "num": 94,
       "he": "לְֽךָ־אֲ֭נִי הוֹשִׁיעֵ֑נִי כִּ֖י פִקּוּדֶ֣יךָ דָרָֽשְׁתִּי׃",
       "he_plain": "לך אני הושיעני כי פקודיך דרשתי",
-      "translit": "LejA aní hoshiéni; ki fikudéija darashti.",
+      "translit": "Leja aní hoshiéni; ki fikudéija darashti.",
       "es": "Tuyo soy yo sálvame porque he buscado Tus mandamientos.",
       "en": "I am Yours; save me! For I have turned to Your precepts.",
       "translit_en": "Lecha ani hoshieni; ki fikudeicha darashti."
@@ -852,7 +852,7 @@
       "num": 95,
       "he": "לִ֤י קִוּ֣וּ רְשָׁעִ֣ים לְאַבְּדֵ֑נִי עֵ֝דֹתֶ֗יךָ אֶתְבּוֹנָֽן׃",
       "he_plain": "לי קוו רשעים לאבדני עדתיך אתבונן",
-      "translit": "Lí kiVú reshaím leabdéni; edvotéija etbonán.",
+      "translit": "Lí kivú reshaím leabdéni; edvotéija etbonán.",
       "es": "Los impíos me han aguardado para destruirme; mas yo consideraré Tus testimonios.",
       "en": "The wicked hope to destroy me, but I ponder Your decrees.",
       "translit_en": "Li kivu reshaim leabdeni; edvoteicha etbonan."
@@ -861,7 +861,7 @@
       "num": 96,
       "he": "לְֽכׇל־תִּ֭כְלָה רָאִ֣יתִי קֵ֑ץ רְחָבָ֖ה מִצְוָתְךָ֣ מְאֹֽד׃ {פ}",
       "he_plain": "לכל תכלה ראיתי קץ רחבה מצותך מאד {פ}",
-      "translit": "Lejol tikláh raíti kéts; reajá mitsvotejA meód.",
+      "translit": "Lejol tikláh raíti kéts; reajá mitsvoteja meód.",
       "es": "A toda perfección he visto su límite; pero Tus mandamientos son muy amplios.",
       "en": "I have seen that all things have their limit, but Your commandment is broad beyond measure.",
       "translit_en": "Lechol tiklah raiti kets; reacha mitsvotecha meod."
@@ -879,7 +879,7 @@
       "num": 98,
       "he": "מֵֽ֭אֹיְבַי תְּחַכְּמֵ֣נִי מִצְוֺתֶ֑ךָ כִּ֖י לְעוֹלָ֣ם הִיא־לִֽי׃",
       "he_plain": "מאיבי תחכמני מצותך כי לעולם היא לי",
-      "translit": "MeoyeVáy tejákmeni mitsvotéja; ki leolám hí lí.",
+      "translit": "Meoyeváy tejákmeni mitsvotéja; ki leolám hí lí.",
       "es": "Tus mandamientos me hacen más sabio que mis enemigos porque siempre están conmigo.",
       "en": "Your commandments make me wiser than my enemies; they always stand by me.",
       "translit_en": "Meoyevay techakmeni mitsvotecha; ki leolam hi li."
@@ -888,7 +888,7 @@
       "num": 99,
       "he": "מִכׇּל־מְלַמְּדַ֥י הִשְׂכַּ֑לְתִּי כִּ֥י עֵ֝דְוֺתֶ֗יךָ שִׂ֣יחָה לִֽי׃",
       "he_plain": "מכל מלמדי השכלתי כי עדותיך שיחה לי",
-      "translit": "MiKol melamDáy hiSkálti; ki edvotéija sijáh lí.",
+      "translit": "Mikol melamdáy hiskálti; ki edvotéija sijáh lí.",
       "es": "Más que todos mis maestros he entendido porque Tus testimonios son mi meditación.",
       "en": "I have gained more insight than all my teachers, for Your decrees are my study.",
       "translit_en": "Mikol melamday hiskalti; ki edvoteicha sichah li."
@@ -897,7 +897,7 @@
       "num": 100,
       "he": "מִזְּקֵנִ֥ים אֶתְבּוֹנָ֑ן כִּ֖י פִקּוּדֶ֣יךָ נָצָֽרְתִּי׃",
       "he_plain": "מזקנים אתבונן כי פקודיך נצרתי",
-      "translit": "MiZkeNím etbonán; ki fikudéija natárti.",
+      "translit": "Mizkením etbonán; ki fikudéija natárti.",
       "es": "Más que los ancianos he entendido porque guardé Tus mandamientos.",
       "en": "I have gained more understanding than my elders, for I observe Your precepts.",
       "translit_en": "Mizkenim etbonan; ki fikudeicha natarti."
@@ -906,7 +906,7 @@
       "num": 101,
       "he": "מִכׇּל־אֹ֣רַח רָ֭ע כָּלִ֣אתִי רַגְלָ֑י לְ֝מַ֗עַן אֶשְׁמֹ֥ר דְּבָרֶֽךָ׃",
       "he_plain": "מכל ארח רע כלאתי רגלי למען אשמר דברך",
-      "translit": "MiKol óraj rá kilíti ragLáy; lemáan eshmór devaréja.",
+      "translit": "Mikol óraj rá kilíti ragláy; lemáan eshmór devaréja.",
       "es": "De todo mal camino aparté mis pies para guardar Tu palabra.",
       "en": "I have avoided every evil way so that I may keep Your word.",
       "translit_en": "Mikol orach ra kiliti raglay; lemaan eshmor devarecha."
@@ -915,7 +915,7 @@
       "num": 102,
       "he": "מִמִּשְׁפָּטֶ֥יךָ לֹא־סָ֑רְתִּי כִּי־אַ֝תָּ֗ה הוֹרֵתָֽנִי׃",
       "he_plain": "ממשפטיך לא סרתי כי אתה הורתני",
-      "translit": "MiMishpatéija lo sárti; ki atá horeITáni.",
+      "translit": "Mimishpatéija lo sárti; ki atá horeitáni.",
       "es": "No me aparté de Tus juicios porque Tú me enseñaste.",
       "en": "I have not departed from Your rules, for You have instructed me.",
       "translit_en": "Mimishpateicha lo sarti; ki ata horeitani."
@@ -933,7 +933,7 @@
       "num": 104,
       "he": "מִפִּקּוּדֶ֥יךָ אֶתְבּוֹנָ֑ן עַל־כֵּ֝֗ן שָׂנֵ֤אתִי׀ כׇּל־אֹ֬רַח שָֽׁקֶר׃ {פ}",
       "he_plain": "מפקודיך אתבונן על כן שנאתי כל ארח שקר {פ}",
-      "translit": "MiPikudéija etbonán; al kén sanéiti kol óraj shéker.",
+      "translit": "Mipikudéija etbonán; al kén sanéiti kol óraj shéker.",
       "es": "De Tus mandamientos he adquirido inteligencia; por eso aborrezco todo camino de mentira.",
       "en": "I ponder Your precepts; therefore I hate every false way.",
       "translit_en": "Mipikudeicha etbonan; al ken saneiti kol orach sheker."
@@ -942,7 +942,7 @@
       "num": 105,
       "he": "נֵר־לְרַגְלִ֥י דְבָרֶ֑ךָ וְ֝א֗וֹר לִנְתִיבָתִֽי׃",
       "he_plain": "נר לרגלי דברך ואור לנתיבתי",
-      "translit": "Nér leragLí devaréja; veór linetivaTí.",
+      "translit": "Nér leraglí devaréja; veór linetivatí.",
       "es": "Lámpara es a mis pies Tu palabra y lumbrera a mi camino.",
       "en": "נ Your word is a lamp to my feet, a light for my path.",
       "translit_en": "Ner leragli devarecha; veor linetivati."
@@ -951,7 +951,7 @@
       "num": 106,
       "he": "נִשְׁבַּ֥עְתִּי וָאֲקַיֵּ֑מָה לִ֝שְׁמֹ֗ר מִשְׁפְּטֵ֥י צִדְקֶֽךָ׃",
       "he_plain": "נשבעתי ואקימה לשמר משפטי צדקך",
-      "translit": "NishbáTti vaakayEma; lishmór mishpetéi tsidkéja.",
+      "translit": "Nishbátti vaakayema; lishmór mishpetéi tsidkéja.",
       "es": "Juré y lo ratifiqué que guardaré los justos juicios de Tu justicia.",
       "en": "I have firmly sworn to keep Your just rules.",
       "translit_en": "Nishbatti vaakayema; lishmor mishpetei tsidkecha."
@@ -960,7 +960,7 @@
       "num": 107,
       "he": "נַעֲנֵ֥יתִי עַד־מְאֹ֑ד יְ֝הֹוָ֗ה חַיֵּ֥נִי כִדְבָרֶֽךָ׃",
       "he_plain": "נעניתי עד מאד יהוה חיני כדברך",
-      "translit": "Uníti ad meód; Adonái jaYéni kidvaréja.",
+      "translit": "Uníti ad meód; Adonái jayéni kidvaréja.",
       "es": "Estoy muy afligido; vivifícame, oh Eterno, conforme a Tu palabra.",
       "en": "I am very much afflicted; O E TERNAL One, preserve me in accordance with Your word.",
       "translit_en": "Uniti ad meod; Adonai chayeni kidvarecha."
@@ -969,7 +969,7 @@
       "num": 108,
       "he": "נִדְב֣וֹת פִּ֭י רְצֵה־נָ֣א יְהֹוָ֑ה וּֽמִשְׁפָּטֶ֥יךָ לַמְּדֵֽנִי׃",
       "he_plain": "נדבות פי רצה נא יהוה ומשפטיך למדני",
-      "translit": "NidBót fí retséh ná Adonái; umishpatéija lamedéni.",
+      "translit": "Nidbót fí retséh ná Adonái; umishpatéija lamedéni.",
       "es": "Las ofrendas voluntarias de mi boca acepta ahora, oh Eterno y enséñame Tus juicios.",
       "en": "Accept, O E TERNAL One, my freewill offerings; teach me Your rules.",
       "translit_en": "Nidbot fi retseh na Adonai; umishpateicha lamedeni."
@@ -978,7 +978,7 @@
       "num": 109,
       "he": "נַפְשִׁ֣י בְכַפִּ֣י תָמִ֑יד וְ֝ת֥וֹרָתְךָ֗ לֹ֣א שָׁכָֽחְתִּי׃",
       "he_plain": "נפשי בכפי תמיד ותורתך לא שכחתי",
-      "translit": "NafshI vekafí tamíd; veToratejA lo shajájti.",
+      "translit": "Nafshi vekafí tamíd; veTorateja lo shajájti.",
       "es": "Mi alma está continuamente en peligro; pero no me he olvidado de Tu Torá.",
       "en": "Though my life is always in danger, I do not neglect Your teaching.",
       "translit_en": "Nafshi vekafi tamid; veToratecha lo shachachti."
@@ -987,7 +987,7 @@
       "num": 110,
       "he": "נָתְנ֬וּ רְשָׁעִ֣ים פַּ֣ח לִ֑י וּ֝מִפִּקּוּדֶ֗יךָ לֹ֣א תָעִֽיתִי׃",
       "he_plain": "נתנו רשעים פח לי ומפקודיך לא תעיתי",
-      "translit": "NatNú reshaím páj lí; umifiKudéija lo taíti.",
+      "translit": "Natnú reshaím páj lí; umifikudéija lo taíti.",
       "es": "Me pusieron lazo los impíos; pero yo no me desvié de Tus mandamientos.",
       "en": "Though the wicked have set a trap for me, I have not strayed from Your precepts.",
       "translit_en": "Natnu reshaim pach li; umifikudeicha lo taiti."
@@ -996,7 +996,7 @@
       "num": 111,
       "he": "נָחַ֣לְתִּי עֵדְוֺתֶ֣יךָ לְעוֹלָ֑ם כִּֽי־שְׂשׂ֖וֹן לִבִּ֣י הֵֽמָּה׃",
       "he_plain": "נחלתי עדותיך לעולם כי ששון לבי המה",
-      "translit": "NajalTi edvotéija leolám; ki sesón libí héma.",
+      "translit": "Najalti edvotéija leolám; ki sesón libí héma.",
       "es": "Tus testimonios he tomado como heredad para siempre porque son el gozo de mi corazón.",
       "en": "Your decrees are my eternal heritage; they are my heart’s delight.",
       "translit_en": "Nachalti edvoteicha leolam; ki seson libi hema."
@@ -1005,7 +1005,7 @@
       "num": 112,
       "he": "נָטִ֣יתִי לִ֭בִּי לַעֲשׂ֥וֹת חֻקֶּ֗יךָ לְעוֹלָ֥ם עֵֽקֶב׃ {פ}",
       "he_plain": "נטיתי לבי לעשות חקיך לעולם עקב {פ}",
-      "translit": "NatíTi libí laasót juKéija; leolám ekév.",
+      "translit": "Natíti libí laasót jukéija; leolám ekév.",
       "es": "Incliné mi corazón a cumplir Tus estatutos para siempre hasta el fin.",
       "en": "I am resolved to follow Your laws to the utmost c to the utmost Meaning of Heb. uncertain. forever.",
       "translit_en": "Natiti libi laasot chukeicha; leolam ekev."
@@ -1014,7 +1014,7 @@
       "num": 113,
       "he": "סֵעֲפִ֥ים שָׂנֵ֑אתִי וְֽתוֹרָתְךָ֥ אָהָֽבְתִּי׃",
       "he_plain": "סעפים שנאתי ותורתך אהבתי",
-      "translit": "SeatíM sanéiti; veToratejA ahávti.",
+      "translit": "Seatím sanéiti; veTorateja ahávti.",
       "es": "Aborrezco a los de doble ánimo; pero amo Tu Torá.",
       "en": "ס I hate the double-minded, but I love Your teaching.",
       "translit_en": "Seatim saneiti; veToratecha ahavti."
@@ -1023,7 +1023,7 @@
       "num": 114,
       "he": "סִתְרִ֣י וּמָגִנִּ֣י אָ֑תָּה לִדְבָרְךָ֥ יִחָֽלְתִּי׃",
       "he_plain": "סתרי ומגני אתה לדברך יחלתי",
-      "translit": "Sitréi umaguiní atá; liDvarjA ijálti.",
+      "translit": "Sitréi umaguiní atá; lidvarja ijálti.",
       "es": "Mi escondedero y mi escudo eres Tú; en Tu palabra espero.",
       "en": "You are my protection and my shield; I hope for Your word.",
       "translit_en": "Sitrei umaguini ata; lidvarcha ichalti."
@@ -1032,7 +1032,7 @@
       "num": 115,
       "he": "סוּרוּ־מִמֶּ֥נִּי מְרֵעִ֑ים וְ֝אֶצְּרָ֗ה מִצְוֺ֥ת אֱלֹהָֽי׃",
       "he_plain": "סורו ממני מרעים ואצרה מצות אלהי",
-      "translit": "Súru mimení mereím; veEetsróh mitsvót Eloháy.",
+      "translit": "Súru mimení mereím; veeetsróh mitsvót Eloháy.",
       "es": "Apartaos de mí malignos pues yo guardaré los mandamientos de mi Dios.",
       "en": "Keep away from me, you evildoers, that I may observe the commandments of my God.",
       "translit_en": "Suru mimeni mereim; veeetsroh mitsvot Elohay."
@@ -1041,7 +1041,7 @@
       "num": 116,
       "he": "סׇמְכֵ֣נִי כְאִמְרָתְךָ֣ וְאֶחְיֶ֑ה וְאַל־תְּ֝בִישֵׁ֗נִי מִשִּׂבְרִֽי׃",
       "he_plain": "סמכני כאמרתך ואחיה ואל תבישני משברי",
-      "translit": "Samjéni cheimratejA veejyéh; veal tevishéni miSiVrí.",
+      "translit": "Samjéni cheimrateja veejyéh; veal tevishéni misivrí.",
       "es": "Susténtame conforme a Tu dicho y viviré; y no me hagas confundir en mi esperanza.",
       "en": "Support me as You promised, so that I may live; do not thwart my expectation.",
       "translit_en": "Samcheni cheimratecha veechyeh; veal tevisheni misivri."
@@ -1050,7 +1050,7 @@
       "num": 117,
       "he": "סְעָדֵ֥נִי וְאִוָּשֵׁ֑עָה וְאֶשְׁעָ֖ה בְחֻקֶּ֣יךָ תָמִֽיד׃",
       "he_plain": "סעדני ואושעה ואשעה בחקיך תמיד",
-      "translit": "SaadéNi veivashéa; veEesha vejuKéija tamíd.",
+      "translit": "Saadéni veivashéa; veeesha vejukéija tamíd.",
       "es": "Sostenme y seré salvo y me deleitaré continuamente en Tus estatutos.",
       "en": "Sustain me that I may be saved, and I will always muse upon Your laws.",
       "translit_en": "Saadeni veivashea; veeesha vechukeicha tamid."
@@ -1059,7 +1059,7 @@
       "num": 118,
       "he": "סָ֭לִיתָ כׇּל־שׁוֹגִ֣ים מֵחֻקֶּ֑יךָ כִּי־שֶׁ֝֗קֶר תַּרְמִיתָֽם׃",
       "he_plain": "סלית כל שוגים מחקיך כי שקר תרמיתם",
-      "translit": "SalíTa lejol shougím mijuKéija; ki shéker tarmiTám.",
+      "translit": "Salíta lejol shougím mijukéija; ki shéker tarmitám.",
       "es": "Hollaste a todos los que se desvían de Tus estatutos porque su engaño es mentira.",
       "en": "You reject all who stray from Your laws, for they are false and deceitful.",
       "translit_en": "Salita lechol shougim michukeicha; ki sheker tarmitam."
@@ -1068,7 +1068,7 @@
       "num": 119,
       "he": "סִגִ֗ים הִשְׁבַּ֥תָּ כׇל־רִשְׁעֵי־אָ֑רֶץ לָ֝כֵ֗ן אָהַ֥בְתִּי עֵדֹתֶֽיךָ׃",
       "he_plain": "סגים השבת כל רשעי ארץ לכן אהבתי עדתיך",
-      "translit": "Siguím hishBáta jol reshaéi árets; lajén ahávti edvotéija.",
+      "translit": "Siguím hishbáta jol reshaéi árets; lajén ahávti edvotéija.",
       "es": "Como escoria hiciste cesar a todos los impíos de la tierra; por eso amo Tus testimonios.",
       "en": "You do away with the wicked as if they were dross; rightly do I love Your decrees.",
       "translit_en": "Siguim hishbata chol reshaei arets; lachen ahavti edvoteicha."
@@ -1077,7 +1077,7 @@
       "num": 120,
       "he": "סָמַ֣ר מִפַּחְדְּךָ֣ בְשָׂרִ֑י וּֽמִמִּשְׁפָּטֶ֥יךָ יָרֵֽאתִי׃ {פ}",
       "he_plain": "סמר מפחדך בשרי וממשפטיך יראתי {פ}",
-      "translit": "Samár mipajdejA besarí; umiMishpatéija yaréiti.",
+      "translit": "Samár mipajdeja besarí; umimishpatéija yaréiti.",
       "es": "Mi carne se ha estremecido por temor de Ti y de Tus juicios he tenido miedo.",
       "en": "My flesh creeps from fear of You; I am in awe of Your rulings.",
       "translit_en": "Samar mipachdecha besari; umimishpateicha yareiti."
@@ -1086,7 +1086,7 @@
       "num": 121,
       "he": "עָ֭שִׂיתִי מִשְׁפָּ֣ט וָצֶ֑דֶק בַּל־תַּ֝נִּיחֵ֗נִי לְעֹשְׁקָֽי׃",
       "he_plain": "עשיתי משפט וצדק בל תניחני לעשקי",
-      "translit": "AsíTi mishpát vatsédek; bal taniJéni leoshaKáy.",
+      "translit": "Asíti mishpát vatsédek; bal tanijéni leoshakáy.",
       "es": "Hice juicio y justicia; no me abandones a mis opresores.",
       "en": "ע I have done what is just and right; do not abandon me to those who would wrong me.",
       "translit_en": "Asiti mishpat vatsedek; bal tanicheni leoshakay."
@@ -1095,7 +1095,7 @@
       "num": 122,
       "he": "עֲרֹ֣ב עַבְדְּךָ֣ לְט֑וֹב אַֽל־יַעַשְׁקֻ֥נִי זֵדִֽים׃",
       "he_plain": "ערב עבדך לטוב אל יעשקני זדים",
-      "translit": "ArOv abdejA letov; al yaaShukúni zedím.",
+      "translit": "Arov abdeja letov; al yaashukúni zedím.",
       "es": "Sé fiador de Tu siervo para bien; que no me opriman los soberbios.",
       "en": "Guarantee Your servant’s well-being; do not let the arrogant wrong me.",
       "translit_en": "Arov abdecha letov; al yaashukuni zedim."
@@ -1104,7 +1104,7 @@
       "num": 123,
       "he": "עֵ֭ינַי כָּל֣וּ לִישׁוּעָתֶ֑ךָ וּלְאִמְרַ֥ת צִדְקֶֽךָ׃",
       "he_plain": "עיני כלו לישועתך ולאמרת צדקך",
-      "translit": "Einái kalÚ lishuatéja; ulemimrát tsidkéja.",
+      "translit": "Einái kalú lishuatéja; ulemimrát tsidkéja.",
       "es": "Mis ojos se han consumido esperando Tu salvación y el dicho de Tu justicia.",
       "en": "My eyes pine away for Your deliverance, for Your promise of victory.",
       "translit_en": "Einai kalu lishuatecha; ulemimrat tsidkecha."
@@ -1113,7 +1113,7 @@
       "num": 124,
       "he": "עֲשֵׂ֖ה עִם־עַבְדְּךָ֥ כְחַסְדֶּ֗ךָ וְחֻקֶּ֥יךָ לַמְּדֵֽנִי׃",
       "he_plain": "עשה עם עבדך כחסדך וחקיך למדני",
-      "translit": "AsÉ im abdejA kejásdejA; veJukéija lamedéni.",
+      "translit": "Asé im abdeja kejásdeja; vejukéija lamedéni.",
       "es": "Trata a Tu siervo conforme a Tu bondad leal y enséñame Tus estatutos.",
       "en": "Deal with Your servant as befits Your steadfast love; teach me Your laws.",
       "translit_en": "Ase im abdecha kechasdecha; vechukeicha lamedeni."
@@ -1122,7 +1122,7 @@
       "num": 125,
       "he": "עַבְדְּךָ־אָ֥נִי הֲבִינֵ֑נִי וְ֝אֵדְעָ֗ה עֵדֹתֶֽיךָ׃",
       "he_plain": "עבדך אני הבינני ואדעה עדתיך",
-      "translit": "AbdejA aní; havíNeini veEdéa edvotéija.",
+      "translit": "Abdeja aní; havíneini veedéa edvotéija.",
       "es": "Siervo Tuyo soy; dame entendimiento para conocer Tus testimonios.",
       "en": "I am Your servant; give me understanding, that I might know Your decrees.",
       "translit_en": "Abdecha ani; havineini veedea edvoteicha."
@@ -1131,7 +1131,7 @@
       "num": 126,
       "he": "עֵ֭ת לַעֲשׂ֣וֹת לַיהֹוָ֑ה הֵ֝פֵ֗רוּ תּוֹרָתֶֽךָ׃",
       "he_plain": "עת לעשות ליהוה הפרו תורתך",
-      "translit": "Ét laasót laAdonái; hefíru Toratéja.",
+      "translit": "Ét laasót laadonái; hefíru Toratéja.",
       "es": "Tiempo es de actuar para el Eterno; han invalidado Tu Torá.",
       "en": "It is a time to act for G OD , for they have violated Your teaching.",
       "translit_en": "Et laasot laAdonai; hefiru Toratecha."
@@ -1185,7 +1185,7 @@
       "num": 132,
       "he": "פְּנֵה־אֵלַ֥י וְחׇנֵּ֑נִי כְּ֝מִשְׁפָּ֗ט לְאֹהֲבֵ֥י שְׁמֶֽךָ׃",
       "he_plain": "פנה אלי וחנני כמשפט לאהבי שמך",
-      "translit": "PenÉh eláy vejaNéni; keMishpát leohavéi sheméja.",
+      "translit": "Penéh eláy vejanéni; kemishpát leohavéi sheméja.",
       "es": "Mírame y ten misericordia de mí como acostumbras con los que aman Tu nombre.",
       "en": "Turn to me and be gracious to me, as is Your rule with those who love Your name.",
       "translit_en": "Peneh elay vechaneni; kemishpat leohavei shemecha."
@@ -1194,7 +1194,7 @@
       "num": 133,
       "he": "פְּ֭עָמַי הָכֵ֣ן בְּאִמְרָתֶ֑ךָ וְֽאַל־תַּשְׁלֶט־בִּ֥י כׇל־אָֽוֶן׃",
       "he_plain": "פעמי הכן באמרתך ואל תשלט בי כל און",
-      "translit": "PeAmáy hakén beimratéja; veal tashlet bí kol áven.",
+      "translit": "Peamáy hakén beimratéja; veal tashlet bí kol áven.",
       "es": "Ordena mis pasos con Tu palabra y ninguna iniquidad se enseñoree de mí.",
       "en": "Make my feet firm through Your promise; do not let iniquity dominate me.",
       "translit_en": "Peamay haken beimratecha; veal tashlet bi kol aven."
@@ -1203,7 +1203,7 @@
       "num": 134,
       "he": "פְּ֭דֵנִי מֵעֹ֣שֶׁק אָדָ֑ם וְ֝אֶשְׁמְרָ֗ה פִּקּוּדֶֽיךָ׃",
       "he_plain": "פדני מעשק אדם ואשמרה פקודיך",
-      "translit": "PedéNi meóshek adám; veEeshmóra fikudéija.",
+      "translit": "Pedéni meóshek adám; veeeshmóra fikudéija.",
       "es": "Líbrame de la opresión de los hombres y guardaré Tus mandamientos.",
       "en": "Redeem me from being wronged by others, that I may keep Your precepts.",
       "translit_en": "Pedeni meoshek adam; veeeshmora fikudeicha."
@@ -1212,7 +1212,7 @@
       "num": 135,
       "he": "פָּ֭נֶיךָ הָאֵ֣ר בְּעַבְדֶּ֑ךָ וְ֝לַמְּדֵ֗נִי אֶת־חֻקֶּֽיךָ׃",
       "he_plain": "פניך האר בעבדך ולמדני את חקיך",
-      "translit": "PanéIja haér beabdéja; velamedéni et juKéija.",
+      "translit": "Panéija haér beabdéja; velamedéni et jukéija.",
       "es": "Haz que Tu rostro resplandezca sobre Tu siervo y enséñame Tus estatutos.",
       "en": "Show favor to Your servant, and teach me Your laws.",
       "translit_en": "Paneicha haer beabdecha; velamedeni et chukeicha."
@@ -1221,7 +1221,7 @@
       "num": 136,
       "he": "פַּלְגֵי־מַ֭יִם יָרְד֣וּ עֵינָ֑י עַ֝֗ל לֹא־שָׁמְר֥וּ תוֹרָתֶֽךָ׃ {פ}",
       "he_plain": "פלגי מים ירדו עיני על לא שמרו תורתך {פ}",
-      "translit": "PalguéI máyim yareDú einái; al lo shamRú Toratéja.",
+      "translit": "Palguéi máyim yaredú einái; al lo shamrú Toratéja.",
       "es": "Ríos de agua corren de mis ojos porque no guardan Tu Torá.",
       "en": "My eyes shed streams of water because others do not obey Your teaching.",
       "translit_en": "Palguei mayim yaredu einai; al lo shamru Toratecha."
@@ -1239,7 +1239,7 @@
       "num": 138,
       "he": "צִ֭וִּיתָ צֶ֣דֶק עֵדֹתֶ֑יךָ וֶאֱמוּנָ֥ה מְאֹֽד׃",
       "he_plain": "צוית צדק עדתיך ואמונה מאד",
-      "translit": "TsiVíta tsédek edvotéija; veemuná meód.",
+      "translit": "Tsivíta tsédek edvotéija; veemuná meód.",
       "es": "Tus testimonios que has mandado son justos y muy fieles.",
       "en": "You have ordained righteous decrees; they are firmly enduring.",
       "translit_en": "Tsivita tsedek edvoteicha; veemuna meod."
@@ -1248,7 +1248,7 @@
       "num": 139,
       "he": "צִמְּתַ֥תְנִי קִנְאָתִ֑י כִּֽי־שָׁכְח֖וּ דְבָרֶ֣יךָ צָרָֽי׃",
       "he_plain": "צמתתני קנאתי כי שכחו דבריך צרי",
-      "translit": "TsiMatáni kinatí; ki shajejú devaréija tsaráy.",
+      "translit": "Tsimatáni kinatí; ki shajejú devaréija tsaráy.",
       "es": "Mi celo me ha consumido porque mis enemigos se olvidaron de Tus palabras.",
       "en": "I am consumed with rage over my foes’ neglect of Your words.",
       "translit_en": "Tsimatani kinati; ki shachechu devareicha tsaray."
@@ -1257,7 +1257,7 @@
       "num": 140,
       "he": "צְרוּפָ֖ה אִמְרָתְךָ֥ מְאֹ֗ד וְֽעַבְדְּךָ֥ אֲהֵבָֽהּ׃",
       "he_plain": "צרופה אמרתך מאד ועבדך אהבה",
-      "translit": "TserufA imratéja meód; veabdejA ahevá.",
+      "translit": "Tserufa imratéja meód; veabdeja ahevá.",
       "es": "Muy pura es Tu palabra y Tu siervo la ama.",
       "en": "Your word is exceedingly pure, and Your servant loves it.",
       "translit_en": "Tserufa imratecha meod; veabdecha aheva."
@@ -1266,7 +1266,7 @@
       "num": 141,
       "he": "צָעִ֣יר אָנֹכִ֣י וְנִבְזֶ֑ה פִּ֝קֻּדֶ֗יךָ לֹ֣א שָׁכָֽחְתִּי׃",
       "he_plain": "צעיר אנכי ונבזה פקדיך לא שכחתי",
-      "translit": "Tsaír anojí veNivzéh; fikudéija lo shajájti.",
+      "translit": "Tsaír anojí venivzéh; fikudéija lo shajájti.",
       "es": "Pequeño soy yo y despreciado; pero no me olvidé de Tus mandamientos.",
       "en": "Though I am belittled and despised, I have not neglected Your precepts.",
       "translit_en": "Tsair anochi venivzeh; fikudeicha lo shachachti."
@@ -1275,7 +1275,7 @@
       "num": 142,
       "he": "צִדְקָתְךָ֣ צֶ֣דֶק לְעוֹלָ֑ם וְֽתוֹרָתְךָ֥ אֱמֶֽת׃",
       "he_plain": "צדקתך צדק לעולם ותורתך אמת",
-      "translit": "TsidkatejA tsédek leolám; veToratejA emet.",
+      "translit": "Tsidkateja tsédek leolám; veTorateja emet.",
       "es": "Tu justicia es justicia eterna y Tu Torá es verdad.",
       "en": "Your righteousness is eternal; Your teaching is true.",
       "translit_en": "Tsidkatecha tsedek leolam; veToratecha emet."
@@ -1284,7 +1284,7 @@
       "num": 143,
       "he": "צַר־וּמָצ֥וֹק מְצָא֑וּנִי מִ֝צְוֺתֶ֗יךָ שַׁעֲשֻׁעָֽי׃",
       "he_plain": "צר ומצוק מצאוני מצותיך שעשעי",
-      "translit": "Tsar umatsók metsa'úni; mitsvotéija shaashUáy.",
+      "translit": "Tsar umatsók metsa'úni; mitsvotéija shaashuáy.",
       "es": "Angustia y aflicción me han alcanzado; pero Tus mandamientos son mi delicia.",
       "en": "Though anguish and distress come upon me, Your commandments are my delight.",
       "translit_en": "Tsar umatsok metsa'uni; mitsvoteicha shaashuay."
@@ -1293,7 +1293,7 @@
       "num": 144,
       "he": "צֶ֖דֶק עֵדְוֺתֶ֥יךָ לְעוֹלָ֗ם הֲבִינֵ֥נִי וְאֶחְיֶֽה׃ {פ}",
       "he_plain": "צדק עדותיך לעולם הבינני ואחיה {פ}",
-      "translit": "Tsédek edvotéija leolám; havíNeini veejyéh.",
+      "translit": "Tsédek edvotéija leolám; havíneini veejyéh.",
       "es": "La justicia de Tus testimonios es eterna; dame entendimiento y viviré.",
       "en": "Your righteous decrees are eternal; give me understanding, that I might live.",
       "translit_en": "Tsedek edvoteicha leolam; havineini veechyeh."
@@ -1302,7 +1302,7 @@
       "num": 145,
       "he": "קָרָ֣אתִי בְכׇל־לֵ֭ב עֲנֵ֥נִי יְהֹוָ֗ה חֻקֶּ֥יךָ אֶצֹּֽרָה׃",
       "he_plain": "קראתי בכל לב ענני יהוה חקיך אצרה",
-      "translit": "Karát bejol lév aníti Adonái; aníti eshmóra juKéija.",
+      "translit": "Karát bejol lév aníti Adonái; aníti eshmóra jukéija.",
       "es": "Clamé con todo el corazón; respóndeme, oh Eterno; guardaré Tus estatutos.",
       "en": "ק I call with all my heart; answer me, O E TERNAL One, that I may observe Your laws.",
       "translit_en": "Karat bechol lev aniti Adonai; aniti eshmora chukeicha."
@@ -1311,7 +1311,7 @@
       "num": 146,
       "he": "קְרָאתִ֥יךָ הוֹשִׁיעֵ֑נִי וְ֝אֶשְׁמְרָ֗ה עֵדֹתֶֽיךָ׃",
       "he_plain": "קראתיך הושיעני ואשמרה עדתיך",
-      "translit": "Keratíja hoshiéni; veEeshmóra edvotéija.",
+      "translit": "Keratíja hoshiéni; veeeshmóra edvotéija.",
       "es": "A Ti clamé sálvame y guardaré Tus testimonios.",
       "en": "I call upon You; save me, that I may keep Your decrees.",
       "translit_en": "Keraticha hoshieni; veeeshmora edvoteicha."
@@ -1320,7 +1320,7 @@
       "num": 147,
       "he": "קִדַּ֣מְתִּי בַ֭נֶּשֶׁף וָאֲשַׁוֵּ֑עָה (לדבריך) [לִדְבָרְךָ֥] יִחָֽלְתִּי׃",
       "he_plain": "קדמתי בנשף ואשועה (לדבריך) [לדברך] יחלתי",
-      "translit": "KiDámti vanéshef vaashavéa; liDvarjA ijálti.",
+      "translit": "Kidámti vanéshef vaashavéa; lidvarja ijálti.",
       "es": "Me anticipé al alba y clamé; en Tu palabra esperé.",
       "en": "I rise before dawn and cry for help; I hope for Your word.",
       "translit_en": "Kidamti vaneshef vaashavea; lidvarcha ichalti."
@@ -1329,7 +1329,7 @@
       "num": 148,
       "he": "קִדְּמ֣וּ עֵ֭ינַי אַשְׁמֻר֑וֹת לָ֝שִׂ֗יחַ בְּאִמְרָתֶֽךָ׃",
       "he_plain": "קדמו עיני אשמרות לשיח באמרתך",
-      "translit": "KiDemú einái ashmuRót; lasíj beimratéja.",
+      "translit": "Kidemú einái ashmurót; lasíj beimratéja.",
       "es": "Se anticiparon mis ojos a las vigilias de la noche para meditar en Tu palabra.",
       "en": "My eyes greet each watch of the night, as I meditate on Your promise.",
       "translit_en": "Kidemu einai ashmurot; lasich beimratecha."
@@ -1338,7 +1338,7 @@
       "num": 149,
       "he": "ק֭וֹלִי שִׁמְעָ֣ה כְחַסְדֶּ֑ךָ יְ֝הֹוָ֗ה כְּֽמִשְׁפָּטֶ֥ךָ חַיֵּֽנִי׃",
       "he_plain": "קולי שמעה כחסדך יהוה כמשפטך חיני",
-      "translit": "Kolí shimeá kejasdéja Adonái; kemishpatéja jaYéni.",
+      "translit": "Kolí shimeá kejasdéja Adonái; kemishpatéja jayéni.",
       "es": "Oye mi voz conforme a Tu bondad leal, oh Eterno; vivifícame conforme a Tu juicio.",
       "en": "Hear my voice as befits Your steadfast love; O E TERNAL One, preserve me, as is Your rule.",
       "translit_en": "Koli shimea kechasdecha Adonai; kemishpatecha chayeni."
@@ -1347,7 +1347,7 @@
       "num": 150,
       "he": "קָ֭רְבוּ רֹדְפֵ֣י זִמָּ֑ה מִתּוֹרָתְךָ֥ רָחָֽקוּ׃",
       "he_plain": "קרבו רדפי זמה מתורתך רחקו",
-      "translit": "KaRevú rodféi zimá; miToratejá rajáku.",
+      "translit": "Karevú rodféi zimá; miToratejá rajáku.",
       "es": "Se acercaron los que siguen la maldad; se alejaron de Tu Torá.",
       "en": "Those who pursue intrigue draw near; they are far from Your teaching.",
       "translit_en": "Karevu rodfei zima; miToratecha rachaku."
@@ -1365,7 +1365,7 @@
       "num": 152,
       "he": "קֶ֣דֶם יָ֭דַעְתִּי מֵעֵדֹתֶ֑יךָ כִּ֖י לְעוֹלָ֣ם יְסַדְתָּֽם׃ {פ}",
       "he_plain": "קדם ידעתי מעדתיך כי לעולם יסדתם {פ}",
-      "translit": "Késem yadáTi meEdvotéija; ki leolám yesadTám.",
+      "translit": "Késem yadáti meedvotéija; ki leolám yesadtám.",
       "es": "Hace mucho he conocido de Tus testimonios que para siempre los has fundado.",
       "en": "I know from Your decrees of old that You have established them forever.",
       "translit_en": "Kesem yadati meedvoteicha; ki leolam yesadtam."
@@ -1374,7 +1374,7 @@
       "num": 153,
       "he": "רְאֵה־עׇנְיִ֥י וְחַלְּצֵ֑נִי כִּי־ת֥֝וֹרָתְךָ֗ לֹ֣א שָׁכָֽחְתִּי׃",
       "he_plain": "ראה עניי וחלצני כי תורתך לא שכחתי",
-      "translit": "ReÉh oníi vechaltsEni; ki Toratejá lo shajájti.",
+      "translit": "Reéh oníi vechaltseni; ki Toratejá lo shajájti.",
       "es": "Mira mi aflicción y líbrame porque no me he olvidado de Tu Torá.",
       "en": "ר See my affliction and rescue me, for I have not neglected Your teaching.",
       "translit_en": "Reeh onii vechaltseni; ki Toratecha lo shachachti."
@@ -1383,7 +1383,7 @@
       "num": 154,
       "he": "רִיבָ֣ה רִ֭יבִי וּגְאָלֵ֑נִי לְאִמְרָתְךָ֥ חַיֵּֽנִי׃",
       "he_plain": "ריבה ריבי וגאלני לאמרתך חיני",
-      "translit": "Rivá rívi ugeAlEni; leimratejá jaYéni.",
+      "translit": "Rivá rívi ugealeni; leimratejá jayéni.",
       "es": "Defiende mi causa y redímeme; vivifícame conforme a Tu dicho.",
       "en": "Champion my cause and redeem me; preserve me according to Your promise.",
       "translit_en": "Riva rivi ugealeni; leimratecha chayeni."
@@ -1392,7 +1392,7 @@
       "num": 155,
       "he": "רָח֣וֹק מֵרְשָׁעִ֣ים יְשׁוּעָ֑ה כִּי־חֻ֝קֶּ֗יךָ לֹ֣א דָרָֽשׁוּ׃",
       "he_plain": "רחוק מרשעים ישועה כי חקיך לא דרשו",
-      "translit": "Rajók mereshaím yeshuá; ki juKéija lo darashú.",
+      "translit": "Rajók mereshaím yeshuá; ki jukéija lo darashú.",
       "es": "Lejos está la salvación de los impíos porque no buscan Tus estatutos.",
       "en": "Deliverance is far from the wicked, for they have not turned to Your laws.",
       "translit_en": "Rachok mereshaim yeshua; ki chukeicha lo darashu."
@@ -1401,7 +1401,7 @@
       "num": 156,
       "he": "רַחֲמֶ֖יךָ רַבִּ֥ים׀יְהֹוָ֑ה כְּֽמִשְׁפָּטֶ֥יךָ חַיֵּֽנִי׃",
       "he_plain": "רחמיך רביםיהוה כמשפטיך חיני",
-      "translit": "RajamEija rabím Adonái; kemishpatéija jaYéni.",
+      "translit": "Rajameija rabím Adonái; kemishpatéija jayéni.",
       "es": "Muchas son Tus misericordias, oh Eterno; vivifícame conforme a Tus juicios.",
       "en": "Your mercies are great, O E TERNAL One; as is Your rule, preserve me.",
       "translit_en": "Rachameicha rabim Adonai; kemishpateicha chayeni."
@@ -1410,7 +1410,7 @@
       "num": 157,
       "he": "רַ֭בִּים רֹדְפַ֣י וְצָרָ֑י מֵ֝עֵדְוֺתֶ֗יךָ לֹ֣א נָטִֽיתִי׃",
       "he_plain": "רבים רדפי וצרי מעדותיך לא נטיתי",
-      "translit": "RabÍm rodeféi vetsaráy; meEdvotéija lo natíti.",
+      "translit": "Rabím rodeféi vetsaráy; meedvotéija lo natíti.",
       "es": "Muchos son mis perseguidores y mis adversarios; pero de Tus testimonios no me he apartado.",
       "en": "Many are my persecutors and foes; I have not swerved from Your decrees.",
       "translit_en": "Rabim rodefei vetsaray; meedvoteicha lo natiti."
@@ -1419,7 +1419,7 @@
       "num": 158,
       "he": "רָאִ֣יתִי בֹ֭גְדִים וָאֶתְקוֹטָ֑טָה אֲשֶׁ֥ר אִ֝מְרָתְךָ֗ לֹ֣א שָׁמָֽרוּ׃",
       "he_plain": "ראיתי בגדים ואתקוטטה אשר אמרתך לא שמרו",
-      "translit": "RaíTi bogdím vaetkotatá; ashér imratejA lo shamáru.",
+      "translit": "Raíti bogdím vaetkotatá; ashér imrateja lo shamáru.",
       "es": "Vi a los prevaricadores y me disgusté porque no guardaban Tu palabra.",
       "en": "I have seen traitors and loathed f loathed Or “have contended with.” them, because they did not keep Your word in mind.",
       "translit_en": "Raiti bogdim vaetkotata; asher imratecha lo shamaru."
@@ -1428,7 +1428,7 @@
       "num": 159,
       "he": "רְ֭אֵה כִּי־פִקּוּדֶ֣יךָ אָהָ֑בְתִּי יְ֝הֹוָ֗ה כְּֽחַסְדְּךָ֥ חַיֵּֽנִי׃",
       "he_plain": "ראה כי פקודיך אהבתי יהוה כחסדך חיני",
-      "translit": "ReÉh ki fikudéija ahávti; Adonái kejasdejA jaYéni.",
+      "translit": "Reéh ki fikudéija ahávti; Adonái kejasdeja jayéni.",
       "es": "Mira que amo Tus mandamientos, oh Eterno; vivifícame conforme a Tu bondad leal.",
       "en": "See that I have loved Your precepts; O E TERNAL One, preserve me, as befits Your steadfast love.",
       "translit_en": "Reeh ki fikudeicha ahavti; Adonai kechasdecha chayeni."
@@ -1437,7 +1437,7 @@
       "num": 160,
       "he": "רֹאשׁ־דְּבָרְךָ֥ אֱמֶ֑ת וּ֝לְעוֹלָ֗ם כׇּל־מִשְׁפַּ֥ט צִדְקֶֽךָ׃ {פ}",
       "he_plain": "ראש דברך אמת ולעולם כל משפט צדקך {פ}",
-      "translit": "Rosh devarjA emet; uleolám kol mishpát tsidkéja.",
+      "translit": "Rosh devarja emet; uleolám kol mishpát tsidkéja.",
       "es": "La suma de Tu palabra es verdad y eterno es todo juicio de Tu justicia.",
       "en": "Truth is the essence of Your word; Your just rules are eternal.",
       "translit_en": "Rosh devarcha emet; uleolam kol mishpat tsidkecha."
@@ -1446,7 +1446,7 @@
       "num": 161,
       "he": "שָׂ֭רִים רְדָפ֣וּנִי חִנָּ֑ם (ומדבריך) [וּ֝מִדְּבָרְךָ֗] פָּחַ֥ד לִבִּֽי׃",
       "he_plain": "שרים רדפוני חנם (ומדבריך) [ומדברך] פחד לבי",
-      "translit": "Sarím redafúni jinám; umiDvarjA pajád libí.",
+      "translit": "Sarím redafúni jinám; umidvarja pajád libí.",
       "es": "Príncipes me han perseguido sin causa; pero mi corazón temió de Tu palabra.",
       "en": "ש Princes have persecuted me without reason; my heart thrills at Your word.",
       "translit_en": "Sarim redafuni chinam; umidvarcha pachad libi."
@@ -1473,7 +1473,7 @@
       "num": 164,
       "he": "שֶׁ֣בַע בַּ֭יּוֹם הִלַּלְתִּ֑יךָ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ׃",
       "he_plain": "שבע ביום הללתיך על משפטי צדקך",
-      "translit": "Shéva bayóm hilelátijaA; al mishpetéi tsidkéja.",
+      "translit": "Shéva bayóm hilelátijaa; al mishpetéi tsidkéja.",
       "es": "Siete veces al día Te alabo a causa de los justos juicios de Tu justicia.",
       "en": "I praise You seven times each day for Your just rules.",
       "translit_en": "Sheva bayom hilelatichaa; al mishpetei tsidkecha."
@@ -1491,7 +1491,7 @@
       "num": 166,
       "he": "שִׂבַּ֣רְתִּי לִישׁוּעָתְךָ֣ יְהֹוָ֑ה וּֽמִצְוֺתֶ֥יךָ עָשִֽׂיתִי׃",
       "he_plain": "שברתי לישועתך יהוה ומצותיך עשיתי",
-      "translit": "SiBarTi lishuatejA Adonái; umitsvotéija asíti.",
+      "translit": "Sibarti lishuateja Adonái; umitsvotéija asíti.",
       "es": "Tu salvación esperé, oh Eterno y Tus mandamientos he cumplido.",
       "en": "I hope for Your deliverance, O E TERNAL One; I observe Your commandments.",
       "translit_en": "Sibarti lishuatecha Adonai; umitsvoteicha asiti."
@@ -1500,7 +1500,7 @@
       "num": 167,
       "he": "שָֽׁמְרָ֣ה נַ֭פְשִׁי עֵדֹתֶ֑יךָ וָאֹהֲבֵ֥ם מְאֹֽד׃",
       "he_plain": "שמרה נפשי עדתיך ואהבם מאד",
-      "translit": "ShamerA nafshí edvotéija; vaahavém meód.",
+      "translit": "Shamera nafshí edvotéija; vaahavém meód.",
       "es": "Mi alma ha guardado Tus testimonios y los he amado en gran manera.",
       "en": "I obey Your decrees and love them greatly.",
       "translit_en": "Shamera nafshi edvoteicha; vaahavem meod."
@@ -1509,7 +1509,7 @@
       "num": 168,
       "he": "שָׁמַ֣רְתִּי פִ֭קּוּדֶיךָ וְעֵדֹתֶ֑יךָ כִּ֖י כׇל־דְּרָכַ֣י נֶגְדֶּֽךָ׃ {פ}",
       "he_plain": "שמרתי פקודיך ועדתיך כי כל דרכי נגדך {פ}",
-      "translit": "ShamaRti fikudéija veEdvotéija; ki jol derajáy negdéja.",
+      "translit": "Shamarti fikudéija veedvotéija; ki jol derajáy negdéja.",
       "es": "Guardé Tus mandamientos y Tus testimonios porque todos mis caminos están delante de Ti.",
       "en": "I obey Your precepts and decrees; all my ways are before You.",
       "translit_en": "Shamarti fikudeicha veedvoteicha; ki chol derachay negdecha."
@@ -1518,7 +1518,7 @@
       "num": 169,
       "he": "תִּקְרַ֤ב רִנָּתִ֣י לְפָנֶ֣יךָ יְהֹוָ֑ה כִּדְבָרְךָ֥ הֲבִינֵֽנִי׃",
       "he_plain": "תקרב רנתי לפניך יהוה כדברך הבינני",
-      "translit": "TikRáv rinatí lefanéija Adonái; kivdvarjA havíNeini.",
+      "translit": "Tikráv rinatí lefanéija Adonái; kivdvarja havíneini.",
       "es": "Llegue mi clamor delante de Ti, oh Eterno; dame entendimiento conforme a Tu palabra.",
       "en": "ת May my plea reach You, O E TERNAL One; grant me understanding according to Your word.",
       "translit_en": "Tikrav rinati lefaneicha Adonai; kivdvarcha havineini."
@@ -1527,7 +1527,7 @@
       "num": 170,
       "he": "תָּב֣וֹא תְחִנָּתִ֣י לְפָנֶ֑יךָ כְּ֝אִמְרָתְךָ֗ הַצִּילֵֽנִי׃",
       "he_plain": "תבוא תחנתי לפניך כאמרתך הצילני",
-      "translit": "TavóA tejinaTí lefanéija; keimratejA hatsileíni.",
+      "translit": "Tavóa tejinatí lefanéija; keimrateja hatsileíni.",
       "es": "Llegue mi súplica delante de Ti; líbrame conforme a Tu dicho.",
       "en": "May my petition come before You; save me in accordance with Your promise.",
       "translit_en": "Tavoa techinati lefaneicha; keimratecha hatsileini."
@@ -1536,7 +1536,7 @@
       "num": 171,
       "he": "תַּבַּ֣עְנָה שְׂפָתַ֣י תְּהִלָּ֑ה כִּ֖י תְלַמְּדֵ֣נִי חֻקֶּֽיךָ׃",
       "he_plain": "תבענה שפתי תהלה כי תלמדני חקיך",
-      "translit": "TabáAna sefatáy tehlilá; ki telamedéni juKéija.",
+      "translit": "Tabáana sefatáy tehlilá; ki telamedéni jukéija.",
       "es": "Mis labios pronunciarán alabanza porque me enseñas Tus estatutos.",
       "en": "My lips shall pour forth praise, for You teach me Your laws.",
       "translit_en": "Tabaana sefatay tehlila; ki telamedeni chukeicha."
@@ -1545,7 +1545,7 @@
       "num": 172,
       "he": "תַּ֣עַן לְ֭שׁוֹנִי אִמְרָתֶ֑ךָ כִּ֖י כׇל־מִצְוֺתֶ֣יךָ צֶּֽדֶק׃",
       "he_plain": "תען לשוני אמרתך כי כל מצותיך צדק",
-      "translit": "TaAné leshonI imratéja; ki kol mitsvotéija tsédek.",
+      "translit": "Taané leshoni imratéja; ki kol mitsvotéija tsédek.",
       "es": "Hablará mi lengua Tu dicho porque todos Tus mandamientos son justicia.",
       "en": "My tongue shall declare Your promise, for all Your commandments are just.",
       "translit_en": "Taane leshoni imratecha; ki kol mitsvoteicha tsedek."
@@ -1554,7 +1554,7 @@
       "num": 173,
       "he": "תְּהִי־יָדְךָ֥ לְעׇזְרֵ֑נִי כִּ֖י פִקּוּדֶ֣יךָ בָחָֽרְתִּי׃",
       "he_plain": "תהי ידך לעזרני כי פקודיך בחרתי",
-      "translit": "TehI yadejA leozréni; ki fikudéija vajárTi.",
+      "translit": "Tehi yadeja leozréni; ki fikudéija vajárti.",
       "es": "Sea Tu mano para ayudarme porque Tus mandamientos he escogido.",
       "en": "Lend Your hand to help me, for I have chosen Your precepts.",
       "translit_en": "Tehi yadecha leozreni; ki fikudeicha vacharti."
@@ -1563,7 +1563,7 @@
       "num": 174,
       "he": "תָּאַ֣בְתִּי לִישׁוּעָתְךָ֣ יְהֹוָ֑ה וְ֝ת֥וֹרָתְךָ֗ שַׁעֲשֻׁעָֽי׃",
       "he_plain": "תאבתי לישועתך יהוה ותורתך שעשעי",
-      "translit": "TaavTi lishuatejA Adonái; veToratejA shaashUáy.",
+      "translit": "Taavti lishuateja Adonái; veTorateja shaashuáy.",
       "es": "He deseado Tu salvación, oh Eterno y Tu Torá es mi delicia.",
       "en": "I have longed for Your deliverance, O E TERNAL One; Your teaching is my delight.",
       "translit_en": "Taavti lishuatecha Adonai; veToratecha shaashuay."
@@ -1572,7 +1572,7 @@
       "num": 175,
       "he": "תְּֽחִי־נַ֭פְשִׁי וּֽתְהַלְלֶ֑ךָּ וּֽמִשְׁפָּטֶ֥ךָ יַעְזְרֻֽנִי׃",
       "he_plain": "תחי נפשי ותהללך ומשפטך יעזרני",
-      "translit": "TejI nafshI utehalelEja; umishpatéija yaazErúni.",
+      "translit": "Teji nafshi utehaleleja; umishpatéija yaazerúni.",
       "es": "Viva mi alma y Te alabe y Tus juicios me ayuden.",
       "en": "Let me live, that I may praise You; may Your rules be my help;",
       "translit_en": "Techi nafshi utehalelecha; umishpateicha yaazeruni."
@@ -1581,7 +1581,7 @@
       "num": 176,
       "he": "תָּעִ֗יתִי כְּשֶׂ֣ה אֹ֭בֵד בַּקֵּ֣שׁ עַבְדֶּ֑ךָ כִּ֥י מִ֝צְוֺתֶ֗יךָ לֹ֣א שָׁכָֽחְתִּי׃ {פ}",
       "he_plain": "תעיתי כשה אבד בקש עבדך כי מצותיך לא שכחתי {פ}",
-      "translit": "TaíTi jashé avedá; bakésh abdéja ki mitsvotéija lo shajájti.",
+      "translit": "Taíti jashé avedá; bakésh abdéja ki mitsvotéija lo shajájti.",
       "es": "Me extravié como oveja perdida; busca a Tu siervo porque no me olvidé de Tus mandamientos.",
       "en": "I have strayed like a lost sheep; search for Your servant, for I have not neglected Your commandments.",
       "translit_en": "Taiti chashe aveda; bakesh abdecha ki mitsvoteicha lo shachachti."

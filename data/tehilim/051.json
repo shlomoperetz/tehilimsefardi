@@ -16,7 +16,7 @@
       "num": 2,
       "he": "בְּבוֹא אֵלָיו נָתָן הַנָּבִיא כַּאֲשֶׁר בָּא אֶל בַּת שָׁבַע׃",
       "he_plain": "בבוא אליו נתן הנביא כאשר בא אל בת שבע",
-      "translit": "Bevó eláv Natán haNaví; kaashér bá el bat Shéva.",
+      "translit": "Bevó eláv Natán hanaví; kaashér bá el bat Shéva.",
       "es": "Cuando vino a él el profeta Natán, después que David fue a Bat-sheva.",
       "en": "when Nathan the prophet came to him after he had come to Bathsheba. a when Nathan … Bathsheba Cf. 2 Sam. 12 .",
       "translit_en": "Bevo elav Natan hanavi; kaasher ba el bat Sheva."
@@ -34,7 +34,7 @@
       "num": 4,
       "he": "הֶרֶב כַּבְּסֵנִי מֵעֲוֹנִי וּמֵחַטָּאתִי טַהֲרֵנִי׃",
       "he_plain": "הרב כבסני מעוני ומחטאתי טהרני",
-      "translit": "Herev kabsEni meaoNí; umejatatí taharéni.",
+      "translit": "Herev kabséni meaoní; umejatatí taharéni.",
       "es": "Lávame más y más de mi maldad y límpiame de mi pecado.",
       "en": "Wash me thoroughly of my iniquity, and purify me of my sin;",
       "translit_en": "Herev kabseni meaoni; umechatati tahareni."
@@ -43,7 +43,7 @@
       "num": 5,
       "he": "כִּי פְשָׁעַי אֲנִי אֵדָע וְחַטָּאתִי נֶגְדִּי תָמִיד׃",
       "he_plain": "כי פשעי אני אדע וחטאתי נגדי תמיד",
-      "translit": "Ki feshaáy aní edá; veJatatí négdi tamíd.",
+      "translit": "Ki feshaáy aní edá; vejatatí négdi tamíd.",
       "es": "Porque yo reconozco mis rebeliones y mi pecado está siempre delante de mí.",
       "en": "for I recognize my transgressions, and am ever conscious of my sin.",
       "translit_en": "Ki feshaay ani eda; vechatati negdi tamid."
@@ -52,7 +52,7 @@
       "num": 6,
       "he": "לְךָ לְבַדְּךָ חָטָאתִי וְהָרַע בְּעֵינֶיךָ עָשִׂיתִי לְמַעַן תִּצְדַּק בְּדָבְרֶךָ תִּזְכֶּה בְשָׁפְטֶךָ׃",
       "he_plain": "לך לבדך חטאתי והרע בעיניך עשיתי למען תצדק בדברך תזכה בשפטך",
-      "translit": "Lejá levadejá jatáti; vehará beeíneja asíti; lemaán titsDAK bedavreján; tizkéh beshofteján.",
+      "translit": "Lejá levadejá jatáti; vehará beeíneja asíti; lemaán titsdak bedavreján; tizkéh beshofteján.",
       "es": "Contra Ti, contra Ti solo he pecado y he hecho lo malo delante de Tus ojos; para que seas reconocido justo en Tu palabra y tenido por puro en Tu juicio.",
       "en": "Against You alone have I sinned, and done what is evil in Your sight; so You are just in Your sentence, and right in Your judgment.",
       "translit_en": "Lecha levadecha chatati; vehara beeinecha asiti; lemaan titsdak bedavrechan; tizkeh beshoftechan."
@@ -61,7 +61,7 @@
       "num": 7,
       "he": "הֵן בְּעָווֹן חוֹלָלְתִּי וּבְחֵטְא יֶחֱמַתְנִי אִמִּי׃",
       "he_plain": "הן בעוון חוללתי ובחטא יחמתני אמי",
-      "translit": "Hen beaVón jolálti; uvejét yejematáni imí.",
+      "translit": "Hen beavón jolálti; uvejét yejematáni imí.",
       "es": "He aquí, en maldad he sido formado y en pecado me concibió mi madre.",
       "en": "Indeed I was born with iniquity; with sin my mother conceived me.",
       "translit_en": "Hen beavon cholalti; uvechet yechematani imi."
@@ -79,7 +79,7 @@
       "num": 9,
       "he": "תְּחַטְּאֵנִי בְאֵזוֹב וְאֶטְהָר תְּכַבְּסֵנִי וּמִשֶּׁלֶג אַלְבִּין׃",
       "he_plain": "תחטאני באזוב ואטהר תכבסני ומשלג אלבין",
-      "translit": "Tejaténi veezóv veetHár; tejabsEni umishéleg albín.",
+      "translit": "Tejaténi veezóv veethár; tejabséni umishéleg albín.",
       "es": "Purifícame con hisopo y seré limpio; lávame y seré más blanco que la nieve.",
       "en": "Purge me with hyssop till I am pure; wash me till I am whiter than snow.",
       "translit_en": "Techateni veezov veethar; techabseni umisheleg albin."
@@ -115,7 +115,7 @@
       "num": 13,
       "he": "אַל תַּשְׁלִיכֵנִי מִלְּפָנֶיךָ וְרוּחַ קָדְשְׁךָ אַל תִּקַּח מִמֶּנִּי׃",
       "he_plain": "אל תשליכני מלפניך ורוח קדשך אל תקח ממני",
-      "translit": "Al tashlíJeni milefanéija; verúaj kodshejá al tikáj miméni.",
+      "translit": "Al tashlíjeni milefanéija; verúaj kodshejá al tikáj miméni.",
       "es": "No me eches de Tu presencia y no quites de mí Tu santo espíritu.",
       "en": "Do not cast me out of Your presence, or take Your holy spirit away from me.",
       "translit_en": "Al tashlicheni milefaneicha; veruach kodshecha al tikach mimeni."
@@ -133,7 +133,7 @@
       "num": 15,
       "he": "אֲלַמְּדָה פֹשְׁעִים דְּרָכֶיךָ וְחַטָּאִים אֵלֶיךָ יָשׁוּבוּ׃",
       "he_plain": "אלמדה פושעים דרכיך וחטאים אליך ישובו",
-      "translit": "Alamedá foshím derajéija; veJataím eléija yashúvu.",
+      "translit": "Alamedá foshím derajéija; vejataím eléija yashúvu.",
       "es": "Entonces enseñaré a los transgresores Tus caminos y los pecadores se convertirán a Ti.",
       "en": "I will teach transgressors Your ways, that sinners may return to You.",
       "translit_en": "Alameda foshim deracheicha; vechataim eleicha yashuvu."
@@ -160,7 +160,7 @@
       "num": 18,
       "he": "כִּי לֹא תַחְפֹּץ זֶבַח וְאֶתֵּנָה עוֹלָה לֹא תִרְצֶה׃",
       "he_plain": "כי לא תחפוץ זבח ואתנה עולה לא תרצה",
-      "translit": "Ki lo tajFóts zévaJ veeténa; olá lo tirtsé.",
+      "translit": "Ki lo tajfóts zévaj veeténa; olá lo tirtsé.",
       "es": "Porque no quieres sacrificio que yo lo daría; no te deleitas en holocausto.",
       "en": "You do not want me to bring sacrifices; You do not desire burnt offerings;",
       "translit_en": "Ki lo tachfots zevach veetena; ola lo tirtse."
@@ -187,7 +187,7 @@
       "num": 21,
       "he": "אָז תַּחְפֹּץ זִבְחֵי צֶדֶק עוֹלָה וְכָלִיל אָז יַעֲלוּ עַל מִזְבַּחֲךָ פָרִים׃",
       "he_plain": "אז תחפוץ זבחי צדק עולה וכליל אז יעלו על מזבחך פרים",
-      "translit": "Az tajFóts zivjéi tsédek; olá vejálil; az yaalu al mizbajejá farím.",
+      "translit": "Az tajfóts zivjéi tsédek; olá vejálil; az yaalu al mizbajejá farím.",
       "es": "Entonces te agradarán los sacrificios de justicia, el holocausto y la ofrenda; entonces ofrecerán becerros sobre Tu altar.",
       "en": "Then You will want sacrifices offered in righteousness, burnt and whole offerings; then bulls will be offered on Your altar.",
       "translit_en": "Az tachfots zivchei tsedek; ola vechalil; az yaalu al mizbachecha farim."

@@ -15,7 +15,7 @@
       "num": 2,
       "he": "יֹ֭אמְרוּ גְּאוּלֵ֣י יְהֹוָ֑ה אֲשֶׁ֥ר גְּ֝אָלָ֗ם מִיַּד־צָֽר׃",
       "he_plain": "יאמרו גאולי יהוה אשר גאלם מיד צר",
-      "translit": "Yomrú gueuléi Adonái; ashér geAlám miyád tsár.",
+      "translit": "Yomrú gueuléi Adonái; ashér gealám miyád tsár.",
       "es": "Díganlo los redimidos del Eterno a quienes redimió de mano del adversario.",
       "en": "Thus let G OD ’s redeemed say, those redeemed from adversity,",
       "translit_en": "Yomru gueulei Adonai; asher gealam miyad tsar."
@@ -24,7 +24,7 @@
       "num": 3,
       "he": "וּֽמֵאֲרָצ֗וֹת קִ֫בְּצָ֥ם מִמִּזְרָ֥ח וּמִֽמַּעֲרָ֑ב מִצָּפ֥וֹן וּמִיָּֽם׃",
       "he_plain": "ומארצות קבצם ממזרח וממערב מצפון ומים",
-      "translit": "UmeartSOt kibatsám; mimizráj umimaaráv; mitsafón umiyám.",
+      "translit": "Umeartsot kibatsám; mimizráj umimaaráv; mitsafón umiyám.",
       "es": "Y los reunió de las tierras; del oriente y del occidente; del norte y del sur.",
       "en": "who have been gathered in from the lands, from east and west, from the north and from the sea.",
       "translit_en": "Umeartsot kibatsam; mimizrach umimaarav; mitsafon umiyam."
@@ -33,7 +33,7 @@
       "num": 4,
       "he": "תָּע֣וּ בַ֭מִּדְבָּר בִּישִׁימ֣וֹן דָּ֑רֶךְ עִ֥יר מ֝וֹשָׁ֗ב לֹ֣א מָצָֽאוּ׃",
       "he_plain": "תעו במדבר בישימון דרך עיר מושב לא מצאו",
-      "translit": "Taú bamidBár bishimón dérej; ír mosháv lo matsáu.",
+      "translit": "Taú bamidbár bishimón dérej; ír mosháv lo matsáu.",
       "es": "Anduvieron perdidos por el desierto en la soledad; no encontraron ciudad donde morar.",
       "en": "Some lost their way in the wilderness, in the wasteland; they found no settled place.",
       "translit_en": "Tau bamidbar bishimon derech; ir moshav lo matsau."
@@ -42,7 +42,7 @@
       "num": 5,
       "he": "רְעֵבִ֥ים גַּם־צְמֵאִ֑ים נַ֝פְשָׁ֗ם בָּהֶ֥ם תִּתְעַטָּֽף׃",
       "he_plain": "רעבים גם צמאים נפשם בהם תתעטף",
-      "translit": "Reevím gam tsemEím; nafshám bahém titataféf.",
+      "translit": "Reevím gam tsemeím; nafshám bahém titataféf.",
       "es": "Hambrientos y sedientos también; su alma desfallecía en ellos.",
       "en": "Hungry and thirsty, their spirit failed.",
       "translit_en": "Reevim gam tsemeim; nafsham bahem titatafef."
@@ -51,7 +51,7 @@
       "num": 6,
       "he": "וַיִּצְעֲק֣וּ אֶל־יְ֭הֹוָה בַּצַּ֣ר לָהֶ֑ם מִ֝מְּצ֥וּקוֹתֵיהֶ֗ם יַצִּילֵֽם׃",
       "he_plain": "ויצעקו אל יהוה בצר להם ממצוקותיהם יצילם",
-      "translit": "Vayitsaakú el Adonái baTsar lahém; mimetsukotéihem yatsilém.",
+      "translit": "Vayitsaakú el Adonái batsar lahém; mimetsukotéihem yatsilém.",
       "es": "Entonces clamaron al Eterno en su angustia y los libró de sus congojas.",
       "en": "In their adversity they cried to G OD , and they were rescued from their troubles.",
       "translit_en": "Vayitsaaku el Adonai batsar lahem; mimetsukoteihem yatsilem."
@@ -60,7 +60,7 @@
       "num": 7,
       "he": "וַֽ֭יַּדְרִיכֵם בְּדֶ֣רֶךְ יְשָׁרָ֑ה לָ֝לֶ֗כֶת אֶל־עִ֥יר מוֹשָֽׁב׃",
       "he_plain": "וידריכם בדרך ישרה ללכת אל עיר מושב",
-      "translit": "VayaDrijém bedérej yesharáh; laléjet el ír mosháv.",
+      "translit": "Vayadrijém bedérej yesharáh; laléjet el ír mosháv.",
       "es": "Los condujo por camino recto para que fuesen a ciudad donde morar.",
       "en": "They were shown a direct way to reach a settled place.",
       "translit_en": "Vayadrichem bederech yesharah; lalechet el ir moshav."
@@ -114,7 +114,7 @@
       "num": 13,
       "he": "וַיִּזְעֲק֣וּ אֶל־יְ֭הֹוָה בַּצַּ֣ר לָהֶ֑ם מִ֝מְּצֻ֥קוֹתֵיהֶ֗ם יוֹשִׁיעֵֽם׃",
       "he_plain": "ויזעקו אל יהוה בצר להם ממצקותיהם יושיעם",
-      "translit": "Vayitsaakú el Adonái baTsar lahém; mimetsukotéihem yoshiém.",
+      "translit": "Vayitsaakú el Adonái batsar lahém; mimetsukotéihem yoshiém.",
       "es": "Entonces clamaron al Eterno en su angustia y los salvó de sus congojas.",
       "en": "In their adversity they cried to G OD , and were rescued from their troubles.",
       "translit_en": "Vayitsaaku el Adonai batsar lahem; mimetsukoteihem yoshiem."
@@ -123,7 +123,7 @@
       "num": 14,
       "he": "י֭וֹצִיאֵם מֵחֹ֣שֶׁךְ וְצַלְמָ֑וֶת וּמוֹסְר֖וֹתֵיהֶ֣ם יְנַתֵּֽק׃",
       "he_plain": "יוציאם מחשך וצלמות ומוסרותיהם ינתק",
-      "translit": "Yotsiém mejóshej vetsalmávet; umosrotéihem yenatéK.",
+      "translit": "Yotsiém mejóshej vetsalmávet; umosrotéihem yenaték.",
       "es": "Los sacó de las tinieblas y de la sombra de muerte y rompió sus cadenas.",
       "en": "They were brought out of deepest darkness, their bonds broken asunder.",
       "translit_en": "Yotsiem mechoshech vetsalmavet; umosroteihem yenatek."
@@ -141,7 +141,7 @@
       "num": 16,
       "he": "כִּי־שִׁ֭בַּר דַּלְת֣וֹת נְחֹ֑שֶׁת וּבְרִיחֵ֖י בַרְזֶ֣ל גִּדֵּֽעַ׃",
       "he_plain": "כי שבר דלתות נחשת ובריחי ברזל גדע",
-      "translit": "Ki shivár daltót nejósheth; uvrijéi barZél gidéa.",
+      "translit": "Ki shivár daltót nejósheth; uvrijéi barzél gidéa.",
       "es": "Porque quebrantó las puertas de bronce y desmenuzó los cerrojos de hierro.",
       "en": "shattering gates of bronze, breaking their iron bars.",
       "translit_en": "Ki shivar daltot nechosheth; uvrichei barzel gidea."
@@ -168,7 +168,7 @@
       "num": 19,
       "he": "וַיִּזְעֲק֣וּ אֶל־יְ֭הֹוָה בַּצַּ֣ר לָהֶ֑ם מִ֝מְּצֻ֥קוֹתֵיהֶ֗ם יוֹשִׁיעֵֽם׃",
       "he_plain": "ויזעקו אל יהוה בצר להם ממצקותיהם יושיעם",
-      "translit": "Vayitsaakú el Adonái baTsar lahém; mimetsukotéihem yoshiém.",
+      "translit": "Vayitsaakú el Adonái batsar lahém; mimetsukotéihem yoshiém.",
       "es": "Entonces clamaron al Eterno en su angustia y los salvó de sus congojas.",
       "en": "In their adversity they cried to G OD and they were saved from their troubles.",
       "translit_en": "Vayitsaaku el Adonai batsar lahem; mimetsukoteihem yoshiem."
@@ -231,7 +231,7 @@
       "num": 26,
       "he": "׆ יַעֲל֣וּ שָׁ֭מַיִם יֵרְד֣וּ תְהוֹמ֑וֹת נַ֝פְשָׁ֗ם בְּרָעָ֥ה תִתְמוֹגָֽג׃",
       "he_plain": "יעלו שמים ירדו תהומות נפשם ברעה תתמוגג",
-      "translit": "Yaálú shamáyim yerDú tehomót; nafshám berá titmogéG.",
+      "translit": "Yaálú shamáyim yerdú tehomót; nafshám berá titmogég.",
       "es": "Suben a los cielos descienden a los abismos; su alma se derretía en el mal.",
       "en": "Mounting up to the heaven, plunging down to the depths, disgorging in their misery,",
       "translit_en": "Yaalu shamayim yerdu tehomot; nafsham bera titmogeg."
@@ -240,7 +240,7 @@
       "num": 27,
       "he": "׆ יָח֣וֹגּוּ וְ֭יָנוּעוּ כַּשִּׁכּ֑וֹר וְכׇל־חׇ֝כְמָתָ֗ם תִּתְבַּלָּֽע׃",
       "he_plain": "יחוגו וינועו כשכור וכל חכמתם תתבלע",
-      "translit": "Yajogú vayanuú kasHikór; vejol jojmatám titBalá.",
+      "translit": "Yajogú vayanuú kashikór; vejol jojmatám titbalá.",
       "es": "Tiemblan y titubean como borrachos y toda su sabiduría desaparece.",
       "en": "they reeled and staggered like a drunk, all their skill to no avail.",
       "translit_en": "Yachogu vayanuu kashikor; vechol chochmatam titbala."
@@ -249,7 +249,7 @@
       "num": 28,
       "he": "׆ וַיִּצְעֲק֣וּ אֶל־יְ֭הֹוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצ֥וּקֹתֵיהֶ֗ם יוֹצִיאֵֽם׃",
       "he_plain": "ויצעקו אל יהוה בצר להם וממצוקתיהם יוציאם",
-      "translit": "Vayitsaakú el Adonái baTsar lahém; umimetsukotéihem yotsiém.",
+      "translit": "Vayitsaakú el Adonái batsar lahém; umimetsukotéihem yotsiém.",
       "es": "Entonces clamaron al Eterno en su angustia y los sacó de sus congojas.",
       "en": "In their adversity they cried to G OD , and were saved from their troubles.",
       "translit_en": "Vayitsaaku el Adonai batsar lahem; umimetsukoteihem yotsiem."
@@ -267,7 +267,7 @@
       "num": 30,
       "he": "וַיִּשְׂמְח֥וּ כִֽי־יִשְׁתֹּ֑קוּ וַ֝יַּנְחֵ֗ם אֶל־מְח֥וֹז חֶפְצָֽם׃",
       "he_plain": "וישמחו כי ישתקו וינחם אל מחוז חפצם",
-      "translit": "Vayismejú ki yishtokú; vayanjém el mejoZ jeftsám.",
+      "translit": "Vayismejú ki yishtokú; vayanjém el mejóz jeftsám.",
       "es": "Y se alegraron por haberse apaciguado y los guió al puerto que deseaban.",
       "en": "They rejoiced when all was quiet, and were brought to the port they desired.",
       "translit_en": "Vayismechu ki yishtoku; vayanchem el mechoz cheftsam."
@@ -294,7 +294,7 @@
       "num": 33,
       "he": "יָשֵׂ֣ם נְהָר֣וֹת לְמִדְבָּ֑ר וּמֹצָ֥אֵי מַ֝֗יִם לְצִמָּאֽוֹן׃",
       "he_plain": "ישם נהרות למדבר ומצאי מים לצמאון",
-      "translit": "Yasém neharót lemidBár; umotsáei máyim letsimáon.",
+      "translit": "Yasém neharót lemidbár; umotsáei máyim letsimáon.",
       "es": "Él convierte los ríos en desierto y los manantiales de aguas en sequedal.",
       "en": "The rivers are turned into a wilderness, springs of water into thirsty land,",
       "translit_en": "Yasem neharot lemidbar; umotsaei mayim letsimaon."
@@ -312,7 +312,7 @@
       "num": 35,
       "he": "יָשֵׂ֣ם מִ֭דְבָּר לַאֲגַם־מַ֑יִם וְאֶ֥רֶץ צִ֝יָּ֗ה לְמֹצָ֥אֵי מָֽיִם׃",
       "he_plain": "ישם מדבר לאגם מים וארץ ציה למצאי מים",
-      "translit": "Yasém midBár leagám máyim; veérets tsiyá lemotséi máyim.",
+      "translit": "Yasém midbár leagám máyim; veérets tsiyá lemotséi máyim.",
       "es": "Convierte el desierto en estanque de aguas y la tierra seca en manantiales.",
       "en": "The wilderness is turned into pools, parched land into springs of water.",
       "translit_en": "Yasem midbar leagam mayim; veerets tsiya lemotsei mayim."
@@ -339,7 +339,7 @@
       "num": 38,
       "he": "וַיְבָרְכֵ֣ם וַיִּרְבּ֣וּ מְאֹ֑ד וּ֝בְהֶמְתָּ֗ם לֹ֣א יַמְעִֽיט׃",
       "he_plain": "ויברכם וירבו מאד ובהמתם לא ימעיט",
-      "translit": "Vayevarjém vayirBú meód; uvehemtám lo yamíT.",
+      "translit": "Vayevarjém vayirbú meód; uvehemtám lo yamít.",
       "es": "Y los bendice y se multiplican en gran manera y no deja que disminuya su ganado.",
       "en": "They are blessed and they increase greatly— their cattle do not decrease,",
       "translit_en": "Vayevarchem vayirbu meod; uvehemtam lo yamit."
@@ -348,7 +348,7 @@
       "num": 39,
       "he": "וַיִּמְעֲט֥וּ וַיָּשֹׁ֑חוּ מֵעֹ֖צֶר רָעָ֣ה וְיָגֽוֹן׃",
       "he_plain": "וימעטו וישחו מעצר רעה ויגון",
-      "translit": "Vayimatu vayishoJú; meóser raá vetsuká.",
+      "translit": "Vayimatu vayishojú; meóser raá vetsuká.",
       "es": "Luego son menoscabados y abatidos a causa de opresión de males y tristeza.",
       "en": "after they had been few and crushed by oppression, misery, and sorrow.",
       "translit_en": "Vayimatu vayishochu; meoser raa vetsuka."

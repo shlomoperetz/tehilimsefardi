@@ -34,7 +34,7 @@
       "en": "You are fairer than all mortals; your speech is endowed with grace; rightly has God given you an eternal blessing.",
       "translit_en": "Yafyafita mibenei adam; hutsak chen besefoteicha; al ken berachecha Elohim leolam.",
       "fr": "Tu es le plus beau des fils des hommes ; la grâce s'est répandue sur tes lèvres ; c'est pourquoi Dieu t'a béni pour toujours.",
-      "translit_fr": "Yafyafita mibeNeï adam ; houtsak khen besefotékha ; al ken berakhékha Elohim leolam."
+      "translit_fr": "Yafyafita mibeneï adam ; houtsak khen besefotékha ; al ken berakhékha Elohim leolam."
     },
     {
       "num": 4,
@@ -51,7 +51,7 @@
       "num": 5,
       "he": "וַהֲדָרְךָ צְלַח רְכַב עַל דְּבַר אֱמֶת וְעַנְוָה צֶדֶק וְתוֹרְךָ נוֹרָאוֹת יְמִינֶךָ׃",
       "he_plain": "והדרך צלח רכב על דבר אמת וענוה צדק ותורך נוראות ימינך",
-      "translit": "Vahadarejá tsláj rejáv al devár emét veaNvá tsédek; vetorejá noraót yeminéja.",
+      "translit": "Vahadarejá tsláj rejáv al devár emét veanvá tsédek; vetorejá noraót yeminéja.",
       "es": "En Tu esplendor avanza victorioso; cabalga en nombre de la verdad, de la humildad y de la justicia; y Tu diestra te enseñará cosas temibles.",
       "en": "b Meaning of verse uncertain. in your glory, win success; ride on in the cause of truth and meekness and right; and let your right hand lead you to awesome deeds.",
       "translit_en": "Vahadarecha tslach rechav al devar emet veanva tsedek; vetorecha noraot yeminecha.",
@@ -67,7 +67,7 @@
       "en": "Your arrows, sharpened, [pierce] the breast of the king’s enemies; peoples fall at your feet. c [pierce] the breast of the king’s enemies; / peoples fall at your feet Clauses transposed for clarity.",
       "translit_en": "Chitseicha shenunim; amim tachteicha yipelu; belev oyevei hamelech.",
       "fr": "Tes flèches sont acérées ; des peuples tombent sous Toi ; elles pénètrent dans le cœur des ennemis du roi.",
-      "translit_fr": "Khitséïkha chenoUnim ; amim takhtékha yipéLou ; belev oyeveï haméleKh."
+      "translit_fr": "Khitséïkha chenounim ; amim takhtékha yipélou ; belev oyeveï hamélekh."
     },
     {
       "num": 7,
@@ -89,24 +89,24 @@
       "en": "You love righteousness and hate wickedness; rightly has God, your God, chosen to anoint you with oil of gladness over all your peers.",
       "translit_en": "Ahavta tsedek vatisna resha; al ken meshachecha Elohim Elohaycha shemen sason mechavereicha.",
       "fr": "Tu as aimé la justice et haï la méchanceté ; c'est pourquoi Dieu, ton Dieu, t'a oint d'une huile d'allégresse plus que tes compagnons.",
-      "translit_fr": "Ahavta tsédek vatisna récha ; al ken mechakhekhA Elohim Elohaïkha chémen sason mekhaverékha."
+      "translit_fr": "Ahavta tsédek vatisna récha ; al ken mechakhekha Elohim Elohaïkha chémen sason mekhaverékha."
     },
     {
       "num": 9,
       "he": "מֹר וַאֲהָלוֹת קְצִיעוֹת כָּל בִּגְדֹתֶיךָ מִן הֵיכְלֵי שֵׁן מִנִּי שִׂמְּחוּךָ׃",
       "he_plain": "מור ואהלות קציעות כל בגדותיך מן היכלי שן מני שמחוך",
-      "translit": "Mor veahalót ketsiot kol bigdotéija; min hejéjlei shén miniShimejúja.",
+      "translit": "Mor veahalót ketsiot kol bigdotéija; min hejéjlei shén miní shimejúja.",
       "es": "Mirra, áloe y casia exhalan todos Tus vestidos; desde palacios de marfil te alegran.",
       "en": "All your robes [are fragrant] with myrrh and aloes and cassia; from ivoried palaces lutes entertain you.",
       "translit_en": "Mor veahalot ketsiot kol bigdoteicha; min hecheilei shen miniShimchucha.",
       "fr": "La myrrhe, l'aloès et la casse parfument tous Tes vêtements ; depuis les palais d'ivoire ils Te réjouissent.",
-      "translit_fr": "Mor veahalot ketsiot kol bigdotékha ; min héikhlei chen miniChimkhouKha."
+      "translit_fr": "Mor veahalot ketsiot kol bigdotékha ; min héikhlei chen minichimkhoukha."
     },
     {
       "num": 10,
       "he": "בְּנוֹת מְלָכִים בְּיִקְּרוֹתֶיךָ נִצְּבָה שֵׁגַל לִימִינְךָ בְּכֶתֶם אוֹפִיר׃",
       "he_plain": "בנות מלכים ביקרותיך נצבה שגל לימינך בכתם אופיר",
-      "translit": "Benót melaJím beyikerotéija; nitsevá shegál liminéja bejétem ofír.",
+      "translit": "Benót melajím beyikerotéija; nitsevá shegál liminéja bejétem ofír.",
       "es": "Hijas de reyes están entre Tus ilustres; está la reina a Tu diestra con oro de Ofir.",
       "en": "Royal princesses are your favorites; the consort stands at your right hand, decked in gold of Ophir.",
       "translit_en": "Benot melachim beyikeroteicha; nitseva shegal liminecha bechetem ofir.",
@@ -117,12 +117,12 @@
       "num": 11,
       "he": "שִׁמְעִי בַת וּרְאִי וְהַטִּי אָזְנֵךְ וְשִׁכְחִי עַמֵּךְ וּבֵית אָבִיךְ׃",
       "he_plain": "שמעי בת וראי והטי אזנך ושכחי עמך ובית אביך",
-      "translit": "Shimí vat ureí vehatí ozNéj; veshijji améj uvéit avíj.",
+      "translit": "Shimí vat ureí vehatí oznéj; veshijji améj uvéit avíj.",
       "es": "Escucha, hija, y mira e inclina tu oído; olvida tu pueblo y la casa de tu padre.",
       "en": "Take heed, lass, and note, incline your ear: forget your people and your father’s house,",
       "translit_en": "Shimi vat urei vehati oznech; veshichchi amech uveit avich.",
       "fr": "Écoute, ma fille, regarde et incline ton oreille ; oublie ton peuple et la maison de ton père.",
-      "translit_fr": "Chimi vat oureï vehatI oznéKh ; vechikhkhi amékh ouveït aviKh."
+      "translit_fr": "Chimi vat oureï vehati oznékh ; vechikhkhi amékh ouveït avikh."
     },
     {
       "num": 12,
@@ -133,18 +133,18 @@
       "en": "and let the king be aroused by your beauty; since he is your lord, bow to him.",
       "translit_en": "Veyitav hamelech yofyech; ki hu adonayich vehishtachachi lo.",
       "fr": "Et le roi désirera ta beauté ; car il est ton seigneur, prosterne-toi devant lui.",
-      "translit_fr": "Veyitav haméleKh yofyékh ; ki hou adonaïKh vehichtakhaKHI lo."
+      "translit_fr": "Veyitav hamélekh yofyékh ; ki hou adonaïkh vehichtakhakhi lo."
     },
     {
       "num": 13,
       "he": "וּבַת צֹר בְּמִנְחָה פָּנַיִךְ יְחַלּוּ עֲשִׁירֵי עָם׃",
       "he_plain": "ובת צור במנחה פניך יחלו עשירי עם",
-      "translit": "Uvát Tsór beminJá panáyij yejálu; ashiréi ám.",
+      "translit": "Uvát Tsór beminjá panáyij yejálu; ashiréi ám.",
       "es": "Y la hija de Tiro vendrá con presentes; los ricos del pueblo implorarán Tu favor.",
       "en": "O Tyrian lass, the wealthiest people will court your favor with gifts,",
       "translit_en": "Uvat Tsor bemincha panayich yechalu; ashirei am.",
       "fr": "Et la fille de Tyr viendra avec des présents ; les riches du peuple imploreront ta faveur.",
-      "translit_fr": "Ouvat Tsor beminKha panaïKh yekhaLou ; achireï am."
+      "translit_fr": "Ouvat Tsor beminkha panaïkh yekhalou ; achireï am."
     },
     {
       "num": 14,
@@ -155,7 +155,7 @@
       "en": "goods of all sorts. The royal princess, her dress embroidered with golden mountings,",
       "translit_en": "Kol kevudah vat melech penima; mimishbetsot zahav levusha.",
       "fr": "Toute glorieuse est la fille du roi dans son intérieur ; son vêtement est de broderies d'or.",
-      "translit_fr": "Kol kevoudAh vat méleKh penima ; mimichbetsot zahav levoucha."
+      "translit_fr": "Kol kevoudah vat mélekh penima ; mimichbetsot zahav levoucha."
     },
     {
       "num": 15,
@@ -166,7 +166,7 @@
       "en": "is led inside to the king; e goods of all sorts … to the king Meaning of Heb. uncertain. maidens in her train, her companions, are presented to you.",
       "translit_en": "Lirekamot tuval lamelech; betulot achareha reoteiha muvaoot lach.",
       "fr": "En vêtements brodés elle sera conduite au roi ; des vierges après elle, ses compagnes, te seront amenées.",
-      "translit_fr": "Lirekamot touval laméleKh ; betoulot akharékha reotékha mouvaOot lakh."
+      "translit_fr": "Lirekamot touval lamélekh ; betoulot akharékha reotékha mouvaoot lakh."
     },
     {
       "num": 16,
@@ -177,7 +177,7 @@
       "en": "They are led in with joy and gladness; they enter the palace of the king.",
       "translit_en": "Tuvalna besimachot vagil; tevoena beheichal melech.",
       "fr": "Elles seront conduites avec joie et allégresse ; elles entreront dans le palais du roi.",
-      "translit_fr": "TouválNa besimakhot vagil ; tevoéna behéikhal méleKh."
+      "translit_fr": "Touválna besimakhot vagil ; tevoéna behéikhal mélekh."
     },
     {
       "num": 17,
@@ -188,7 +188,7 @@
       "en": "Your sons will succeed your fathers; you will appoint them princes throughout the land.",
       "translit_en": "Tachat avoteicha yihyu vaneicha; teshitemo lesarim bechol haarets.",
       "fr": "À la place de tes pères seront tes fils ; tu les établiras princes sur toute la terre.",
-      "translit_fr": "Takhat avotékha yihyou vanékha ; techitemO lesarim bekhol haarets."
+      "translit_fr": "Takhat avotékha yihyou vanékha ; techitemo lesarim bekhol haarets."
     },
     {
       "num": 18,
@@ -199,7 +199,7 @@
       "en": "I commemorate your fame for all generations, so peoples will praise you forever and ever.",
       "translit_en": "Azkira shimcha bechol dor vador; al ken amim yehuducha leolam vaed.",
       "fr": "Je perpétuerai la mémoire de Ton nom en toutes générations ; c'est pourquoi les peuples Te loueront éternellement et pour toujours.",
-      "translit_fr": "Azkira chimKha bekhol dor vador ; al ken amim yehoudoukha leolam vaed."
+      "translit_fr": "Azkira chimkha bekhol dor vador ; al ken amim yehoudoukha leolam vaed."
     }
   ],
   "ocasiones": [

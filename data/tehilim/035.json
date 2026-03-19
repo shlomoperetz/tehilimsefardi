@@ -56,7 +56,7 @@
       "en": "Let them be as chaff in the wind, G OD ’s angel driving them on.",
       "translit_en": "Yihyu chemots lifnei ruach; umalach Adonai doche.",
       "fr": "Qu'ils soient comme la balle devant le vent, poussée par l'ange d'Adonaï.",
-      "translit_fr": "Yihou kemots lifné rouakh, oumalaKH Adonaï dohé."
+      "translit_fr": "Yihou kemots lifné rouakh, oumalakh Adonaï dohé."
     },
     {
       "num": 6,
@@ -67,7 +67,7 @@
       "en": "Let their path be dark and slippery, with G OD ’s angel in pursuit.",
       "translit_en": "Yehi darkam choshech vachalaklakot; umalach Adonai rodefam.",
       "fr": "Que leur chemin soit ténèbres et glissants et que l'ange d'Adonaï les poursuive.",
-      "translit_fr": "Yehi darkam khochekh vakhalaklaKHot, oumalaKH Adonaï rodefam."
+      "translit_fr": "Yehi darkam khochekh vakhalaklakhot, oumalakh Adonaï rodefam."
     },
     {
       "num": 7,
@@ -84,7 +84,7 @@
       "num": 8,
       "he": "תְּבוֹאֵהוּ שׁוֹאָה לֹא יֵדָע וְרִשְׁתּוֹ אֲשֶׁר טָמַן תִּלְכְּדוֹ בְּשׁוֹאָה יִפָּל בָּהּ׃",
       "he_plain": "תבואהו שואה לא ידע ורשתו אשר טמן תלכדו בשואה יפול בה",
-      "translit": "Tevoéhu shoá lo yedá; verishTo ashér tamán tilkedó; veshoá yipól bah.",
+      "translit": "Tevoéhu shoá lo yedá; verishto ashér tamán tilkedó; veshoá yipól bah.",
       "es": "Que le sorprenda la ruina que no sepa; y su red que escondió lo atrape; que en esa ruina caiga.",
       "en": "Let disaster overtake them unawares; let the net they hid catch them; let them fall into it when disaster [strikes].",
       "translit_en": "Tevoehu shoa lo yeda; verishto asher taman tilkedo; veshoa yipol bah.",
@@ -150,12 +150,12 @@
       "num": 14,
       "he": "כְּרֵעַ כְּאָח לִי הִתְהַלָּכְתִּי כַּאֲבֶל אֵם קֹדֵר שַׁחוֹתִי׃",
       "he_plain": "כרע כאח לי התהלכתי כאבל אם קודר שחותי",
-      "translit": "Kereá keáj lí hithaláj ti; keavél em kodér shajotí.",
+      "translit": "Kereá keáj lí hithalájti; keavél em kodér shajotí.",
       "es": "Me comportaba como si fuera su amigo o su hermano; como el que llora a su madre andaba de luto y encorvado.",
       "en": "I walked about as though it were my friend or my kin; I was bowed with gloom, like one mourning for a mother.",
       "translit_en": "Kerea keach li hithalachti; keavel em koder shachoti.",
       "fr": "Je me comportais comme pour un ami ou un frère ; comme celui qui pleure sa mère, j'allais en deuil et courbé.",
-      "translit_fr": "Keréa keakh li hithalakhti, keavel em, kadder chakhokhti."
+      "translit_fr": "Keréa keakh li hithalakhti, keavEl em, kadder chakhokhti."
     },
     {
       "num": 15,
@@ -166,7 +166,7 @@
       "en": "But when I stumble, they gleefully gather; wretches gather against me, I know not why; they tear at me without end.",
       "translit_en": "Uvetsali samechu veneesafu; neespu alay nekim velo yadati; karu velo damu.",
       "fr": "Mais dans ma chute ils se réjouirent et se rassemblèrent ; des inconnus se rassemblèrent contre moi, ils me déchirèrent sans cesse.",
-      "translit_fr": "Ouvetsaleï samekhou veneesefoU, neesefoU alaï nekkim velo yadaati, karou velo damoU."
+      "translit_fr": "Ouvetsaleï samekhou veneesefou, neesefou alaï nekkim velo yadaati, karou velo damou."
     },
     {
       "num": 16,
@@ -210,7 +210,7 @@
       "en": "Let not my treacherous enemies rejoice over me, or those who hate me without reason wink their eyes.",
       "translit_en": "Al yismechu li oyvay sheker; sonay chinam yikretsu ayin.",
       "fr": "Que mes faux ennemis ne se réjouissent pas de moi ; que ceux qui me haïssent sans cause ne clignent pas de l'œil.",
-      "translit_fr": "Al yismekhou li oyvaï chékher, sonéaï khinam yikretsoU ayin."
+      "translit_fr": "Al yismekhou li oyvaï chékher, sonéaï khinam yikretsou ayin."
     },
     {
       "num": 20,
@@ -271,7 +271,7 @@
       "num": 25,
       "he": "אַל יֹאמְרוּ בְלִבָּם הֶאָח נַפְשֵׁנוּ אַל יֹאמְרוּ בִּלַּעֲנוּהוּ׃",
       "he_plain": "אל יאמרו בלבם האח נפשנו אל יאמרו בלענוהו",
-      "translit": "Al yomrú veliBAm: heáj nafshénu; al yomrú bilaanúhu.",
+      "translit": "Al yomrú velibám: heáj nafshénu; al yomrú bilaanúhu.",
       "es": "No digan en su corazón: ¡Ajá, lo que queríamos! No digan: Lo hemos devorado.",
       "en": "Let them not think, “Aha, just what we wished!” Let them not say, “We have destroyed him!”",
       "translit_en": "Al yomru velibam: heach nafshenu; al yomru bilaanuhu.",

@@ -6,7 +6,7 @@
       "num": 1,
       "he": "לְדָוִ֨ד׀ בָּ֘ר֤וּךְ יְהֹוָ֨ה׀ צוּרִ֗י הַֽמְלַמֵּ֣ד יָדַ֣י לַקְרָ֑ב אֶ֝צְבְּעוֹתַ֗י לַמִּלְחָמָֽה׃",
       "he_plain": "לדוד ברוך יהוה צורי המלמד ידי לקרב אצבעותי למלחמה",
-      "translit": "LeDavíd. Barúj Adonái tsurí; hamelamEd yadáy lakeráv; etsbeotáy lamilhamá.",
+      "translit": "LeDavíd. Barúj Adonái tsurí; hamelamed yadáy lakeráv; etsbeotáy lamilhamá.",
       "es": "De David. Bendito sea el Eterno mi roca que adiestra mis manos para la batalla y mis dedos para la guerra.",
       "en": "Of David. Blessed is G OD , my rock, who trains my hands for battle, my fingers for warfare;",
       "translit_en": "LeDavid. Baruch Adonai tsuri; hamelamed yaday lakerav; etsbeotay lamilhama."
@@ -15,7 +15,7 @@
       "num": 2,
       "he": "חַסְדִּ֥י וּמְצוּדָתִי֮ מִשְׂגַּבִּ֢י וּֽמְפַלְטִ֫י־לִ֥י מָ֭גִנִּי וּב֣וֹ חָסִ֑יתִי הָרוֹדֵ֖ד עַמִּ֣י תַחְתָּֽי׃",
       "he_plain": "חסדי ומצודתי משגבי ומפלטי לי מגני ובו חסיתי הרודד עמי תחתי",
-      "translit": "Jasdí umetsudatí; misguabí umefaltí lí; maguiní uvó jasíti; haRodéd amí tajtáy.",
+      "translit": "Jasdí umetsudatí; misguabí umefaltí lí; maguiní uvó jasíti; harodéd amí tajtáy.",
       "es": "Mi bondad leal y mi fortaleza; mi alto refugio y mi libertador; mi escudo en quien confío; el que sujeta a mi pueblo debajo de mí.",
       "en": "my faithful one, my fortress, my haven and my deliverer, my shield, in whom I take shelter, who makes peoples a peoples So Targum, Saadia; in contrast to others “my people.” subject to me.",
       "translit_en": "Chasdi umetsudati; misguabi umefalti li; maguini uvo chasiti; haroded ami tachtay."
@@ -24,7 +24,7 @@
       "num": 3,
       "he": "יְֽהֹוָ֗ה מָֽה־אָ֭דָם וַתֵּדָעֵ֑הוּ בֶּן־אֱ֝נ֗וֹשׁ וַֽתְּחַשְּׁבֵֽהוּ׃",
       "he_plain": "יהוה מה אדם ותדעהו בן אנוש ותחשבהו",
-      "translit": "Adonái má adam vateDaéhu; ben enósh vatejashevéhu.",
+      "translit": "Adonái má adam vatedaéhu; ben enósh vatejashevéhu.",
       "es": "Oh Eterno ¿qué es el hombre para que le conozcas y el hijo del hombre para que lo estimes?",
       "en": "O E TERNAL One, what are mortals that You should care about them, human beings, that You should think of them?",
       "translit_en": "Adonai ma adam vatedaehu; ben enosh vatechashevehu."
@@ -42,7 +42,7 @@
       "num": 5,
       "he": "יְ֭הֹוָה הַט־שָׁמֶ֣יךָ וְתֵרֵ֑ד גַּ֖ע בֶּהָרִ֣ים וְֽיֶעֱשָֽׁנוּ׃",
       "he_plain": "יהוה הט שמיך ותרד גע בהרים ויעשנו",
-      "translit": "Adonái hat shaméija veteRéd; guá beharím veyeeshanú.",
+      "translit": "Adonái hat shaméija veteréd; guá beharím veyeeshanú.",
       "es": "Oh Eterno inclina Tus cielos y desciende; toca los montes y humeen.",
       "en": "O E TERNAL One, bend Your sky and come down; touch the mountains and they will smoke.",
       "translit_en": "Adonai hat shameicha vetered; gua beharim veyeeshanu."
@@ -51,7 +51,7 @@
       "num": 6,
       "he": "בְּר֣וֹק בָּ֭רָק וּתְפִיצֵ֑ם שְׁלַ֥ח חִ֝צֶּ֗יךָ וּתְהֻמֵּֽם׃",
       "he_plain": "ברוק ברק ותפיצם שלח חציך ותהמם",
-      "translit": "Berók barák utfitsém; shlaj jitsEija vetehummém.",
+      "translit": "Berók barák utfitsém; shlaj jitseija vetehummém.",
       "es": "Despide relámpagos y dispersalos; envía Tus saetas y túrbalos.",
       "en": "Make lightning flash and scatter them; shoot Your arrows and rout them.",
       "translit_en": "Berok barak utfitsem; shlach chitseicha vetehummem."
@@ -60,7 +60,7 @@
       "num": 7,
       "he": "שְׁלַ֥ח יָדֶ֗יךָ מִ֫מָּר֥וֹם פְּצֵ֣נִי וְ֭הַצִּילֵנִי מִמַּ֣יִם רַבִּ֑ים מִ֝יַּ֗ד בְּנֵ֣י נֵכָֽר׃",
       "he_plain": "שלח ידיך ממרום פצני והצילני ממים רבים מיד בני נכר",
-      "translit": "Shlaj yadéija mimárom; fetsEni vehatsiléni mimáyim rabím; miyád bené nejár.",
+      "translit": "Shlaj yadéija mimárom; fetseni vehatsiléni mimáyim rabím; miyád bené nejár.",
       "es": "Envía Tu mano desde lo alto; rescátame y líbrame de las muchas aguas y de la mano de los hombres extraños.",
       "en": "Reach Your hand down from on high; rescue me, save me from the mighty waters, from the hands of foreigners,",
       "translit_en": "Shlach yadeicha mimarom; fetseni vehatsileni mimayim rabim; miyad bene nechar."
@@ -87,7 +87,7 @@
       "num": 10,
       "he": "הַנּוֹתֵ֥ן תְּשׁוּעָ֗ה לַמְּלָ֫כִ֥ים הַ֭פּוֹצֶה אֶת־דָּוִ֥ד עַבְדּ֗וֹ מֵחֶ֥רֶב רָעָֽה׃",
       "he_plain": "הנותן תשועה למלכים הפוצה את דוד עבדו מחרב רעה",
-      "translit": "HaNotén yeshUá lamelAjím; hapotéh et Davíd abdó mejérev raá.",
+      "translit": "Hanotén yeshuá lamelajím; hapotéh et Davíd abdó mejérev raá.",
       "es": "El que da salvación a los reyes y libró a David Su siervo de la espada maligna.",
       "en": "to the One who gives victory to kings, who rescues David—God’s servant—from the deadly sword.",
       "translit_en": "Hanoten yeshua lamelachim; hapoteh et David abdo mecherev raa."
@@ -96,7 +96,7 @@
       "num": 11,
       "he": "פְּצֵ֥נִי וְהַצִּילֵנִי֮ מִיַּ֢ד בְּֽנֵי־נֵ֫כָ֥ר אֲשֶׁ֣ר פִּ֭יהֶם דִּבֶּר־שָׁ֑וְא וִ֝ימִינָ֗ם יְמִ֣ין שָֽׁקֶר׃",
       "he_plain": "פצני והצילני מיד בני נכר אשר פיהם דבר שוא וימינם ימין שקר",
-      "translit": "PetsEni vehatsileíni miyád bené nejár; ashér pihem dibér sháv; viminém yemín shéker.",
+      "translit": "Petseni vehatsileíni miyád bené nejár; ashér pihem dibér sháv; viminém yemín shéker.",
       "es": "Rescátame y líbrame de la mano de los hombres extraños cuya boca habla vanidad y cuya diestra es diestra de mentira.",
       "en": "Rescue me, save me from the hands of foreigners, whose mouths speak lies, and whose oaths c oaths See note at v. 8 . are false.",
       "translit_en": "Petseni vehatsileini miyad bene nechar; asher pihem diber shav; viminem yemin sheker."
@@ -105,7 +105,7 @@
       "num": 12,
       "he": "אֲשֶׁ֤ר בָּנֵ֨ינוּ׀ כִּנְטִעִים֮ מְגֻדָּלִ֢ים בִּֽנְעוּרֵ֫יהֶ֥ם בְּנוֹתֵ֥ינוּ כְזָוִיֹּ֑ת מְ֝חֻטָּב֗וֹת תַּבְנִ֥ית הֵיכָֽל׃",
       "he_plain": "אשר בנינו כנטעים מגדלים בנעוריהם בנותינו כזוית מחטבות תבנית היכל",
-      "translit": "Ashér banéinu kintiím megudAlím bineUreihem; benotéinu kejazaviyót meHutabót tavnít heijál.",
+      "translit": "Ashér banéinu kintiím megudalím bineureihem; benotéinu kejazaviyót mehutabót tavnít heijál.",
       "es": "Para que nuestros hijos sean como plantas crecidas en su juventud; nuestras hijas como columnas labradas como las de un palacio.",
       "en": "d The meaning of several phrases in these verses is uncertain. For our sons are like saplings, well-tended in their youth; our daughters are like cornerstones trimmed to give shape to a palace.",
       "translit_en": "Asher baneinu kintiim megudalim bineureihem; benoteinu kechazaviyot mehutabot tavnit heichal."
@@ -114,7 +114,7 @@
       "num": 13,
       "he": "מְזָוֵ֣ינוּ מְלֵאִים֮ מְפִיקִ֥ים מִזַּ֗ן אֶ֫ל־זַ֥ן צֹאונֵ֣נוּ מַ֭אֲלִיפוֹת מְרֻבָּב֗וֹת בְּחוּצוֹתֵֽינוּ׃",
       "he_plain": "מזוינו מלאים מפיקים מזן אל זן צאוננו מאליפות מרבבות בחוצותינו",
-      "translit": "MezaveíNu meléim mefarnikim mizán el zán; tsonenú malfíot meaVím lirevavót bisadotéinu.",
+      "translit": "Mezaveínu meléim mefarnikim mizán el zán; tsonenú malfíot meavím lirevavót bisadotéinu.",
       "es": "Nuestros graneros llenos proveyendo toda clase de provisión; nuestros rebaños que se multipliquen por millares y decenas de millares en nuestros campos.",
       "en": "Our storehouses are full, supplying produce of all kinds; our flocks number thousands, even myriads, in our fields;",
       "translit_en": "Mezaveinu meleim mefarnikim mizan el zan; tsonenu malfiot meavim lirevavot bisadoteinu."
@@ -123,7 +123,7 @@
       "num": 14,
       "he": "אַלּוּפֵ֗ינוּ מְֽסֻבָּ֫לִ֥ים אֵֽין־פֶּ֭רֶץ וְאֵ֣ין יוֹצֵ֑את וְאֵ֥ין צְ֝וָחָ֗ה בִּרְחֹבֹתֵֽינוּ׃",
       "he_plain": "אלופינו מסבלים אין פרץ ואין יוצאת ואין צוחה ברחבתינו",
-      "translit": "AluféiNu mesubAlim; en pérets veen yotséet veen tseajá birjovotéinu.",
+      "translit": "Aluféinu mesubalim; en pérets veen yotséet veen tseajá birjovotéinu.",
       "es": "Nuestros bueyes bien cargados; sin que haya brecha ni salida ni clamor en nuestras plazas.",
       "en": "our cattle are well cared for. There is no breaching and no sortie, and no wailing in our streets.",
       "translit_en": "Alufeinu mesubalim; en perets veen yotseet veen tseacha birchovoteinu."
