@@ -24,6 +24,8 @@ const STRINGS = {
     view_he: "עב",
     view_tr: "tr",
     view_es: "EN",
+    apoyar_title: "Support the project",
+    apoyar_desc: "Tehilim Sefardí is an independent, ad-free and completely free project. If it has been useful to you, you can contribute whatever you can.",
   },
   he: {
     home: "בַּיִת",
@@ -53,6 +55,8 @@ const STRINGS = {
     title_cantil: "ניקוד וטעמים",
     title_translit: "תעתיק ספרדי",
     title_es: "תרגום",
+    apoyar_title: "תמיכה בפרויקט",
+    apoyar_desc: "תהילים ספרדי הוא פרויקט עצמאי, ללא פרסומות ולחלוטין חינמי. אם עזר לך, תוכל לתרום כפי יכולתך.",
   },
   es: {
     home: "Inicio",
@@ -82,6 +86,8 @@ const STRINGS = {
     title_cantil: "Cantilaciones",
     title_translit: "Transliteración",
     title_es: "Traducción",
+    apoyar_title: "Apoyar el proyecto",
+    apoyar_desc: "Tehilim Sefardí es un proyecto independiente, sin publicidad y completamente gratuito. Si te ha sido útil, puedes contribuir con lo que puedas.",
   },
   fr: {
     home: "Accueil",
@@ -111,6 +117,8 @@ const STRINGS = {
     title_cantil: "Cantillations",
     title_translit: "Translittération",
     title_es: "Traduction",
+    apoyar_title: "Soutenir le projet",
+    apoyar_desc: "Tehilim Sefardí est un projet indépendant, sans publicité et entièrement gratuit. S'il vous a été utile, vous pouvez contribuer selon vos moyens.",
   }
 };
 
@@ -152,6 +160,8 @@ function applyLang() {
   set('tile-start-icon',  'tile_start_icon');
   set('brand-title', 'brand_title');
   set('brand-byline', 'brand_byline');
+  set('apoyar-title', 'apoyar_title');
+  set('apoyar-desc',  'apoyar_desc');
 
   // Alineación general según idioma
   const isHe = currentLang === 'he';
