@@ -133,6 +133,7 @@ header.topbar {
   flex-direction: column;
   gap:            3px;
   line-height:    1;
+  flex-shrink:    0;
 }
 .brand-title {
   font-family:    var(--ui-font);
@@ -767,6 +768,12 @@ nav.bottombar a.bbtn.active::before{
     --bottombar-h: 56px;
     --navmini-h: 0px;
   }
+  .topbar-inner { gap: 8px; }
+  .topbar-nav   { gap: 4px; }
+  .tnav-group   { padding: 0 2px; height: 32px; }
+  .tnav-btn     { min-width: 26px; padding: 0 6px; height: 28px; font-size: 12px; }
+  .tnav-btn svg { width: 13px; height: 13px; }
+  .tnav-lang    { font-size: 12px; padding: 0 6px; height: 26px; }
 
   .page { padding-bottom: calc(var(--bottombar-h) + 30px + env(safe-area-inset-bottom)); }
   nav.bottombar a.bbtn { font-size: 13px; }
