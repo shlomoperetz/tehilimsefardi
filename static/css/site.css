@@ -141,7 +141,7 @@ header.topbar {
   flex-shrink:    0;
 }
 .brand-title {
-  font-family:    var(--ui-font);
+  font-family:    var(--he-font);
   font-size:      17px;
   font-weight:    600;
   color:          var(--gold);
@@ -203,7 +203,7 @@ header.topbar {
   display:     flex;
   align-items: center;
   justify-content: center;
-  font-family: var(--ui-font);
+  font-family: var(--he-font);
   font-size:   13px;
   font-weight: 500;
   color:       var(--muted);
