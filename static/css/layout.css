@@ -3,19 +3,6 @@
   --sidebar-width: 280px;
 }
 
-body {
-  overflow: hidden;
-  height: 100vh;
-}
-
-.app-container {
-  display: flex;
-  height: 100vh;
-  padding-top: 60px; /* espacio topbar */
-  padding-bottom: 50px; /* espacio bottombar */
-  box-sizing: border-box;
-}
-
 /* Sidebar */
 .sidebar {
   position: fixed;
@@ -37,10 +24,7 @@ body {
 
 /* Contenido principal */
 .main-content {
-  flex: 1;
-  overflow-y: auto;
   transition: margin-right 0.3s ease;
-  height: 100%;
 }
 
 .sidebar.open ~ .main-content,

@@ -580,12 +580,6 @@ body.is-landing .text-controls {
 body.show-es-only .psalm-title-he { display: none; }
 body.show-es-only .psalm-title-es { display: block; }
 
-/* Centrar brand en topbar */
-.tbar-brand { 
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-}
 
 .psalm-header { text-align: center; margin: 0.5em 0 1.5em; }
 .psalm-number-big { font-size: 2.5em; font-weight: 700; color: var(--accent); line-height: 1; }
@@ -593,15 +587,6 @@ body.show-es-only .psalm-title-es { display: block; }
 
 /* === TOPBAR MÓVIL — dropdowns === */
 @media (max-width: 520px) {
-  header.topbar {
-    height: 52px;
-    padding: 0 12px;
-    gap: 6px;
-  }
-
-  .brand-byline { display: none; }
-  .brand-title  { font-size: 15px; }
-
   /* Triggers visibles en mobile */
   .dd-group .dd-trigger {
     display: flex;
