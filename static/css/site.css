@@ -120,14 +120,14 @@ header.topbar {
 .dark-mode header.topbar { background: rgba(26,26,26,.96); }
 
 .topbar-inner {
-  width:       100%;
+  max-width:   var(--maxw);
+  margin:      0 auto;
   height:      100%;
   padding:     0 var(--pad);
   display:     flex;
   align-items: center;
   gap:         16px;
   direction:   ltr;
-  box-sizing:  border-box;
 }
 
 .brand {
