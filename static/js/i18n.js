@@ -6,6 +6,7 @@ const STRINGS = {
     cbar_he: "Hebrew",
     cbar_tr: "Translit.",
     cbar_es: "EN",
+    footer_author: "By Shlomo Peretz →",
     landing_title: "Tehilim Sefardi",
     landing_desc: "The Psalms of David in Hebrew, Sephardic transliteration and English",
     landing_search: "Search psalm...",
@@ -40,6 +41,7 @@ const STRINGS = {
     cbar_he: "עברית",
     cbar_tr: "תעתיק",
     cbar_es: "תרגום",
+    footer_author: "← מאת שלמה פרץ",
     search_placeholder: "חפש מזמור לפי מספר או נושא...",
     nav_home: "בַּיִת",
     nav_list: "תְּהִלִּים",
@@ -74,6 +76,7 @@ const STRINGS = {
     cbar_he: "Hebreo",
     cbar_tr: "Translit.",
     cbar_es: "ES",
+    footer_author: "Por Shlomo Peretz →",
     search_placeholder: "Buscar salmo por número o tema...",
     nav_home: "Inicio",
     nav_list: "Todos los salmos",
@@ -108,6 +111,7 @@ const STRINGS = {
     cbar_he: "Hébreu",
     cbar_tr: "Translit.",
     cbar_es: "FR",
+    footer_author: "Par Shlomo Peretz →",
     search_placeholder: "Chercher un psaume par numéro ou thème...",
     nav_home: "Accueil",
     nav_list: "Tous les psaumes",
@@ -173,10 +177,11 @@ function applyLang() {
   set('tile-topics-icon', 'tile_topics_icon');
   set('tile-all-icon',    'tile_all_icon');
   set('tile-start-icon',  'tile_start_icon');
-  set('brand-title', 'brand_title');
-  set('brand-byline', 'brand_byline');
-  set('apoyar-title', 'apoyar_title');
-  set('apoyar-desc',  'apoyar_desc');
+  set('brand-title',   'brand_title');
+  set('brand-byline',  'brand_byline');
+  set('footer-author', 'footer_author');
+  set('apoyar-title',  'apoyar_title');
+  set('apoyar-desc',   'apoyar_desc');
 
   // Alineación general según idioma
   const isHe = currentLang === 'he';

@@ -58,7 +58,7 @@ a:hover{ text-decoration:underline; }
   max-width:var(--maxw);
   margin:0 auto;
   padding: calc(var(--pad) + 18px) var(--pad);
-  padding-bottom: calc(var(--bottombar-h) + 40px + env(safe-area-inset-bottom));
+  padding-bottom: calc(var(--bottombar-h) + 100px + env(safe-area-inset-bottom));
   direction:rtl;
   unicode-bidi:plaintext;
 }
@@ -304,7 +304,8 @@ body.is-landing .controls-bar { display: none; }
 /* Footer autor */
 .site-footer {
   text-align: center;
-  padding: 1.2rem var(--pad) 0.4rem;
+  padding: 1.2rem var(--pad);
+  padding-bottom: calc(var(--bottombar-h) + 1.2rem + env(safe-area-inset-bottom));
   max-width: var(--maxw);
   margin: 0 auto;
 }
@@ -768,6 +769,7 @@ nav.bottombar a.bbtn.active::before{
     --bottombar-h: 56px;
     --navmini-h: 0px;
   }
+  :root { --topbar-h: 64px; }
   .topbar-inner { gap: 8px; }
   .topbar-nav   { gap: 4px; }
   .tnav-group   { padding: 0 2px; height: 32px; }
