@@ -21,14 +21,15 @@
     <link rel="stylesheet" href="{{ "css/site.css" | relURL }}?v={{ now.Unix }}">
     <link rel="stylesheet" href="{{ "css/layout.css" | relURL }}?v={{ now.Unix }}">
     <link rel="stylesheet" href="{{ "css/tehilim.css" | relURL }}?v={{ now.Unix }}">
+    <script>(function(){try{var t=localStorage.getItem('theme');var dark=t?t==='dark':window.matchMedia('(prefers-color-scheme:dark)').matches;if(dark)document.documentElement.classList.add('dark-mode');}catch(e){}})();</script>
   </head>
   <body class="{{ if .IsHome }}is-landing{{ end }}">
     <header class="topbar">
 
-      <a href="/" class="brand">
-        <span class="brand-title" id="brand-title">Tehilim Sefardí</span>
-        <span class="brand-byline" id="brand-byline">by Shlomo Peretz</span>
-      </a>
+      <div class="brand">
+        <a href="/" class="brand-title" id="brand-title">Tehilim Sefardí</a>
+        <a href="https://shlomoperetz.com" target="_blank" rel="noopener" class="brand-byline" id="brand-byline">by Shlomo Peretz</a>
+      </div>
 
       <div class="topbar-actions">
 
@@ -59,7 +60,7 @@
               </svg>
             </button>
             <div class="tbar-sep"></div>
-            <a class="tbar-btn" href="/apoyar/" title="Apoyar el proyecto" aria-label="Donar">
+            <a class="tbar-btn" id="link-apoyar" href="/apoyar/" title="Apoyar el proyecto" aria-label="Donar">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
             </a>
           </div>
@@ -90,6 +91,10 @@
         {{ block "main" . }}{{ end }}
       </div>
     </main>
+
+    <footer class="site-footer">
+      <a href="https://shlomoperetz.com" target="_blank" rel="noopener" class="footer-author">Por Shlomo Peretz →</a>
+    </footer>
 
     <nav class="bottombar" aria-label="Navegación">
       <a class="bbtn {{ if eq .RelPermalink "/" }}active{{ end }}" href="/" id="nav-home">Inicio</a>

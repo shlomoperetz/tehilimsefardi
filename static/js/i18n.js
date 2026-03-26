@@ -259,6 +259,9 @@ function applyLang() {
   window.__uiLang = currentLang;
   if (typeof applyView === 'function') applyView();
   document.documentElement.dir  = currentLang === 'he' ? 'rtl' : 'ltr';
+  // Enlace /apoyar/ con idioma en URL
+  const apoyarLink = document.getElementById('link-apoyar');
+  if (apoyarLink) apoyarLink.href = '/apoyar/?lang=' + currentLang;
   // Grilla de salmos: flujo RTL en hebreo
   document.querySelectorAll('.tehilim-grid').forEach(el => {
     el.style.direction = currentLang === 'he' ? 'rtl' : 'ltr';
