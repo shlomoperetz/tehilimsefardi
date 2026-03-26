@@ -292,7 +292,7 @@ header.topbar {
   border:       none;
   background:   transparent;
   font-family:  var(--ui-font);
-  font-size:    12px;
+  font-size:    14px;
   font-weight:  500;
   color:        var(--muted);
   padding:      4px 10px;
@@ -786,7 +786,7 @@ nav.bottombar a.bbtn.active::before{
   .tnav-lang    { font-size: 12px; padding: 0 6px; height: 26px; }
 
   .page { padding-bottom: calc(var(--bottombar-h) + 30px + env(safe-area-inset-bottom)); }
-  nav.bottombar a.bbtn { font-size: 13px; }
+  nav.bottombar a.bbtn { font-size: 15px; }
   .nav-mini-section { font-size: 16px; padding: 0 14px; height: 52px; }
   .nav-mini-btn { width: 54px; height: 54px; font-size: 28px; }
   .sidebar { width: 280px; right: -300px; }
