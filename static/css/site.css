@@ -139,7 +139,7 @@ header.topbar {
 }
 .brand-title {
   font-family:    var(--ui-font);
-  font-size:      17px;
+  font-size:      19px;
   font-weight:    700;
   color:          var(--gold);
   letter-spacing: 0.01em;
