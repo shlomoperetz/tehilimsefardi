@@ -1,5 +1,8 @@
 const STRINGS = {
   en: {
+    home: "Home",
+    psalms: "Psalms",
+    topics: "Topics",
     landing_title: "Tehilim Sefardi",
     landing_desc: "The Psalms of David in Hebrew, Sephardic transliteration and English",
     landing_search: "Search psalm...",
@@ -178,9 +181,9 @@ function applyLang() {
     btn.classList.toggle('active-lang', btn.getAttribute('data-lang') === currentLang);
   });
   // Bottombar
-  set('nav-home',   'nav_home');
-  set('nav-psalms', 'nav_list');
-  set('nav-topics', 'tile_topics_icon');
+  set('nav-home',   'home');
+  set('nav-psalms', 'psalms');
+  set('nav-topics', 'topics');
   const bt = document.getElementById('brand-title');
   if (bt) bt.style.fontFamily = isHe ? '"Noto Serif Hebrew", serif' : '';
 
