@@ -148,42 +148,9 @@ sup.verse-num-es {
 }
 
 /* === TOPBAR === */
+/* Layout controlled by site.css; only tehilim-specific overrides here */
 header.topbar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0 max(16px, calc((100vw - var(--maxw)) / 2));
-  height: 56px;
-  background: rgba(255,255,255,0.97);
-  backdrop-filter: blur(12px);
-  border-bottom: 1px solid var(--border);
-  position: sticky;
-  top: 0;
-  z-index: 200;
   direction: ltr;
-  gap: 12px;
-}
-:root.dark-mode header.topbar {
-  background: rgba(10,10,10,0.97);
-}
-.brand {
-  display: flex;
-  flex-direction: column;
-  gap: 1px;
-  text-decoration: none;
-  flex-shrink: 0;
-}
-.brand-title {
-  font-family: var(--ui-font);
-  font-size: 17px;
-  font-weight: 600;
-  color: var(--fg);
-}
-.brand-byline {
-  font-size: 11px;
-  color: var(--muted);
-  font-family: var(--ui-font);
-  font-weight: 400;
 }
 .topbar-actions {
   display: flex;
