@@ -70,6 +70,15 @@
       </div>
     </header>
 
+    <!-- Barra de vista — oculta en landing -->
+    <div class="controls-bar" id="controlsBar">
+      <div class="cbar-inner">
+        <button class="cbar-tab tbar-toggle" id="btnHe"       onclick="toggleView('he')">Hebreo</button>
+        <button class="cbar-tab tbar-toggle" id="btnTranslit" onclick="toggleView('tr')">Translit.</button>
+        <button class="cbar-tab tbar-toggle" id="btnEs"       onclick="toggleView('es')">ES</button>
+      </div>
+    </div>
+
     <main class="main-content" id="mainContent">
       <div class="page">
         {{ block "main" . }}{{ end }}

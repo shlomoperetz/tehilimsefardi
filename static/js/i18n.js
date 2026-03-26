@@ -3,6 +3,9 @@ const STRINGS = {
     home: "Home",
     psalms: "Psalms",
     topics: "Topics",
+    cbar_he: "Hebrew",
+    cbar_tr: "Translit.",
+    cbar_es: "EN",
     landing_title: "Tehilim Sefardi",
     landing_desc: "The Psalms of David in Hebrew, Sephardic transliteration and English",
     landing_search: "Search psalm...",
@@ -34,6 +37,9 @@ const STRINGS = {
     home: "בַּיִת",
     psalms: "תְּהִלִּים",
     topics: "נוֹשְׂאִים",
+    cbar_he: "עברית",
+    cbar_tr: "תעתיק",
+    cbar_es: "תרגום",
     search_placeholder: "חפש מזמור לפי מספר או נושא...",
     nav_home: "בַּיִת",
     nav_list: "תְּהִלִּים",
@@ -65,6 +71,9 @@ const STRINGS = {
     home: "Inicio",
     psalms: "Salmos",
     topics: "Temas",
+    cbar_he: "Hebreo",
+    cbar_tr: "Translit.",
+    cbar_es: "ES",
     search_placeholder: "Buscar salmo por número o tema...",
     nav_home: "Inicio",
     nav_list: "Todos los salmos",
@@ -96,6 +105,9 @@ const STRINGS = {
     home: "Accueil",
     psalms: "Psaumes",
     topics: "Thèmes",
+    cbar_he: "Hébreu",
+    cbar_tr: "Translit.",
+    cbar_es: "FR",
     search_placeholder: "Chercher un psaume par numéro ou thème...",
     nav_home: "Accueil",
     nav_list: "Tous les psaumes",
@@ -214,10 +226,6 @@ function applyLang() {
     else if (currentLang === 'en' && titleEn) el.textContent = titleEn;
     else if (titleEs) el.textContent = titleEs;
   });
-  // Botones de vista (A, K, tr, ES/EN)
-  const btnEs = document.getElementById('btnEs');
-  if (btnEs) btnEs.textContent = currentLang === 'en' ? 'EN' : currentLang === 'fr' ? 'FR' : 'ES';
-  if (btnEs) btnEs.title = currentLang === 'en' ? 'English translation' : currentLang === 'fr' ? 'Traduction française' : 'Traducción al español';
   // Navegación single psalm
   document.querySelectorAll('.nav-list').forEach(el => el.textContent = t('nav_list'));
   document.querySelectorAll('.nav-prev').forEach(el => {
@@ -227,13 +235,13 @@ function applyLang() {
     el.textContent = t('next') + ' ' + el.dataset.num + ' →';
   });
 
-  // Botones de vista
+  // Botones de vista (barra de controles)
   const bCantil   = document.getElementById('btnHe');
   const bTranslit = document.getElementById('btnTranslit');
   const bEs       = document.getElementById('btnEs');
-  if (bCantil)   bCantil.title   = t('title_cantil');
-  if (bTranslit) bTranslit.title = t('title_translit');
-  if (bEs)       bEs.title       = t('title_es');
+  if (bCantil)   { bCantil.textContent   = t('cbar_he');  bCantil.title   = t('title_cantil'); }
+  if (bTranslit) { bTranslit.textContent = t('cbar_tr');  bTranslit.title = t('title_translit'); }
+  if (bEs)       { bEs.textContent       = t('cbar_es');  bEs.title       = t('title_es'); }
 
   // Botón de idioma
 
