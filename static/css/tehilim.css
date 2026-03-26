@@ -147,11 +147,6 @@ sup.verse-num-es {
   
 }
 
-/* === TOPBAR === */
-/* Layout controlled by site.css; only tehilim-specific overrides here */
-header.topbar {
-  direction: ltr;
-}
 .topbar-actions {
   display: flex;
   align-items: center;
@@ -406,675 +401,138 @@ body.is-landing .text-controls {
   pointer-events: none;
 }
 
-/* === LANDING: centrado perfecto === */
+/* ============================================
+   LANDING PAGE
+   ============================================ */
 .landing-wrap {
-  min-height: calc(100vh - 130px);
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: center;
-  text-align: left;
-  padding: 2em 1.5em 5em;
+  max-width: var(--maxw);
+  margin:    0 auto;
+  padding:   2em var(--pad) 5em;
   direction: ltr;
-  gap: 0;
-}
-.landing-title {
-  font-size: clamp(2.4em, 7vw, 3.8em);
-  font-weight: 700;
-  font-family: var(--ui-font);
-  color: var(--fg);
-  letter-spacing: -0.02em;
-  line-height: 1.1;
-  margin-bottom: 0.25em;
-}
-.landing-subtitle {
-  font-size: 0.95em;
-  color: var(--muted);
-  font-family: var(--ui-font);
-  letter-spacing: 0.06em;
-  margin-bottom: 2em;
-}
-.landing-enter {
-  display: inline-block;
-  background: var(--accent);
-  color: #fff;
-  font-family: var(--ui-font);
-  font-size: 1.15em;
-  font-weight: 700;
-  padding: 0.8em 2.2em;
-  border-radius: 14px;
-  text-decoration: none;
-  transition: opacity 0.15s, transform 0.15s;
-  margin-bottom: 1.8em;
-  letter-spacing: 0.01em;
-}
-.landing-enter:hover {
-  opacity: 0.88;
-  transform: translateY(-2px);
-}
-.landing-nav {
-  display: flex;
-  gap: 2.5em;
-}
-.landing-nav a {
-  font-family: var(--ui-font);
-  font-size: 0.95em;
-  color: var(--muted);
-  text-decoration: none;
-  transition: color 0.15s;
-}
-.landing-nav a:hover { color: var(--accent); }
-
-/* === 3 OPCIONES ACTIVAS: transliteración bien integrada === */
-
-
-
-/* === LANDING SALMO DEL DÍA === */
-.landing-wrap {
-  min-height: calc(100vh - 130px);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: 2em 1em 5em;
-  gap: 0;
 }
 
-/* Título hebreo grande arriba */
-.landing-top {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-bottom: 2.5em;
-  gap: 0.4em;
+/* Intro: big Hebrew title centered like birkat */
+.landing-intro {
+  text-align:    center;
+  padding:       2rem 0 2rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
 }
-.landing-book {
-  font-family: var(--he-font);
-  font-size: clamp(1.6em, 4vw, 2.4em);
-  font-weight: 300;
-  color: var(--fg);
-  opacity: 0.25;
-  letter-spacing: 0.05em;
-  line-height: 1;
+
+.landing-he-title {
+  font-family:    var(--he-font);
+  font-size:      3em;
+  font-weight:    700;
+  color:          var(--gold);
+  direction:      rtl;
+  letter-spacing: 0.02em;
+  line-height:    1.2;
+  margin-bottom:  0.5rem;
 }
-.landing-day-label {
-  font-family: var(--ui-font);
-  font-size: 0.72em;
+
+.landing-main-title {
+  font-family:    var(--ui-font);
+  font-size:      0.62em;
+  font-weight:    600;
   letter-spacing: 0.18em;
   text-transform: uppercase;
-  color: var(--muted);
-  opacity: 0.5;
+  color:          var(--muted);
+  margin:         0 0 0.4rem;
 }
 
-/* Tarjeta del salmo */
-.landing-psalm {
-  width: 100%;
-  max-width: 560px;
-}
-.landing-psalm-link {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-decoration: none;
-  color: var(--fg);
-  padding: 2.5em 2em;
-  border: 1px solid var(--border);
-  border-radius: 18px;
-  transition: border-color 0.2s, box-shadow 0.2s;
-  gap: 0.6em;
-  text-align: left;
-}
-.landing-psalm-link:hover {
-  border-color: rgba(212,175,55,0.4);
-  box-shadow: 0 4px 24px rgba(212,175,55,0.08);
-}
-.landing-psalm-num {
-  font-family: var(--ui-font);
-  font-size: 0.75em;
-  font-weight: 700;
-  color: var(--accent);
-  letter-spacing: 0.1em;
-  margin-bottom: 0.2em;
-}
-.landing-psalm-title-he {
-  font-family: var(--he-font);
-  font-size: 1.4em;
-  font-weight: 400;
-  color: var(--fg);
-  line-height: 1.4;
-}
-.landing-psalm-title-es {
-  font-family: var(--ui-font);
-  font-size: 0.78em;
-  color: var(--muted);
-  letter-spacing: 0.04em;
-  margin-bottom: 0.8em;
-}
-.landing-verse-he {
-  font-family: var(--he-font);
-  font-size: clamp(1em, 2.5vw, 1.3em);
-  line-height: 1.8;
-  color: var(--fg);
-  opacity: 0.85;
-  margin-bottom: 0.4em;
-  padding: 0 0.5em;
-}
-.landing-verse-es {
-  font-family: var(--ui-font);
-  font-size: 0.82em;
-  color: var(--muted);
-  font-style: italic;
-  line-height: 1.7;
-  max-width: 420px;
-  margin-bottom: 1em;
-}
-.landing-read {
-  font-family: var(--ui-font);
-  font-size: 0.82em;
-  color: var(--accent);
-  letter-spacing: 0.03em;
-  margin-top: 0.5em;
-  opacity: 0.8;
-}
-.landing-psalm-link:hover .landing-read {
-  opacity: 1;
-}
-
-/* Nav inferior */
-.landing-nav {
-  display: flex;
-  gap: 2.5em;
-  margin-top: 2em;
-}
-.landing-nav a {
-  font-family: var(--ui-font);
-  font-size: 0.88em;
-  color: var(--muted);
-  text-decoration: none;
-  opacity: 0.6;
-  transition: opacity 0.15s, color 0.15s;
-  letter-spacing: 0.02em;
-}
-.landing-nav a:hover {
-  opacity: 1;
-  color: var(--accent);
-}
-
-/* ============================================
-   LANDING V3 — dos bloques, flujo natural
-   ============================================ */
-.landing-wrap {
-  min-height: calc(100vh - 130px);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 3em 1.5em 5em;
-  max-width: 620px;
-  margin: 0 auto;
-  gap: 0;
-}
-
-/* --- BLOQUE IDENTIDAD --- */
-.landing-hero {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: left;
-  padding-bottom: 2.5em;
-  gap: 0.7em;
-  width: 100%;
-}
-.landing-he-title {
-  font-family: var(--he-font);
-  font-size: clamp(2em, 5vw, 3em);
-  font-weight: 300;
-  color: var(--fg);
-  opacity: 0.18;
-  line-height: 1;
-  letter-spacing: 0.08em;
-  margin-bottom: 0.1em;
-}
-.landing-main-title {
-  font-family: var(--ui-font);
-  font-size: clamp(1.7em, 4vw, 2.4em);
-  font-weight: 700;
-  color: var(--fg);
-  letter-spacing: -0.02em;
-  line-height: 1.15;
-  margin: 0;
-}
 .landing-desc {
   font-family: var(--ui-font);
-  font-size: 0.92em;
-  color: var(--muted);
-  line-height: 1.7;
-  margin: 0;
-  max-width: 420px;
-}
-.landing-cta-row {
-  display: flex;
-  align-items: center;
-  gap: 1.2em;
-  margin-top: 0.8em;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-.landing-cta-primary {
-  font-family: var(--ui-font);
-  font-size: 0.95em;
-  font-weight: 600;
-  color: #fff;
-  background: var(--accent);
-  padding: 0.65em 1.6em;
-  border-radius: 10px;
-  text-decoration: none;
-  transition: opacity 0.15s, transform 0.15s;
-  letter-spacing: 0.01em;
-}
-.landing-cta-primary:hover {
-  opacity: 0.85;
-  transform: translateY(-1px);
-}
-.landing-cta-secondary {
-  font-family: var(--ui-font);
-  font-size: 0.88em;
-  color: var(--muted);
-  text-decoration: none;
-  opacity: 0.6;
-  transition: opacity 0.15s;
-  letter-spacing: 0.01em;
-}
-.landing-cta-secondary:hover { opacity: 1; }
-
-/* --- DIVISOR --- */
-.landing-divider {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  gap: 1em;
-  margin: 0.5em 0 2em;
-}
-.landing-divider::before,
-.landing-divider::after {
-  content: '';
-  flex: 1;
-  height: 1px;
-  background: var(--border);
-}
-.landing-divider span {
-  font-family: var(--ui-font);
-  font-size: 0.7em;
-  letter-spacing: 0.15em;
-  text-transform: uppercase;
-  color: var(--muted);
-  opacity: 0.5;
-  white-space: nowrap;
+  font-size:   0.58em;
+  color:       var(--muted);
+  opacity:     0.6;
 }
 
-/* --- SALMO DEL DÍA --- */
-.landing-daily {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: left;
-  text-decoration: none;
-  color: var(--fg);
-  width: 100%;
-  gap: 0.8em;
-  padding: 1.5em;
-  border-radius: 14px;
-  transition: background 0.15s;
-}
-.landing-daily:hover {
-  background: rgba(212,175,55,0.04);
-}
-.landing-daily-meta {
-  display: flex;
-  align-items: center;
-  gap: 0.8em;
-}
-.landing-daily-num {
-  font-family: var(--ui-font);
-  font-size: 0.75em;
-  font-weight: 700;
-  color: var(--accent);
-  letter-spacing: 0.08em;
-}
-.landing-daily-title-es {
-  font-family: var(--ui-font);
-  font-size: 0.8em;
-  color: var(--muted);
-  font-style: italic;
-}
-.landing-daily-he {
-  font-family: var(--he-font);
-  font-size: clamp(1.1em, 3vw, 1.5em);
-  font-weight: 400;
-  line-height: 1.8;
-  color: var(--fg);
-  opacity: 0.9;
-  max-width: 500px;
-}
-.landing-daily-es {
-  font-family: var(--ui-font);
-  font-size: 0.85em;
-  color: var(--muted);
-  font-style: italic;
-  line-height: 1.7;
-  max-width: 420px;
-}
-.landing-daily-link {
-  font-family: var(--ui-font);
-  font-size: 0.8em;
-  color: var(--accent);
-  opacity: 0.7;
-  margin-top: 0.4em;
-  transition: opacity 0.15s;
-}
-.landing-daily:hover .landing-daily-link { opacity: 1; }
-
-/* ============================================
-   LANDING V4 — panel funcional
-   ============================================ */
-.landing-wrap {
-  max-width: 600px;
-  margin: 0 auto;
-  padding: 2em 1.2em 5em;
-  display: flex;
-  flex-direction: column;
-  gap: 1.4em;
-}
-
-/* Cabecera compact */
-.landing-head {
-  text-align: left;
-  padding-top: 0.5em;
-}
-.landing-main-title {
-  font-family: var(--ui-font);
-  font-size: 1.4em;
-  font-weight: 700;
-  color: var(--fg);
-  margin: 0 0 0.2em;
-  letter-spacing: -0.01em;
-}
-.landing-desc {
-  font-family: var(--ui-font);
-  font-size: 0.82em;
-  color: var(--muted);
-  margin: 0;
-  line-height: 1.5;
-  opacity: 0.7;
-}
-
-/* Búsqueda */
+/* Search bar */
 .landing-search {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: 0.85em 1.1em;
-  border: 1.5px solid var(--border);
-  border-radius: 12px;
-  cursor: pointer;
-  transition: border-color 0.15s, box-shadow 0.15s;
-  background: rgba(128,128,128,0.03);
+  display:       flex;
+  align-items:   center;
+  gap:           10px;
+  border:        1px solid var(--border);
+  border-radius: 10px;
+  padding:       12px 16px;
+  margin-bottom: 1.2rem;
+  cursor:        pointer;
+  transition:    border-color .15s, box-shadow .15s;
+  background:    rgba(128,128,128,.03);
 }
 .landing-search:hover {
-  border-color: rgba(212,175,55,0.4);
-  box-shadow: 0 2px 12px rgba(212,175,55,0.08);
+  border-color: rgba(212,175,55,.4);
+  box-shadow:   0 2px 12px rgba(212,175,55,.08);
 }
 .landing-search span {
   font-family: var(--ui-font);
-  font-size: 0.9em;
-  color: var(--muted);
-  opacity: 0.5;
+  font-size:   0.6em;
+  color:       var(--muted);
+  opacity:     0.55;
 }
 
 /* Tiles 2x2 */
 .landing-tiles {
-  display: grid;
+  display:               grid;
   grid-template-columns: 1fr 1fr;
-  gap: 10px;
+  gap:                   10px;
 }
+
 .landing-tile {
-  display: flex;
-  flex-direction: column;
-  gap: 0.3em;
-  padding: 1.1em 1em;
-  border: 1px solid var(--border);
-  border-radius: 14px;
+  display:         flex;
+  flex-direction:  column;
+  gap:             4px;
+  padding:         1.1em 1em;
+  border:          1px solid var(--border);
+  border-radius:   14px;
   text-decoration: none;
-  color: var(--fg);
-  transition: border-color 0.15s, background 0.15s, transform 0.12s;
-  min-height: 90px;
+  color:           var(--fg);
+  transition:      border-color .15s, box-shadow .15s, background .15s;
 }
 .landing-tile:hover {
-  border-color: rgba(212,175,55,0.35);
-  background: rgba(212,175,55,0.04);
-  transform: translateY(-1px);
-}
-.landing-tile-day {
-  border-color: rgba(212,175,55,0.25);
-  background: rgba(212,175,55,0.04);
-}
-.tile-icon {
-  font-family: var(--he-font);
-  font-size: 1.1em;
-  opacity: 0.5;
-  line-height: 1;
-}
-.tile-icon-es {
-  font-family: var(--ui-font);
-  font-size: 1em;
-  font-weight: 700;
-  color: var(--accent);
-  line-height: 1;
-}
-.tile-label {
-  font-family: var(--ui-font);
-  font-size: 0.85em;
-  font-weight: 600;
-  color: var(--fg);
-  line-height: 1.3;
-}
-.tile-sub {
-  font-family: var(--ui-font);
-  font-size: 0.72em;
-  color: var(--muted);
-  opacity: 0.6;
-  line-height: 1.3;
-}
-
-/* Preview verso del día */
-.landing-verse-preview {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: left;
+  border-color: rgba(212,175,55,.35);
+  box-shadow:   0 4px 20px rgba(212,175,55,.08);
+  background:   rgba(212,175,55,.03);
   text-decoration: none;
-  color: var(--fg);
-  gap: 0.7em;
-  padding: 1.2em 0.5em;
 }
-.landing-verse-divider {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  gap: 1em;
-}
-.landing-verse-divider::before,
-.landing-verse-divider::after {
-  content: '';
-  flex: 1;
-  height: 1px;
-  background: var(--border);
-}
-.landing-verse-divider span {
-  font-family: var(--ui-font);
-  font-size: 0.68em;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--muted);
-  opacity: 0.45;
-  white-space: nowrap;
-}
-.lvp-he {
+
+.tile-icon {
   font-family: var(--he-font);
-  font-size: clamp(1em, 2.8vw, 1.35em);
-  line-height: 1.8;
-  opacity: 0.85;
+  font-size:   1.05em;
+  color:       var(--gold);
+  direction:   rtl;
+  line-height: 1.3;
 }
-.lvp-es {
+.tile-icon-es {
   font-family: var(--ui-font);
-  font-size: 0.83em;
-  color: var(--muted);
-  font-style: italic;
-  line-height: 1.7;
-  max-width: 400px;
+  font-size:   0.85em;
+  font-weight: 700;
+  color:       var(--gold);
+  letter-spacing: 0.02em;
 }
-.lvp-link {
+.tile-label {
   font-family: var(--ui-font);
-  font-size: 0.78em;
-  color: var(--accent);
-  opacity: 0.6;
-  transition: opacity 0.15s;
-  margin-top: 0.2em;
+  font-size:   0.6em;
+  font-weight: 600;
+  color:       var(--fg);
+  line-height: 1.3;
 }
-.landing-verse-preview:hover .lvp-link { opacity: 1; }
+.tile-sub {
+  font-family: var(--ui-font);
+  font-size:   0.52em;
+  color:       var(--muted);
+  opacity:     0.6;
+  line-height: 1.3;
+}
+.landing-tile-day {
+  background: rgba(212,175,55,.05);
+  border-color: rgba(212,175,55,.2);
+}
 
-/* === LANDING: título más pequeño, tiles primero en móvil === */
-.landing-wrap {
-  padding-top: 1.2em !important;
-  gap: 1em !important;
-}
-.landing-head {
-  padding-top: 0 !important;
-}
-.landing-main-title {
-  font-size: 1em !important;
-  font-weight: 600 !important;
-  opacity: 0.5;
-}
-.landing-desc {
-  font-size: 0.75em !important;
-  opacity: 0.4 !important;
-}
-@media (max-width: 640px) {
-  .landing-wrap {
-    padding-top: 0.8em !important;
-    gap: 0.9em !important;
-  }
-  .landing-head {
-    order: 3;
-    margin-top: 0.5em;
-  }
-  .landing-search {
-    order: 1;
-  }
+@media (max-width: 400px) {
   .landing-tiles {
-    order: 2;
+    grid-template-columns: 1fr;
   }
-  .landing-verse-preview {
-    order: 4;
-  }
-}
-
-/* === FIX: estado inicial cantilaciones === */
-
-/* === LANDING: más contraste, búsqueda más fina === */
-.landing-main-title {
-  color: var(--fg) !important;
-  opacity: 0.8 !important;
-}
-.landing-desc {
-  opacity: 0.5 !important;
-}
-
-/* Búsqueda más fina */
-.landing-search {
-  padding: 0.65em 1em !important;
-  border-radius: 10px !important;
-}
-
-/* Tiles con más presencia */
-.landing-tile {
-  border: 1.5px solid rgba(128,128,128,0.15) !important;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
-}
-.landing-tile-day {
-  border-color: rgba(212,175,55,0.45) !important;
-  background: rgba(212,175,55,0.07) !important;
-}
-.tile-label {
-  font-size: 0.9em !important;
-  font-weight: 700 !important;
-  color: var(--fg) !important;
-  opacity: 1 !important;
-}
-.tile-sub {
-  opacity: 0.55 !important;
-}
-.tile-icon {
-  color: var(--accent) !important;
-  opacity: 0.7 !important;
-}
-.landing-cta-primary,
-.tile-icon-es {
-  color: var(--accent) !important;
-  font-weight: 800 !important;
-}
-
-/* Tiles 1 y 3 con acento dorado suave */
-.landing-tile:nth-child(odd) {
-  border-color: rgba(212,175,55,0.2) !important;
-}
-
-/* === LANDING: más contraste, búsqueda más fina === */
-.landing-main-title {
-  color: var(--fg) !important;
-  opacity: 0.8 !important;
-}
-.landing-desc {
-  opacity: 0.5 !important;
-}
-
-/* Búsqueda más fina */
-.landing-search {
-  padding: 0.65em 1em !important;
-  border-radius: 10px !important;
-}
-
-/* Tiles con más presencia */
-.landing-tile {
-  border: 1.5px solid rgba(128,128,128,0.15) !important;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
-}
-.landing-tile-day {
-  border-color: rgba(212,175,55,0.45) !important;
-  background: rgba(212,175,55,0.07) !important;
-}
-.tile-label {
-  font-size: 0.9em !important;
-  font-weight: 700 !important;
-  color: var(--fg) !important;
-  opacity: 1 !important;
-}
-.tile-sub {
-  opacity: 0.55 !important;
-}
-.tile-icon {
-  color: var(--accent) !important;
-  opacity: 0.7 !important;
-}
-.landing-cta-primary,
-.tile-icon-es {
-  color: var(--accent) !important;
-  font-weight: 800 !important;
-}
-
-/* Tiles 1 y 3 con acento dorado suave */
-.landing-tile:nth-child(odd) {
-  border-color: rgba(212,175,55,0.2) !important;
 }
 
 /* === Brand title en dorado === */

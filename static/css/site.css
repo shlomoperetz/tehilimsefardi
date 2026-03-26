@@ -114,6 +114,7 @@ header.topbar {
   -webkit-backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--border);
   box-sizing:  border-box;
+  direction:   ltr;
 }
 
 .dark-mode header.topbar { background: rgba(26,26,26,.96); }
@@ -126,6 +127,7 @@ header.topbar {
   display:     flex;
   align-items: center;
   gap:         16px;
+  direction:   ltr;
 }
 
 .brand {
@@ -263,6 +265,7 @@ header.topbar {
   background:    var(--bg);
   border-bottom: 1px solid var(--border);
   box-sizing:    border-box;
+  direction:     ltr;
 }
 .dark-mode .controls-bar { background: var(--bg); }
 
@@ -276,6 +279,7 @@ header.topbar {
   gap:         4px;
   overflow-x:  auto;
   scrollbar-width: none;
+  direction:   ltr;
 }
 .cbar-inner::-webkit-scrollbar { display: none; }
 
@@ -765,11 +769,11 @@ nav.bottombar a.bbtn.active::before{
   :root{
     --pad: 16px;
     --font: 24px;
-    --topbar-h: 52px;
+    --topbar-h: 72px;
     --bottombar-h: 56px;
     --navmini-h: 0px;
   }
-  :root { --topbar-h: 64px; }
+  :root { --topbar-h: 72px; }
   .topbar-inner { gap: 8px; }
   .topbar-nav   { gap: 4px; }
   .tnav-group   { padding: 0 2px; height: 32px; }
