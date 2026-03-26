@@ -39,13 +39,14 @@
   --border: rgba(180,155,90,.16);
 }
 
-html,body{height:100%; scroll-behavior: smooth;}
+html{font-size:var(--font); scroll-behavior: smooth;}
+html,body{height:100%;}
 body{
   margin:0;
   background:var(--bg);
   color:var(--fg);
   font-family:var(--he-font);
-  font-size:var(--font);
+  font-size:1rem;
   line-height:var(--line);
   text-rendering:optimizeLegibility;
   -webkit-text-size-adjust:100%;
