@@ -431,13 +431,14 @@ body.is-landing .text-controls {
 }
 
 .landing-main-title {
-  font-family:    var(--ui-font);
-  font-size:      0.62em;
-  font-weight:    600;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color:          var(--muted);
-  margin:         0 0 0.4rem;
+  font-family:    var(--he-font);
+  font-size:      clamp(2.4em, 7vw, 3.8em);
+  font-weight:    700;
+  letter-spacing: 0;
+  text-transform: none;
+  color:          var(--gold);
+  margin:         0 0 0.3em;
+  line-height:    1.15;
 }
 
 .landing-desc {
