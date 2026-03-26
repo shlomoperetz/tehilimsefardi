@@ -7,7 +7,7 @@
   --link:#0b57d0;
   --maxw: 720px;
   --pad: 20px;
-  --font: 20px;
+  --font: 22px;
   --line: 1.9;
   --he-font: "Noto Serif Hebrew", Georgia, serif;
   --ui-font: "Assistant", system-ui, sans-serif;
@@ -772,7 +772,7 @@ nav.bottombar a.bbtn.active::before{
 @media (max-width:520px){
   :root{
     --pad: 16px;
-    --font: 18px;
+    --font: 20px;
     --topbar-h: 72px;
     --bottombar-h: 56px;
     --navmini-h: 0px;
