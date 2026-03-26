@@ -264,9 +264,7 @@ function applyLang() {
   // Título landing: fuente y tamaño según idioma
   const title = document.getElementById('landing-title');
   if (title) {
-    title.style.fontFamily = currentLang === 'he'
-      ? '"Noto Serif Hebrew", serif'
-      : '"Assistant", "Segoe UI", sans-serif';
+    title.style.fontFamily = '"Noto Serif Hebrew", serif';
     title.style.fontSize = currentLang === 'he' ? '2em' : '2.4em';
   }
 
