@@ -166,12 +166,14 @@ header.topbar {
   font-weight:    600;
   color:          var(--muted);
   background:     transparent;
-  border:         none;
-  padding:        0 4px;
+  border:         1px solid var(--border);
+  border-radius:  6px;
+  padding:        0 8px;
+  height:         28px;
   cursor:         pointer;
   -webkit-tap-highlight-color: transparent;
 }
-.tnav-lang:hover { color: var(--fg); }
+.tnav-lang:hover { color: var(--fg); border-color: rgba(128,128,128,.35); }
 
 .tnav-group {
   display:       flex;
