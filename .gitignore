@@ -4,3 +4,8 @@ public/
 *.backup*
 *.bak*
 *.save*
+# Archivos locales que no pertenecen al repo
+Captura*.png
+WhatsApp*.jpeg
+WhatsApp*.jpg
+*.py
