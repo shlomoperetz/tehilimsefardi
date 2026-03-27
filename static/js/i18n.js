@@ -267,7 +267,7 @@ function applyLang() {
   const title = document.getElementById('landing-title');
   if (title) {
     title.style.fontFamily = '"Noto Serif Hebrew", serif';
-    title.style.fontSize = '28px';
+    title.style.fontSize = '35px';
   }
 
   // Dirección del documento
