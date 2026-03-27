@@ -1382,7 +1382,7 @@ body.mode-yachid [data-minyan="true"] { display: none; }
 
 .landing-title {
   font-family: var(--he-font);
-  font-size: 1.6em;
+  font-size: 1.3em;
   font-weight: 700;
   color: var(--fg);
   letter-spacing: 0.04em;
@@ -1514,7 +1514,7 @@ body.mode-yachid [data-minyan="true"] { display: none; }
 /* ── Responsive ── */
 @media (max-width: 520px) {
   .landing { gap: 2.5rem; }
-  .landing-title { font-size: 1.4em; }
+  .landing-title { font-size: 1.15em; }
   .landing-enter { font-size: 1.4em; padding: 12px 28px; }
 }
 /* ========================================
