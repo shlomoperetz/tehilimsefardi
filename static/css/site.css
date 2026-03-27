@@ -1390,11 +1390,11 @@ body.mode-yachid [data-minyan="true"] { display: none; }
 }
 
 .landing-subtitle {
-  font-family: var(--he-font);
-  font-size: 0.9em;
-  color: var(--muted);
-  opacity: 0.6;
-  letter-spacing: 0.1em;
+  font-family:    var(--ui-font);
+  font-size:      11px;
+  color:          var(--muted);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
 }
 
 /* ── Bloque "ahora" ── */
