@@ -138,7 +138,7 @@ header.topbar {
 .brand {
   display:        flex;
   flex-direction: column;
-  gap:            3px;
+  gap:            5px;
   line-height:    1;
   flex-shrink:    0;
 }
@@ -177,9 +177,7 @@ header.topbar {
   color:          var(--muted);
   background:     transparent;
   border:         none;
-  border-radius:  6px;
-  padding:        0 8px;
-  height:         28px;
+  padding:        0 4px;
   cursor:         pointer;
   -webkit-tap-highlight-color: transparent;
 }
@@ -318,7 +316,7 @@ body.is-landing .controls-bar { display: none; }
   padding-bottom: calc(var(--bottombar-h) + 1.5rem + env(safe-area-inset-bottom));
   text-align:  center;
   font-family: var(--ui-font);
-  font-size:   11px;
+  font-size:   0.62rem;
   color:       var(--muted);
   opacity:     .6;
   line-height: 2;
@@ -785,13 +783,7 @@ nav.bottombar a.bbtn.active::before{
     --bottombar-h: 56px;
     --navmini-h: 0px;
   }
-  :root { --topbar-h: 72px; }
-  .topbar-inner { gap: 8px; }
-  .topbar-nav   { gap: 4px; }
-  .tnav-group   { padding: 0 2px; height: 32px; }
-  .tnav-btn     { min-width: 26px; padding: 0 6px; height: 28px; font-size: 12px; }
   .tnav-btn svg { width: 13px; height: 13px; }
-  .tnav-lang    { font-size: 12px; padding: 0 6px; height: 26px; }
 
   .page { padding-bottom: calc(var(--bottombar-h) + 30px + env(safe-area-inset-bottom)); }
   nav.bottombar a.bbtn { font-size: 15px; }

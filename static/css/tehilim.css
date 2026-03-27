@@ -415,7 +415,7 @@ body.is-landing .text-controls {
 
 .landing-he-title {
   font-family:    var(--he-font);
-  font-size:      3em;
+  font-size:      35px;
   font-weight:    700;
   color:          var(--gold);
   direction:      rtl;
