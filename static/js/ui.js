@@ -1,6 +1,6 @@
 // Siddur Sefardi UI v4 - Bottom Sheet Navigation
 
-let fontSize = 21;
+let fontSize = 20;
 let sidebarFontSize = 18;
 let lastScroll = 0;
 const SCROLL_THRESHOLD = 100;
