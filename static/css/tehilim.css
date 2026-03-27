@@ -4,11 +4,6 @@
    ============================================ */
 
 /* === VARIABLES === */
-:root {
-  --accent: #d4af37;
-  --accent-soft: rgba(212,175,55,0.15);
-  --border: rgba(128,128,128,0.1);
-}
 
 /* === GRID DE SALMOS === */
 .tehilim-grid {
@@ -31,13 +26,13 @@
   transition: background 0.15s, border-color 0.15s;
 }
 .tehilim-item:hover {
-  background: var(--accent-soft);
+  background: var(--gold-light);
   border-color: rgba(212,175,55,0.3);
 }
 .tehilim-num {
   font-size: 1.1em;
   font-weight: 700;
-  color: var(--accent);
+  color: var(--gold);
   font-family: var(--ui-font);
 }
 .tehilim-name {
@@ -66,8 +61,8 @@
   width: 36px;
   height: 36px;
   border-radius: 50%;
-  background: var(--accent-soft);
-  color: var(--accent);
+  background: var(--gold-light);
+  color: var(--gold);
   font-size: 0.85em;
   font-weight: 700;
   font-family: var(--ui-font);
@@ -121,7 +116,7 @@ h1.title {
 /* Número de verso superíndice */
 sup.verse-num {
   font-size: 0.5em;
-  color: var(--accent);
+  color: var(--gold);
   font-weight: 700;
   vertical-align: super;
   margin-inline-end: 3px;
@@ -205,8 +200,8 @@ body.is-landing #ddView {
 }
 /* Activo: dorado destacado */
 .tbar-toggle.active {
-  background: var(--accent-soft);
-  color: var(--accent);
+  background: var(--gold-light);
+  color: var(--gold);
   opacity: 1;
   box-shadow: inset 0 0 0 1.5px rgba(212,175,55,0.35);
 }
@@ -252,7 +247,7 @@ body.is-landing #ddView {
   border-radius: 6px;
   text-align: left;
 }
-.font-popover button:hover { background: var(--accent-soft); }
+.font-popover button:hover { background: var(--gold-light); }
 
 /* === BÚSQUEDA === */
 #searchOverlay {
@@ -312,11 +307,11 @@ body.is-landing #ddView {
   text-decoration: none;
   color: var(--fg);
 }
-.search-result-item:hover { background: var(--accent-soft); }
+.search-result-item:hover { background: var(--gold-light); }
 .search-result-num {
   font-size: 13px;
   font-weight: 700;
-  color: var(--accent);
+  color: var(--gold);
   min-width: 28px;
 }
 .search-result-title { font-size: 15px; }
@@ -327,7 +322,7 @@ nav.bottombar {
   align-items: center;
   justify-content: space-around;
   height: 60px;
-  background: rgba(255,255,255,0.97);
+  background: color-mix(in srgb, var(--bg) 95%, transparent);
   backdrop-filter: blur(12px);
   border-top: 1px solid var(--border);
   padding-bottom: env(safe-area-inset-bottom);
@@ -339,7 +334,7 @@ nav.bottombar {
   direction: ltr;
 }
 :root.dark-mode nav.bottombar {
-  background: rgba(10,10,10,0.97);
+  background: color-mix(in srgb, var(--bg) 95%, transparent);
 }
 nav.bottombar .bbtn {
   font-family: var(--ui-font);
@@ -358,7 +353,7 @@ nav.bottombar .bbtn.active {
   color: var(--fg);
   font-weight: 600;
   opacity: 1;
-  border-bottom: 2px solid var(--accent);
+  border-bottom: 2px solid var(--gold);
   border-radius: 0;
 }
 
@@ -375,13 +370,13 @@ nav.bottombar .bbtn.active {
   font-size: 0.85em;
 }
 .tehilim-nav a {
-  color: var(--accent);
+  color: var(--gold);
   text-decoration: none;
   padding: 6px 12px;
   border-radius: 8px;
   transition: background 0.15s;
 }
-.tehilim-nav a:hover { background: var(--accent-soft); }
+.tehilim-nav a:hover { background: var(--gold-light); }
 
 /* === SIGNOS ESPAÑOLES LTR === */
 .tehilim-name,
@@ -537,7 +532,7 @@ h1.landing-main-title {
 
 /* === Brand title en dorado === */
 .brand-title {
-  color: var(--accent) !important;
+  color: var(--gold) !important;
 }
 
 
@@ -555,7 +550,7 @@ h1.landing-main-title {
 .psalm-number {
   font-family: var(--ui-font);
   font-size: 0.85em;
-  color: var(--accent);
+  color: var(--gold);
   opacity: 0.7;
   margin-bottom: 0.3em;
 }
@@ -582,7 +577,7 @@ body.show-es-only .psalm-title-es { display: block; }
 
 
 .psalm-header { text-align: center; margin: 0.5em 0 1.5em; }
-.psalm-number-big { font-size: 2.5em; font-weight: 700; color: var(--accent); line-height: 1; }
+.psalm-number-big { font-size: 2.5em; font-weight: 700; color: var(--gold); line-height: 1; }
 .psalm-subtitle { font-size: 0.85em; color: var(--muted); margin-top: 0.3em; font-style: italic; }
 
 /* === TOPBAR MÓVIL — dropdowns === */
@@ -626,8 +621,8 @@ body.show-es-only .psalm-title-es { display: block; }
   }
 
   .dd-panel .tbar-toggle.active {
-    background: var(--accent-soft);
-    color: var(--accent);
+    background: var(--gold-light);
+    color: var(--gold);
   }
 
   /* Sep en dropdown: línea horizontal */
