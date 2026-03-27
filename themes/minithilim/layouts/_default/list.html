@@ -9,7 +9,8 @@
       <span class="tehilim-name"
         data-title-he="{{ .Title }}"
         data-title-es="{{ if $data }}{{ $data.title_es }}{{ else }}Salmo {{ .Params.number }}{{ end }}"
-        data-title-en="{{ if $data }}{{ with $data.title_en }}{{ . }}{{ else }}{{ $data.title_es }}{{ end }}{{ else }}Psalm {{ .Params.number }}{{ end }}">
+        data-title-en="{{ if $data }}{{ with $data.title_en }}{{ . }}{{ else }}{{ $data.title_es }}{{ end }}{{ else }}Psalm {{ .Params.number }}{{ end }}"
+        data-title-fr="{{ if $data }}{{ with $data.title_fr }}{{ . }}{{ else }}{{ $data.title_es }}{{ end }}{{ else }}Psaume {{ .Params.number }}{{ end }}">
         {{ if $data }}{{ $data.title_es }}{{ else }}{{ .Title }}{{ end }}
       </span>
     </a>

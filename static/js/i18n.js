@@ -227,8 +227,10 @@ function applyLang() {
     const titleEs = el.getAttribute('data-title-es');
     const titleHe = el.getAttribute('data-title-he');
     const titleEn = el.getAttribute('data-title-en');
+    const titleFr = el.getAttribute('data-title-fr');
     if (currentLang === 'he' && titleHe) el.textContent = titleHe;
     else if (currentLang === 'en' && titleEn) el.textContent = titleEn;
+    else if (currentLang === 'fr' && titleFr) el.textContent = titleFr;
     else if (titleEs) el.textContent = titleEs;
   });
   // Navegación single psalm
@@ -286,6 +288,7 @@ function applyLangToGrid() {
   document.querySelectorAll('.tehilim-name[data-title-es]').forEach(el => {
     if (currentLang === 'he') el.textContent = el.dataset.titleHe || el.dataset.titleEs;
     else if (currentLang === 'en') el.textContent = el.dataset.titleEn || el.dataset.titleEs;
+    else if (currentLang === 'fr') el.textContent = el.dataset.titleFr || el.dataset.titleEs;
     else el.textContent = el.dataset.titleEs;
   });
 }
