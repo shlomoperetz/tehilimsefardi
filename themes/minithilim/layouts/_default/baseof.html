@@ -12,6 +12,35 @@
     <meta property="og:title" content="{{ if .Title }}{{ .Title }} | {{ end }}Tehilim Sefardí">
     <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
     <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:image" content="https://tehilimsefardi.com/img/og-tehilim.png">
+    <meta property="og:image:width" content="500">
+    <meta property="og:image:height" content="500">
+    <meta property="og:locale" content="es_ES">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ if .Title }}{{ .Title }} | {{ end }}Tehilim Sefardí">
+    <meta name="twitter:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+    <meta name="twitter:image" content="https://tehilimsefardi.com/img/og-tehilim.png">
+    <meta name="author" content="Shlomo Peretz">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Tehilim Sefardí",
+      "url": "https://tehilimsefardi.com",
+      "description": "{{ site.Params.description }}",
+      "inLanguage": ["es", "he"],
+      "author": {
+        "@type": "Person",
+        "name": "Shlomo Peretz",
+        "url": "https://shlomoperetz.com"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://tehilimsefardi.com/tehilim/",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
